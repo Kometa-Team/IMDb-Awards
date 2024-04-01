@@ -479,7 +479,7 @@
       nominee: [tt22059224, tt21194112, tt27050194, tt16986646]
       winner: [tt22059224]
     sport:
-      nominee: [tt12740018, tt12763406, tt27205423]
+      nominee: [tt12740018, tt12763406, tt3770700]
       winner: [tt12740018]
     supporting actor:
       nominee: [tt13994572, tt5875444, tt11899030, tt4786824, tt13045814, tt13406094]
@@ -2015,10 +2015,6 @@
     current affairs:
       nominee: [tt9301524]
       winner: [tt9301524]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt2381111, tt3544082, tt2870648, tt0470752, tt0810819, tt3464902]
-      winner: [tt2381111]
   david lean award for direction:
     david lean award for direction:
       nominee: [tt1663202, tt3682448, tt2402927, tt1596363, tt3659388]
@@ -2211,6 +2207,10 @@
     esports audience award:
       nominee: [tt4887384, tt4844106, tt2584348, tt2290962, tt3681558, tt2071507]
       winner: [tt4887384]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt2381111, tt3544082, tt2870648, tt0470752, tt0810819, tt3464902]
+      winner: [tt2381111]
 '2015': # https://www.imdb.com/event/ev0000123/2015/1/?ref_=ev_eh
   bafta film award:
     best film:
@@ -2276,10 +2276,6 @@
     best supporting actress:
       nominee: [tt1065073, tt2562232, tt3169706, tt2084970, tt2872718]
       winner: [tt1065073]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt2980516, tt2614684, tt1109624, tt3169706, tt2084970, tt1441395]
-      winner: [tt2980516]
   david lean award for direction:
     david lean award for direction:
       nominee: [tt1065073, tt2562232, tt2278388, tt2980516, tt2582802]
@@ -2433,6 +2429,10 @@
     game innovation:
       nominee: [tt4844692, tt13992272, tt3391132, tt3330488, tt3304506]
       winner: [tt4844692]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt2980516, tt2614684, tt1109624, tt3169706, tt2084970, tt1441395]
+      winner: [tt2980516]
 '2014': # https://www.imdb.com/event/ev0000123/2014/1/?ref_=ev_eh
   bafta film award:
     best film:
@@ -2498,17 +2498,13 @@
     current affairs:
       nominee: [tt9301444]
       winner: [tt9301444]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt1454468, tt2304771, tt2431286, tt1979320, tt2140373, tt2304426]
+  anthony asquith award for film music:
+    anthony asquith award for film music:
+      nominee: [tt1454468, tt2024544, tt1535109, tt2140373, tt0816442]
       winner: [tt1454468]
   david lean award for direction:
     david lean award for direction:
       nominee: [tt1454468, tt2024544, tt1800241, tt1535109, tt0993846]
-      winner: [tt1454468]
-  anthony asquith award for film music:
-    anthony asquith award for film music:
-      nominee: [tt1454468, tt2024544, tt1535109, tt2140373, tt0816442]
       winner: [tt1454468]
   bafta tv award:
     best leading actor:
@@ -2684,6 +2680,10 @@
     game innovation:
       nominee: [tt3130160, tt2103188, tt3618274, tt2409476, tt3252636, tt18257650]
       winner: [tt3130160]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt1454468, tt2304771, tt2431286, tt1979320, tt2140373, tt2304426]
+      winner: [tt1454468]
 '2013': # https://www.imdb.com/event/ev0000123/2013/1/?ref_=ev_eh
   bafta film award:
     best film:
@@ -2746,14 +2746,6 @@
     best original screenplay:
       nominee: [tt1853728, tt1602620, tt1748122, tt1560747, tt1790885]
       winner: [tt1853728]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt1074638, tt1781769, tt1707386, tt1931533, tt1412386]
-      winner: [tt1074638]
-  david lean award for direction:
-    best director:
-      nominee: [tt1024648, tt0454876, tt1790885, tt1602620, tt1853728]
-      winner: [tt1024648]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt1074638, tt1781769, tt1024648, tt0454876, tt0443272]
@@ -2762,6 +2754,10 @@
     flaherty documentary award:
       nominee: [tt2248152]
       winner: [tt2248152]
+  david lean award for direction:
+    best director:
+      nominee: [tt1024648, tt0454876, tt1790885, tt1602620, tt1853728]
+      winner: [tt1024648]
   bafta tv award:
     audience award (tv):
       nominee: [tt1983079]
@@ -2964,6 +2960,10 @@
     game innovation:
       nominee: [tt2461590, tt2387409, tt2777584, tt1821474, tt3358032]
       winner: [tt2461590]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt1074638, tt1781769, tt1707386, tt1931533, tt1412386]
+      winner: [tt1074638]
 '2012': # https://www.imdb.com/event/ev0000123/2012/1/?ref_=ev_eh
   bafta film award:
     best film:
@@ -3026,17 +3026,13 @@
     best original screenplay:
       nominee: [tt1655442, tt1478338, tt1605783, tt1540133, tt1007029]
       winner: [tt1655442]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt1340800, tt1655420, tt1424432, tt1723811, tt1242460]
-      winner: [tt1340800]
-  david lean award for direction:
-    best director:
-      nominee: [tt1655442, tt1242460, tt0970179, tt0780504, tt1340800]
-      winner: [tt1655442]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt1655442, tt0970179, tt1568346, tt1340800, tt1568911]
+      winner: [tt1655442]
+  david lean award for direction:
+    best director:
+      nominee: [tt1655442, tt1242460, tt0970179, tt0780504, tt1340800]
       winner: [tt1655442]
   bafta tv award:
     best make up & hair design:
@@ -3231,6 +3227,10 @@
     game innovation:
       nominee: [tt1663344, tt2040279, tt2091262, tt2330544, tt1764429, tt2090679]
       winner: [tt1663344]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt1340800, tt1655420, tt1424432, tt1723811, tt1242460]
+      winner: [tt1340800]
 '2011': # https://www.imdb.com/event/ev0000123/2011/1/?ref_=ev_eh
   bafta film award:
     best film:
@@ -3290,14 +3290,6 @@
     best supporting actress:
       nominee: [tt1504320, tt0964517, tt0947798, tt1431181, tt1371155]
       winner: [tt1504320]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt1504320, tt1542344, tt1431181, tt1341167, tt1371155]
-      winner: [tt1504320]
-  david lean award for direction:
-    best director:
-      nominee: [tt1285016, tt1375666, tt1542344, tt0947798, tt1504320]
-      winner: [tt1285016]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt1504320, tt1542344, tt1014759, tt0892769, tt1375666]
@@ -3306,6 +3298,10 @@
     best actor in a leading role:
       nominee: [tt2106711]
       winner: [tt2106711]
+  david lean award for direction:
+    best director:
+      nominee: [tt1285016, tt1375666, tt1542344, tt0947798, tt1504320]
+      winner: [tt1285016]
   bafta tv award:
     best supporting actor:
       nominee: [tt1475582, tt1606375, tt1685471, tt1548850]
@@ -3494,6 +3490,10 @@
     technical innovation:
       nominee: [tt1606610, tt1699759, tt1632479, tt1723639, tt1686901, tt1698007]
       winner: [tt1606610]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt1504320, tt1542344, tt1431181, tt1341167, tt1371155]
+      winner: [tt1504320]
 '2010': # https://www.imdb.com/event/ev0000123/2010/1/?ref_=ev_eh
   bafta film award:
     best film:
@@ -3553,18 +3553,14 @@
     outstanding debut by a british writer, director or producer:
       nominee: [tt1182345, tt1104126, tt1437235, tt1266029, tt1258197]
       winner: [tt1182345]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt1232776, tt1174732, tt1226774, tt1182345, tt1266029]
-      winner: [tt1232776]
-  david lean award for direction:
-    best director:
-      nominee: [tt0887912, tt0499549, tt1174732, tt1136608, tt0361748]
-      winner: [tt0887912]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt1049413, tt0499549, tt1263670, tt0432283, tt1393020]
       winner: [tt1049413]
+  david lean award for direction:
+    best director:
+      nominee: [tt0887912, tt0499549, tt1174732, tt1136608, tt0361748]
+      winner: [tt0887912]
   bafta tv award:
     best supporting actor:
       nominee: [tt1188927, tt1315058, tt1591585, tt1499786]
@@ -3744,6 +3740,10 @@
     best use of audio:
       nominee: [tt1349460, tt1282022, tt1450746, tt1571399, tt1852789, tt1543024]
       winner: [tt1349460]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt1232776, tt1174732, tt1226774, tt1182345, tt1266029]
+      winner: [tt1232776]
 '2009': # https://www.imdb.com/event/ev0000123/2009/1/?ref_=ev_eh
   bafta film award:
     best film:
@@ -3800,14 +3800,6 @@
     best make up & hair:
       nominee: [tt0421715, tt0870111, tt1013753, tt0468569, tt0864761]
       winner: [tt0421715]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt1155592, tt0986233, tt0780536, tt0795421, tt1010048]
-      winner: [tt1155592]
-  david lean award for direction:
-    best director:
-      nominee: [tt1010048, tt0824747, tt0421715, tt0870111, tt0976051]
-      winner: [tt1010048]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt1010048, tt0795421, tt0421715, tt0468569, tt0910970]
@@ -3816,6 +3808,10 @@
     carl foreman award for the most promising newcomer:
       nominee: [tt0986233, tt0795421, tt1155592, tt1232790, tt0845046]
       winner: [tt0986233]
+  david lean award for direction:
+    best director:
+      nominee: [tt1010048, tt0824747, tt0421715, tt0870111, tt0976051]
+      winner: [tt1010048]
   bafta tv award:
     best make up & hair design:
       nominee: [tt1076240, tt0936453, tt1178522, tt1067578]
@@ -4000,6 +3996,10 @@
     technical achievement:
       nominee: [tt3130014, tt0932936, tt1310502, tt1073664, tt0802999, tt1309457]
       winner: [tt3130014]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt1155592, tt0986233, tt0780536, tt0795421, tt1010048]
+      winner: [tt1155592]
 '2008': # https://www.imdb.com/event/ev0000123/2008/1/?ref_=ev_eh
   bafta film award:
     best film:
@@ -4059,14 +4059,6 @@
     best production design/art direction:
       nominee: [tt0450188]
       winner: []
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0480025, tt0783233, tt0421082, tt0765443, tt0440963]
-      winner: [tt0480025]
-  david lean award for direction:
-    best director:
-      nominee: [tt0477348, tt0405094, tt0783233, tt0440963, tt0469494]
-      winner: [tt0477348]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0450188, tt0765429, tt0783233, tt0419887, tt0469494]
@@ -4086,6 +4078,10 @@
     wales:
       nominee: [tt1382223]
       winner: [tt1382223]
+  david lean award for direction:
+    best director:
+      nominee: [tt0477348, tt0405094, tt0783233, tt0440963, tt0469494]
+      winner: [tt0477348]
   bafta tv award:
     best make up & hair design:
       nominee: [tt0851430, tt0974077, tt1065309, tt0384766]
@@ -4234,6 +4230,10 @@
     best writer:
       nominee: [tt1042913, tt0487813]
       winner: [tt1042913]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0480025, tt0783233, tt0421082, tt0765443, tt0440963]
+      winner: [tt0480025]
 '2007': # https://www.imdb.com/event/ev0000123/2007/1/?ref_=ev_eh
   bafta film award:
     best film:
@@ -4290,14 +4290,6 @@
     best make up & hair:
       nominee: [tt0457430, tt0422720, tt0383574, tt0458352, tt0436697]
       winner: [tt0457430]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0455590, tt0381061, tt0465551, tt0436697, tt0475276]
-      winner: [tt0455590]
-  david lean award for direction:
-    david lean award for direction:
-      nominee: [tt0475276, tt0449467, tt0449059, tt0407887, tt0436697]
-      winner: [tt0475276]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0449467, tt0381061, tt0443489, tt0366548, tt0436697]
@@ -4310,6 +4302,10 @@
     east:
       nominee: [tt6746400]
       winner: [tt6746400]
+  david lean award for direction:
+    david lean award for direction:
+      nominee: [tt0475276, tt0449467, tt0449059, tt0407887, tt0436697]
+      winner: [tt0475276]
   bafta tv award:
     best make up & hair design:
       nominee: [tt0780362, tt0906016, tt0913394, tt0441051]
@@ -4485,6 +4481,10 @@
     technical achievement:
       nominee: [tt0846694, tt0995064, tt0823463, tt0891539, tt0884870, tt1000777]
       winner: [tt0846694]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0455590, tt0381061, tt0465551, tt0436697, tt0475276]
+      winner: [tt0455590]
 '2006': # https://www.imdb.com/event/ev0000123/2006/1/?ref_=ev_eh
   bafta film award:
     best film:
@@ -4538,14 +4538,6 @@
     best performance by an actress in a leading role:
       nominee: [tt0358273, tt0395972, tt0413015, tt0387131, tt0397535]
       winner: [tt0358273]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0312004, tt0468736, tt0414387, tt0387131, tt0423409]
-      winner: [tt0312004]
-  david lean award for direction:
-    david lean award for direction:
-      nominee: [tt0388795, tt0379725, tt0375679, tt0433383, tt0387131]
-      winner: [tt0388795]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0397535, tt0388795, tt0413015, tt0387131, tt0358273]
@@ -4554,6 +4546,10 @@
     carl foreman award for the most promising newcomer:
       nominee: [tt0414387, tt0430065, tt0468736, tt0420901, tt0468565]
       winner: [tt0414387]
+  david lean award for direction:
+    david lean award for direction:
+      nominee: [tt0388795, tt0379725, tt0375679, tt0433383, tt0387131]
+      winner: [tt0388795]
   bafta tv award:
     best actor:
       nominee: [tt0449030, tt0473719, tt0442632, tt1062205]
@@ -4745,6 +4741,10 @@
     technical achievement:
       nominee: [tt0492457, tt0437850, tt0791620, tt0940856, tt0888505, tt0486673]
       winner: [tt0492457]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0312004, tt0468736, tt0414387, tt0387131, tt0423409]
+      winner: [tt0312004]
 '2005': # https://www.imdb.com/event/ev0000123/2005/1/?ref_=ev_eh
   bafta film award:
     best film:
@@ -4798,14 +4798,6 @@
     best screenplay - original:
       nominee: [tt0338013, tt0369339, tt0350258, tt0338751, tt0383694]
       winner: [tt0338013]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0382189, tt0419677, tt0304141, tt0365748, tt0383694]
-      winner: [tt0382189]
-  david lean award for direction:
-    david lean award for direction:
-      nominee: [tt0383694, tt0369339, tt0338013, tt0308644, tt0338751]
-      winner: [tt0383694]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0318462, tt0308644, tt0350258, tt0338751, tt0372824]
@@ -4818,6 +4810,10 @@
     audience award:
       nominee: [tt0304141]
       winner: [tt0304141]
+  david lean award for direction:
+    david lean award for direction:
+      nominee: [tt0383694, tt0369339, tt0338013, tt0308644, tt0338751]
+      winner: [tt0383694]
   bafta tv award:
     best actor:
       nominee: [tt0408046, tt0395571, tt0220915, tt0411291]
@@ -4953,9 +4949,6 @@
     best presenter:
       nominee: [tt1775874, tt0398451]
       winner: [tt1775874]
-    best schools drama:
-      nominee: [tt0463835]
-      winner: []
     best schools factual - secondary:
       nominee: [tt1020066, tt1297335]
       winner: [tt1020066]
@@ -5035,6 +5028,10 @@
     sunday times reader award for games:
       nominee: [tt0433373, tt1235895, tt0383385, tt0374692, tt0357718]
       winner: [tt0433373]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0382189, tt0419677, tt0304141, tt0365748, tt0383694]
+      winner: [tt0382189]
 '2004': # https://www.imdb.com/event/ev0000123/2004/1/?ref_=ev_eh
   bafta film award:
     best film:
@@ -5088,14 +5085,6 @@
     best sound:
       nominee: [tt0311113, tt0159365, tt0266697, tt0325980, tt0167260]
       winner: [tt0311113]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0379557, tt0159365, tt0335119, tt0310154, tt0314331]
-      winner: [tt0379557]
-  david lean award for direction:
-    david lean award for direction:
-      nominee: [tt0311113, tt0319061, tt0159365, tt0335266, tt0167260]
-      winner: [tt0311113]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0159365, tt0335119, tt0266697, tt0335266, tt0167260]
@@ -5108,6 +5097,10 @@
     audience award:
       nominee: [tt0167260]
       winner: [tt0167260]
+  david lean award for direction:
+    david lean award for direction:
+      nominee: [tt0311113, tt0319061, tt0159365, tt0335266, tt0167260]
+      winner: [tt0311113]
   bafta tv award:
     best actor:
       nominee: [tt0362192, tt0353104, tt0379053]
@@ -5303,6 +5296,10 @@
     sunday times reader award for games:
       nominee: [tt0314123, tt0382590, tt0381105, tt0385801, tt0356070, tt0325724]
       winner: [tt0314123]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0379557, tt0159365, tt0335119, tt0310154, tt0314331]
+      winner: [tt0379557]
 '2003': # https://www.imdb.com/event/ev0000123/2003/1/?ref_=ev_eh
   bafta film award:
     best screenplay - original:
@@ -5356,14 +5353,6 @@
     best performance by an actress in a leading role:
       nominee: [tt0274558, tt0285742, tt0299658, tt0120679]
       winner: [tt0274558]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0295682, tt0286499, tt0301199, tt0274558, tt0318411]
-      winner: [tt0295682]
-  david lean award for direction:
-    david lean award for direction:
-      nominee: [tt0253474, tt0299658, tt0217505, tt0274558, tt0167261]
-      winner: [tt0253474]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0274558, tt0264464, tt0299658, tt0217505, tt0253474]
@@ -5376,6 +5365,10 @@
     audience award:
       nominee: [tt0167261]
       winner: [tt0167261]
+  david lean award for direction:
+    david lean award for direction:
+      nominee: [tt0253474, tt0299658, tt0217505, tt0274558, tt0167261]
+      winner: [tt0253474]
   bafta tv award:
     best actor:
       nominee: [tt0314097, tt0280491, tt0272839, tt0266425]
@@ -5516,6 +5509,10 @@
     kids' vote:
       nominee: [tt0295297]
       winner: [tt0295297]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0295682, tt0286499, tt0301199, tt0274558, tt0318411]
+      winner: [tt0295682]
 '2002': # https://www.imdb.com/event/ev0000123/2002/1/?ref_=ev_eh
   bafta film award:
     best screenplay - original:
@@ -5569,14 +5566,6 @@
     best performance by an actress in a leading role:
       nominee: [tt0280778, tt0211915, tt0230600, tt0243155, tt0247425]
       winner: [tt0280778]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0280707, tt0243155, tt0241527, tt0280778, tt0263725]
-      winner: [tt0280707]
-  david lean award for direction:
-    david lean award for direction:
-      nominee: [tt0120737, tt0268978, tt0211915, tt0280707, tt0203009]
-      winner: [tt0120737]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0203009, tt0211915, tt0166924, tt0126029, tt0120737]
@@ -5588,6 +5577,10 @@
   audience award:
     audience award:
       nominee: [tt0120737]
+      winner: [tt0120737]
+  david lean award for direction:
+    david lean award for direction:
+      nominee: [tt0120737, tt0268978, tt0211915, tt0280707, tt0203009]
       winner: [tt0120737]
   bafta tv award:
     best actor:
@@ -5760,6 +5753,10 @@
     technical innovation:
       nominee: [tt0277723]
       winner: []
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0280707, tt0243155, tt0241527, tt0280778, tt0263725]
+      winner: [tt0280707]
 '2001': # https://www.imdb.com/event/ev0000123/2001/1/?ref_=ev_eh
   bafta film award:
     best achievement in special visual effects:
@@ -5813,14 +5810,6 @@
     best sound:
       nominee: [tt0181875, tt0249462, tt0190332, tt0172495, tt0177971]
       winner: [tt0181875]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0249462, tt0120630, tt0258761, tt0203119, tt0200720]
-      winner: [tt0249462]
-  david lean award for direction:
-    david lean award for direction:
-      nominee: [tt0190332, tt0249462, tt0195685, tt0172495, tt0181865]
-      winner: [tt0190332]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0190332, tt0181875, tt0249462, tt0172495, tt0190590]
@@ -5833,6 +5822,10 @@
     audience award:
       nominee: [tt0172495]
       winner: [tt0172495]
+  david lean award for direction:
+    david lean award for direction:
+      nominee: [tt0190332, tt0249462, tt0195685, tt0172495, tt0181865]
+      winner: [tt0190332]
   bafta tv award:
     best actor:
       nominee: [tt0192263, tt0182648, tt0265755, tt0263181]
@@ -5999,6 +5992,10 @@
     technical innovation:
       nominee: [tt0280485]
       winner: []
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0249462, tt0120630, tt0258761, tt0203119, tt0200720]
+      winner: [tt0249462]
 '2000': # https://www.imdb.com/event/ev0000123/2000/1/?ref_=ev_eh
   bafta film award:
     best achievement in special visual effects:
@@ -6052,14 +6049,6 @@
     best sound:
       nominee: [tt0133093, tt0169547, tt0186508, tt0120915]
       winner: [tt0133093]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0166175, tt0125439, tt0119079, tt0171685, tt0151568, tt0171865]
-      winner: [tt0166175]
-  david lean award for direction:
-    david lean award for direction:
-      nominee: [tt0185125, tt0169547, tt0172396, tt0167404, tt0134119]
-      winner: [tt0185125]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0169547, tt0186508, tt0172396, tt0134119]
@@ -6072,6 +6061,10 @@
     audience award:
       nominee: [tt0125439]
       winner: [tt0125439]
+  david lean award for direction:
+    david lean award for direction:
+      nominee: [tt0185125, tt0169547, tt0172396, tt0167404, tt0134119]
+      winner: [tt0185125]
   bafta tv award:
     best actor:
       nominee: [tt0215364, tt0185102, tt0174882, tt0184157]
@@ -6220,6 +6213,10 @@
     online entertainment:
       nominee: [tt0434318]
       winner: []
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0166175, tt0125439, tt0119079, tt0171685, tt0151568, tt0171865]
+      winner: [tt0166175]
 '1999': # https://www.imdb.com/event/ev0000123/1999/1/?ref_=ev_eh
   bafta film award:
     best animated short film:
@@ -6273,14 +6270,6 @@
     best special effects:
       nominee: [tt0120815, tt0120587, tt0120595, tt0120382]
       winner: [tt0120815]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0127536, tt0150915, tt0147004, tt0120735, tt0151691, tt0120148]
-      winner: [tt0127536]
-  david lean award for direction:
-    david lean award for direction:
-      nominee: [tt0120382, tt0127536, tt0120815, tt0138097]
-      winner: [tt0120382]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0127536, tt0150915, tt0120815, tt0138097]
@@ -6293,6 +6282,10 @@
     audience award:
       nominee: [tt0120735]
       winner: [tt0120735]
+  david lean award for direction:
+    david lean award for direction:
+      nominee: [tt0120382, tt0127536, tt0120815, tt0138097]
+      winner: [tt0120382]
   bafta tv award:
     best actor:
       nominee: [tt0164841, tt0137315, tt0144727]
@@ -6440,6 +6433,10 @@
     moving images:
       nominee: [tt0257570, tt0239023]
       winner: [tt0257570]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0127536, tt0150915, tt0147004, tt0120735, tt0151691, tt0120148]
+      winner: [tt0127536]
 '1998': # https://www.imdb.com/event/ev0000123/1998/1/?ref_=ev_eh
   bafta film award:
     best animated short film:
@@ -6493,14 +6490,6 @@
     best special effects:
       nominee: [tt0119116, tt0119654, tt0118755, tt0120338]
       winner: [tt0119116]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0119792, tt0120001, tt0119280, tt0118755, tt0119164, tt0120391]
-      winner: [tt0119792]
-  david lean award for direction:
-    david lean award for direction:
-      nominee: [tt0117509, tt0119488, tt0119164, tt0120338]
-      winner: [tt0117509]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0117509, tt0119488, tt0119164, tt0120338]
@@ -6509,6 +6498,10 @@
     audience award:
       nominee: [tt0119164]
       winner: [tt0119164]
+  david lean award for direction:
+    david lean award for direction:
+      nominee: [tt0117509, tt0119488, tt0119164, tt0120338]
+      winner: [tt0117509]
   bafta tv award:
     best actor:
       nominee: [tt0118297, tt0115749, tt0111993, tt0134584]
@@ -6629,6 +6622,10 @@
     moving images:
       nominee: [tt0129342]
       winner: []
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0119792, tt0120001, tt0119280, tt0118755, tt0119164, tt0120391]
+      winner: [tt0119792]
 '1997': # https://www.imdb.com/event/ev0000123/1997/1/?ref_=ev_eh
   bafta film award:
     best achievement in special visual effects:
@@ -6682,18 +6679,14 @@
     best sound:
       nominee: [tt0117631, tt0116250, tt0116629, tt0116209]
       winner: [tt0117631]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0117589, tt0115744, tt0115832, tt0114279]
-      winner: [tt0117589]
-  david lean award for direction:
-    david lean award for direction:
-      nominee: [tt0116282, tt0117589, tt0117631, tt0116209]
-      winner: [tt0116282]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0116209, tt0115744, tt0116250, tt0117631]
       winner: [tt0116209]
+  david lean award for direction:
+    david lean award for direction:
+      nominee: [tt0116282, tt0117589, tt0117631, tt0116209]
+      winner: [tt0116282]
   bafta tv award:
     best actor:
       nominee: [tt0115177, tt0115230, tt0115305]
@@ -6789,6 +6782,10 @@
     schools drama:
       nominee: [tt0174195]
       winner: [tt0174195]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0117589, tt0115744, tt0115832, tt0114279]
+      winner: [tt0117589]
 '1996': # https://www.imdb.com/event/ev0000123/1996/1/?ref_=ev_eh
   bafta film award:
     best achievement in special effects:
@@ -6842,16 +6839,12 @@
     best sound:
       nominee: [tt0112573, tt0112384, tt0113189, tt0110428]
       winner: [tt0112573]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0110428, tt0112637, tt0114671, tt0117951]
-      winner: [tt0110428]
-  david lean award for direction:
-    david lean award for direction:
-      nominee: [tt0110877, tt0112573, tt0114388, tt0110428]
-      winner: [tt0110877]
   anthony asquith award for film music:
     anthony asquith award for film music:
+      nominee: [tt0110877, tt0112573, tt0114388, tt0110428]
+      winner: [tt0110877]
+  david lean award for direction:
+    david lean award for direction:
       nominee: [tt0110877, tt0112573, tt0114388, tt0110428]
       winner: [tt0110877]
   bafta tv award:
@@ -6962,6 +6955,10 @@
     best factual:
       nominee: [tt0305142, tt0217959]
       winner: [tt0305142]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0110428, tt0112637, tt0114671, tt0117951]
+      winner: [tt0110428]
 '1995': # https://www.imdb.com/event/ev0000123/1995/1/?ref_=ev_eh
   bafta film award:
     best actor:
@@ -7015,18 +7012,14 @@
     best special effects:
       nominee: [tt0109830, tt0111257, tt0110475, tt0111503]
       winner: [tt0109830]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0111149, tt0106339, tt0106408, tt0110889]
-      winner: [tt0111149]
-  david lean award for direction:
-    david lean award for direction:
-      nominee: [tt0109831, tt0109830, tt0110912, tt0111495]
-      winner: [tt0109831]
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0106339, tt0109831, tt0109045, tt0110357]
       winner: [tt0106339]
+  david lean award for direction:
+    david lean award for direction:
+      nominee: [tt0109831, tt0109830, tt0110912, tt0111495]
+      winner: [tt0109831]
   bafta tv award:
     best actor:
       nominee: [tt0105977, tt0112062]
@@ -7114,6 +7107,10 @@
     audience award (tv):
       nominee: [tt0105977]
       winner: [tt0105977]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0111149, tt0106339, tt0106408, tt0110889]
+      winner: [tt0111149]
 '1994': # https://www.imdb.com/event/ev0000123/1994/1/?ref_=ev_eh
   bafta film award:
     best actor:
@@ -7170,10 +7167,6 @@
     best special effects:
       nominee: [tt0107290, tt0103639, tt0103874, tt0106977]
       winner: [tt0107290]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0108101, tt0107653, tt0107920, tt0111454]
-      winner: [tt0108101]
   david lean award for direction:
     david lean award for direction:
       nominee: [tt0108052, tt0108101, tt0107822, tt0107943]
@@ -7259,6 +7252,10 @@
     lloyds bank people's vote for the most popular film:
       nominee: [tt0107290]
       winner: [tt0107290]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0108101, tt0107653, tt0107920, tt0111454]
+      winner: [tt0108101]
 '1993': # https://www.imdb.com/event/ev0000123/1993/1/?ref_=ev_eh
   bafta film award:
     best actor:
@@ -7318,10 +7315,6 @@
     best special effects:
       nominee: [tt0104070, tt0103644, tt0103776, tt0101414]
       winner: [tt0104070]
-  alexander korda award for best british film:
-    alexander korda award for best british film:
-      nominee: [tt0104036]
-      winner: [tt0104036]
   david lean award for direction:
     best film/video editor (factual):
       nominee: [tt0986227]
@@ -7406,6 +7399,10 @@
     flaherty documentary award (tv):
       nominee: [tt0232044, tt0264972]
       winner: [tt0232044]
+  alexander korda award for best british film:
+    alexander korda award for best british film:
+      nominee: [tt0104036]
+      winner: [tt0104036]
 '1992': # https://www.imdb.com/event/ev0000123/1992/1/?ref_=ev_eh
   bafta film award:
     best actor:
@@ -8666,7 +8663,7 @@
       nominee: [tt0084335, tt0083658, tt0083866, tt0083987]
       winner: [tt0084335]
     best foreign language film:
-      nominee: [tt0079010, tt0082269, tt0083946, tt0082096]
+      nominee: [tt0079010, tt0082096, tt0082269, tt0083946]
       winner: [tt0079010]
     best make up artist:
       nominee: [tt0082484, tt0083658, tt0083866, tt0083987]

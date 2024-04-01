@@ -2893,7 +2893,7 @@
       nominee: [tt1759761, tt1492966, tt1442437, tt1266020, tt2575988, tt3502262, tt3339966]
       winner: [tt1759761]
     outstanding television movie:
-      nominee: [tt3704352, tt2095649, tt3609402, tt3042800, tt0094525]
+      nominee: [tt3704352, tt2095649, tt3762944, tt3609402, tt3042800, tt0094525]
       winner: [tt3704352]
     outstanding lead actor in a drama series:
       nominee: [tt0804503, tt3032476, tt1870479, tt1856010, tt3520702, tt2249007]
@@ -3217,7 +3217,7 @@
       nominee: [tt4257858, tt0094416, tt2845786, tt4229236, tt3400010]
       winner: [tt4257858]
     outstanding writing for a limited series, movie or a dramatic special:
-      nominee: [tt3012698, tt3488298, tt3704352, tt3021686, tt3556920]
+      nominee: [tt3012698, tt3488298, tt3704352, tt3762944, tt3021686, tt3556920]
       winner: [tt3012698]
 '2014': # https://www.imdb.com/event/ev0000223/2014/1/?ref_=ev_eh
   primetime emmy:

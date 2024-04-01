@@ -912,7 +912,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best reality & constructed factual series # 1 Event: 2019
   - best reality and constructed factual # 5 Events: 2012-2013, 2015-2017
   - best school drama # 1 Event: 2003
-  - best schools drama # 4 Events: 1999, 2001-2002, 2005
+  - best schools drama # 3 Events: 1999, 2001-2002
   - best schools factual - primary # 3 Events: 2000, 2002-2003
   - best schools factual - secondary # 4 Events: 1999, 2002, 2004-2005
   - best score # 8 Events: 1983-1989, 1994
@@ -1017,7 +1017,6 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - editing, fiction # 3 Events: 2022-2024
   - ee game of the year # 3 Events: 2021-2023
   - ee mobile game of the year # 1 Event: 2020
-  - ee player's choice # No Events Found
   - ee players' choice # 1 Event: 2024
   - emerging talent, factual # 3 Events: 2022-2024
   - emerging talent, fiction # 3 Events: 2022-2024
@@ -2936,7 +2935,7 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   awards:  # Award Options: Golden Globes, USA
   - golden globe # 81 Events: 1944-2024
   - outstanding merit # 1 Event: 1960
-  - samuel goldwyn award # 6 Events: 1959-1964
+  - samuel goldwyn international award # 6 Events: 1959-1964
   - silver globe # 1 Event: 1962
   - special achievement award # 1 Event: 1956
   - special award # 10 Events: 1947-1949, 1952-1954, 1959-1960, 1993-1994
@@ -3102,7 +3101,7 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - new star of the year in a motion picture - female # 3 Events: 1980-1981, 1983
   - new star of the year in a motion picture - male # 3 Events: 1980-1981, 1983
   - outstanding merit # 1 Event: 1960
-  - samuel goldwyn award # 6 Events: 1959-1964
+  - samuel goldwyn international award # 6 Events: 1959-1964
   - special achievement award # 1 Event: 1956
   - special award # 10 Events: 1947-1949, 1952-1954, 1959-1960, 1993-1994
   - special merit award # 2 Events: 1961-1962
@@ -3513,7 +3512,7 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - freedom of expression award # 12 Events: 1993-2004
   - grand jury prize # 42 Events: 1982-2024
   - honorable mention # 1 Event: 1995
-  - horizon award # 1 Event: 2019
+  - horizon award # 2 Events: 2019, 2021
   - indian paintbrush producer's award # 1 Event: 2013
   - jonathan oppenheim editing award # 3 Events: 2022-2024
   - latin america cinema award # 9 Events: 1991-1992, 1996-2002
@@ -3585,7 +3584,7 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - dramatic # 42 Events: 1982-2024
   - dramatic non-competition # 1 Event: 1985
   - editing # 1 Event: 2017
-  - emerging female filmmaker # 1 Event: 2019
+  - emerging female filmmaker # 2 Events: 2019, 2021
   - emerging filmmaker # 2 Events: 2020-2021
   - ensemble # 2 Events: 2023-2024
   - ensemble cast # 2 Events: 2020, 2022

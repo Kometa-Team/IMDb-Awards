@@ -535,12 +535,12 @@
     best performance by an actress in a television series - musical or comedy:
       nominee: [tt5788792, tt5770786, tt6274614, tt5024912, tt4370596]
       winner: [tt5788792]
-    best performance by an actor in a television series - musical or comedy:
-      nominee: [tt4635276, tt3487356, tt0157246, tt5478730, tt1586680]
-      winner: [tt4635276]
     best performance by an actor in a supporting role in a series, limited series or motion picture made for television:
       nominee: [tt3920596, tt1984119, tt4158110, tt4574334, tt2802850]
       winner: [tt3920596]
+    best performance by an actor in a television series - musical or comedy:
+      nominee: [tt4635276, tt3487356, tt0157246, tt5478730, tt1586680]
+      winner: [tt4635276]
     best performance by an actress in a supporting role in a series, limited series or motion picture made for television:
       nominee: [tt3920596, tt5834204, tt5555260, tt1933667]
       winner: [tt3920596]
@@ -2450,7 +2450,7 @@
       nominee: [tt0102138, tt0102713, tt0101516, tt0102926, tt0101889]
       winner: [tt0102138]
     best foreign language film:
-      nominee: [tt0099776, tt0103030, tt0103322, tt0102368, tt0100263, tt0101765]
+      nominee: [tt0099776, tt0103030, tt0100263, tt0103322, tt0102368, tt0101765]
       winner: [tt0099776]
     best miniseries or motion picture made for television:
       nominee: [tt0102591, tt0102109, tt0102842, tt0102879, tt0102167]
@@ -3214,7 +3214,7 @@
       nominee: [tt0082979, tt0080388, tt0082846, tt0082970, tt0082945, tt0082971]
       winner: [tt0082979]
     best foreign film:
-      nominee: [tt0082158, tt0080388, tt0082432, tt0082912, tt0082096]
+      nominee: [tt0082158, tt0080388, tt0082096, tt0082432, tt0082912]
       winner: [tt0082158]
     best miniseries or motion picture made for television:
       nominee: [tt0082075, tt0083409, tt0082672, tt0081900, tt0082780]
@@ -4412,8 +4412,8 @@
       nominee: [tt0058142]
       winner: [tt0058142]
     best foreign-language foreign film:
-      nominee: [tt0058335, tt0058541]
-      winner: [tt0058335, tt0058541]
+      nominee: [tt0058335, tt0058541, tt0058203]
+      winner: [tt0058335, tt0058541, tt0058203]
     best motion picture - comedy or musical:
       nominee: [tt0058385, tt0058092, tt0058331, tt0058708, tt0058756]
       winner: [tt0058385]
@@ -4503,8 +4503,8 @@
     most promising newcomer - male:
       nominee: [tt0056825, tt0056918, tt0057590, tt0057495, tt0057091, tt0057652]
       winner: [tt0056825, tt0056918, tt0057590]
-  samuel goldwyn award:
-    samuel goldwyn award:
+  samuel goldwyn international award:
+    samuel goldwyn international award:
       nominee: [tt0057171]
       winner: [tt0057171]
 '1963': # https://www.imdb.com/event/ev0000292/1963/1/?ref_=ev_eh
@@ -4578,8 +4578,8 @@
     most promising newcomer - male:
       nominee: [tt0055796, tt0055892, tt0056172, tt0056048]
       winner: [tt0055796, tt0055892, tt0056172]
-  samuel goldwyn award:
-    samuel goldwyn award:
+  samuel goldwyn international award:
+    samuel goldwyn international award:
       nominee: [tt0055910, tt0054678, tt0055506]
       winner: [tt0055910, tt0054678]
 '1962': # https://www.imdb.com/event/ev0000292/1962/1/?ref_=ev_eh
@@ -4635,8 +4635,8 @@
     most promising newcomer - male:
       nominee: [tt0054759, tt0055471, tt0054997, tt0055614]
       winner: [tt0054759, tt0055471]
-  samuel goldwyn award:
-    samuel goldwyn award:
+  samuel goldwyn international award:
+    samuel goldwyn international award:
       nominee: [tt0055146]
       winner: [tt0055146]
   silver globe:
@@ -4700,8 +4700,8 @@
     television achievement:
       nominee: [tt0053508, tt0050051, tt0052447, tt0050072]
       winner: [tt0053508, tt0050051, tt0052447, tt0050072]
-  samuel goldwyn award:
-    samuel goldwyn award:
+  samuel goldwyn international award:
+    samuel goldwyn international award:
       nominee: [tt0054198]
       winner: [tt0054198]
   special merit award:
@@ -4759,8 +4759,8 @@
     outstanding merit:
       nominee: [tt0053131]
       winner: [tt0053131]
-  samuel goldwyn award:
-    samuel goldwyn award:
+  samuel goldwyn international award:
+    samuel goldwyn international award:
       nominee: [tt0053226]
       winner: [tt0053226]
   special award:
@@ -4817,8 +4817,8 @@
     television achievement:
       nominee: [tt0051251, tt0040053, tt0045409, tt0043224, tt0046652]
       winner: [tt0051251, tt0040053, tt0045409, tt0043224, tt0046652]
-  samuel goldwyn award:
-    samuel goldwyn award:
+  samuel goldwyn international award:
+    samuel goldwyn international award:
       nominee: [tt0050322]
       winner: []
   special award:
