@@ -1,5 +1,10 @@
 # Cannes Film Festival
-'2023':  # https://www.imdb.com/event/ev0000147/2023/1/?ref_=ev_eh
+'2024':  # https://www.imdb.com/event/ev0000147/2024/1/?ref_=ev_eh
+  palme d'or:
+    palme d'or:
+      nominee: [tt10128846]
+      winner: []
+'2023': # https://www.imdb.com/event/ev0000147/2023/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt17009710, tt16731908, tt13231544, tt9663896, tt14230388, tt26256406, tt18235146, tt21027780, tt15000156, tt27502426, tt22463404, tt14137416, tt14561712, tt14550346, tt13651794, tt23736044, tt27503384, tt19883634, tt19760052, tt7160372, tt8469104]
