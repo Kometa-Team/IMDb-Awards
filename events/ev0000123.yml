@@ -218,55 +218,55 @@
   bafta games award:
     artistic achievement:
       nominee: [tt16385682, tt13258344, tt27850694, tt11261148, tt13103328, tt26453303]
-      winner: []
+      winner: [tt16385682]
     audio achievement:
       nominee: [tt16385682, tt28630698, tt26453303, tt15399898, tt20672830, tt10471854]
-      winner: []
+      winner: [tt16385682]
     best animation:
-      nominee: [tt16385682, tt26453303, tt13107970, tt15399898, tt20672830, tt28144737]
-      winner: []
+      nominee: [tt26453303, tt16385682, tt13107970, tt15399898, tt20672830, tt28144737]
+      winner: [tt26453303]
     best british game:
-      nominee: [tt27446030, tt3807580, tt28517727, tt29865872, tt28016225, tt29865900]
-      winner: []
+      nominee: [tt28016225, tt27446030, tt3807580, tt28517727, tt29865872, tt29865900]
+      winner: [tt28016225]
     best debut game:
-      nominee: [tt27850694, tt27864795, tt27831224, tt26771295, tt18394974, tt28016225]
-      winner: []
+      nominee: [tt18394974, tt27850694, tt27864795, tt27831224, tt26771295, tt28016225]
+      winner: [tt18394974]
     best evolving game:
       nominee: [tt3810192, tt1737166, tt8020008, tt14870662, tt11585486, tt3819090]
-      winner: []
+      winner: [tt3810192]
     best family game:
-      nominee: [tt27850694, tt27864795, tt28517727, tt26453303, tt13107970, tt28144737]
-      winner: []
+      nominee: [tt28144737, tt27850694, tt27864795, tt28517727, tt26453303, tt13107970]
+      winner: [tt28144737]
     best game:
-      nominee: [tt16385682, tt13258344, tt27864795, tt15399898, tt28144737, tt10471854]
-      winner: []
+      nominee: [tt13258344, tt16385682, tt27864795, tt15399898, tt28144737, tt10471854]
+      winner: [tt13258344]
     best multiplayer:
-      nominee: [tt13258344, tt28630698, tt11261148, tt27907506, tt29951882, tt28144737]
-      winner: []
+      nominee: [tt28144737, tt13258344, tt28630698, tt11261148, tt27907506, tt29951882]
+      winner: [tt28144737]
     best music:
-      nominee: [tt16385682, tt22029092, tt13258344, tt15399898, tt20672830, tt10471854]
-      winner: []
+      nominee: [tt13258344, tt16385682, tt22029092, tt15399898, tt20672830, tt10471854]
+      winner: [tt13258344]
     best narrative:
-      nominee: [tt16385682, tt13258344, tt27831224, tt13103328, tt20672830, tt10471854]
-      winner: []
+      nominee: [tt13258344, tt16385682, tt27831224, tt13103328, tt20672830, tt10471854]
+      winner: [tt13258344]
     ee players' choice:
       nominee: [tt13258344, tt25808274, tt30272445, tt29995475, tt15399898, tt10471854]
-      winner: []
+      winner: [tt13258344]
     game beyond entertainment:
-      nominee: [tt29951857, tt12497076, tt15410002, tt28265817, tt21065626, tt18394974]
-      winner: []
+      nominee: [tt15410002, tt29951857, tt12497076, tt28265817, tt21065626, tt18394974]
+      winner: [tt15410002]
     game design:
-      nominee: [tt27850694, tt27864795, tt27831224, tt15399898, tt10471854, tt28016225]
-      winner: []
+      nominee: [tt27864795, tt27850694, tt27831224, tt15399898, tt10471854, tt28016225]
+      winner: [tt27864795]
     new intellectual property:
-      nominee: [tt29951857, tt27864795, tt27831224, tt26453303, tt28060289, tt28016225]
-      winner: []
+      nominee: [tt28016225, tt29951857, tt27864795, tt27831224, tt26453303, tt28060289]
+      winner: [tt28016225]
     performer in a leading role:
-      nominee: [tt13258344, tt15399898, tt20672830]
-      winner: []
+      nominee: [tt15399898, tt13258344, tt20672830]
+      winner: [tt15399898]
     performer in a supporting role:
-      nominee: [tt16385682, tt13258344, tt13103328, tt15399898, tt20672830]
-      winner: []
+      nominee: [tt13258344, tt16385682, tt13103328, tt15399898, tt20672830]
+      winner: [tt13258344]
     technical achievement:
       nominee: [tt16385682, tt13103328, tt16901232, tt15399898, tt8545540, tt10471854]
       winner: []
