@@ -25,10 +25,10 @@ options = [
 ]
 script_name = "IMDb Awards"
 base_dir = os.path.dirname(os.path.abspath(__file__))
-kometa_args = KometaArgs("Kometa-Team/IMDb-Awards", base_dir, options, use_nightly=False)
-logger = KometaLogger(script_name, "imdb_awards", os.path.join(base_dir, "logs"), is_trace=kometa_args["trace"], log_requests=kometa_args["log-requests"])
+args = KometaArgs("Kometa-Team/IMDb-Awards", base_dir, options, use_nightly=False)
+logger = KometaLogger(script_name, "imdb_awards", os.path.join(base_dir, "logs"), is_trace=args["trace"], log_requests=args["log-requests"])
 logger.screen_width = 160
-logger.header(kometa_args, sub=True)
+logger.header(args, sub=True)
 logger.separator("Validating Options", space=False, border=False)
 logger.start()
 event_ids = YAML(path=os.path.join(base_dir, "event_ids.yml"))
@@ -41,13 +41,13 @@ header = {
     "Accept-Language": "en-US,en;q=0.5",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0"
 }
-valid = YAML(path=os.path.join(base_dir, "event_validation.yml"), create=True, start_empty=kometa_args["clean"])
-if kometa_args["clean"]:
+valid = YAML(path=os.path.join(base_dir, "event_validation.yml"), create=True, start_empty=args["clean"])
+if args["clean"]:
     valid.data = YAML.inline({})
     valid.data.fa.set_block_style()
 
 def _request(url, xpath=None, extra=None):
-    sleep_time = 0 if kometa_args["no-sleep"] else random.randint(2, 6)
+    sleep_time = 0 if args["no-sleep"] else random.randint(2, 6)
     logger.info(f"{f'{extra} ' if extra else ''}URL: {url}{f' [Sleep: {sleep_time}]' if sleep_time else ''}")
     response = html.fromstring(requests.get(url, headers=header).content)
     if sleep_time:
@@ -56,7 +56,7 @@ def _request(url, xpath=None, extra=None):
 
 titles = {}
 for i, event_id in enumerate(original_event_ids, 1):
-    event_yaml = YAML(path=os.path.join(base_dir, "events", f"{event_id}.yml"), create=True, start_empty=kometa_args["clean"])
+    event_yaml = YAML(path=os.path.join(base_dir, "events", f"{event_id}.yml"), create=True, start_empty=args["clean"])
     old_data = event_yaml.data
     event_yaml.data = YAML.inline({})
     event_yaml.data.fa.set_block_style()
@@ -79,7 +79,7 @@ for i, event_id in enumerate(original_event_ids, 1):
     for j, event_year in enumerate(event_years, 1):
         event_year = str(event_year)
         event_year_url = f"{event_url}/{event_id}/{f'{event_year}/1' if '-' not in event_year else event_year.replace('-', '/')}/?ref_=ev_eh"
-        if first or kometa_args["clean"] or event_year not in old_data:
+        if first or args["clean"] or event_year not in old_data:
             obj = None
             for text in _request(event_year_url, xpath="//div[@class='article']/script/text()", extra=f"[Event {i}/{total_ids}] [Year {j}/{total_years}]")[0].split("\n"):
                 if text.strip().startswith("IMDbReactWidgets.NomineesWidget.push"):
@@ -120,7 +120,7 @@ for i, event_id in enumerate(original_event_ids, 1):
             event_yaml[event_year] = event_data
             event_yaml.data.yaml_add_eol_comment(event_year_url, event_year)
             if event_data and event_year not in valid[event_id]["years"]:
-                if kometa_args["clean"]:
+                if args["clean"]:
                     valid[event_id]["years"].append(event_year)
                 else:
                     valid[event_id]["years"].insert(0, event_year)

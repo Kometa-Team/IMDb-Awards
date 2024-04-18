@@ -1,34 +1,24 @@
-name: Update-IMDb-Awards-Clean
+name: Update-Copyright-Year
 
 on:
   schedule:
-    - cron: '0 12 1 * *'
+    - cron: '0 3 1 1 *'
   workflow_dispatch:
 
 jobs:
-  Update-IMDb-Awards-Clean:
+  Update-Copyright-Year:
     runs-on: ubuntu-latest
     steps:
 
-      - name: Get current date
+      - name: Get current year
         id: date
-        run: echo "date=$(date +'%B %d, %Y %I:%M %p')" >> $GITHUB_OUTPUT
+        run: echo "year=$(date +'%Y')" >> $GITHUB_OUTPUT
 
       - name: Check Out Repo
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
-
-      - name: Install Requirements
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Run Update IMDb Awards
-        run: python imdb_awards.py --clean --no-sleep
+      - name: Update Copyright
+        run: sed -i -E 's/(Copyright \(c\) ).+( meisnate12)/\1${{ steps.date.outputs.year }}\2/' LICENSE
 
       - name: Check Diff
         id: verify_diff
@@ -41,20 +31,20 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "Update at ${{ steps.date.outputs.date }} UTC" -a
+          git commit -m "Copyright updated to ${{ steps.date.outputs.year }}" -a
           git push origin master
 
       - name: Discord Failure Notification
-        uses: meisnate12/discord-notifications@master
+        uses: Kometa-Team/discord-notifications@master
         if: failure()
         with:
           webhook_id: ${{ secrets.BUILD_WEBHOOK_ID }}
           webhook_token: ${{ secrets.BUILD_WEBHOOK_TOKEN }}
           message: <@&1079153184007790652>
-          title: "${{ secrets.REPO_NAME }}-Clean: **Failure**"
+          title: "${{ secrets.REPO_NAME }}-Copyright: **Failure**"
           color: 16106776
           url: https://github.com/Kometa-Team/${{ secrets.REPO_NAME }}/actions/runs/${{ github.run_id }}
           username: Metabot
-          avatar_url: https://raw.githubusercontent.com/Kometa-Team/Kometa/nightly/.github/pmm.png
+          avatar_url: https://raw.githubusercontent.com/Kometa-Team/Kometa/nightly/.github/logo.png
           author: GitHub
           author_icon_url: https://raw.githubusercontent.com/Kometa-Team/Kometa/nightly/.github/git.png
