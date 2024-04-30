@@ -78,8 +78,8 @@
       nominee: [tt26687060, tt9663964, tt0924651, tt1055238]
       winner: []
     costume design:
-      nominee: [tt2085059, tt14688458, tt4786824, tt2235759]
-      winner: []
+      nominee: [tt2235759, tt2085059, tt14688458, tt4786824]
+      winner: [tt2235759]
     current affairs:
       nominee: [tt1043090, tt26548545, tt4397866, tt1597701]
       winner: []
@@ -87,32 +87,32 @@
       nominee: [tt0217211, tt0298674, tt21257260, tt19359688]
       winner: []
     director, factual:
-      nominee: [tt2433324, tt27837209, tt30320447, tt23850840]
-      winner: []
+      nominee: [tt23850840, tt2433324, tt27837209, tt30320447]
+      winner: [tt23850840]
     director, fiction:
-      nominee: [tt27541315, tt13323596, tt3581920, tt1830379]
-      winner: []
+      nominee: [tt3581920, tt27541315, tt13323596, tt1830379]
+      winner: [tt3581920]
     director, multi-camera:
-      nominee: [tt31845376, tt30421495, tt20243990, tt31845725]
-      winner: []
+      nominee: [tt20243990, tt31845376, tt30421495, tt31845725]
+      winner: [tt20243990]
     drama series:
       nominee: [tt3428912, tt5875444, tt14063678, tt1830379]
       winner: []
     editing, factual:
-      nominee: [tt14524712, tt8289930, tt30320447, tt27837209]
-      winner: []
+      nominee: [tt27837209, tt14524712, tt8289930, tt30320447]
+      winner: [tt27837209]
     editing, fiction:
-      nominee: [tt3428912, tt5875444, tt13138834]
-      winner: []
+      nominee: [tt5875444, tt3428912, tt13138834]
+      winner: [tt5875444]
     emerging talent, factual:
       nominee: [tt31845164, tt29331887, tt28313786, tt29925747]
-      winner: []
+      winner: [tt31845164]
     emerging talent, fiction:
-      nominee: [tt18347622, tt20449596, tt29516306, tt18974452]
-      winner: []
+      nominee: [tt18974452, tt18347622, tt20449596, tt29516306]
+      winner: [tt18974452]
     entertainment craft team:
-      nominee: [tt29714497, tt20243990, tt28104766, tt31845376]
-      winner: []
+      nominee: [tt20243990, tt29714497, tt28104766, tt31845376]
+      winner: [tt20243990]
     entertainment performance:
       nominee: [tt11847234, tt20243990, tt0338616, tt26687060, tt9663964, tt0924651]
       winner: []
@@ -144,8 +144,8 @@
       nominee: [tt20243990, tt30210296, tt31845376]
       winner: []
     make up & hair design:
-      nominee: [tt5875444, tt4786824, tt13323596, tt13678006]
-      winner: []
+      nominee: [tt13323596, tt5875444, tt4786824, tt13678006]
+      winner: [tt13323596]
     male performance in a comedy programme:
       nominee: [tt26008888, tt15296862, tt9174582, tt14488438, tt1869454, tt20449596]
       winner: []
@@ -153,26 +153,26 @@
       nominee: [tt0239164, tt29432967]
       winner: []
     original music, factual:
-      nominee: [tt31849211, tt27837209, tt23850840, tt23844450]
-      winner: []
+      nominee: [tt27837209, tt31849211, tt23850840, tt23844450]
+      winner: [tt27837209]
     original music, fiction:
-      nominee: [tt10638036, tt9140554, tt16233462, tt14688458]
-      winner: []
+      nominee: [tt14688458, tt10638036, tt9140554, tt16233462]
+      winner: [tt14688458]
     photography & lighting, fiction:
       nominee: [tt2085059, tt3581920, tt13323596, tt20916306]
-      winner: []
+      winner: [tt2085059]
     photography, factual:
-      nominee: [tt28550655, tt27217899, tt31187266, tt27766537]
-      winner: []
+      nominee: [tt31187266, tt28550655, tt27217899, tt27766537]
+      winner: [tt31187266]
     production design:
-      nominee: [tt2085059, tt16233462, tt14688458, tt13323596]
-      winner: []
+      nominee: [tt14688458, tt2085059, tt16233462, tt13323596]
+      winner: [tt14688458]
     reality:
       nominee: [tt29714497, tt5434216, tt27153473, tt28104766]
       winner: []
     scripted casting:
-      nominee: [tt2085059, tt30412431, tt13678006, tt13138834]
-      winner: []
+      nominee: [tt13678006, tt2085059, tt30412431, tt13138834]
+      winner: [tt13678006]
     scripted comedy:
       nominee: [tt13683866, tt14488438, tt14531842, tt18974452]
       winner: []
@@ -186,14 +186,14 @@
       nominee: [tt0096555, tt0088512, tt0068069]
       winner: []
     sound, factual:
-      nominee: [tt8289930, tt13943546, tt22736788, tt21377088]
-      winner: []
+      nominee: [tt22736788, tt8289930, tt13943546, tt21377088]
+      winner: [tt22736788]
     sound, fiction:
-      nominee: [tt22889176, tt5875444, tt4786824, tt5180504]
-      winner: []
+      nominee: [tt5875444, tt22889176, tt4786824, tt5180504]
+      winner: [tt5875444]
     special, visual & graphic effects:
-      nominee: [tt14688458, tt4786824, tt7462410, tt5180504]
-      winner: []
+      nominee: [tt5180504, tt14688458, tt4786824, tt7462410]
+      winner: [tt5180504]
     specialist factual:
       nominee: [tt27205918, tt28037290, tt21377088, tt29666745]
       winner: []
@@ -207,14 +207,14 @@
       nominee: [tt4786824, tt7660850, tt1830379, tt3581920, tt3428912]
       winner: []
     titles & graphic identity:
-      nominee: [tt31433814, tt1869454, tt14661396, tt15426714]
-      winner: []
+      nominee: [tt15426714, tt31433814, tt1869454, tt14661396]
+      winner: [tt15426714]
     writer, comedy:
-      nominee: [tt26008888, tt13683866, tt20449596, tt18974452]
-      winner: []
+      nominee: [tt13683866, tt26008888, tt20449596, tt18974452]
+      winner: [tt13683866]
     writer, drama:
       nominee: [tt2085059, tt3428912, tt7660850, tt20916306]
-      winner: []
+      winner: [tt2085059]
   bafta games award:
     artistic achievement:
       nominee: [tt16385682, tt13258344, tt27850694, tt11261148, tt13103328, tt26453303]
