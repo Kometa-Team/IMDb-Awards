@@ -286,7 +286,7 @@
       winner: [tt26440747]
   crystal bear:
     generation 14plus - best film:
-      nominee: [tt16907536, tt26541225, tt24082520, tt11488252, tt19631596, tt22459440, tt22777288, tt18281054, tt11647490, tt16148552, tt11930188, tt11389212, tt22694068]
+      nominee: [tt16907536, tt26541225, tt11488252, tt19631596, tt22459440, tt24082520, tt22777288, tt18281054, tt11647490, tt16148552, tt11930188, tt11389212, tt22694068]
       winner: [tt16907536]
     generation 14plus - best short film:
       nominee: [tt26772087, tt24653458, tt26423863, tt24653480, tt20879118, tt22006384, tt25504012, tt26425722, tt21247140, tt24654152, tt26425730]
@@ -7662,8 +7662,8 @@
       nominee: [tt0075938]
       winner: [tt0075938]
     forum of new cinema:
-      nominee: [tt0077309, tt0074910]
-      winner: [tt0077309, tt0074910]
+      nominee: [tt0074910, tt0077309]
+      winner: [tt0074910, tt0077309]
   interfilm award - otto dibelius film award:
     interfilm award - otto dibelius film award:
       nominee: [tt0075744]
