@@ -75,17 +75,17 @@
       winner: [tt26769826]
   bafta tv award:
     comedy entertainment programme:
-      nominee: [tt26687060, tt9663964, tt0924651, tt1055238]
-      winner: []
+      nominee: [tt9663964, tt26687060, tt0924651, tt1055238]
+      winner: [tt9663964]
     costume design:
       nominee: [tt2235759, tt2085059, tt14688458, tt4786824]
       winner: [tt2235759]
     current affairs:
-      nominee: [tt1043090, tt26548545, tt4397866, tt1597701]
-      winner: []
+      nominee: [tt1597701, tt1043090, tt26548545, tt4397866]
+      winner: [tt1597701]
     daytime:
-      nominee: [tt0217211, tt0298674, tt21257260, tt19359688]
-      winner: []
+      nominee: [tt19359688, tt0217211, tt0298674, tt21257260]
+      winner: [tt19359688]
     director, factual:
       nominee: [tt23850840, tt2433324, tt27837209, tt30320447]
       winner: [tt23850840]
@@ -96,8 +96,8 @@
       nominee: [tt20243990, tt31845376, tt30421495, tt31845725]
       winner: [tt20243990]
     drama series:
-      nominee: [tt3428912, tt5875444, tt14063678, tt1830379]
-      winner: []
+      nominee: [tt1830379, tt3428912, tt5875444, tt14063678]
+      winner: [tt1830379]
     editing, factual:
       nominee: [tt27837209, tt14524712, tt8289930, tt30320447]
       winner: [tt27837209]
@@ -114,32 +114,32 @@
       nominee: [tt20243990, tt29714497, tt28104766, tt31845376]
       winner: [tt20243990]
     entertainment performance:
-      nominee: [tt11847234, tt20243990, tt0338616, tt26687060, tt9663964, tt0924651]
-      winner: []
+      nominee: [tt26687060, tt11847234, tt20243990, tt0338616, tt9663964, tt0924651]
+      winner: [tt26687060]
     entertainment programme:
-      nominee: [tt27558577, tt0103469, tt6276100, tt0411027]
-      winner: []
+      nominee: [tt0411027, tt27558577, tt0103469, tt6276100]
+      winner: [tt0411027]
     factual entertainment:
       nominee: [tt11098386, tt30228385, tt4445396, tt11076876]
-      winner: []
+      winner: [tt11098386]
     factual series:
-      nominee: [tt27217899, tt28279011, tt30320447, tt27837209]
-      winner: []
+      nominee: [tt30320447, tt27217899, tt28279011, tt27837209]
+      winner: [tt30320447]
     female performance in a comedy programme:
       nominee: [tt15296862, tt14531842, tt15056674, tt26115810, tt21282348]
-      winner: []
+      winner: [tt15296862]
     international:
-      nominee: [tt14403178, tt27921612, tt14586350, tt7660850, tt14452776, tt3581920]
-      winner: []
+      nominee: [tt27921612, tt14403178, tt14586350, tt7660850, tt14452776, tt3581920]
+      winner: [tt27921612]
     leading actor:
-      nominee: [tt7660850, tt4786824, tt1830379, tt14190592, tt13355234, tt20916306]
-      winner: []
+      nominee: [tt20916306, tt7660850, tt4786824, tt1830379, tt14190592, tt13355234]
+      winner: [tt20916306]
     leading actress:
-      nominee: [tt2085059, tt20916306, tt3581920, tt16233462, tt3428912, tt10714820]
-      winner: []
+      nominee: [tt3428912, tt2085059, tt20916306, tt3581920, tt16233462, tt10714820]
+      winner: [tt3428912]
     limited drama:
-      nominee: [tt10714820, tt2085059, tt13323596, tt20916306]
-      winner: []
+      nominee: [tt20916306, tt10714820, tt2085059, tt13323596]
+      winner: [tt20916306]
     live event coverage:
       nominee: [tt20243990, tt30210296, tt31845376]
       winner: []
@@ -147,11 +147,11 @@
       nominee: [tt13323596, tt5875444, tt4786824, tt13678006]
       winner: [tt13323596]
     male performance in a comedy programme:
-      nominee: [tt26008888, tt15296862, tt9174582, tt14488438, tt1869454, tt20449596]
-      winner: []
+      nominee: [tt20449596, tt26008888, tt15296862, tt9174582, tt14488438, tt1869454]
+      winner: [tt20449596]
     news coverage:
       nominee: [tt0239164, tt29432967]
-      winner: []
+      winner: [tt0239164]
     original music, factual:
       nominee: [tt27837209, tt31849211, tt23850840, tt23844450]
       winner: [tt27837209]
@@ -168,23 +168,23 @@
       nominee: [tt14688458, tt2085059, tt16233462, tt13323596]
       winner: [tt14688458]
     reality:
-      nominee: [tt29714497, tt5434216, tt27153473, tt28104766]
-      winner: []
+      nominee: [tt28104766, tt29714497, tt5434216, tt27153473]
+      winner: [tt28104766]
     scripted casting:
       nominee: [tt13678006, tt2085059, tt30412431, tt13138834]
       winner: [tt13678006]
     scripted comedy:
-      nominee: [tt13683866, tt14488438, tt14531842, tt18974452]
-      winner: []
+      nominee: [tt18974452, tt13683866, tt14488438, tt14531842]
+      winner: [tt18974452]
     short form programme:
       nominee: [tt28053736, tt31845116, tt31845081, tt28053768]
-      winner: []
+      winner: [tt28053736]
     single documentary:
-      nominee: [tt29491918, tt31846918, tt21364768, tt29274601]
-      winner: []
+      nominee: [tt31846918, tt29491918, tt21364768, tt29274601]
+      winner: [tt31846918]
     soap:
       nominee: [tt0096555, tt0088512, tt0068069]
-      winner: []
+      winner: [tt0096555]
     sound, factual:
       nominee: [tt22736788, tt8289930, tt13943546, tt21377088]
       winner: [tt22736788]
@@ -195,17 +195,17 @@
       nominee: [tt5180504, tt14688458, tt4786824, tt7462410]
       winner: [tt5180504]
     specialist factual:
-      nominee: [tt27205918, tt28037290, tt21377088, tt29666745]
-      winner: []
+      nominee: [tt29666745, tt27205918, tt28037290, tt21377088]
+      winner: [tt29666745]
     sports coverage:
-      nominee: [tt28693392, tt31848311, tt3770700]
-      winner: []
+      nominee: [tt31848311, tt28693392, tt3770700]
+      winner: [tt31848311]
     supporting actor:
-      nominee: [tt3428912, tt15227418, tt5875444, tt7660850, tt4786824, tt20916306]
-      winner: []
+      nominee: [tt7660850, tt3428912, tt15227418, tt5875444, tt4786824, tt20916306]
+      winner: [tt7660850]
     supporting actress:
-      nominee: [tt4786824, tt7660850, tt1830379, tt3581920, tt3428912]
-      winner: []
+      nominee: [tt1830379, tt4786824, tt7660850, tt3581920, tt3428912]
+      winner: [tt1830379]
     titles & graphic identity:
       nominee: [tt15426714, tt31433814, tt1869454, tt14661396]
       winner: [tt15426714]
