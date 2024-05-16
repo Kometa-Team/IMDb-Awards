@@ -14,15 +14,15 @@
       winner: []
   un certain regard award:
     un certain regard award:
-      nominee: [tt26745321, tt28131427, tt27198573, tt32086034, tt32086046, tt22694908, tt9376490, tt32083311, tt30444418, tt29315015, tt29296048, tt32086032, tt15437986, tt32046117, tt32086052]
+      nominee: [tt26745321, tt28131427, tt27198573, tt4772188, tt32086034, tt32086046, tt22694908, tt26656556, tt9376490, tt32083311, tt30444418, tt29315015, tt29296048, tt32086032, tt15437986, tt32046117, tt32086052, tt27476906]
       winner: []
   palme d'or - best short film:
     palme d'or - best short film:
-      nominee: [tt32205749, tt32205780, tt32205725, tt32205738, tt32205710, tt32205767, tt32205717, tt21070926, tt20519854, tt32205704]
+      nominee: [tt32205749, tt32205774, tt32205780, tt32205725, tt32205738, tt32205710, tt32205767, tt32205717, tt21070926, tt20519854, tt32205704]
       winner: []
   queer palm:
     queer palm:
-      nominee: [tt27907969, tt32119268, tt28277817, tt32119317, tt32128915, tt20221436, tt32086069, tt32085997, tt25030744, tt28608358, tt22694908, tt28349668, tt28375311, tt32186523, tt32086052, tt30426575]
+      nominee: [tt27907969, tt32119268, tt28277817, tt32119317, tt32128915, tt20221436, tt31551124, tt32086069, tt32085997, tt25030744, tt28608358, tt22694908, tt28349668, tt28375311, tt32186523, tt32086052, tt30426575]
       winner: []
   queer palm - short film:
     queer palm - short film:
@@ -35,6 +35,10 @@
   critics' week grand prize:
     critics' week grand prize:
       nominee: [tt32119268, tt32119317, tt32119297, tt27804164, tt32058418, tt32119337, tt20517306]
+      winner: []
+  leitz cine discovery prize:
+    leitz cine discovery prize:
+      nominee: [tt32146361, tt32144500, tt32146395, tt32146350, tt32146277, tt32146375, tt32146344, tt32146261]
       winner: []
 '2023': # https://www.imdb.com/event/ev0000147/2023/1/?ref_=ev_eh
   palme d'or:
