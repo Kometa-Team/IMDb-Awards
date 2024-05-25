@@ -10,12 +10,20 @@
       winner: []
   cinefondation award:
     cinefondation award:
-      nominee: [tt32205793, tt31548153, tt32205784, tt32205809, tt32196842, tt32205828, tt32205816, tt32195911, tt32205848, tt32205836, tt28493138, tt32205813, tt28520484, tt32205822, tt32205843, tt32205812, tt32205823, tt32205833]
-      winner: []
+      nominee: [tt28493138, tt32205836, tt28520484, tt31548153, tt32205793, tt32205784, tt32205809, tt32196842, tt32205828, tt32205816, tt32195911, tt32205848, tt32205813, tt32205822, tt32205843, tt32205812, tt32205823, tt32205833]
+      winner: [tt28493138]
   un certain regard award:
     un certain regard award:
-      nominee: [tt26745321, tt28131427, tt27198573, tt4772188, tt32086034, tt32086046, tt22694908, tt26656556, tt9376490, tt32083311, tt30444418, tt29315015, tt29296048, tt32086032, tt15437986, tt32046117, tt32086052, tt27476906]
-      winner: []
+      nominee: [tt28131427, tt26745321, tt27198573, tt4772188, tt32086034, tt32086046, tt22694908, tt26656556, tt9376490, tt32083311, tt30444418, tt29315015, tt29296048, tt32086032, tt15437986, tt32046117, tt32086052, tt27476906]
+      winner: [tt28131427]
+  un certain regard award - special mention:
+    un certain regard award - special mention:
+      nominee: [tt9376490]
+      winner: [tt9376490]
+  un certain regard jury prize:
+    un certain regard jury prize:
+      nominee: [tt32086046]
+      winner: [tt32086046]
   sacd award:
     sacd award:
       nominee: [tt27804164]
@@ -28,6 +36,10 @@
     palme d'or - best short film:
       nominee: [tt32205749, tt32205774, tt32205780, tt32205725, tt32205738, tt32205710, tt32205767, tt32205717, tt21070926, tt20519854, tt32205704]
       winner: []
+  un certain regard - best director:
+    un certain regard - best director:
+      nominee: [tt32083311, tt29296048]
+      winner: [tt32083311, tt29296048]
   queer palm:
     queer palm:
       nominee: [tt27907969, tt32119268, tt28277817, tt32119317, tt32128915, tt20221436, tt32086069, tt32085997, tt25030744, tt28608358, tt22694908, tt28349668, tt28375311, tt31551124, tt32186523, tt30426575, tt32086052]
@@ -56,10 +68,22 @@
     leitz cine discovery prize:
       nominee: [tt32146350, tt32146361, tt32144500, tt32146395, tt32146277, tt32146375, tt32146344, tt32146261]
       winner: [tt32146350]
+  un certain regard - best performance:
+    un certain regard - best performance:
+      nominee: [tt32086046, tt15437986]
+      winner: [tt32086046, tt15437986]
+  best immersive work award:
+    best immersive work award:
+      nominee: [tt28944835]
+      winner: [tt28944835]
   french touch prize of the critics' week jury:
     french touch prize of the critics' week jury:
       nominee: [tt32119297]
       winner: [tt32119297]
+  un certain regard - youth prize:
+    un certain regard - youth prize:
+      nominee: [tt32086034]
+      winner: [tt32086034]
 '2023': # https://www.imdb.com/event/ev0000147/2023/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
