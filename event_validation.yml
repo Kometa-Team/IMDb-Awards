@@ -1280,17 +1280,17 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - award # 14 Events: 1946-1949, 1952-1957, 1959-1960, 1962-1963, 2021
   - award of the city of rome # 4 Events: 2005-2007, 2009
   - award of the youth # 31 Events: 1982-2012
-  - best actor # 69 Events: 1946, 1949-1952, 1955, 1957-1959, 1961-2019, 2021-2023
-  - best actress # 71 Events: 1946, 1949-1952, 1955-2019, 2021-2023
+  - best actor # 70 Events: 1946, 1949-1952, 1955, 1957-1959, 1961-2019, 2021-2024
+  - best actress # 72 Events: 1946, 1949-1952, 1955-2019, 2021-2024
   - best art direction # 1 Event: 1951
   - best artistic contribution # 12 Events: 1981-1991, 1998
   - best cinematography # 3 Events: 1946, 1949-1951
-  - best director # 61 Events: 1946, 1949-1952, 1955-1959, 1961, 1965-1970, 1972, 1975-1976, 1978-1979, 1982-2019, 2021-2023
+  - best director # 62 Events: 1946, 1949-1952, 1955-1959, 1961, 1965-1970, 1972, 1975-1976, 1978-1979, 1982-2019, 2021-2024
   - best film for the youth # 2 Events: 1965, 1990
   - best first work # 7 Events: 1966-1971, 1973, 1977
   - best immersive work award # 1 Event: 2024
   - best music # 3 Events: 1951-1952, 1977
-  - best screenplay # 40 Events: 1949-1952, 1958, 1963, 1965, 1967, 1974, 1980-1982, 1984, 1994, 1996-2019, 2021-2023
+  - best screenplay # 41 Events: 1949-1952, 1958, 1963, 1965, 1967, 1974, 1980-1982, 1984, 1994, 1996-2019, 2021-2024
   - best supporting actor # 4 Events: 1979-1981, 1991
   - best supporting actress # 3 Events: 1979-1981
   - c.i.c.a.e. award # 18 Events: 1999-2000, 2002, 2004-2018
@@ -1305,9 +1305,11 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - cinémas de recherche - special mention # 1 Event: 2005
   - critics week - special mention # 2 Events: 2011, 2013
   - critics week grand prize # 17 Events: 1989, 2000-2002, 2004-2016
+  - critics' week - next step award # 1 Event: 2024
   - critics' week grand prize # 9 Events: 2002-2003, 2017-2019, 2021-2024
   - cst artist - technician prize # 3 Events: 2021-2023
   - cst young film technician award # 3 Events: 2021-2023
+  - directors' fortnight audience award # 1 Event: 2024
   - discovery award # 11 Events: 2007-2017
   - discovery award - special mention # 2 Events: 2011-2012
   - doc alliance selection award # 1 Event: 2018
@@ -1324,13 +1326,13 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - gan foundation support for distribution # 11 Events: 2014-2024
   - gary cooper award # 2 Events: 1961, 1963
   - golden camera # 46 Events: 1978-2019, 2021-2024
-  - golden camera - special mention # 14 Events: 1989-1991, 1993-1995, 1997, 2002-2004, 2007-2009, 2022
+  - golden camera - special mention # 15 Events: 1989-1991, 1993-1995, 1997, 2002-2004, 2007-2009, 2022, 2024
   - golden coach # 1 Event: 2003
   - golden eye # 9 Events: 2015-2019, 2021-2024
   - golden eye - special mention # 6 Events: 2015-2018, 2021-2022
   - grand golden rail # 22 Events: 1995-2016
   - grand prix international du film scientifique - court métrage # 1 Event: 1946
-  - grand prize of the festival # 8 Events: 1946, 1949-1954, 2022-2023
+  - grand prize of the festival # 9 Events: 1946, 1949-1954, 2022-2024
   - grand prize of the jury # 52 Events: 1959, 1967-1976, 1978-2019
   - gras savoye award # 9 Events: 1998-2006
   - gras savoye award - special mention # 1 Event: 2004
@@ -1340,12 +1342,12 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - international jury prize # 1 Event: 1946
   - international peace award # 1 Event: 1946
   - international prize # 5 Events: 1953-1954, 1959, 1961, 1973
-  - jury prize # 56 Events: 1958, 1960, 1965, 1969-1983, 1985-2019, 2021-2023
+  - jury prize # 57 Events: 1958, 1960, 1965, 1969-1983, 1985-2019, 2021-2024
   - jury prize - short film # 3 Events: 2008, 2010-2011
-  - jury special prize # 15 Events: 1951-1952, 1954-1958, 1961-1966, 1995-1996
+  - jury special prize # 16 Events: 1951-1952, 1954-1958, 1961-1966, 1995-1996, 2024
   - kodak short film award # 12 Events: 1964, 1993-1994, 1998-2006
   - kodak short film award - special mention # 3 Events: 1999-2001
-  - label europa cinemas # 18 Events: 2005-2019, 2021-2023
+  - label europa cinemas # 19 Events: 2005-2019, 2021-2024
   - le premier regard award # 1 Event: 2003
   - leitz cine discovery prize # 5 Events: 2019, 2021-2024
   - louis roederer foundation rising star award # 6 Events: 2018-2019, 2021-2024
@@ -1355,7 +1357,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - norman mclaren award # 2 Events: 2006-2007
   - ocic award # 16 Events: 1952-1956, 1959-1967, 1971, 1973
   - ocic award - special mention # 4 Events: 1952, 1955-1957
-  - palm dog # 21 Events: 2001-2019, 2021, 2023
+  - palm dog # 22 Events: 2001-2019, 2021, 2023-2024
   - palm dog - jury prize # 10 Events: 2008, 2010-2018
   - palm dog - special mention # 7 Events: 2001-2006, 2014
   - palm dogmanitarian award # 3 Events: 2015-2017
@@ -1380,7 +1382,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - regards jeunes prize # 4 Events: 2007-2010
   - sacd award # 17 Events: 1991-1992, 2007-2015, 2017, 2019, 2021-2024
   - sacd grand prize # 1 Event: 1946
-  - sacd prize # 2 Events: 2016, 2018
+  - sacd prize # 3 Events: 2016, 2018, 2024
   - sacd prize (directors' fortnight) # 12 Events: 1985, 2008-2015, 2017, 2019, 2021
   - sacd prize (directors' fortnight) - special mention # 2 Events: 2012-2013
   - sacd prize - special mention # 1 Event: 2016
@@ -1392,7 +1394,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - special award # 5 Events: 1951, 1954, 1957, 1973, 2009
   - special award of the youth # 3 Events: 1988, 1992, 2000
   - special distinction # 7 Events: 1955, 1967, 2009, 2017-2019, 2021
-  - special mention # 24 Events: 1953-1960, 1963-1965, 1967, 1970-1972, 1974, 1989, 2005-2007, 2013-2014, 2016, 2019
+  - special mention # 25 Events: 1953-1960, 1963-1965, 1967, 1970-1972, 1974, 1989, 2005-2007, 2013-2014, 2016, 2019, 2024
   - séance "coup de coeur" # 1 Event: 2011
   - technical grand prize # 42 Events: 1959, 1962-1967, 1970-2001, 2004-2006
   - technical grand prize - special mention # 5 Events: 1961, 1965, 1967-1969, 1993
@@ -1443,8 +1445,8 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - audience award # 3 Events: 1988-1990
   - award of the city of rome # 4 Events: 2005-2007, 2009
   - award of the youth # 10 Events: 2003-2012
-  - best actor # 69 Events: 1946, 1949-1952, 1955, 1957-1959, 1961-2019, 2021-2023
-  - best actress # 71 Events: 1946, 1949-1952, 1955-2019, 2021-2023
+  - best actor # 70 Events: 1946, 1949-1952, 1955, 1957-1959, 1961-2019, 2021-2024
+  - best actress # 72 Events: 1946, 1949-1952, 1955-2019, 2021-2024
   - best adventure and crime film # 1 Event: 1947
   - best animation design # 2 Events: 1946-1947
   - best art direction # 1 Event: 1951
@@ -1455,7 +1457,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - best comedy # 1 Event: 1959
   - best comedy (prix de la meilleure comédie) # 1 Event: 1962
   - best composer # 7 Events: 2016-2019, 2021-2023
-  - best director # 61 Events: 1946, 1949-1952, 1955-1959, 1961, 1965-1970, 1972, 1975-1976, 1978-1979, 1982-2019, 2021-2023
+  - best director # 62 Events: 1946, 1949-1952, 1955-1959, 1961, 1965-1970, 1972, 1975-1976, 1978-1979, 1982-2019, 2021-2024
   - best documentary # 1 Event: 2018
   - best documentary - short film # 1 Event: 1953
   - best dramatic film # 1 Event: 1955
@@ -1477,7 +1479,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - best poetic humor # 1 Event: 1956
   - best psychological and love film # 1 Event: 1947
   - best puppet film - short film # 1 Event: 1954
-  - best screenplay # 40 Events: 1949-1952, 1958, 1963, 1965, 1967, 1974, 1980-1982, 1984, 1994, 1996-2019, 2021-2023
+  - best screenplay # 41 Events: 1949-1952, 1958, 1963, 1965, 1967, 1974, 1980-1982, 1984, 1994, 1996-2019, 2021-2024
   - best selection # 1 Event: 1959
   - best selection - short film # 1 Event: 1959
   - best short # 16 Events: 1991-1992, 2000-2006, 2014, 2017-2019, 2021-2023
@@ -1508,11 +1510,13 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - critics week - special mention # 2 Events: 2011, 2013
   - critics week grand prize # 16 Events: 2000-2002, 2004-2016
   - critics' week # 5 Events: 2016, 2019, 2021-2023
+  - critics' week - next step award # 1 Event: 2024
   - critics' week grand prize # 9 Events: 2002-2003, 2017-2019, 2021-2024
   - cst artist - technician prize # 3 Events: 2021-2023
   - cst young film technician award # 3 Events: 2021-2023
   - director's fortnight # 4 Events: 2001-2003, 2016
-  - directors' fortnight # 7 Events: 2006, 2012-2013, 2016, 2018, 2022-2023
+  - directors' fortnight # 8 Events: 2006, 2012-2013, 2016, 2018, 2022-2024
+  - directors' fortnight audience award # 1 Event: 2024
   - directors' fortnight or critics' week # 8 Events: 2007-2011, 2016-2018
   - discovery award # 11 Events: 2007-2017
   - discovery award - special mention # 2 Events: 2011-2012
@@ -1541,13 +1545,13 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - gan foundation support for distribution # 7 Events: 2014-2019, 2024
   - gary cooper award # 2 Events: 1961, 1963
   - golden camera # 46 Events: 1978-2019, 2021-2024
-  - golden camera - special mention # 14 Events: 1989-1991, 1993-1995, 1997, 2002-2004, 2007-2009, 2022
+  - golden camera - special mention # 15 Events: 1989-1991, 1993-1995, 1997, 2002-2004, 2007-2009, 2022, 2024
   - golden coach # 1 Event: 2003
   - golden eye # 9 Events: 2015-2019, 2021-2024
   - golden eye - special mention # 6 Events: 2015-2018, 2021-2022
   - grand golden rail # 22 Events: 1995-2016
   - grand prix # 1 Event: 2021
-  - grand prize of the festival # 7 Events: 1949-1954, 2022-2023
+  - grand prize of the festival # 8 Events: 1949-1954, 2022-2024
   - grand prize of the jury # 52 Events: 1959, 1967-1976, 1978-2019
   - gras savoye award # 9 Events: 1998-2006
   - gras savoye award - special mention # 1 Event: 2004
@@ -1562,12 +1566,12 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - international peace award # 1 Event: 1946
   - international prize # 2 Events: 1954, 1959
   - investigative documentary - short film # 1 Event: 1956
-  - jury prize # 46 Events: 1958, 1960, 1969-1974, 1980, 1983, 1985-1995, 1997-2000, 2002-2019, 2021-2023
+  - jury prize # 47 Events: 1958, 1960, 1969-1974, 1980, 1983, 1985-1995, 1997-2000, 2002-2019, 2021-2024
   - jury prize - short film # 3 Events: 2008, 2010-2011
-  - jury special prize # 15 Events: 1951-1952, 1954-1958, 1961-1966, 1995-1996
+  - jury special prize # 16 Events: 1951-1952, 1954-1958, 1961-1966, 1995-1996, 2024
   - kodak short film award # 12 Events: 1964, 1993-1994, 1998-2006
   - kodak short film award - special mention # 3 Events: 1999-2001
-  - label europa cinemas # 18 Events: 2005-2019, 2021-2023
+  - label europa cinemas # 19 Events: 2005-2019, 2021-2024
   - le premier regard award # 1 Event: 2003
   - leitz cine discovery prize # 5 Events: 2019, 2021-2024
   - light on women award # 1 Event: 2022
@@ -1578,12 +1582,13 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - norman mclaren award # 2 Events: 2006-2007
   - ocic award # 16 Events: 1952-1956, 1959-1967, 1971, 1973
   - ocic award - special mention # 4 Events: 1952, 1955-1957
-  - palm dog # 21 Events: 2001-2019, 2021, 2023
+  - palm dog # 22 Events: 2001-2019, 2021, 2023-2024
   - palm dog - jury prize # 10 Events: 2008, 2010-2018
   - palm dog - special mention # 7 Events: 2001-2006, 2014
   - palm dogmanitarian award # 3 Events: 2015-2017
   - palme d'or # 69 Events: 1939, 1955-2019, 2021-2024
   - palme d'or - best short film # 68 Events: 1955-1958, 1960-2024
+  - palme d'or - short film # 1 Event: 2024
   - palme d'or spéciale # 1 Event: 2018
   - palme de whiskers # 6 Events: 2010, 2012, 2014-2017
   - parallel section # 4 Events: 1976-1977, 1979, 2000
@@ -1629,7 +1634,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - un certain regard - best actor # 3 Events: 2006, 2014, 2018
   - un certain regard - best actress # 5 Events: 2006, 2010, 2012, 2017, 2019
   - un certain regard - best director # 5 Events: 2011, 2017, 2019, 2023-2024
-  - un certain regard - best performance # 2 Events: 2022, 2024
+  - un certain regard - best performance # 1 Event: 2022
   - un certain regard - directing prize # 6 Events: 2011, 2013, 2015-2016, 2018, 2022
   - un certain regard - ensemble prize # 3 Events: 2014, 2021, 2023
   - un certain regard - freedom prize # 1 Event: 2023
