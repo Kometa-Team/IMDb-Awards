@@ -32,7 +32,7 @@ logger.header(args, sub=True)
 logger.separator("Validating Options", space=False, border=False)
 logger.start()
 event_ids = YAML(path=os.path.join(base_dir, "event_ids.yml"))
-original_event_ids = [ev for ev in event_ids["event_ids"]]
+original_event_ids = list(set([ev for ev in event_ids["event_ids"]]))
 original_event_ids.sort()
 total_ids = len(original_event_ids)
 os.makedirs(os.path.join(base_dir, "events"), exist_ok=True)
