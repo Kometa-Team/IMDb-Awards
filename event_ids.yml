@@ -6,8 +6,13 @@ event_ids:
 - ev0000147 # Cannes Film Festival
 - ev0000157 # César Awards, France
 - ev0000223 # Primetime Emmy Awards
+- ev0000245 # Filmfare Awards
+- ev0000280 # German Film Awards
 - ev0000292 # Golden Globes, USA
 - ev0000349 # Film Independent Spirit Awards
+- ev0000361 # Awards of the International Indian Film Academy
+- ev0000415 # Zee Cine Awards
+- ev0000467 # National Film Awards, India
 - ev0000468 # National Film Preservation Board, USA
 - ev0000530 # People's Choice Awards, USA
 - ev0000558 # Razzie Awards
@@ -15,18 +20,13 @@ event_ids:
 - ev0000631 # Sundance Film Festival
 - ev0000659 # Toronto International Film Festival
 - ev0000681 # Venice Film Festival
-- ev0060658
-- ev0001931
-- ev0057191
-- ev0073358
-- ev0000415
-- ev0005699
-- ev0000245
-- ev0035513
-- ev0000361
-- ev0036701
-- ev0011808
-- ev0000467
-- ev0001931
-- ev0005770
-- ev0000280
+- ev0001931 # Indian Television Academy Awards, India
+- ev0001931 # Indian Television Academy Awards, India
+- ev0005699 # Zee Rishtey Awards
+- ev0005770 # Nickelodeon Kids' Choice Awards, India
+- ev0011808 # Indian Film Festival Of Melbourne
+- ev0035513 # Filmfare OTT Awards
+- ev0036701 # Critics’ Choice Shorts and Series Awards, India
+- ev0057191 # Iconic Gold Awards
+- ev0060658 # Bollywood Film Journalist Awards
+- ev0073358 # International Iconic Awards

@@ -1,0 +1,1901 @@
+# Indian Television Academy Awards, India
+'2023':  # https://www.imdb.com/event/ev0001931/2023/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt15237514, tt24031860, tt7112704, tt27719227, tt7147670]
+      winner: [tt15237514]
+    best actor - popular:
+      nominee: [tt7112704, tt24031860, tt13085534, tt15237514, tt11867666]
+      winner: [tt7112704]
+    best actor in a comic role:
+      nominee: [tt13853152, tt1708446, tt5747326, tt5154982, tt9877848]
+      winner: [tt13853152]
+    best actor in a comic role (popular):
+      nominee: [tt1708446, tt5747326, tt5154982, tt13853152]
+      winner: []
+    best actor in a negative role:
+      nominee: [tt21279362, tt15234990, tt13717758, tt27727527, tt27719227]
+      winner: [tt21279362]
+    best actor in a supporting role (comedy):
+      nominee: [tt5747326, tt13853152, tt5154982]
+      winner: [tt5747326]
+    best actor in a supporting role (drama):
+      nominee: [tt13853152, tt27727527, tt20872936, tt15237514, tt24031860]
+      winner: [tt13853152]
+    best actress - drama:
+      nominee: [tt24031860, tt3911870, tt7112704, tt11867666, tt27993208]
+      winner: [tt24031860]
+    best actress - popular:
+      nominee: [tt5323298, tt24031860, tt15138496, tt7112704, tt27993208]
+      winner: [tt5323298]
+    best actress in a comic role:
+      nominee: [tt5747326, tt19396408, tt13853152, tt5154982, tt1708446]
+      winner: [tt5747326]
+    best actress in a comic role (popular):
+      nominee: [tt25275976, tt13853152, tt18559970, tt5154982, tt21280104]
+      winner: [tt25275976]
+    best actress in a negative role:
+      nominee: [tt25503742, tt15234990, tt13717758, tt5323298, tt26773833]
+      winner: [tt25503742]
+    best actress in a supporting role (comedy):
+      nominee: [tt1708446, tt13853152, tt9877848, tt5747326]
+      winner: [tt1708446]
+    best actress in a supporting role (drama):
+      nominee: [tt25503742, tt11867666, tt13853152, tt15237514, tt15234990]
+      winner: [tt25503742]
+    best anchor - game/quiz show:
+      nominee: [tt6742294]
+      winner: [tt6742294]
+    best anchor - music/dance based show:
+      nominee: [tt4197638]
+      winner: [tt4197638]
+    best child actor:
+      nominee: [tt24031860, tt29493227, tt20872936, tt13853152, tt7112704]
+      winner: [tt24031860]
+    best direction - comedy:
+      nominee: [tt5747326, tt5154982, tt1708446, tt13853152]
+      winner: [tt5747326]
+    best direction - drama:
+      nominee: [tt24031860, tt29493227, tt21279362, tt21111170, tt13853152]
+      winner: [tt24031860]
+    best direction - reality show:
+      nominee: [tt0250875, tt1281973, tt6742294, tt10978626, tt21744296]
+      winner: [tt0250875]
+    best documentary:
+      nominee: [tt30631281]
+      winner: [tt30631281]
+    best music composer:
+      nominee: [tt19396408]
+      winner: [tt19396408]
+    best reality show (dance/music):
+      nominee: [tt0486068, tt19355604, tt4197638, tt10978626, tt21744296]
+      winner: [tt0486068]
+    best reality show (game/quiz):
+      nominee: [tt7822166, tt1281973, tt27178946, tt6742294]
+      winner: [tt7822166]
+    best serial - comedy (popular):
+      nominee: [tt18559970, tt21280104, tt1708446, tt5747326, tt13853152]
+      winner: []
+    best serial - drama:
+      nominee: [tt24031860, tt11867666, tt26773833, tt13853152, tt7112704]
+      winner: [tt24031860]
+    best serial - historical:
+      nominee: [tt21803130]
+      winner: [tt21803130]
+    best serial - mytho/fantasy:
+      nominee: [tt21280214, tt27161705]
+      winner: [tt21280214, tt27161705]
+    best serial - popular:
+      nominee: [tt7112704, tt11867666, tt24031860, tt15138496, tt5323298]
+      winner: [tt7112704]
+    'best serial: comedy':
+      nominee: [tt13853152, tt5154982, tt1708446]
+      winner: [tt13853152]
+    best singer:
+      nominee: [tt21111170]
+      winner: [tt21111170]
+    best story ott:
+      nominee: [tt21811062]
+      winner: []
+    best talk/chat show:
+      nominee: [tt5747326]
+      winner: [tt5747326]
+  ott award:
+    best actor - drama (ott):
+      nominee: [tt27853283, tt28106779, tt27862209, tt21818260, tt13847564, tt15477488]
+      winner: [tt27853283, tt28106779]
+    best actor - popular (ott):
+      nominee: [tt27853283, tt15752618, tt15576504, tt19868804, tt11912196, tt19868286]
+      winner: [tt27853283]
+    best actor in an original film:
+      nominee: [tt28152747, tt28282716, tt24485052, tt18951176, tt13732212]
+      winner: [tt28152747]
+    'best actor: comedy (ott)':
+      nominee: [tt4742876, tt20916800, tt20118220, tt22014226, tt26931120]
+      winner: [tt4742876]
+    best actress - drama (ott):
+      nominee: [tt22531848, tt27442834, tt11611698, tt25729214, tt19868314]
+      winner: [tt22531848]
+    best actress - popular (ott):
+      nominee: [tt19868804, tt15576504, tt15891396, tt27442834, tt26660582]
+      winner: [tt19868804, tt15576504]
+    best actress in an original film:
+      nominee: [tt21387380, tt15128068, tt20872920, tt18413766, tt18951176]
+      winner: [tt21387380]
+    'best actress: comedy (ott)':
+      nominee: [tt22014226, tt11407524, tt20118220, tt20916800]
+      winner: [tt22014226]
+    best direction - drama (ott):
+      nominee: [tt22297178]
+      winner: [tt22297178]
+    'best direction: comedy (ott)':
+      nominee: [tt20118220, tt20916800, tt4742876, tt6005644]
+      winner: [tt20118220]
+    best documentary (ott):
+      nominee: [tt21908726]
+      winner: [tt21908726]
+    best original film - ott:
+      nominee: [tt24485052, tt19755170, tt18951176, tt13885320, tt28282716]
+      winner: [tt24485052]
+    best web series - comedy:
+      nominee: [tt22014226, tt20916800, tt20118220, tt11407524, tt27908694]
+      winner: [tt22014226]
+    best web series - drama:
+      nominee: [tt13868972, tt28106779, tt27853283, tt6494622, tt21811062, tt22185582]
+      winner: [tt13868972]
+    best web series - popular:
+      nominee: [tt27853283, tt11912196, tt22297684, tt15477488, tt22297178, tt15576504]
+      winner: [tt27853283]
+  technical award (tv):
+    best dialogue:
+      nominee: [tt29493227]
+      winner: [tt29493227]
+    best lyricist:
+      nominee: [tt21111170]
+      winner: [tt21111170]
+    best story:
+      nominee: [tt7112704]
+      winner: [tt7112704]
+    best teleplay:
+      nominee: [tt11867666]
+      winner: [tt11867666]
+    best visual effects:
+      nominee: [tt21111170]
+      winner: [tt21111170]
+  technical award (web):
+    best costume design:
+      nominee: [tt19868804]
+      winner: [tt19868804]
+    best dop - ott:
+      nominee: [tt19868804]
+      winner: [tt19868804]
+    best dialogue - drama (ott):
+      nominee: [tt13868972, tt15315164, tt13847564, tt19868804, tt6494622, tt21811062]
+      winner: [tt13868972]
+    best screenplay - ott:
+      nominee: [tt15315164, tt13131232]
+      winner: [tt15315164, tt13131232]
+'2022': # https://www.imdb.com/event/ev0001931/2022/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt15237514, tt14046022, tt20232392, tt13085534, tt13853152]
+      winner: [tt15237514]
+    best actor - popular:
+      nominee: [tt7112704, tt11867666, tt20872908, tt9025492]
+      winner: [tt7112704]
+    best actor in a comic role (jury):
+      nominee: [tt13853152, tt5154982, tt1708446]
+      winner: [tt13853152]
+    best actor in a comic role (popular):
+      nominee: [tt1708446, tt5154982, tt5747326, tt13853152]
+      winner: [tt1708446]
+    best actor in a negative role:
+      nominee: [tt20872908, tt20872936, tt12492338, tt18364628]
+      winner: [tt20872908]
+    best actor in a supporting role:
+      nominee: [tt11867666, tt5747326, tt20872908, tt13085534]
+      winner: [tt11867666]
+    best actress - drama:
+      nominee: [tt15237514, tt13085534, tt20872936, tt20232392, tt11867666, tt20253040]
+      winner: [tt15237514]
+    best actress - popular:
+      nominee: [tt7112704, tt11867650, tt9025492, tt20872908, tt11867666, tt5323298]
+      winner: [tt7112704]
+    best actress in a comic role (jury):
+      nominee: [tt5154982, tt17065486, tt1708446, tt13853152]
+      winner: [tt5154982]
+    best actress in a comic role (popular):
+      nominee: [tt5747326, tt1708446, tt13853152, tt5154982, tt15138336]
+      winner: [tt5747326]
+    best actress in a negative role:
+      nominee: [tt13085534, tt15234990, tt20232392, tt14878970, tt5323298]
+      winner: [tt13085534]
+    best actress in a supporting role:
+      nominee: [tt20872936, tt7112704, tt13853152, tt11867666, tt5747326]
+      winner: [tt20872936]
+    best anchor - game/quiz show:
+      nominee: [tt6742294]
+      winner: [tt6742294]
+    best director - comedy:
+      nominee: [tt13853152]
+      winner: [tt13853152]
+    best director - drama:
+      nominee: [tt21652576]
+      winner: [tt21652576]
+    best reality show (game/quiz):
+      nominee: [tt6742294]
+      winner: [tt6742294]
+    best serial - comedy:
+      nominee: [tt5154982]
+      winner: [tt5154982]
+    best serial - drama:
+      nominee: [tt13364380]
+      winner: [tt13364380]
+  technical award:
+    best costume designer:
+      nominee: [tt13853152]
+      winner: [tt13853152]
+    best costume designer - ott:
+      nominee: [tt14107554]
+      winner: [tt14107554]
+    best dialogue (comedy):
+      nominee: [tt5747326]
+      winner: [tt5747326]
+    best dialogue (drama):
+      nominee: [tt20253040]
+      winner: [tt20253040]
+    best dialogue - ott:
+      nominee: [tt9432978]
+      winner: [tt9432978]
+    best editing (ott):
+      nominee: [tt13868972]
+      winner: [tt13868972]
+    best story:
+      nominee: [tt14046022]
+      winner: [tt14046022]
+    best vfx (ott):
+      nominee: [tt13868972]
+      winner: [tt13868972]
+    best visual effects:
+      nominee: [tt21280214]
+      winner: [tt21280214]
+  ott award:
+    best actor - drama (ott):
+      nominee: [tt13868972, tt9432978, tt11640208, tt19355272]
+      winner: [tt13868972]
+    'best actor: comedy (ott)':
+      nominee: [tt21308854, tt10530900, tt12004706]
+      winner: [tt21308854]
+    'best actor: original film (ott)':
+      nominee: [tt14107554, tt14479746, tt10280296, tt13912632]
+      winner: [tt14107554, tt14479746]
+    best actress - drama (ott):
+      nominee: [tt14420552, tt19865778, tt20753964, tt17494264, tt18247152]
+      winner: [tt14420552]
+    'best actress: comedy (ott)':
+      nominee: [tt12004706, tt9359346, tt21308854, tt13062628]
+      winner: [tt12004706]
+    'best actress: original film (ott)':
+      nominee: [tt14107554, tt14479746, tt13912632]
+      winner: [tt14107554]
+    best debutant actress of the year -ott:
+      nominee: [tt10733228]
+      winner: [tt10733228]
+    best director - comedy (ott):
+      nominee: [tt12004706]
+      winner: [tt12004706]
+    best director - drama (ott):
+      nominee: [tt13868972]
+      winner: [tt13868972]
+    best director - original film:
+      nominee: [tt14479746]
+      winner: [tt14479746]
+    best original film - ott:
+      nominee: [tt13529034]
+      winner: [tt13529034]
+    best performance by an actor in a negative role (ott):
+      nominee: [tt16729514, tt15516446, tt12392496, tt19865778]
+      winner: [tt16729514]
+    best story - ott:
+      nominee: [tt13868972]
+      winner: [tt13868972]
+    best supporting actor - drama (ott):
+      nominee: [tt16729514, tt18247152]
+      winner: [tt16729514]
+    'best supporting actor: comedy (ott)':
+      nominee: [tt21308854, tt12004706, tt13062628, tt10530900]
+      winner: [tt21308854]
+    'best supporting actor: original film (ott)':
+      nominee: [tt14479746]
+      winner: [tt14479746]
+    best supporting actress - drama (ott):
+      nominee: [tt11640208, tt20753964, tt19865778, tt15128088, tt13868972]
+      winner: [tt11640208]
+    'best supporting actress: comedy (ott)':
+      nominee: [tt20753964, tt10530900, tt12004706]
+      winner: [tt20753964]
+    best web series - comedy:
+      nominee: [tt12004706]
+      winner: [tt12004706]
+    best web series - drama:
+      nominee: [tt13868972]
+      winner: [tt13868972]
+    most popular actor - ott:
+      nominee: [tt11640208, tt12805346, tt15295490, tt16729514, tt15128122]
+      winner: [tt11640208]
+    most popular actress - ott:
+      nominee: [tt12004706, tt8254348, tt20673854, tt20866202, tt12448030]
+      winner: [tt12004706]
+'2021': # https://www.imdb.com/event/ev0001931/2021/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt11867666, tt10461426, tt15237514, tt13853152, tt9044932]
+      winner: [tt11867666]
+    best actor - popular:
+      nominee: [tt7112704, tt15237514, tt11867666, tt9025492]
+      winner: [tt7112704, tt15237514]
+    best actor in a comic role (jury):
+      nominee: [tt5154982, tt1708446, tt14546204, tt11867666, tt13853152]
+      winner: [tt5154982]
+    best actor in a comic role (popular):
+      nominee: [tt1708446, tt5154982, tt5747326, tt13853152]
+      winner: [tt1708446]
+    best actor in a negative role:
+      nominee: [tt9044932, tt14144758, tt15716722, tt7147670, tt13085534]
+      winner: [tt9044932]
+    best actor in a supporting role:
+      nominee: [tt5747326, tt1708446, tt13593748, tt15380526]
+      winner: [tt5747326]
+    best actress - drama:
+      nominee: [tt15138496, tt15138448, tt10461426, tt11867666, tt7112704]
+      winner: [tt15138496]
+    best actress - popular:
+      nominee: [tt11867666, tt15138496, tt12951874, tt9025492, tt13937912]
+      winner: [tt11867666]
+    best actress in a comic role (jury):
+      nominee: [tt13853152, tt11867666, tt11867650, tt5154982]
+      winner: [tt13853152]
+    best actress in a comic role (popular):
+      nominee: [tt5747326, tt1708446, tt13853152, tt5154982]
+      winner: [tt5747326]
+    best actress in a negative role:
+      nominee: [tt15410666, tt13085534, tt3911870, tt11867666]
+      winner: [tt15410666]
+    best actress in a supporting role:
+      nominee: [tt10461426, tt11867666, tt13853152, tt9877848, tt12492338]
+      winner: [tt10461426]
+    best anchor - reality tv:
+      nominee: [tt19355604]
+      winner: [tt19355604]
+    best anchor- talk chat show:
+      nominee: [tt5747326]
+      winner: [tt5747326]
+    best child actor:
+      nominee: [tt15380526, tt16156018, tt15716722, tt15138426]
+      winner: [tt15380526]
+    best director - comedy:
+      nominee: [tt5747326, tt11867650, tt1708446, tt12952306]
+      winner: [tt5747326]
+    best director - drama:
+      nominee: [tt16156018, tt15410666, tt11867666, tt9044932]
+      winner: [tt16156018]
+    best historical serial:
+      nominee: [tt16156018, tt12492338, tt13593748, tt15410666, tt13509622]
+      winner: [tt16156018]
+    best mytho/fantasy serial:
+      nominee: [tt9044932, tt15716722, tt5323298, tt9025492, tt13854248, tt11180176]
+      winner: [tt9044932]
+    best reality show:
+      nominee: [tt9501266, tt6742294, tt10370866]
+      winner: [tt9501266]
+    best reality show (dance/music):
+      nominee: [tt10370866, tt8451332, tt19355604, tt0486068]
+      winner: [tt10370866]
+    best serial - comedy:
+      nominee: [tt5154982, tt13853152, tt9877848, tt11867650, tt1708446]
+      winner: [tt5154982, tt13853152]
+    best serial - drama:
+      nominee: [tt11867666, tt10461426, tt13364380, tt3911870, tt13853152]
+      winner: [tt11867666]
+    best talk/chat show:
+      nominee: [tt5747326]
+      winner: [tt5747326]
+    most popular show - comedy:
+      nominee: [tt1708446, tt5154982, tt13358186, tt5747326, tt13853152]
+      winner: [tt1708446]
+    most popular show - drama:
+      nominee: [tt11867666, tt15138496, tt13937912, tt9025492, tt11349960]
+      winner: [tt11867666]
+  technical award:
+    best dialogue (drama):
+      nominee: [tt11867666]
+      winner: [tt11867666]
+    best dialogue (ott):
+      nominee: [tt6473300]
+      winner: [tt6473300]
+    best teleplay:
+      nominee: [tt9044932]
+      winner: [tt9044932]
+    best visual effects:
+      nominee: [tt11180176]
+      winner: [tt11180176]
+  special award:
+    best actor of the year:
+      nominee: [tt7518786]
+      winner: [tt7518786]
+    best movie of the year:
+      nominee: [tt7518786]
+      winner: [tt7518786]
+    film with social impact:
+      nominee: [tt12861850]
+      winner: [tt12861850]
+    viewer mention:
+      nominee: [tt14650074]
+      winner: [tt14650074]
+  ott award:
+    best actor - drama (ott):
+      nominee: [tt9544034, tt13690576, tt6473300, tt15516446, tt8317568]
+      winner: [tt9544034, tt13690576]
+    best actor in an original film:
+      nominee: [tt7212754, tt14418234, tt10083640, tt9766332, tt13562940]
+      winner: [tt7212754]
+    best actress - drama (ott):
+      nominee: [tt13690576, tt10285166, tt14368638, tt11646658, tt9544034, tt6473300]
+      winner: [tt13690576]
+    best actress in an original film:
+      nominee: [tt9603216, tt10895576, tt9766332, tt11027830, tt10741542]
+      winner: [tt9603216]
+    best director - original film:
+      nominee: [tt10895576, tt7212754, tt14418234, tt11314148, tt10450718, tt11027830]
+      winner: [tt10895576]
+    best original film - ott:
+      nominee: [tt7212754]
+      winner: [tt7212754]
+    best story - ott:
+      nominee: [tt9544034]
+      winner: [tt9544034]
+    best supporting actor - drama (ott):
+      nominee: [tt15012366, tt15516446, tt14479078, tt6473300]
+      winner: [tt15012366]
+    best supporting actor in an original film:
+      nominee: [tt10895576, tt10083640, tt11314148, tt11816092, tt10741542]
+      winner: [tt10895576]
+    best supporting actress - drama (ott):
+      nominee: [tt12714854, tt9544034, tt6473300, tt14479078, tt15012366]
+      winner: [tt12714854]
+    best supporting actress in an original film:
+      nominee: [tt12861212, tt10083640, tt13562940, tt10895576]
+      winner: [tt12861212]
+    best web series - drama:
+      nominee: [tt9544034]
+      winner: [tt9544034]
+    most popular actor - ott:
+      nominee: [tt15516446, tt14650074, tt15012366, tt13899566, tt12714854]
+      winner: [tt15516446]
+    most popular actress - ott:
+      nominee: [tt15012366, tt14033154, tt12714854]
+      winner: [tt15012366]
+    most popular film (ott release):
+      nominee: [tt10295212]
+      winner: [tt10295212]
+    most popular show (ott):
+      nominee: [tt15012366, tt14167344, tt14650074, tt6473300, tt12714854]
+      winner: [tt15012366]
+'2020': # https://www.imdb.com/event/ev0001931/2020/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - popular:
+      nominee: [tt7147670, tt11867666, tt12951874, tt5323298, tt9025492]
+      winner: [tt7147670, tt11867666]
+    best actor - web series:
+      nominee: [tt12392504, tt10042058, tt6473300, tt9680440]
+      winner: [tt12392504]
+    best actor in a supporting role:
+      nominee: [tt5747326, tt7509964, tt8903210]
+      winner: [tt5747326]
+    best actress - drama:
+      nominee: [tt10985682, tt7112704, tt7147670, tt3911870]
+      winner: [tt10985682]
+    best actress - popular:
+      nominee: [tt5323298, tt12951874, tt11867666, tt7147670, tt5154982]
+      winner: [tt5323298]
+    best actress in a supporting role:
+      nominee: [tt1708446, tt10461426, tt11867666, tt5747326]
+      winner: [tt1708446]
+    best popular show:
+      nominee: [tt12951874, tt11867666, tt7147670, tt5323298, tt9025492]
+      winner: [tt12951874]
+    international artist:
+      nominee: [tt4320258]
+      winner: [tt4320258]
+  special award:
+    landmark-ott:
+      nominee: [tt12805346, tt11912196, tt13690576, tt9680440, tt12392504]
+      winner: [tt12805346, tt11912196, tt13690576, tt9680440, tt12392504]
+  milestone achievement award:
+    milestone award:
+      nominee: [tt2103372, tt1921518, tt1450737, tt1727829, tt1518542]
+      winner: [tt2103372, tt1921518, tt1450737, tt1727829, tt1518542]
+  ott award:
+    best debutant actress of the year -ott:
+      nominee: [tt10062614]
+      winner: [tt10062614]
+    best original film - ott:
+      nominee: [tt10062614, tt11651796, tt12393526, tt8472964, tt11229134, tt11163028]
+      winner: [tt10062614]
+    most popular actress - ott:
+      nominee: [tt10062614, tt12004706, tt9398466, tt12392504, tt12448030]
+      winner: [tt10062614]
+'2019': # https://www.imdb.com/event/ev0001931/2019/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt10461440, tt10461426, tt3911870, tt10833468]
+      winner: [tt10461440]
+    best actor - popular:
+      nominee: [tt7147670, tt7781554, tt7383658, tt7509964]
+      winner: [tt7147670]
+    best actor - web series:
+      nominee: [tt9095260, tt6494622, tt8392006, tt8292460]
+      winner: [tt9095260]
+    best actor in a comic role:
+      nominee: [tt5747326, tt5154982]
+      winner: [tt5747326]
+    best actor in a negative role:
+      nominee: [tt9135686, tt8806456, tt8163874, tt7401524]
+      winner: [tt9135686]
+    best actor in a supporting role:
+      nominee: [tt5154982, tt7880766, tt7401524, tt10461440]
+      winner: [tt5154982]
+    best actor in a supporting role - web series:
+      nominee: [tt9095260, tt6494622, tt8242548]
+      winner: [tt9095260]
+    best actress - drama:
+      nominee: [tt3911870, tt9710650, tt9168160, tt10833468]
+      winner: [tt3911870]
+    best actress - popular:
+      nominee: [tt7112704, tt7383658, tt8729932, tt7147670]
+      winner: [tt7112704]
+    best actress - web series:
+      nominee: [tt7269100, tt8242548, tt8392006, tt6473300]
+      winner: [tt7269100]
+    best actress in a comic role:
+      nominee: [tt5747326, tt9915686, tt8806456, tt5154982, tt8706902]
+      winner: [tt5747326]
+    best actress in a negative role:
+      nominee: [tt10071522, tt8163874, tt9710650, tt6352300]
+      winner: [tt10071522]
+    best actress in a supporting role:
+      nominee: [tt8523124, tt10461426, tt7509964, tt10366024, tt10590436]
+      winner: [tt8523124]
+    best child actor:
+      nominee: [tt9135686]
+      winner: [tt9135686]
+    best director - comedy:
+      nominee: [tt5747326]
+      winner: [tt5747326]
+    best director - drama:
+      nominee: [tt10590436, tt10833468, tt10071522]
+      winner: [tt10590436]
+    best director - web series:
+      nominee: [tt6494622]
+      winner: [tt6494622]
+    best historical serial:
+      nominee: [tt9710650]
+      winner: [tt9710650]
+    best mythological show:
+      nominee: [tt9025492]
+      winner: [tt9025492]
+    best onscreen couple:
+      nominee: [tt7383658]
+      winner: [tt7383658]
+    best serial - comedy:
+      nominee: [tt5747326]
+      winner: [tt5747326]
+    best serial - drama:
+      nominee: [tt10833468, tt10590436, tt1719849, tt9168160]
+      winner: [tt10833468]
+    best serial - popular:
+      nominee: [tt7147670, tt8729932, tt7112704, tt7383658]
+      winner: [tt7147670]
+    best serial - thriller/horor:
+      nominee: [tt8706902]
+      winner: [tt8706902]
+    best singer:
+      nominee: [tt10351232]
+      winner: [tt10351232]
+  technical award:
+    best visual effects:
+      nominee: [tt8240188]
+      winner: [tt8240188]
+  special award:
+    comedy genius:
+      nominee: [tt5747326]
+      winner: [tt5747326]
+  ott award:
+    most popular actress - ott:
+      nominee: [tt10530900]
+      winner: []
+'2018': # https://www.imdb.com/event/ev0001931/2018/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt7446400, tt7901874, tt8163874, tt5919914, tt5697728]
+      winner: [tt7446400]
+    best actor - popular:
+      nominee: [tt7781554, tt5919914, tt7383658, tt7509964, tt7045034]
+      winner: [tt7781554]
+    best actor - web series:
+      nominee: [tt6466208, tt8325314, tt7612938, tt6077448]
+      winner: [tt6466208]
+    best actor in a comic role:
+      nominee: [tt5154982, tt1708446, tt8137682]
+      winner: [tt5154982]
+    best actor in a negative role:
+      nominee: [tt8806456]
+      winner: [tt8806456]
+    best actor in a supporting role:
+      nominee: [tt7880766, tt7222902, tt1708446, tt7446400]
+      winner: [tt7880766]
+    best actor in a supporting role - web series:
+      nominee: [tt6077448]
+      winner: [tt6077448]
+    best actress - drama:
+      nominee: [tt3550730, tt8531380, tt7781554, tt7112704, tt3911870, tt5323298]
+      winner: [tt3550730]
+    best actress - popular:
+      nominee: [tt5919914, tt7045034, tt8531380, tt7781554, tt7509964]
+      winner: [tt5919914]
+    best actress - web series:
+      nominee: [tt8325314, tt8228316, tt6868278, tt5909930, tt6077448]
+      winner: [tt8325314]
+    best actress in a comic role:
+      nominee: [tt5154982, tt7880766, tt7401524]
+      winner: [tt5154982]
+    best actress in a supporting role:
+      nominee: [tt8531380, tt7974040, tt7509964, tt8806456, tt5697728]
+      winner: [tt8531380]
+    best child actor:
+      nominee: [tt8163874]
+      winner: [tt8163874]
+    best children's program:
+      nominee: [tt7401524]
+      winner: [tt7401524]
+    best dialogue - drama:
+      nominee: [tt8437668]
+      winner: [tt8437668]
+    best director - drama:
+      nominee: [tt7690392, tt5697728]
+      winner: [tt7690392]
+    best director - sitcom comedy:
+      nominee: [tt7651202]
+      winner: [tt7651202]
+    best director - thriller:
+      nominee: [tt8752040]
+      winner: [tt8752040]
+    best director drama - jury:
+      nominee: [tt7781554]
+      winner: [tt7781554]
+    best host:
+      nominee: [tt0486068]
+      winner: [tt0486068]
+    best reality show:
+      nominee: [tt10370866]
+      winner: [tt10370866]
+    best serial - drama:
+      nominee: [tt8163874, tt7781554, tt8678054, tt5323298, tt8531380]
+      winner: [tt8163874]
+    best serial - popular:
+      nominee: [tt7781554, tt8678054, tt5919914, tt7045034, tt7509964]
+      winner: [tt7781554]
+    best singer:
+      nominee: [tt7651298]
+      winner: [tt7651298]
+    best teleplay:
+      nominee: [tt7446400]
+      winner: [tt7446400]
+    best web series:
+      nominee: [tt6077448, tt6466208, tt8325314, tt6868278, tt8595766]
+      winner: [tt6077448]
+    highest rated show:
+      nominee: [tt5323298]
+      winner: [tt5323298]
+    popular star (male):
+      nominee: [tt2065938]
+      winner: []
+  technical award:
+    best art direction - fiction:
+      nominee: [tt5919914]
+      winner: [tt5919914]
+    best art direction - non fiction:
+      nominee: [tt1281973]
+      winner: [tt1281973]
+    best costume designer:
+      nominee: [tt7690392]
+      winner: [tt7690392]
+    best dialogue - sitcom comedy:
+      nominee: [tt7651202]
+      winner: [tt7651202]
+    best dialogues:
+      nominee: [tt7880766]
+      winner: [tt7880766]
+    best visual effects:
+      nominee: [tt7446400]
+      winner: [tt7446400]
+  special award:
+    bollywood entertainer of the year:
+      nominee: [tt7725596]
+      winner: [tt7725596]
+  ott award:
+    most popular actress - ott:
+      nominee: [tt6009150]
+      winner: [tt6009150]
+'2017': # https://www.imdb.com/event/ev0001931/2017/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt6084582, tt7222902, tt5919914]
+      winner: [tt6084582]
+    best actor - popular:
+      nominee: [tt5919914, tt7509964, tt5154982, tt7118596, tt7045034]
+      winner: [tt5919914, tt7509964]
+    best actor - web series:
+      nominee: [tt1518542, tt6112414, tt6868278]
+      winner: [tt1518542, tt6112414]
+    best actor in a comic role:
+      nominee: [tt5154982, tt1708446, tt7901490, tt5989104]
+      winner: [tt5154982]
+    best actor in a negative role:
+      nominee: [tt6084582, tt7401524, tt6193550, tt7915114, tt6581364]
+      winner: [tt6084582]
+    best actor in a supporting role:
+      nominee: [tt8747458, tt5919914, tt7871724, tt5154982]
+      winner: [tt8747458]
+    best actress - drama:
+      nominee: [tt6193550, tt6084582, tt7236124, tt7112704, tt3911870]
+      winner: [tt6193550]
+    best actress - popular:
+      nominee: [tt6227092, tt5323298, tt7045034, tt3911870, tt5919914]
+      winner: [tt6227092]
+    best actress - web series:
+      nominee: [tt6868278, tt1518542, tt6112414]
+      winner: [tt6868278]
+    best actress in a comic role:
+      nominee: [tt5154982, tt1708446, tt7762656, tt5989104]
+      winner: [tt5154982]
+    best actress in a negative role:
+      nominee: [tt7509964, tt7236124, tt7875634, tt6435136, tt7060662]
+      winner: [tt7509964]
+    best actress in a supporting role:
+      nominee: [tt7871724, tt7151780, tt7762656, tt5697728]
+      winner: [tt7871724]
+    best anchor - music & film based show:
+      nominee: [tt0445883]
+      winner: [tt0445883]
+    best child actor:
+      nominee: [tt8437668]
+      winner: [tt8437668]
+    best children show:
+      nominee: [tt7762954]
+      winner: [tt7762954]
+    best director - comedy:
+      nominee: [tt5154982]
+      winner: [tt5154982]
+    best director - drama:
+      nominee: [tt8437668]
+      winner: [tt8437668]
+    best director - web series:
+      nominee: [tt6868278]
+      winner: [tt6868278]
+    best historical/mythological serial:
+      nominee: [tt8437668]
+      winner: [tt8437668]
+    best music & film based show:
+      nominee: [tt8457744]
+      winner: [tt8457744]
+    best reality show:
+      nominee: [tt6742294]
+      winner: [tt6742294]
+    best serial - comedy:
+      nominee: [tt5154982]
+      winner: [tt5154982]
+    best serial - drama:
+      nominee: [tt6084582]
+      winner: [tt6084582]
+    best serial - popular:
+      nominee: [tt5919914, tt1943898, tt7118596, tt7045034, tt7509964]
+      winner: [tt5919914]
+    best serial - thriller / horror:
+      nominee: [tt7222902, tt7151738, tt0401916, tt5323298, tt4525628]
+      winner: [tt7222902]
+    best singer:
+      nominee: [tt7762656]
+      winner: [tt7762656]
+    best story:
+      nominee: [tt7875634, tt6084582]
+      winner: [tt7875634]
+    best teleplay:
+      nominee: [tt7871724, tt6084582]
+      winner: [tt7871724]
+    best web series:
+      nominee: [tt6112414]
+      winner: [tt6112414]
+    most entertaining personality on tv:
+      nominee: [tt8389566]
+      winner: [tt8389566]
+  technical award:
+    best costumes:
+      nominee: [tt6755668]
+      winner: [tt6755668]
+    best dialogue (drama):
+      nominee: [tt7875634]
+      winner: [tt7875634]
+    best visual effects:
+      nominee: [tt7169576]
+      winner: [tt7169576]
+'2016': # https://www.imdb.com/event/ev0001931/2016/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt2792284, tt5700398, tt1943898, tt6812456, tt7763100]
+      winner: [tt2792284]
+    best actor - popular:
+      nominee: [tt3911870, tt3550730, tt5697728, tt5495778, tt7509964]
+      winner: [tt3911870]
+    best actor in a comic role:
+      nominee: [tt5154982, tt1708446, tt8377874, tt5989104]
+      winner: [tt5154982]
+    best actor in a negative role:
+      nominee: [tt7763100, tt2792284, tt5700398, tt7763024]
+      winner: [tt7763100]
+    best actor in a supporting role:
+      nominee: [tt4505268]
+      winner: [tt4505268]
+    best actress - drama:
+      nominee: [tt7509964, tt8560810, tt2570866, tt6812456, tt2792284]
+      winner: [tt7509964]
+    best actress - popular:
+      nominee: [tt5323298, tt4659926, tt3550730, tt7509964, tt3911870]
+      winner: [tt5323298]
+    best actress in a negative role:
+      nominee: [tt7937278, tt5697728, tt3550730, tt2792284, tt8690504]
+      winner: [tt7937278]
+    best actress in a comic role:
+      nominee: [tt5154982, tt8377874, tt1708446, tt5989104]
+      winner: [tt5154982]
+    best actress in a supporting role:
+      nominee: [tt6093500, tt4659926]
+      winner: [tt6093500, tt4659926]
+    best anchor - music & film based show:
+      nominee: [tt8389566]
+      winner: [tt8389566]
+    best child actor:
+      nominee: [tt4659926]
+      winner: [tt4659926]
+    best historical/mythological serial:
+      nominee: [tt5700398]
+      winner: [tt5700398]
+    best music & film based show:
+      nominee: [tt8227660]
+      winner: [tt8227660]
+    best reality show:
+      nominee: [tt8451332]
+      winner: [tt8451332]
+    best serial - comedy:
+      nominee: [tt1708446]
+      winner: [tt1708446]
+    best serial - drama:
+      nominee: [tt7263828]
+      winner: [tt7263828]
+    best serial - popular:
+      nominee: [tt5323298]
+      winner: [tt5323298]
+    best singer:
+      nominee: [tt5939290]
+      winner: [tt5939290]
+    best teleplay:
+      nominee: [tt2792284]
+      winner: []
+    gr8! on-screen couple of the year:
+      nominee: [tt3550730]
+      winner: [tt3550730]
+  technical award:
+    best cinematography:
+      nominee: [tt2792284]
+      winner: [tt2792284]
+    best dialogues:
+      nominee: [tt5154982]
+      winner: [tt5154982]
+'2015': # https://www.imdb.com/event/ev0001931/2015/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt3550730]
+      winner: [tt3550730]
+    best actor - popular:
+      nominee: [tt7112704]
+      winner: [tt7112704]
+    best actor in a comic role:
+      nominee: [tt5154982]
+      winner: [tt5154982]
+    best actor in a negative role:
+      nominee: [tt3430936]
+      winner: [tt3430936]
+    best actor in a supporting role:
+      nominee: [tt1863997]
+      winner: [tt1863997]
+    best actress - drama:
+      nominee: [tt5296444]
+      winner: [tt5296444]
+    best actress - popular:
+      nominee: [tt7112704]
+      winner: [tt7112704]
+    best actress in a negative role:
+      nominee: [tt3550730]
+      winner: [tt3550730]
+    best actress in a comic role:
+      nominee: [tt1708446]
+      winner: [tt1708446]
+    best actress in a supporting role:
+      nominee: [tt3911870]
+      winner: [tt3911870]
+    best anchor:
+      nominee: [tt8389566]
+      winner: [tt8389566]
+    best child actor:
+      nominee: [tt4505268, tt7915114]
+      winner: [tt4505268, tt7915114]
+    best historical/mythological serial:
+      nominee: [tt4505268]
+      winner: [tt4505268]
+    best reality show:
+      nominee: [tt1281973]
+      winner: [tt1281973]
+    best serial:
+      nominee: [tt1863997]
+      winner: [tt1863997]
+    best serial - comedy:
+      nominee: [tt1708446]
+      winner: [tt1708446]
+    best serial - thriller / horror:
+      nominee: [tt0401916]
+      winner: [tt0401916]
+    gr8! performer of the year - female:
+      nominee: [tt4455902]
+      winner: [tt4455902]
+    gr8! performer of the year - male:
+      nominee: [tt4455902]
+      winner: [tt4455902]
+    gr8! on-screen couple:
+      nominee: [tt3911870]
+      winner: [tt3911870]
+  special award:
+    most stylish male in reality series:
+      nominee: [tt1281973]
+      winner: [tt1281973]
+    special recognition:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+'2014': # https://www.imdb.com/event/ev0001931/2014/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt2792284, tt3594220, tt2570866, tt2147999, tt7263828]
+      winner: [tt2792284]
+    best actor - popular:
+      nominee: [tt5653500, tt3594220, tt2570866, tt3911870, tt3212600]
+      winner: [tt5653500]
+    best actor in a comic role:
+      nominee: [tt1708446]
+      winner: [tt1708446]
+    best actor in a negative role:
+      nominee: [tt7263828, tt2792284, tt3430936, tt3212600, tt4299952]
+      winner: [tt7263828]
+    best actor in a supporting role:
+      nominee: [tt3216182]
+      winner: [tt3216182]
+    best actress - drama:
+      nominee: [tt2103372, tt2282359, tt2570866, tt1863997, tt3911870]
+      winner: [tt2103372]
+    best actress - popular:
+      nominee: [tt2570866, tt3550730, tt5653500, tt7263828, tt3911870]
+      winner: [tt2570866]
+    best actress in a negative role:
+      nominee: [tt7263828, tt3216182, tt3550730, tt3426342, tt3437690]
+      winner: [tt7263828]
+    best actress in a comic role:
+      nominee: [tt1708446]
+      winner: [tt1708446]
+    best actress in a supporting role:
+      nominee: [tt2570866]
+      winner: [tt2570866]
+    best anchor - music & film based show:
+      nominee: [tt8389566, tt1127012, tt2563224]
+      winner: [tt8389566]
+    best child actor:
+      nominee: [tt3216182]
+      winner: [tt3216182]
+    best historical/mythological serial:
+      nominee: [tt3216182, tt3212600]
+      winner: [tt3216182, tt3212600]
+    best lyricist:
+      nominee: [tt3594220]
+      winner: [tt3594220]
+    best reality show:
+      nominee: [tt6742294]
+      winner: [tt6742294]
+    best serial - comedy:
+      nominee: [tt1708446]
+      winner: [tt1708446]
+    best serial - popular:
+      nominee: [tt2570866]
+      winner: [tt2570866]
+    best singer:
+      nominee: [tt8796940]
+      winner: [tt8796940]
+    best title music:
+      nominee: [tt3594220]
+      winner: [tt3594220]
+    gr8! on-screen couple of the year:
+      nominee: [tt5653500]
+      winner: [tt5653500]
+    gr8! on-screen couple (viewer's choice):
+      nominee: [tt8806156]
+      winner: [tt8806156]
+    gr8! performer female:
+      nominee: [tt7263828, tt4553524]
+      winner: [tt7263828]
+    gr8! performer male:
+      nominee: [tt3594220]
+      winner: [tt3594220]
+  technical award:
+    best costumes:
+      nominee: [tt1127012]
+      winner: [tt1127012]
+'2013': # https://www.imdb.com/event/ev0001931/2013/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt2570866, tt6994570, tt2500352, tt1985299, tt2939026]
+      winner: [tt2570866]
+    best actor - popular:
+      nominee: [tt2500352, tt3430928, tt2764752, tt2192156, tt2939026]
+      winner: [tt2500352]
+    best actor in a comic role:
+      nominee: [tt3402548, tt2504274, tt1708446, tt5838218, tt5864184]
+      winner: [tt3402548]
+    best actor in a negative role:
+      nominee: [tt2147999, tt2103372, tt3426342, tt6994570, tt2282359]
+      winner: [tt2147999]
+    best actor in a supporting role:
+      nominee: [tt3402548, tt2103372, tt3385976, tt2621722]
+      winner: [tt3402548]
+    best actress - drama:
+      nominee: [tt2764752, tt2570866, tt6994570, tt1985299]
+      winner: [tt2764752]
+    best actress - popular:
+      nominee: [tt1863997, tt2939026, tt7112704, tt2764752, tt2500352]
+      winner: [tt1863997]
+    best actress in a comic role:
+      nominee: [tt2621722, tt5838218, tt2570866, tt5864184, tt3402548]
+      winner: [tt2621722]
+    best actress in a negative role:
+      nominee: [tt3216182, tt2500352, tt3426342, tt2570866, tt3900908]
+      winner: [tt3216182]
+    best actress in a supporting role:
+      nominee: [tt2570866, tt3248552, tt7112704, tt3385976, tt3476434]
+      winner: [tt2570866]
+    best anchor - game/quiz show:
+      nominee: [tt0250875]
+      winner: [tt0250875]
+    best child actor:
+      nominee: [tt6994570, tt2192156, tt7112704]
+      winner: [tt6994570]
+    best historical/mythological serial:
+      nominee: [tt3216182, tt3426342]
+      winner: [tt3216182, tt3426342]
+    best reality show:
+      nominee: [tt21264670]
+      winner: [tt21264670]
+    best reality show (game/quiz):
+      nominee: [tt0250875]
+      winner: [tt0250875]
+    best serial - comedy:
+      nominee: [tt3402548]
+      winner: [tt3402548]
+    best serial - drama:
+      nominee: [tt6994570, tt3216182, tt2103372, tt2570866, tt2764752]
+      winner: [tt6994570]
+    best serial - popular:
+      nominee: [tt2500352, tt2570866, tt2939026, tt2764752, tt1708446]
+      winner: [tt2500352]
+    best singer:
+      nominee: [tt3476434, tt2570866, tt6994570, tt2939026, tt4068208]
+      winner: [tt3476434]
+    gr8! performer of the year - female:
+      nominee: [tt2500352]
+      winner: [tt2500352]
+    gr8! performer of the year - male:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+  technical award:
+    best art direction:
+      nominee: [tt3216182]
+      winner: [tt3216182]
+    best costumes:
+      nominee: [tt3216182]
+      winner: [tt3216182]
+    best dialogues:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best editing:
+      nominee: [tt3216182]
+      winner: [tt3216182]
+    best visual effects:
+      nominee: [tt2147999]
+      winner: [tt2147999]
+  special award:
+    ita scroll of honour:
+      nominee: [tt1708446]
+      winner: [tt1708446]
+'2012': # https://www.imdb.com/event/ev0001931/2012/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt1985299, tt2570866, tt2955622, tt2429834, tt6920070]
+      winner: [tt1985299]
+    best actor - popular:
+      nominee: [tt2300165, tt6920070, tt1708446, tt1876868, tt2366915]
+      winner: [tt2300165, tt6920070]
+    best actor in a comic role:
+      nominee: [tt1708446, tt2422936]
+      winner: [tt1708446, tt2422936]
+    best actor in a negative role:
+      nominee: [tt5919848]
+      winner: [tt5919848]
+    best actor in a supporting role:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best actress - drama:
+      nominee: [tt2640252, tt1863997, tt2366915, tt2429838, tt1985299]
+      winner: [tt2640252]
+    best actress - popular:
+      nominee: [tt2366915, tt1708446, tt7112704, tt2103372, tt2300165]
+      winner: [tt2366915]
+    best actress in a comic role:
+      nominee: [tt2422932, tt1708446, tt2621722]
+      winner: [tt2422932]
+    best actress in a negative role:
+      nominee: [tt4536200, tt2265000, tt2429838, tt2282359]
+      winner: [tt4536200]
+    best actress in a supporting role:
+      nominee: [tt2429838]
+      winner: [tt2429838]
+    best anchor - music & film based show:
+      nominee: [tt8389566]
+      winner: [tt8389566]
+    best child actor:
+      nominee: [tt1985299]
+      winner: [tt1985299]
+    best serial - drama:
+      nominee: [tt2640252, tt1985299, tt2147999, tt2366915, tt2429838]
+      winner: [tt2640252]
+    best serial - popular:
+      nominee: [tt2570866, tt1985299, tt2103372, tt2300165, tt1934806]
+      winner: [tt2570866]
+    best serial - thriller / horror:
+      nominee: [tt2375256]
+      winner: [tt2375256]
+    best singer:
+      nominee: [tt2570866]
+      winner: [tt2570866]
+    best title music:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    gr8! performer of the year - female:
+      nominee: [tt2943388]
+      winner: [tt2943388]
+    gr8! performer - male:
+      nominee: [tt2939026]
+      winner: [tt2939026]
+  technical award:
+    best art direction:
+      nominee: [tt7822166]
+      winner: [tt7822166]
+    best costume designer:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+  special award:
+    ita scroll of honour:
+      nominee: [tt2147999]
+      winner: [tt2147999]
+'2011': # https://www.imdb.com/event/ev0001931/2011/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt1985299]
+      winner: [tt1985299]
+    best actor - popular:
+      nominee: [tt2265000]
+      winner: [tt2265000]
+    best actor in a supporting role:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best actress - drama:
+      nominee: [tt1985299, tt2103372]
+      winner: [tt1985299, tt2103372]
+    best actress - popular:
+      nominee: [tt1863997]
+      winner: [tt1863997]
+    best actress in a comic role:
+      nominee: [tt2621722]
+      winner: [tt2621722]
+    best actress in a negative role:
+      nominee: [tt7762818]
+      winner: [tt7762818]
+    best actress in a supporting role:
+      nominee: [tt3889862]
+      winner: [tt3889862]
+    best anchor - music/dance based show:
+      nominee: [tt2089171]
+      winner: [tt2089171]
+    best child actor:
+      nominee: [tt2955622]
+      winner: [tt2955622]
+    best historical/mythological serial:
+      nominee: [tt2955622]
+      winner: [tt2955622]
+    best serial - comedy:
+      nominee: [tt5864184]
+      winner: [tt5864184]
+    best serial - drama:
+      nominee: [tt1985299]
+      winner: [tt1985299]
+    best serial - popular:
+      nominee: [tt1863997]
+      winner: [tt1863997]
+    gr8! face - female:
+      nominee: [tt2955596]
+      winner: [tt2955596]
+    gr8! face - male:
+      nominee: [tt5872906]
+      winner: [tt5872906]
+  technical award:
+    best costume designer:
+      nominee: [tt3784674]
+      winner: [tt3784674]
+    best editing:
+      nominee: [tt3784674]
+      winner: [tt3784674]
+    best lyricist:
+      nominee: [tt3784674]
+      winner: [tt3784674]
+    best visual effects:
+      nominee: [tt2812214]
+      winner: [tt2812214]
+'2010': # https://www.imdb.com/event/ev0001931/2010/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt3889862]
+      winner: [tt3889862]
+    best actor - popular:
+      nominee: [tt2282359]
+      winner: [tt2282359]
+    best actor in a comic role:
+      nominee: [tt5864184]
+      winner: [tt5864184]
+    best actor in a negative role:
+      nominee: [tt2265000]
+      winner: [tt2265000]
+    best actor in a supporting role:
+      nominee: [tt6814630]
+      winner: [tt6814630]
+    best actress - drama:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best actress - popular:
+      nominee: [tt6814630]
+      winner: [tt6814630]
+    best actress in a negative role:
+      nominee: [tt1576767]
+      winner: [tt1576767]
+    best actress in a comic role:
+      nominee: [tt2621722]
+      winner: [tt2621722]
+    best actress in a supporting role:
+      nominee: [tt3889862]
+      winner: [tt3889862]
+    best anchor - game/quiz show:
+      nominee: [tt9910028]
+      winner: [tt9910028]
+    best anchor - music & film based show:
+      nominee: [tt30645150]
+      winner: [tt30645150]
+    best anchor - talk/chat show:
+      nominee: [tt1281973]
+      winner: [tt1281973]
+    best child actor:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best children's program:
+      nominee: [tt0401914]
+      winner: [tt0401914]
+    best historical/mythological serial:
+      nominee: [tt1685078]
+      winner: [tt1685078]
+    best serial - comedy:
+      nominee: [tt2621722]
+      winner: [tt2621722]
+    best serial - drama:
+      nominee: [tt3889862]
+      winner: [tt3889862]
+    best serial - thriller / horror:
+      nominee: [tt0401916]
+      winner: [tt0401916]
+    best show - music & film based show:
+      nominee: [tt0486068]
+      winner: [tt0486068]
+    best singer:
+      nominee: [tt7947414]
+      winner: [tt7947414]
+    gr8! performer of the year - female:
+      nominee: [tt2282359]
+      winner: [tt2282359]
+    gr8! performer of the year - male:
+      nominee: [tt7154568]
+      winner: [tt7154568]
+  technical award:
+    best art direction:
+      nominee: [tt1281973]
+      winner: [tt1281973]
+    best dialogues:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best teleplay:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best visual effects:
+      nominee: [tt2812214]
+      winner: [tt2812214]
+'2009': # https://www.imdb.com/event/ev0001931/2009/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt2943834]
+      winner: [tt2943834]
+    best actor - popular:
+      nominee: [tt7112704]
+      winner: [tt7112704]
+    best actor in a negative role:
+      nominee: [tt8512990]
+      winner: [tt8512990]
+    best actor in a supporting role:
+      nominee: [tt8512990]
+      winner: [tt8512990]
+    best actress - drama:
+      nominee: [tt8512990]
+      winner: [tt8512990]
+    best actress - popular:
+      nominee: [tt7112704]
+      winner: [tt7112704]
+    best actress in a negative role:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best actress in a comic role:
+      nominee: [tt1708446]
+      winner: [tt1708446]
+    best actress in a supporting role:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best anchor - game/quiz show:
+      nominee: [tt1442411]
+      winner: [tt1442411]
+    best child actor:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best historical/mythological serial:
+      nominee: [tt8779792]
+      winner: [tt8779792]
+    best host - music & film based show:
+      nominee: [tt0486068]
+      winner: [tt0486068]
+    best serial - drama:
+      nominee: [tt7112704]
+      winner: [tt7112704]
+    best show - music & film based show:
+      nominee: [tt0486068]
+      winner: [tt0486068]
+  technical award:
+    best art direction - fiction:
+      nominee: [tt8779792]
+      winner: [tt8779792]
+    best dialogues:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+'2008': # https://www.imdb.com/event/ev0001931/2008/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt4662064]
+      winner: [tt4662064]
+    best actor - popular:
+      nominee: [tt3892312]
+      winner: [tt3892312]
+    best actor in a supporting role:
+      nominee: [tt1341970]
+      winner: [tt1341970]
+    best actress - drama:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best actress - popular:
+      nominee: [tt3892312]
+      winner: [tt3892312]
+    best actress in a negative role:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best actress in a comic role:
+      nominee: [tt1708446]
+      winner: [tt1708446]
+    best actress in a supporting role:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best anchor - game/quiz show:
+      nominee: [tt1249053]
+      winner: [tt1249053]
+    best child actor:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best director - drama:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best game/quiz show:
+      nominee: [tt1249053]
+      winner: [tt1249053]
+    best historical/mythological serial:
+      nominee: [tt1985481]
+      winner: [tt1985481]
+    best reality show:
+      nominee: [tt6742294]
+      winner: [tt6742294]
+    best serial - drama:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best serial - popular:
+      nominee: [tt3892312]
+      winner: [tt3892312]
+    best show - music & film based show:
+      nominee: [tt0401914]
+      winner: [tt0401914]
+    best title music:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    gr8! performer of the year - male:
+      nominee: [tt8765712]
+      winner: [tt8765712]
+    gr8! performer of the year - female:
+      nominee: [tt2367527]
+      winner: [tt2367527]
+  technical award:
+    best art direction:
+      nominee: [tt1985481]
+      winner: [tt1985481]
+    best costume designer:
+      nominee: [tt11404820, tt1985481]
+      winner: [tt11404820, tt1985481]
+    best dialogues:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best videography:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+  special award:
+    gr8! lil wonder of tv:
+      nominee: [tt1985481]
+      winner: [tt1985481]
+'2007': # https://www.imdb.com/event/ev0001931/2007/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt8369700]
+      winner: [tt8369700]
+    best actor - popular:
+      nominee: [tt5249430]
+      winner: [tt5249430]
+    best actor in a comic role:
+      nominee: [tt0292829]
+      winner: [tt0292829]
+    best actor in a negative role:
+      nominee: [tt1868745]
+      winner: [tt1868745]
+    best actor in a supporting role:
+      nominee: [tt4662064]
+      winner: [tt4662064]
+    best actress - drama:
+      nominee: [tt4662064]
+      winner: [tt4662064]
+    best actress - popular:
+      nominee: [tt7414430, tt5249430, tt0809387, tt4662064, tt1450737, tt7454420]
+      winner: [tt7414430]
+    best actress in a comic role:
+      nominee: [tt4662064]
+      winner: [tt4662064]
+    best actress in a negative role:
+      nominee: [tt0809387]
+      winner: [tt0809387]
+    best actress in a supporting role:
+      nominee: [tt7454420]
+      winner: [tt7454420]
+    best child actor:
+      nominee: [tt4662064]
+      winner: [tt4662064]
+    best director - drama:
+      nominee: [tt7454420]
+      winner: [tt7454420]
+    best historical/mythological serial:
+      nominee: [tt5249430]
+      winner: [tt5249430]
+    best host - game/quiz show:
+      nominee: [tt1281973]
+      winner: [tt1281973]
+    best host - talk/chat show:
+      nominee: [tt0445883]
+      winner: [tt0445883]
+    best reality show:
+      nominee: [tt1281973]
+      winner: [tt1281973]
+    best serial - comedy:
+      nominee: [tt0292829]
+      winner: [tt0292829]
+    best serial - drama:
+      nominee: [tt4662064]
+      winner: [tt4662064]
+    best serial - thriller/horor:
+      nominee: [tt2016058]
+      winner: [tt2016058]
+    best singer:
+      nominee: [tt2366871]
+      winner: [tt2366871]
+  technical award:
+    best art direction:
+      nominee: [tt1281973]
+      winner: [tt1281973]
+    best costume designer:
+      nominee: [tt5249430]
+      winner: [tt5249430]
+    best dialogues:
+      nominee: [tt7454420]
+      winner: [tt7454420]
+'2006': # https://www.imdb.com/event/ev0001931/2006/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt0809387]
+      winner: [tt0809387]
+    best actor - popular:
+      nominee: [tt7236796]
+      winner: [tt7236796]
+    best actor in a comic role:
+      nominee: [tt4662064]
+      winner: [tt4662064]
+    best actor in a negative role:
+      nominee: [tt7236796]
+      winner: [tt7236796]
+    best actor in a supporting role:
+      nominee: [tt1341970]
+      winner: [tt1341970]
+    best actress - drama:
+      nominee: [tt1450737]
+      winner: [tt1450737]
+    best actress - popular:
+      nominee: [tt1445563]
+      winner: [tt1445563]
+    best actress in a comic role:
+      nominee: [tt30852093]
+      winner: [tt30852093]
+    best actress in a negative role:
+      nominee: [tt1341970]
+      winner: [tt1341970]
+    best actress in a supporting role:
+      nominee: [tt4662064]
+      winner: [tt4662064]
+    best anchor - game/quiz show:
+      nominee: [tt0250875]
+      winner: [tt0250875]
+    best anchor - music/dance based show:
+      nominee: [tt1127012]
+      winner: [tt1127012]
+    best historical/mythological serial:
+      nominee: [tt5249430]
+      winner: [tt5249430]
+    best serial - drama:
+      nominee: [tt0809387]
+      winner: [tt0809387]
+    best serial - popular:
+      nominee: [tt1445563]
+      winner: [tt1445563]
+    best singer:
+      nominee: [tt30459521]
+      winner: [tt30459521]
+  technical award:
+    best art direction:
+      nominee: [tt5249430]
+      winner: [tt5249430]
+    best costume designer:
+      nominee: [tt5249430]
+      winner: [tt5249430]
+    best make-up:
+      nominee: [tt5249430]
+      winner: [tt5249430]
+'2005': # https://www.imdb.com/event/ev0001931/2005/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt0400977]
+      winner: [tt0400977]
+    best actor - popular:
+      nominee: [tt0278212]
+      winner: [tt0278212]
+    best actor in a comic role:
+      nominee: [tt1518542]
+      winner: [tt1518542]
+    best actor in a negative role:
+      nominee: [tt0401916]
+      winner: [tt0401916]
+    best actor in a supporting role:
+      nominee: [tt1494058]
+      winner: [tt1494058]
+    best actress - drama:
+      nominee: [tt0401949]
+      winner: [tt0401949]
+    best actress - popular:
+      nominee: [tt0278212]
+      winner: [tt0278212]
+    best actress in a negative role:
+      nominee: [tt11033894, tt1450737]
+      winner: [tt11033894]
+    best actress in a comic role:
+      nominee: [tt1518542]
+      winner: [tt1518542]
+    best actress in a supporting role:
+      nominee: [tt0278212]
+      winner: [tt0278212]
+    best anchor - game/quiz show:
+      nominee: [tt0250875]
+      winner: [tt0250875]
+    best anchor - news/current affairs show:
+      nominee: [tt21826440]
+      winner: [tt21826440]
+    best child actor:
+      nominee: [tt4874948]
+      winner: [tt4874948]
+    best children's program:
+      nominee: [tt5201864]
+      winner: [tt5201864]
+    best cookery show:
+      nominee: [tt8780098]
+      winner: [tt8780098]
+    best director - comedy:
+      nominee: [tt1518542]
+      winner: [tt1518542]
+    best director - drama:
+      nominee: [tt2042294]
+      winner: [tt2042294]
+    best game/quiz show:
+      nominee: [tt0250875]
+      winner: [tt0250875]
+    best serial - comedy:
+      nominee: [tt1518542]
+      winner: [tt1518542]
+    best serial - drama:
+      nominee: [tt5830396]
+      winner: [tt5830396]
+    best serial - popular:
+      nominee: [tt0278212]
+      winner: [tt0278212]
+    best show - music & film based show:
+      nominee: [tt0486068]
+      winner: [tt0486068]
+  technical award:
+    best art direction:
+      nominee: [tt5201864]
+      winner: [tt5201864]
+    best audiography:
+      nominee: [tt5201864]
+      winner: [tt5201864]
+    best costumes:
+      nominee: [tt5201864]
+      winner: [tt5201864]
+    best dialogues:
+      nominee: [tt1518542]
+      winner: [tt1518542]
+    best make-up:
+      nominee: [tt5201864]
+      winner: [tt5201864]
+    best visual effects:
+      nominee: [tt5201864]
+      winner: [tt5201864]
+'2004': # https://www.imdb.com/event/ev0001931/2004/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt0400977]
+      winner: [tt0400977]
+    best actor - popular:
+      nominee: [tt0278212]
+      winner: [tt0278212]
+    best actor in a comic role:
+      nominee: [tt0292829]
+      winner: [tt0292829]
+    best actress - drama:
+      nominee: [tt2499778]
+      winner: [tt2499778]
+    best actress - popular:
+      nominee: [tt0401949, tt0278212]
+      winner: [tt0401949, tt0278212]
+    best actress in a comic role:
+      nominee: [tt1727829]
+      winner: [tt1727829]
+    best anchor - game/quiz show:
+      nominee: [tt0389573]
+      winner: [tt0389573]
+    best director - drama:
+      nominee: [tt0401916]
+      winner: [tt0401916]
+    best historical/mythological serial:
+      nominee: [tt5201864]
+      winner: [tt5201864]
+    best serial - drama:
+      nominee: [tt0401949]
+      winner: [tt0401949]
+    best serial - popular:
+      nominee: [tt0278212]
+      winner: [tt0278212]
+    best serial - thriller / horror:
+      nominee: [tt0401916]
+      winner: [tt0401916]
+    gr8! best newcomer - female:
+      nominee: [tt7938046]
+      winner: [tt7938046]
+    gr8! best newcomer - male:
+      nominee: [tt0401953]
+      winner: [tt0401953]
+  technical award:
+    best audiography:
+      nominee: [tt1341970]
+      winner: [tt1341970]
+    best costume designer:
+      nominee: [tt5201864]
+      winner: [tt5201864]
+    best make-up:
+      nominee: [tt5201864]
+      winner: [tt5201864]
+    best teleplay:
+      nominee: [tt0401916]
+      winner: [tt0401916]
+    best videography:
+      nominee: [tt5201864]
+      winner: [tt5201864]
+    best visual effects:
+      nominee: [tt5201864]
+      winner: [tt5201864]
+'2003': # https://www.imdb.com/event/ev0001931/2003/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt7454372]
+      winner: [tt7454372]
+    best actor - popular:
+      nominee: [tt0278212]
+      winner: [tt0278212]
+    best actor in a comic role:
+      nominee: [tt0292829]
+      winner: [tt0292829]
+    best actress - popular:
+      nominee: [tt0278212]
+      winner: [tt0278212]
+    best actress in a comic role:
+      nominee: [tt1592812]
+      winner: [tt1592812]
+    best anchor:
+      nominee: [tt0989775]
+      winner: [tt0989775]
+    best anchor - game/quiz show:
+      nominee: [tt0391584]
+      winner: [tt0391584]
+    best anchor - music & film based show:
+      nominee: [tt0389573]
+      winner: [tt0389573]
+    best children's programme:
+      nominee: [tt3175266]
+      winner: [tt3175266]
+    best director - comedy:
+      nominee: [tt0292829]
+      winner: [tt0292829]
+    best director - drama:
+      nominee: [tt0400977]
+      winner: [tt0400977]
+    best serial - comedy:
+      nominee: [tt0292829]
+      winner: [tt0292829]
+    best serial - thriller / horror:
+      nominee: [tt0401916]
+      winner: [tt0401916]
+'2002': # https://www.imdb.com/event/ev0001931/2002/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt7454372]
+      winner: [tt7454372]
+    best actor - popular:
+      nominee: [tt1450737]
+      winner: [tt1450737]
+    best actor in a comic role:
+      nominee: [tt1450737]
+      winner: [tt1450737]
+    best actress - drama:
+      nominee: [tt5029068]
+      winner: [tt5029068]
+    best actress - popular:
+      nominee: [tt0278212]
+      winner: [tt0278212]
+    best actress in a comic role:
+      nominee: [tt0389695]
+      winner: [tt0389695]
+    best children's program:
+      nominee: [tt0391584]
+      winner: [tt0391584]
+    best director - comedy:
+      nominee: [tt0292829]
+      winner: [tt0292829]
+    best director - drama:
+      nominee: [tt2499778]
+      winner: [tt2499778]
+    best serial - drama:
+      nominee: [tt0401916]
+      winner: [tt0401916]
+    best serial - historical/mythological:
+      nominee: [tt8791912]
+      winner: [tt8791912]
+  technical award:
+    best art direction:
+      nominee: [tt8791912]
+      winner: [tt8791912]
+    best costumes:
+      nominee: [tt1450737]
+      winner: [tt1450737]
+    best teleplay:
+      nominee: [tt2499778]
+      winner: [tt2499778]
+'2001': # https://www.imdb.com/event/ev0001931/2001/1/?ref_=ev_eh
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt0278237]
+      winner: [tt0278237]
+    best actor - popular:
+      nominee: [tt0278212]
+      winner: [tt0278212]
+    best actor in a comic role:
+      nominee: [tt6809196]
+      winner: [tt6809196]
+    best actress - drama:
+      nominee: [tt8765164]
+      winner: [tt8765164]
+    best actress - popular:
+      nominee: [tt0278212]
+      winner: [tt0278212]
+    best anchor - game/quiz show:
+      nominee: [tt0250875]
+      winner: [tt0250875]
+    best anchor - news/current affairs show:
+      nominee: [tt0390678]
+      winner: [tt0390678]
+    best children's program:
+      nominee: [tt0391584]
+      winner: [tt0391584]
+    best cookery show:
+      nominee: [tt8780098]
+      winner: [tt8780098]
+    best director - comedy:
+      nominee: [tt0292829]
+      winner: [tt0292829]
+    best director - drama:
+      nominee: [tt8765164]
+      winner: [tt8765164]
+    best game quiz show:
+      nominee: [tt0250875]
+      winner: [tt0250875]
+    best serial - comedy:
+      nominee: [tt6809196]
+      winner: [tt6809196]
+    best serial - drama:
+      nominee: [tt8765164]
+      winner: [tt8765164]
+    best serial - popular:
+      nominee: [tt0278212]
+      winner: [tt0278212]
+  milestone achievement award:
+    milestone of indian television:
+      nominee: [tt0396359, tt0389586, tt0363341, tt0389648, tt0158417, tt0391676, tt0268093, tt0389688]
+      winner: [tt0396359, tt0389586, tt0363341, tt0389648, tt0158417, tt0391676, tt0268093, tt0389688]

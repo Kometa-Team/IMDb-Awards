@@ -1,0 +1,271 @@
+# Indian Film Festival Of Melbourne
+'2023':  # https://www.imdb.com/event/ev0011808/2023/1/?ref_=ev_eh
+  iff award:
+    best actor:
+      nominee: [tt11112532, tt20850406, tt21998526, tt23864864, tt18951176, tt7782402, tt15128068, tt15327088, tt12844910, tt14152140, tt10701074, tt22444570]
+      winner: [tt11112532]
+    best actress:
+      nominee: [tt14295590, tt10701074, tt22444570, tt12670516, tt14152140, tt15680228, tt15567704, tt20850406, tt10233718, tt21261388, tt18413766]
+      winner: [tt14295590]
+    best director:
+      nominee: [tt21741994, tt7782402, tt27502523, tt26541225, tt23864864, tt23337204, tt11112532, tt10701074, tt22444570, tt21998526, tt21638044, tt12844910, tt15128068]
+      winner: [tt21741994]
+    best film:
+      nominee: [tt20850406, tt14099334, tt6277462, tt14152140, tt21848358, tt15327088, tt15128068, tt12844910, tt10701074, tt22444570]
+      winner: [tt20850406]
+  best documentary:
+    best documentary:
+      nominee: [tt21688772, tt18335580, tt12937566]
+      winner: [tt21688772]
+  best indie film:
+    best indie film:
+      nominee: [tt23864864, tt15500608, tt21741994]
+      winner: []
+  honorary award:
+    rainbow stories award:
+      nominee: [tt23326218]
+      winner: [tt23326218]
+  iff award - streaming platform:
+    best actor in a series:
+      nominee: [tt19868314, tt11611698, tt12405230, tt19868804, tt15477488]
+      winner: [tt19868314]
+    best actress in a series:
+      nominee: [tt11611698, tt9398466, tt20873118, tt20319332, tt19868314, tt19868804]
+      winner: [tt11611698]
+    best series:
+      nominee: [tt19868804, tt19868314, tt9398466, tt15477488, tt11905720, tt20873118, tt20319332, tt11611698]
+      winner: [tt19868804]
+'2022': # https://www.imdb.com/event/ev0011808/2022/1/?ref_=ev_eh
+  best short film:
+    best short film:
+      nominee: [tt15863540, tt21006082]
+      winner: []
+  iff award:
+    best actor:
+      nominee: [tt7518786, tt14107554, tt15347602, tt11934846, tt16728368, tt15097216, tt7268738, tt10280296]
+      winner: [tt7518786]
+    best actress:
+      nominee: [tt15361028, tt10083340, tt11934846, tt10733228, tt14412532, tt15097216, tt12381206]
+      winner: [tt15361028]
+    best director:
+      nominee: [tt14412532, tt10280296, tt16728368, tt7518786, tt10083340, tt15361028, tt15097216]
+      winner: [tt14412532, tt10280296]
+    best film:
+      nominee: [tt7518786, tt11934846, tt10083340, tt15097216, tt7268738, tt15125812, tt10280296, tt14412532]
+      winner: [tt7518786]
+    best indie film:
+      nominee: [tt19719976]
+      winner: [tt19719976]
+    disruptor in cinema award:
+      nominee: [tt12861850]
+      winner: [tt12861850]
+    leadership in cinema award:
+      nominee: [tt14107554]
+      winner: [tt14107554]
+  beyond bollywood:
+    australian premiere:
+      nominee: [tt13895976]
+      winner: []
+  iff award - streaming platform:
+    best actor in a series:
+      nominee: [tt12714854, tt6522580, tt14167344, tt14160712, tt19355272]
+      winner: [tt12714854]
+    best actress in a series:
+      nominee: [tt14160684, tt12714854, tt9447956, tt6522580, tt14167344, tt19355272]
+      winner: [tt14160684]
+    best series:
+      nominee: [tt12714854, tt14167344, tt6522580, tt14160684, tt9447956, tt14160712]
+      winner: [tt12714854]
+'2021': # https://www.imdb.com/event/ev0011808/2021/1/?ref_=ev_eh
+  best short film:
+    best short film:
+      nominee: [tt14657104]
+      winner: [tt14657104]
+  iff award:
+    best actor:
+      nominee: [tt10189514, tt7212754]
+      winner: [tt10189514]
+    best actress:
+      nominee: [tt10741542, tt14412532, tt10515526, tt12381206, tt12923150]
+      winner: [tt10741542]
+    best director:
+      nominee: [tt10741542, tt9890308, tt13299890]
+      winner: []
+    best film:
+      nominee: [tt10909266]
+      winner: []
+    best short film:
+      nominee: [tt10709592]
+      winner: [tt10709592]
+  beyond bollywood:
+    beyond bollywood:
+      nominee: [tt11612144]
+      winner: []
+  best documentary:
+    best documentary:
+      nominee: [tt9015962, tt13021736]
+      winner: []
+  best indie film:
+    best indie film:
+      nominee: [tt12312912, tt12670516]
+      winner: [tt12312912]
+  best director:
+    best director:
+      nominee: [tt12312912, tt10909266]
+      winner: []
+    honorary mention:
+      nominee: [tt12670516]
+      winner: [tt12670516]
+  iffm disruptor award:
+    iffm disruptor award:
+      nominee: [tt10909266]
+      winner: [tt10909266]
+  best actress:
+    best actress:
+      nominee: [tt12312912]
+      winner: []
+  honorary award:
+    best actress:
+      nominee: [tt13299890]
+      winner: [tt13299890]
+  iff award - streaming platform:
+    best actor in a series:
+      nominee: [tt9544034, tt6473300, tt11117570]
+      winner: [tt9544034]
+    best actress in a series:
+      nominee: [tt9544034, tt10655506, tt12719250, tt6473300, tt10238792]
+      winner: [tt9544034]
+'2020': # https://www.imdb.com/event/ev0011808/2020/1/?ref_=ev_eh
+  best short film:
+    best short film:
+      nominee: [tt9230252, tt12471154, tt11860854, tt14411970, tt10900408]
+      winner: [tt11860854, tt14411970]
+  beyond bollywood:
+    beyond bollywood:
+      nominee: [tt11591490, tt8733760, tt13400154, tt11200922, tt11737756, tt8747492, tt10632744, tt8721556, tt10247160, tt8747560, tt13038150, tt9890322, tt10727128, tt10927784, tt11755040, tt10919600, tt10370116, tt10428284]
+      winner: []
+  best documentary:
+    best documentary:
+      nominee: [tt10895566]
+      winner: []
+'2019': # https://www.imdb.com/event/ev0011808/2019/1/?ref_=ev_eh
+  best short film:
+    best short film:
+      nominee: [tt1394169, tt8334620]
+      winner: [tt1394169]
+  iff award:
+    best actor:
+      nominee: [tt7019942, tt8130968, tt8108198, tt8857610, tt8476998, tt2395469, tt8291224]
+      winner: [tt7019942]
+    best actress:
+      nominee: [tt8108198, tt2395469, tt8779064, tt7725596, tt9834062, tt8972488, tt9828912]
+      winner: [tt8108198]
+    best director:
+      nominee: [tt8108198, tt8108200, tt9828912, tt8972488, tt8659050, tt7019942, tt2395469]
+      winner: [tt8108198]
+    best film:
+      nominee: [tt2395469, tt8108198, tt7725596, tt7147540, tt7019942]
+      winner: [tt2395469]
+    best indie film:
+      nominee: [tt8659050]
+      winner: [tt8659050]
+  best documentary:
+    best documentary:
+      nominee: [tt9058890]
+      winner: []
+  best indie film:
+    best indie film:
+      nominee: [tt8476998]
+      winner: []
+  best actor:
+    best actor:
+      nominee: [tt8476998]
+      winner: []
+'2018': # https://www.imdb.com/event/ev0011808/2018/1/?ref_=ev_eh
+  iff award:
+    best actor:
+      nominee: [tt6452574, tt7218518, tt8188872, tt2302416, tt5935704, tt7570242, tt7700730]
+      winner: [tt6452574]
+    best actress:
+      nominee: [tt6588966, tt7098658, tt7297966, tt5935704, tt7465992, tt7142506, tt6791730, tt6108090]
+      winner: [tt6588966]
+    best director:
+      nominee: [tt6452574, tt6108090, tt2302416, tt7838150, tt6588966, tt7098658, tt7218518, tt7297966, tt7142506, tt5935704, tt7700730, tt6791730, tt3823392]
+      winner: [tt6452574]
+    best film:
+      nominee: [tt6452574, tt6588966, tt7465992, tt7218518, tt5935704, tt7098658, tt7392212, tt6108090]
+      winner: [tt6452574]
+    best supporting performance:
+      nominee: [tt3823392, tt6452574, tt7981260, tt2302416, tt7465992, tt6108090]
+      winner: [tt3823392, tt6452574]
+  best indie film:
+    best indie film:
+      nominee: [tt3823392]
+      winner: [tt3823392]
+  best director:
+    best director:
+      nominee: [tt3823392]
+      winner: []
+'2017': # https://www.imdb.com/event/ev0011808/2017/1/?ref_=ev_eh
+  iff award:
+    best actor:
+      nominee: [tt4169250, tt5074352, tt5997928, tt5571734, tt5460276, tt6206564]
+      winner: [tt4169250]
+    best actress:
+      nominee: [tt4807830, tt5946128, tt5578722, tt5934324, tt5477608]
+      winner: [tt4807830]
+    best director:
+      nominee: [tt5074352, tt4807830, tt8869484, tt5918074, tt5593892, tt6289320, tt4849438, tt6206564]
+      winner: [tt5074352]
+    best film:
+      nominee: [tt5571734, tt4559006, tt5611648, tt4169250, tt4832640]
+      winner: [tt5571734]
+  honorary award:
+    best actor:
+      nominee: [tt6206564]
+      winner: [tt6206564]
+'2016': # https://www.imdb.com/event/ev0011808/2016/1/?ref_=ev_eh
+  iff award:
+    best actor:
+      nominee: [tt5662932, tt5121000, tt3735246, tt3495026]
+      winner: [tt5662932]
+    best actress:
+      nominee: [tt5286444, tt3735246, tt3043252, tt4948632]
+      winner: [tt5286444]
+    best director:
+      nominee: [tt3043252, tt4881362, tt5286444, tt3735246, tt4900716]
+      winner: [tt3043252]
+    best film:
+      nominee: [tt4900716, tt3735246, tt5286444, tt5662932]
+      winner: [tt4900716]
+'2015': # https://www.imdb.com/event/ev0011808/2015/1/?ref_=ev_eh
+  iff award:
+    best actor:
+      nominee: [tt3767372, tt3390572]
+      winner: [tt3767372, tt3390572]
+    best actress:
+      nominee: [tt3495030, tt3742284, tt3767372, tt2929690, tt2140465]
+      winner: [tt3495030]
+    best director:
+      nominee: [tt3767372]
+      winner: [tt3767372]
+    best film:
+      nominee: [tt3767372]
+      winner: [tt3767372]
+'2014': # https://www.imdb.com/event/ev0011808/2014/1/?ref_=ev_eh
+  iff award:
+    best actor:
+      nominee: [tt2356180, tt2350496, tt2181831]
+      winner: [tt2356180, tt2350496]
+    best actress:
+      nominee: [tt3322420, tt2215477, tt2350496, tt2224317]
+      winner: [tt3322420]
+    best director:
+      nominee: [tt2356180, tt1773764, tt2334779, tt2350496]
+      winner: [tt2356180]
+    best film:
+      nominee: [tt2356180, tt2215477, tt2224317]
+      winner: [tt2356180]
+    best short film:
+      nominee: [tt2386273]
+      winner: []

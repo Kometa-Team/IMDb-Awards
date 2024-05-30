@@ -4565,3 +4565,1170 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - young venice award # 2 Events: 1984-1985
   - young venice award - special mention # 1 Event: 1985
   - younger's in movie # 1 Event: 2020
+ev0000245: # Filmfare Awards (https://www.imdb.com/event/ev0000245)
+  years: ['1954', '1955', '1956', '1957', '1958', '1959', '1960', '1961', '1962', '1963', '1964', '1965', '1966', '1967', '1968', '1969', '1970', '1971', '1972', '1973', '1974', '1975', '1976', '1977',
+    '1978', '1979', '1980', '1981', '1982', '1983', '1984', '1985', '1986', '1989', '1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999', '2000', '2001', '2002', '2003', '2004',
+    '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024']
+  awards:  # Award Options: Filmfare Awards
+  - critics' awards # 15 Events: 1986, 2002, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - filmfare award # 67 Events: 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2024
+  - main award # 3 Events: 1954, 2015, 2019
+  - r.d. burman award # 13 Events: 1999, 2002, 2003, 2004, 2005, 2009, 2010, 2011, 2012, 2017, 2020, 2023, 2024
+  - short film award # 6 Events: 2017, 2018, 2019, 2020, 2021, 2022
+  - special award # 12 Events: 1982, 1992, 2002, 2003, 2004, 2005, 2011, 2012, 2013, 2014, 2018, 2019
+  - special mention # 1 Event: 2009
+  - technical award # 28 Events: 1955, 1970, 1979, 1984, 1993, 1994, 1995, 1996, 2001, 2003, 2006, 2007, 2008, 2009, 2010, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  categories: # Category Options: Filmfare Awards
+  - best    film # 1 Event: 1998
+  - best   director # 1 Event: 1998
+  - best   film # 10 Events: 1992, 1993, 2002, 2010, 2011, 2012, 2013, 2015, 2017, 2020
+  - best  actor # 11 Events: 1992, 1993, 1998, 2002, 2010, 2011, 2012, 2013, 2015, 2017, 2020
+  - best  actress # 11 Events: 1992, 1993, 1998, 2002, 2010, 2011, 2012, 2013, 2015, 2017, 2020
+  - best  debut actor # 1 Event: 2020
+  - best  debut actress # 1 Event: 2020
+  - best  debut director # 1 Event: 2020
+  - best  director # 10 Events: 1992, 1993, 2002, 2010, 2011, 2012, 2013, 2015, 2017, 2020
+  - best  film # 2 Events: 2002, 2011
+  - best  supporting actor # 7 Events: 1993, 1998, 2010, 2011, 2012, 2015, 2017
+  - best  supporting actress # 7 Events: 1993, 1998, 2010, 2011, 2012, 2015, 2017
+  - best action # 31 Events: 1993, 1994, 1995, 1996, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best actor # 64 Events: 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1989, 1990, 1991, 1994, 1995, 1996, 1997, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best actor - critics # 13 Events: 1998, 1999, 2000, 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2012
+  - best actor in a comic role # 1 Event: 2002
+  - best actor in a negative role # 1 Event: 2002
+  - best actor in a short film # 6 Events: 2017, 2018, 2019, 2020, 2021, 2022
+  - best actor in a villainous role # 1 Event: 2005
+  - best actress # 64 Events: 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1989, 1990, 1991, 1994, 1995, 1996, 1997, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best actress - critics # 14 Events: 1998, 1999, 2000, 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012
+  - best actress in a short film # 5 Events: 2017, 2018, 2019, 2020, 2021
+  - best art direction # 15 Events: 1977, 1982, 1984, 1991, 1992, 1994, 1995, 1998, 1999, 2002, 2003, 2004, 2005, 2006, 2009
+  - best art director # 14 Events: 1957, 1958, 1959, 1962, 1971, 1973, 1974, 1975, 1978, 1980, 1981, 1985, 1986, 2008
+  - best art director - black and white # 6 Events: 1956, 1960, 1965, 1967, 1969, 1970
+  - best art director - color # 5 Events: 1966, 1967, 1968, 1969, 1970
+  - best background score # 27 Events: 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best choreographer # 4 Events: 1989, 1991, 1992, 2012
+  - best choreography # 29 Events: 1990, 1993, 1994, 1995, 1996, 1998, 1999, 2001, 2002, 2003, 2004, 2005, 2007, 2008, 2009, 2010, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best cinematographer # 15 Events: 1955, 1957, 1958, 1959, 1960, 1962, 1966, 1985, 1986, 1989, 1990, 1991, 2004, 2005, 2009
+  - best cinematographer - black and white # 4 Events: 1956, 1964, 1965, 1967
+  - best cinematographer - color # 1 Event: 1969
+  - best cinematography # 37 Events: 1974, 1975, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1994, 1995, 1998, 1999, 2000, 2001, 2002, 2003, 2005, 2006, 2007, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best cinematography - black and white # 7 Events: 1963, 1966, 1968, 1969, 1970, 1971, 1972
+  - best cinematography - color # 5 Events: 1967, 1968, 1970, 1971, 1972
+  - best comedian/comedienne # 7 Events: 1967, 1968, 1971, 1976, 1977, 1980, 1983
+  - best comic actor # 27 Events: 1969, 1970, 1972, 1973, 1974, 1975, 1979, 1982, 1985, 1986, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2003, 2004, 2005, 2006, 2007
+  - best costume design # 19 Events: 1996, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best debut actor # 24 Events: 1993, 1996, 1997, 1998, 1999, 2000, 2001, 2003, 2004, 2006, 2008, 2009, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2022, 2023, 2024
+  - best debut actor (male/female) # 6 Events: 1989, 1992, 1994, 1995, 2002, 2005
+  - best debut actress # 24 Events: 1996, 1997, 1998, 1999, 2000, 2001, 2003, 2004, 2006, 2007, 2008, 2009, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2021, 2022, 2023, 2024
+  - best debut director # 15 Events: 1990, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024
+  - best dialogue # 40 Events: 1959, 1962, 1967, 1972, 1978, 1979, 1980, 1984, 1985, 1993, 1994, 1995, 1996, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best dialogue writer # 16 Events: 1960, 1964, 1965, 1966, 1969, 1970, 1973, 1974, 1975, 1976, 1981, 1986, 1989, 1990, 1991, 1992
+  - best director # 58 Events: 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1989, 1990, 1991, 1994, 1995, 1996, 1997, 1999, 2000, 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2014, 2016, 2018, 2019, 2021, 2022, 2023, 2024
+  - best director in a short film # 1 Event: 2017
+  - best documentary - critics # 1 Event: 1997
+  - best editing # 32 Events: 1979, 1982, 1984, 1993, 1995, 1996, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best editor # 25 Events: 1956, 1957, 1958, 1959, 1962, 1963, 1964, 1965, 1967, 1969, 1970, 1972, 1974, 1976, 1978, 1980, 1981, 1982, 1983, 1985, 1986, 1989, 1990, 1991, 1992
+  - best film # 62 Events: 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1989, 1990, 1991, 1994, 1995, 1996, 1997, 1999, 2000, 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best film - critics # 37 Events: 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1984, 1985, 1986, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2012
+  - best lyricist # 51 Events: 1959, 1960, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2005, 2010, 2011, 2012, 2013, 2014, 2015, 2018, 2019
+  - best lyrics # 11 Events: 2004, 2006, 2007, 2008, 2009, 2016, 2020, 2021, 2022, 2023, 2024
+  - best music # 5 Events: 1989, 1991, 1992, 2006, 2014
+  - best music album # 6 Events: 2018, 2020, 2021, 2022, 2023, 2024
+  - best music direction # 3 Events: 1979, 1993, 2016
+  - best music director # 53 Events: 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1990, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2017, 2019
+  - best original story # 1 Event: 2020
+  - best performance by an actor in a negative role # 12 Events: 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2006, 2007
+  - best performance by an actor in a villainous role # 3 Events: 2003, 2004, 2005
+  - best performance in a villainous role # 1 Event: 2003
+  - best performer - critics # 2 Events: 1993, 1996
+  - best playback (female) # 1 Event: 2004
+  - best playback (male) # 1 Event: 2004
+  - best playback singer # 9 Events: 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967
+  - best playback singer (female) # 3 Events: 2006, 2007, 2011
+  - best playback singer (male) # 2 Events: 2006, 2007
+  - best playback singer - female # 52 Events: 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2005, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best playback singer - male # 52 Events: 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2005, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best production design # 16 Events: 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best scene # 3 Events: 2003, 2011, 2012
+  - best scene of the year # 4 Events: 1999, 2002, 2005, 2009
+  - best screenplay # 52 Events: 1969, 1970, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best short film (fiction) # 3 Events: 2017, 2018, 2020
+  - best short film (people's choice) # 4 Events: 2017, 2018, 2019, 2021
+  - best short film - fiction # 3 Events: 2019, 2021, 2022
+  - best sound # 4 Events: 2001, 2004, 2005, 2016
+  - best sound design # 27 Events: 1955, 1957, 1959, 1970, 1984, 1993, 1994, 1995, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best sound recording # 5 Events: 1998, 1999, 2000, 2001, 2002
+  - best sound recordist # 21 Events: 1956, 1958, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1976, 1980, 1982, 1983, 1985, 1990
+  - best special effects # 8 Events: 2008, 2009, 2010, 2012, 2014, 2016, 2017, 2019
+  - best story # 55 Events: 1955, 1956, 1957, 1958, 1959, 1962, 1963, 1964, 1965, 1966, 1967, 1969, 1970, 1971, 1972, 1975, 1976, 1977, 1978, 1979, 1981, 1982, 1984, 1985, 1986, 1990, 1992, 1994, 1996, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024
+  - best story writer # 7 Events: 1959, 1960, 1974, 1986, 1989, 1991, 1997
+  - best supporting actor # 60 Events: 1955, 1956, 1957, 1958, 1959, 1960, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1989, 1990, 1991, 1992, 1994, 1995, 1996, 1997, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2013, 2014, 2016, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best supporting actress # 60 Events: 1955, 1956, 1957, 1958, 1959, 1960, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1989, 1990, 1991, 1992, 1994, 1995, 1996, 1997, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2013, 2014, 2016, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best trendsetter of the year # 2 Events: 2013, 2014
+  - best vfx # 5 Events: 2020, 2021, 2022, 2023, 2024
+  - best villain/villainess # 1 Event: 2001
+  - critics award for best performance # 1 Event: 1995
+  - critics award for best performer # 3 Events: 1991, 1994, 1997
+  - lux new face of the year # 1 Event: 1989
+  - motolook of the year # 1 Event: 2004
+  - new music talent # 2 Events: 2017, 2020
+  - outstanding performance # 1 Event: 1982
+  - outstanding performance in a non-commercial film # 1 Event: 1992
+  - performance by an actor in a negative role # 1 Event: 2001
+  - r d burman award # 1 Event: 2019
+  - r.d. burman award # 9 Events: 1999, 2002, 2003, 2004, 2005, 2009, 2010, 2011, 2012
+  - special award # 4 Events: 2002, 2004, 2005, 2013
+  - special mention # 1 Event: 2009
+  - upcoming music talent # 2 Events: 2023, 2024
+ev0000280: # German Film Awards (https://www.imdb.com/event/ev0000280)
+  years: ['1951', '1952', '1953', '1954', '1955', '1956', '1957', '1958', '1959', '1960', '1961', '1962', '1963', '1964', '1965', '1966', '1967', '1968', '1969', '1970', '1971', '1972', '1973', '1974',
+    '1975', '1976', '1977', '1978', '1979', '1980', '1981', '1982', '1983', '1984', '1985', '1986', '1987', '1988', '1989', '1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999',
+    '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024']
+  awards:  # Award Options: German Film Awards
+  - audience award # 18 Events: 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2013, 2014, 2015, 2016, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best foreign film # 9 Events: 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004
+  - certificate # 6 Events: 1951, 1952, 1953, 1954, 1955, 1956
+  - challenge award # 2 Events: 1952, 1953
+  - challenge award 'golden bowl' # 11 Events: 1954, 1955, 1957, 1958, 1959, 1960, 1973, 1974, 1976, 1977, 1979
+  - challenge award 'golden candlestick' # 2 Events: 1951, 1953
+  - director's award in gold # 2 Events: 1951, 1953
+  - director's award in silver # 1 Event: 1953
+  - film award in bronze # 16 Events: 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2021, 2022, 2023, 2024
+  - film award in gold # 74 Events: 1951, 1952, 1953, 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - film award in silver # 71 Events: 1953, 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2021, 2022, 2023, 2024
+  - golden box # 1 Event: 1952
+  - golden casket # 1 Event: 1952
+  - golden cup # 1 Event: 1951
+  - head with wings # 1 Event: 1952
+  - silver bowl # 3 Events: 1951, 1952, 1953
+  - silver box # 1 Event: 1952
+  - silver cup # 1 Event: 1953
+  - silver vase # 1 Event: 1951
+  - special award # 1 Event: 2002
+  - special film award '40th anniversary of the federal republic of germany' # 1 Event: 1989
+  - vase with golden twig # 1 Event: 1953
+  categories: # Category Options: German Film Awards
+  - best animation film (bester animationsfilm) # 1 Event: 1969
+  - best cinematography (beste kamera/bildgestaltung) # 71 Events: 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best costume design (bestes kostümbild) # 20 Events: 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best cultural film (bester kulturfilm) # 1 Event: 1956
+  - best cultural film - black and white (bester kulturfilm in schwarz-weiß) # 4 Events: 1954, 1955, 1956, 1958
+  - best cultural film - color (bester kulturfilm in farbe) # 4 Events: 1954, 1955, 1956, 1958
+  - best cultural film or documentary (bester kultur- oder dokumentarfilm) # 6 Events: 1957, 1959, 1960, 1962, 1963, 1964
+  - best cultural film with international reputation - color (bester kulturfilm in farbe mit internationalem rang) # 1 Event: 1958
+  - best cultural short (bester kulturkurzfilm) # 9 Events: 1957, 1959, 1960, 1961, 1963, 1964, 1965, 1966, 1967
+  - best direction (beste regie) # 64 Events: 1954, 1955, 1957, 1958, 1959, 1960, 1961, 1965, 1966, 1967, 1968, 1969, 1971, 1972, 1974, 1975, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best documentary (bester dokumentarfilm) # 28 Events: 1958, 1961, 1964, 1965, 1966, 1967, 1991, 2000, 2001, 2002, 2003, 2004, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best documentary - black and white (bester dokumentarfilm in schwarz-weiß) # 1 Event: 1956
+  - best documentary - color (bester dokumentarfilm in farbe) # 1 Event: 1958
+  - best documentary short (bester dokumenatkurzfilm) # 8 Events: 1957, 1959, 1960, 1961, 1962, 1965, 1966, 1967
+  - best editing (bester schnitt) # 39 Events: 1972, 1975, 1978, 1979, 1980, 1984, 1990, 1991, 1993, 1994, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best film score (beste filmmusik) # 43 Events: 1954, 1956, 1957, 1958, 1960, 1961, 1962, 1963, 1965, 1966, 1967, 1971, 1973, 1974, 1975, 1987, 1992, 1993, 1997, 1999, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best foreign film # 9 Events: 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004
+  - best makeup (bestes maskenbild) # 15 Events: 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best music # 1 Event: 2009
+  - best musical dramaturgy (beste musikdramaturgie) # 1 Event: 1975
+  - best new direction (beste nachwuchsregie) # 15 Events: 1957, 1962, 1963, 1966, 1968, 1970, 1971, 1974, 1975, 1979, 1980, 1981, 1982, 1992, 1994
+  - best overall acting performance (beste darstellerische leistung) # 1 Event: 1964
+  - best performance by a young actor (beste darstellerische leistung - nachwuchsschauspieler) # 14 Events: 1952, 1953, 1956, 1958, 1959, 1960, 1961, 1965, 1966, 1969, 1972, 1973, 1977, 1978
+  - best performance by a young actress (beste darstellerische leistung - nachwuchsschauspielerin) # 12 Events: 1952, 1953, 1956, 1960, 1967, 1968, 1969, 1970, 1971, 1977, 1983, 1989
+  - best performance by an actor in a leading role (beste darstellerische leistung - männliche hauptrolle) # 71 Events: 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best performance by an actor in a supporting role (beste darstellerische leistung - männliche nebenrolle) # 61 Events: 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1976, 1977, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best performance by an actress in a leading role (beste darstellerische leistung - weibliche hauptrolle) # 71 Events: 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best performance by an actress in a supporting role (beste darstellerische leistung - weibliche nebenrolle) # 57 Events: 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1971, 1972, 1973, 1976, 1977, 1979, 1980, 1981, 1983, 1984, 1986, 1987, 1988, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best performance by an ensemble (beste darstellerische leistung - ensemble) # 4 Events: 1970, 1975, 1988, 1991
+  - best performance in a comedy (beste darstellerische leistung - komödie) # 1 Event: 1989
+  - best production design (bestes szenenbild) # 51 Events: 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1968, 1970, 1971, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1985, 1988, 1990, 1992, 1993, 1998, 2000, 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best screenplay (bestes drehbuch) # 55 Events: 1951, 1952, 1953, 1954, 1955, 1956, 1957, 1958, 1960, 1962, 1964, 1965, 1966, 1968, 1970, 1971, 1972, 1975, 1977, 1980, 1984, 1986, 1987, 1988, 1991, 1992, 1993, 1996, 1997, 1998, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best screenplay - unproduced (bestes drehbuch - unverfilmt) # 5 Events: 2002, 2003, 2006, 2012, 2013
+  - best short film (bester kurzfilm) # 31 Events: 1954, 1959, 1960, 1961, 1962, 1963, 1965, 1966, 1967, 1968, 1969, 1970, 1972, 1973, 1974, 1975, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 2018
+  - best short film - black and white (bester kurzfilm in schwarz-weiß) # 2 Events: 1956, 1958
+  - best short film - color (bester kurzfilm in farbe) # 2 Events: 1956, 1958
+  - best sound (beste tongestaltung) # 21 Events: 1982, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best visual design (beste visuelle gestaltung) # 1 Event: 1989
+  - best visual effects (beste visuelle effekte) # 4 Events: 2021, 2022, 2023, 2024
+  - best visual effects and animation (beste visuelle effekte und animation) # 1 Event: 2020
+  - director's award in gold # 2 Events: 1951, 1953
+  - director's award in silver # 1 Event: 1953
+  - german film of the year # 8 Events: 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2013
+  - highest grossing film of the year # 10 Events: 2014, 2015, 2016, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - honorable mention # 5 Events: 1951, 1952, 1953, 1954, 1955
+  - outstanding children or youth film (bester kinder- und jugendfilm) # 22 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024
+  - outstanding children or youth film (programmfüllende kinder- und jugendfilm) # 3 Events: 2007, 2008, 2020
+  - outstanding cultural film # 3 Events: 1951, 1952, 1953
+  - outstanding documentary (bester dokumentarfilm) # 2 Events: 2005, 2006
+  - outstanding documentary (programmfüllende dokumentarfilme) # 2 Events: 2007, 2008
+  - outstanding documentary or cultural film # 3 Events: 1951, 1952, 1953
+  - outstanding feature film # 1 Event: 1951
+  - outstanding feature film (bester spielfilm) # 69 Events: 1953, 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - outstanding feature film (programmfüllende spielfilme) # 2 Events: 2007, 2009
+  - outstanding feature film dealing outstandingly with social problems # 1 Event: 1953
+  - outstanding feature film dealing with problems # 2 Events: 1952, 1953
+  - outstanding feature film having an avangardistic filmic approach # 1 Event: 1953
+  - outstanding feature film promoting democratic values # 2 Events: 1952, 1953
+  - outstanding feature film promoting democratic values (bester film, der zur förderung des demokratischen gedankens beiträgt) # 2 Events: 1956, 1957
+  - outstanding feature film promoting the european idea # 1 Event: 1953
+  - outstanding feature film promoting the european idea (bester film, der für die europäische idee wirbt) # 1 Event: 1957
+  - 'outstanding individual achievement: direction, screenplay and musical dramaturgy' # 1 Event: 1977
+  - 'outstanding individual achievement: film conception' # 1 Event: 1978
+  - 'outstanding individual achievement: over all concept' # 1 Event: 1994
+  - 'outstanding individual achievement: single artistic achievement' # 1 Event: 1987
+  - outstanding non-feature film # 13 Events: 1970, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984
+  - outstanding short film # 1 Event: 1980
+  - outstanding short film - documentary # 2 Events: 1963, 1964
+  - shaping of feature film (bester spielfilm - gestaltung) # 2 Events: 1961, 1970
+  - special award # 1 Event: 2002
+  - special award for a feature film # 1 Event: 1962
+  - special film award '40th anniversary of the federal republic of germany' # 1 Event: 1989
+ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.com/event/ev0000361)
+  years: ['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2022', '2023']
+  awards:  # Award Options: Awards of the International Indian Film Academy
+  - award for technical excellence # 13 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2010, 2011, 2012, 2014
+  - iifa award # 2 Events: 2022, 2023
+  - iifa golden decade honour # 1 Event: 2009
+  - international indian film academy award # 2 Events: 2017, 2018
+  - popular award # 20 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2020
+  - producer guild award # 1 Event: 2008
+  - special award # 10 Events: 2000, 2006, 2007, 2008, 2011, 2012, 2014, 2015, 2019, 2023
+  - technical award # 10 Events: 2009, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  categories: # Category Options: Awards of the International Indian Film Academy
+  - best   film # 2 Events: 2010, 2019
+  - best   picture # 1 Event: 2002
+  - best  actor in a leading role # 3 Events: 2010, 2015, 2019
+  - best  actress in a leading role # 2 Events: 2010, 2019
+  - best  director # 2 Events: 2010, 2019
+  - best action # 14 Events: 2003, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017
+  - best actor in a leading role # 19 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2020
+  - best actor in a leading role - female # 2 Events: 2022, 2023
+  - best actor in a leading role - male # 2 Events: 2022, 2023
+  - best actor in a supporting role # 18 Events: 2001, 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019
+  - best actor in a supporting role - female # 2 Events: 2022, 2023
+  - best actor in a supporting role - male # 2 Events: 2022, 2023
+  - best actress in a leading role # 19 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2020
+  - best actress in a supporting role # 18 Events: 2001, 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019
+  - best adaptation # 1 Event: 2007
+  - best art direction # 11 Events: 2000, 2001, 2002, 2003, 2005, 2006, 2007, 2008, 2009, 2010, 2011
+  - best background score # 16 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2010, 2011, 2012, 2014, 2019, 2020, 2022, 2023
+  - best choreography # 23 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - best cinematography # 22 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2018, 2019, 2020, 2022, 2023
+  - best comic actor # 11 Events: 2000, 2001, 2002, 2004, 2005, 2007, 2010, 2011, 2012, 2013, 2017
+  - best costume design # 13 Events: 2001, 2004, 2005, 2007, 2008, 2009, 2010, 2012, 2013, 2014, 2015, 2016, 2017
+  - best costume designer # 5 Events: 2000, 2002, 2003, 2006, 2011
+  - best debut actor # 15 Events: 2002, 2004, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2015, 2016, 2017, 2019, 2022, 2023
+  - best debut actor (male/female) # 1 Event: 2005
+  - best debut actress # 15 Events: 2002, 2004, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2015, 2016, 2017, 2019, 2022, 2023
+  - best debut director # 2 Events: 2005, 2013
+  - best dialogue # 20 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2019, 2020, 2022
+  - best dialogues # 3 Events: 2013, 2018, 2023
+  - best director # 21 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2020, 2022, 2023
+  - best editing # 23 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - best female debut # 3 Events: 2001, 2006, 2014
+  - best film # 7 Events: 2000, 2009, 2011, 2015, 2016, 2017, 2018
+  - best lyricist # 12 Events: 2000, 2001, 2004, 2005, 2007, 2008, 2009, 2010, 2011, 2012, 2014, 2019
+  - best lyrics # 6 Events: 2002, 2006, 2018, 2020, 2022, 2023
+  - best make up # 2 Events: 2000, 2003
+  - best make-up # 2 Events: 2002, 2014
+  - best makeup # 13 Events: 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2015, 2016, 2017
+  - best male debut # 3 Events: 2001, 2006, 2014
+  - best music direction # 4 Events: 2002, 2020, 2022, 2023
+  - best music director # 18 Events: 2000, 2001, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019
+  - best performance by an actor in a negative role # 12 Events: 2000, 2001, 2002, 2004, 2005, 2007, 2008, 2010, 2011, 2012, 2013, 2017
+  - best performance in a comic role # 5 Events: 2006, 2008, 2009, 2014, 2016
+  - best performance in a negative role # 6 Events: 2005, 2006, 2008, 2009, 2014, 2016
+  - best picture # 14 Events: 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2012, 2013, 2014, 2020, 2022, 2023
+  - best playback singer - female # 22 Events: 2000, 2001, 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - best playback singer - male # 22 Events: 2000, 2001, 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - best production design # 5 Events: 2012, 2013, 2014, 2015, 2017
+  - best regional film # 1 Event: 2015
+  - best screenplay # 21 Events: 2000, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - best song recording # 10 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2007, 2011, 2012, 2014
+  - best sound design # 7 Events: 2013, 2014, 2017, 2019, 2020, 2022, 2023
+  - best sound mixing # 8 Events: 2012, 2013, 2014, 2017, 2019, 2020, 2022, 2023
+  - best sound re-recording # 11 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2010, 2011
+  - best sound recording # 14 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013
+  - best special effects # 16 Events: 2001, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2013, 2015, 2016, 2017, 2018, 2019, 2020
+  - best special effects (visual) # 5 Events: 2000, 2002, 2003, 2012, 2014
+  - best special effects (visuals) # 1 Event: 2023
+  - best story # 19 Events: 2000, 2001, 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2020
+  - best story - adapted # 2 Events: 2022, 2023
+  - best story - original # 2 Events: 2022, 2023
+  - best supporting actor # 3 Events: 2000, 2003, 2020
+  - best supporting actress # 3 Events: 2000, 2003, 2020
+  - creative person of the year # 1 Event: 2007
+  - director of the decade # 1 Event: 2009
+  - face of the year # 1 Event: 2008
+  - iifa big 20 award for best actor # 1 Event: 2019
+  - iifa big 20 award for best actress # 1 Event: 2019
+  - iifa big 20 award for best director # 1 Event: 2019
+  - iifa big 20 award for best film # 1 Event: 2019
+  - iifa big 20 award for best music director # 1 Event: 2019
+  - most promising debut actor # 1 Event: 2020
+  - most promising debut actress # 1 Event: 2020
+  - movie of the decade # 1 Event: 2009
+  - outstanding achievement in international cinema # 1 Event: 2000
+  - outstanding achievement in regional cinema # 1 Event: 2023
+  - special awards # 1 Event: 2006
+  - special effects # 1 Event: 2022
+  - star plus hottest pair # 3 Events: 2011, 2012, 2014
+ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
+  years: ['1998', '1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2011', '2012', '2013', '2014', '2016', '2017', '2018', '2019', '2020', '2023', '2024']
+  awards:  # Award Options: Zee Cine Awards
+  - critics choice award # 10 Events: 2005, 2006, 2007, 2008, 2011, 2012, 2013, 2014, 2016, 2017
+  - entertainer of the year # 1 Event: 2007
+  - jury's choice award # 6 Events: 2006, 2018, 2019, 2020, 2023, 2024
+  - popular award # 15 Events: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2011, 2012, 2013, 2014, 2016, 2017
+  - special award # 11 Events: 1998, 1999, 2000, 2001, 2013, 2014, 2018, 2019, 2020, 2023, 2024
+  - technical award # 18 Events: 2000, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2011, 2012, 2013, 2014, 2016, 2018, 2019, 2020, 2023, 2024
+  - viewers' choice award # 6 Events: 2017, 2018, 2019, 2020, 2023, 2024
+  - zee cine award # 11 Events: 1998, 1999, 2001, 2003, 2004, 2005, 2007, 2011, 2012, 2017, 2023
+  - zee premiere choice award # 2 Events: 2001, 2012
+  categories: # Category Options: Zee Cine Awards
+  - best action # 10 Events: 2003, 2004, 2005, 2014, 2016, 2018, 2019, 2020, 2023, 2024
+  - best actor # 22 Events: 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2011, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2020, 2023, 2024
+  - best actor - ott # 1 Event: 2024
+  - best actor in a comic role # 2 Events: 2006, 2014
+  - best actor in a negative role # 3 Events: 2003, 2014, 2020
+  - best actor in a supporting role # 14 Events: 1998, 1999, 2001, 2003, 2004, 2005, 2006, 2011, 2012, 2013, 2014, 2017, 2018, 2019
+  - best actress # 22 Events: 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2011, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2020, 2023, 2024
+  - best actress in a supporting role # 14 Events: 1998, 1999, 2001, 2003, 2004, 2005, 2006, 2011, 2012, 2013, 2014, 2017, 2018, 2019
+  - best art direction # 4 Events: 2004, 2005, 2006, 2016
+  - best art director # 1 Event: 2003
+  - best audiography # 2 Events: 2004, 2005
+  - best background score # 13 Events: 2003, 2004, 2005, 2007, 2008, 2012, 2013, 2014, 2016, 2019, 2020, 2023, 2024
+  - best choreographer # 1 Event: 2003
+  - best choreography # 11 Events: 2004, 2005, 2008, 2013, 2014, 2016, 2018, 2019, 2020, 2023, 2024
+  - best cinematographer # 1 Event: 2003
+  - best cinematography # 14 Events: 2002, 2004, 2005, 2006, 2007, 2013, 2014, 2016, 2017, 2018, 2019, 2020, 2023, 2024
+  - best comedian # 1 Event: 2002
+  - best comic actor # 14 Events: 1998, 1999, 2000, 2001, 2003, 2004, 2005, 2007, 2008, 2012, 2016, 2017, 2020, 2023
+  - best comic role # 1 Event: 2019
+  - best costume # 1 Event: 2003
+  - best costume design # 6 Events: 2004, 2005, 2006, 2020, 2023, 2024
+  - best costumes # 1 Event: 2000
+  - best debut - female # 6 Events: 2000, 2002, 2007, 2012, 2013, 2014
+  - best debut - male # 6 Events: 2000, 2002, 2007, 2012, 2013, 2014
+  - best debut actor # 12 Events: 1998, 1999, 2001, 2004, 2006, 2008, 2016, 2017, 2018, 2019, 2020, 2023
+  - best debut actress # 12 Events: 1998, 1999, 2001, 2003, 2004, 2008, 2016, 2017, 2018, 2019, 2020, 2023
+  - best debut director # 7 Events: 2002, 2008, 2016, 2018, 2019, 2020, 2023
+  - best debuting director # 4 Events: 2004, 2005, 2013, 2014
+  - best dialogue # 11 Events: 2003, 2004, 2005, 2008, 2012, 2013, 2014, 2016, 2019, 2023, 2024
+  - best director # 21 Events: 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2007, 2008, 2011, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2020, 2023, 2024
+  - best editing # 12 Events: 2003, 2004, 2005, 2007, 2008, 2013, 2014, 2016, 2017, 2019, 2020, 2023
+  - best female debut # 3 Events: 2003, 2006, 2011
+  - best female playback # 2 Events: 2003, 2013
+  - best female playback singer # 2 Events: 2018, 2019
+  - best film # 22 Events: 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2011, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2020, 2023, 2024
+  - best film - ott # 1 Event: 2024
+  - best film processing # 1 Event: 2005
+  - best film writing (story & screenplay) # 1 Event: 2019
+  - best jodi # 1 Event: 2020
+  - best lyricist # 8 Events: 2000, 2002, 2003, 2007, 2013, 2014, 2018, 2019
+  - best lyrics # 5 Events: 2008, 2016, 2017, 2020, 2023
+  - best lyricst # 2 Events: 2004, 2005
+  - best male debut # 2 Events: 2003, 2011
+  - best male playback # 2 Events: 2003, 2013
+  - best male playback singer # 2 Events: 2018, 2019
+  - best marketed film of the year # 1 Event: 2014
+  - best music # 4 Events: 2018, 2019, 2020, 2023
+  - best music direction # 1 Event: 2024
+  - best music director # 15 Events: 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2007, 2008, 2011, 2012, 2013, 2014, 2016
+  - best negative role # 1 Event: 2018
+  - best newcomer # 1 Event: 2005
+  - best performance by an actor in a negative role # 9 Events: 1999, 2000, 2003, 2006, 2007, 2008, 2011, 2016, 2024
+  - best performance by an actor in a negative role (male/female) # 1 Event: 1998
+  - best performance by an actor in a villainous role # 2 Events: 2004, 2005
+  - best performance by an actor in negative role # 1 Event: 2017
+  - best performance by an actor negative role # 2 Events: 2019, 2023
+  - best performance in a comic role # 2 Events: 2011, 2013
+  - best performance in a villainous role # 1 Event: 2013
+  - best playback singer (female) # 4 Events: 2004, 2005, 2007, 2014
+  - best playback singer (male) # 4 Events: 2004, 2005, 2007, 2014
+  - best playback singer - female # 11 Events: 1998, 1999, 2000, 2001, 2008, 2012, 2016, 2017, 2020, 2023, 2024
+  - best playback singer - male # 7 Events: 1998, 1999, 2008, 2016, 2020, 2023, 2024
+  - best playback singer female # 2 Events: 2000, 2002
+  - best playback singer male # 2 Events: 2000, 2002
+  - best post-production # 1 Event: 2018
+  - best production design # 8 Events: 2014, 2016, 2017, 2018, 2019, 2020, 2023, 2024
+  - best production designer # 1 Event: 2013
+  - best publicity design # 1 Event: 2005
+  - best screenplay # 8 Events: 2003, 2004, 2005, 2007, 2014, 2017, 2023, 2024
+  - best scriptwriting # 1 Event: 2018
+  - best song of the year # 9 Events: 2004, 2005, 2013, 2014, 2016, 2018, 2019, 2020, 2023
+  - best song recording # 2 Events: 2005, 2007
+  - best sound # 3 Events: 2003, 2007, 2008
+  - best sound design # 8 Events: 2014, 2016, 2017, 2018, 2019, 2020, 2023, 2024
+  - best sound re-recording # 2 Events: 2004, 2005
+  - best special effects # 3 Events: 2004, 2005, 2020
+  - best story # 11 Events: 2000, 2002, 2003, 2004, 2005, 2008, 2011, 2013, 2014, 2016, 2023
+  - best story & screenplay # 1 Event: 2020
+  - best supporting actor # 8 Events: 2000, 2002, 2007, 2008, 2016, 2020, 2023, 2024
+  - best supporting actress # 8 Events: 2000, 2002, 2007, 2008, 2016, 2020, 2023, 2024
+  - best use of social media # 1 Event: 2013
+  - best vfx # 1 Event: 2024
+  - best villain # 2 Events: 2002, 2012
+  - best visual effects # 8 Events: 2007, 2008, 2012, 2014, 2016, 2017, 2019, 2023
+  - debut perfomer of the year # 1 Event: 2024
+  - entertainer of the year # 1 Event: 2007
+  - extraordinary couple of the year # 1 Event: 2019
+  - extraordinary franchise # 1 Event: 2018
+  - extraordinary impact actress # 1 Event: 2018
+  - extraordinary impact film # 1 Event: 2018
+  - extraordinary performer of the year # 1 Event: 2019
+  - female # 1 Event: 2001
+  - hot & techy performer of the year # 1 Event: 2024
+  - lux face of the year # 4 Events: 1998, 1999, 2000, 2001
+  - male # 1 Event: 2001
+  - outstanding performance - female # 1 Event: 2002
+  - outstanding performance - male # 1 Event: 2002
+  - performer of the year # 1 Event: 2024
+  - power club - box office award # 2 Events: 2013, 2014
+  - pride of indian cinema # 1 Event: 2023
+  - sound mixing # 3 Events: 1999, 2005, 2011
+  - special award for international cinema # 1 Event: 2002
+  - zee anmol award # 1 Event: 2014
+  - zee5 best actress # 1 Event: 2024
+ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
+  years: ['1954', '1955', '1956', '1957', '1958', '1959', '1960', '1961', '1962', '1963', '1964', '1965', '1966', '1967', '1968', '1969', '1970', '1971', '1972', '1973', '1974', '1975', '1976', '1977',
+    '1978', '1979', '1980', '1981', '1982', '1983', '1984', '1985', '1986', '1987', '1988', '1989', '1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999', '2000', '2001', '2002',
+    '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2022', '2023']
+  awards:  # Award Options: National Film Awards, India
+  - certificate of merit # 10 Events: 1954, 1956, 1957, 1958, 1959, 1960, 1961, 1963, 1964, 1966
+  - golden lotus award # 58 Events: 1961, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - indira gandhi award for best first film # 9 Events: 1984, 1986, 1993, 2000, 2002, 2003, 2007, 2010, 2017
+  - nargees dutt award # 8 Events: 1982, 1989, 1992, 2001, 2002, 2003, 2005, 2007
+  - national film award # 37 Events: 1960, 1967, 1968, 1969, 1972, 1973, 1975, 1977, 1982, 1983, 1985, 1986, 1987, 1988, 1989, 1990, 1992, 1993, 1994, 1999, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2017, 2019, 2020
+  - non-feature films award # 12 Events: 1999, 2004, 2006, 2009, 2014, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - president's gold medal # 13 Events: 1954, 1955, 1956, 1957, 1959, 1960, 1962, 1963, 1965, 1969, 1970, 1973, 1994
+  - president's silver medal # 12 Events: 1959, 1960, 1962, 1963, 1964, 1965, 1966, 1987, 1988, 1992, 2012, 2013
+  - regional award # 51 Events: 1956, 1958, 1961, 1962, 1968, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1981, 1983, 1984, 1986, 1987, 1988, 1989, 1990, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2002, 2003, 2004, 2005, 2006, 2008, 2009, 2010, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - silver lotus award # 58 Events: 1960, 1961, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - special jury award # 8 Events: 1977, 1991, 1997, 2004, 2011, 2017, 2018, 2019
+  - special mention # 25 Events: 1982, 1989, 1990, 1991, 1992, 1994, 1995, 1996, 1997, 1998, 1999, 2002, 2003, 2007, 2010, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  categories: # Category Options: National Film Awards, India
+  - . # 2 Events: 1954, 1956
+  - 2nd best feature film # 2 Events: 1971, 1975
+  - 2nd best feature film in bengali # 2 Events: 1959, 1963
+  - 2nd best feature film in tamil # 1 Event: 1966
+  - 3rd best feature film in bengali # 2 Events: 1957, 1964
+  - 3rd best feature film in hindi # 1 Event: 1964
+  - all india certificate of merit (feature film) # 1 Event: 1958
+  - best   feature film # 1 Event: 2017
+  - best  actor # 3 Events: 2017, 2018, 2019
+  - best  actress # 3 Events: 2017, 2018, 2019
+  - best  director # 1 Event: 2017
+  - best  feature film # 1 Event: 2019
+  - best  popular film providing wholesome entertainment # 2 Events: 2017, 2019
+  - best  supporting actor # 3 Events: 2017, 2018, 2019
+  - best  supporting actress # 3 Events: 2017, 2018, 2019
+  - best action # 1 Event: 2018
+  - best actor # 52 Events: 1967, 1968, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2020, 2022, 2023
+  - best actor in a supporting role # 1 Event: 1986
+  - best actress # 52 Events: 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2020, 2022, 2023
+  - best actress in a supporting role # 1 Event: 1989
+  - best animated film # 2 Events: 1995, 1996
+  - best animation film # 5 Events: 1998, 2010, 2013, 2017, 2023
+  - best anthropological # 1 Event: 2023
+  - best art direction # 16 Events: 1982, 1988, 1993, 1997, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2008, 2011, 2013, 2014, 2016
+  - best arts / cultural film # 2 Events: 2011, 2014
+  - best arts and culture film # 2 Events: 2022, 2023
+  - best audiography # 18 Events: 1982, 1984, 1993, 1994, 1999, 2001, 2002, 2003, 2005, 2006, 2007, 2008, 2009, 2010, 2015, 2017, 2019, 2022
+  - best audiography (location sound recordist) # 11 Events: 2004, 2010, 2011, 2012, 2013, 2014, 2016, 2018, 2019, 2022, 2023
+  - best audiography (on location sound recordist) # 1 Event: 2018
+  - best audiography (re-recordist of the final mixed track) # 9 Events: 2010, 2011, 2013, 2014, 2016, 2018, 2019, 2022, 2023
+  - best audiography (sound designer) # 9 Events: 2010, 2012, 2013, 2014, 2016, 2018, 2019, 2022, 2023
+  - best audiography in a non-feature film # 2 Events: 2018, 2023
+  - best background score # 5 Events: 1995, 2010, 2014, 2019, 2020
+  - best bengali film # 3 Events: 1959, 1962, 1965
+  - best biographical film # 3 Events: 1998, 2022, 2023
+  - best biographical film / best historical reconstruction / compilation film # 1 Event: 2018
+  - best child actor # 5 Events: 1971, 1986, 2003, 2011, 2018
+  - best child artist # 16 Events: 1961, 1989, 1991, 1997, 2002, 2004, 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2022, 2023
+  - best children's film # 17 Events: 1968, 1970, 1979, 1996, 1998, 2004, 2006, 2007, 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2020
+  - best children’s film # 2 Events: 2022, 2023
+  - best choreography # 22 Events: 1995, 1997, 2000, 2001, 2002, 2003, 2004, 2005, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - best cinematographer # 1 Event: 2004
+  - best cinematography # 34 Events: 1974, 1978, 1979, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1990, 1992, 1993, 1994, 1995, 1998, 1999, 2000, 2001, 2002, 2005, 2006, 2007, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2020, 2022, 2023
+  - best cinematography (black and white) # 2 Events: 1973, 1977
+  - best cinematography (color) # 2 Events: 1971, 1973
+  - best cinematography - non-feature # 2 Events: 2019, 2020
+  - best cinematography in a non-feature film # 2 Events: 2022, 2023
+  - best cinematography in non-feature category # 1 Event: 2017
+  - best cinematography in non-feature film # 1 Event: 2016
+  - best costume design # 7 Events: 1991, 1992, 2006, 2018, 2020, 2022, 2023
+  - best costume designer # 18 Events: 1990, 1993, 1994, 2000, 2001, 2002, 2003, 2005, 2007, 2009, 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2019
+  - best debut film of a director # 21 Events: 1983, 1984, 1985, 1986, 2000, 2002, 2003, 2005, 2006, 2007, 2009, 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2020, 2022, 2023
+  - best debut film of a director - non feature # 1 Event: 2015
+  - best debut non-feature film of a director # 3 Events: 2020, 2022, 2023
+  - best direction # 20 Events: 1970, 1974, 1975, 1980, 1981, 1984, 1986, 1994, 1997, 2001, 2002, 2003, 2004, 2007, 2010, 2011, 2012, 2014, 2015, 2020
+  - best director # 22 Events: 1968, 1969, 1971, 1972, 1976, 1977, 1982, 1987, 1991, 1992, 1995, 2000, 2005, 2006, 2008, 2009, 2011, 2016, 2018, 2019, 2022, 2023
+  - best director in non-feature film # 5 Events: 2014, 2017, 2018, 2022, 2023
+  - best documentary film # 2 Events: 1962, 1973
+  - best editing # 26 Events: 1983, 1987, 1990, 1994, 1995, 1996, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2011, 2012, 2013, 2014, 2015, 2016, 2018, 2020, 2022, 2023
+  - best editing in a non-feature film # 3 Events: 2018, 2022, 2023
+  - best editing in non-feature film # 2 Events: 2011, 2019
+  - best editing, non fiction # 1 Event: 2008
+  - best educational / motivational / instructional film # 1 Event: 2019
+  - best educational film # 3 Events: 2015, 2020, 2023
+  - best environment film # 3 Events: 2014, 2022, 2023
+  - best environment film including agriculture # 1 Event: 2013
+  - best ethnographic film # 1 Event: 2022
+  - best exploration / adventure film (including sports) # 1 Event: 2019
+  - best exploration film # 2 Events: 2022, 2023
+  - best exploration/adventure film # 2 Events: 2004, 2020
+  - best feature film # 47 Events: 1954, 1955, 1956, 1957, 1960, 1962, 1963, 1965, 1967, 1969, 1970, 1971, 1972, 1973, 1974, 1977, 1982, 1983, 1984, 1987, 1988, 1990, 1991, 1992, 1993, 1994, 1995, 1997, 1999, 2000, 2002, 2003, 2004, 2006, 2007, 2008, 2009, 2010, 2012, 2013, 2014, 2015, 2016, 2018, 2020, 2022, 2023
+  - best feature film in  gujarati # 1 Event: 2023
+  - best feature film in assamese # 28 Events: 1956, 1964, 1970, 1972, 1976, 1983, 1986, 1992, 1993, 1994, 1995, 1996, 1997, 2000, 2003, 2005, 2009, 2010, 2011, 2013, 2014, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - best feature film in bengali # 42 Events: 1956, 1960, 1961, 1962, 1967, 1969, 1972, 1973, 1974, 1975, 1979, 1981, 1982, 1983, 1984, 1987, 1988, 1990, 1993, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2009, 2010, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - best feature film in chhattisgarhi # 1 Event: 2019
+  - best feature film in dimasa # 1 Event: 2022
+  - best feature film in english # 5 Events: 2003, 2006, 2008, 2010, 2013
+  - best feature film in gujarati # 3 Events: 2013, 2017, 2018
+  - best feature film in haryanvi # 2 Events: 2015, 2022
+  - best feature film in hindi # 41 Events: 1961, 1962, 1963, 1964, 1970, 1971, 1973, 1976, 1977, 1978, 1983, 1984, 1985, 1987, 1988, 1989, 1992, 1993, 1994, 1995, 1996, 1997, 1999, 2000, 2002, 2003, 2005, 2006, 2007, 2009, 2010, 2011, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - best feature film in kannada # 8 Events: 1977, 2008, 2013, 2014, 2016, 2020, 2022, 2023
+  - best feature film in konkani # 3 Events: 2009, 2014, 2015
+  - best feature film in ladakhi # 1 Event: 2018
+  - best feature film in malayalam # 16 Events: 1991, 1995, 1997, 2003, 2005, 2010, 2011, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - best feature film in marathi # 13 Events: 1975, 1996, 2003, 2006, 2011, 2014, 2015, 2016, 2018, 2019, 2020, 2022, 2023
+  - best feature film in mishing # 1 Event: 2013
+  - best feature film in oriya # 4 Events: 1986, 1992, 1998, 2018
+  - best feature film in punjabi # 4 Events: 1998, 2015, 2016, 2020
+  - best feature film in rajasthani # 1 Event: 2019
+  - best feature film in tamil # 40 Events: 1960, 1961, 1966, 1968, 1973, 1976, 1981, 1982, 1983, 1985, 1986, 1987, 1988, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2002, 2003, 2005, 2007, 2009, 2010, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - best feature film in telegu # 1 Event: 2004
+  - best feature film in telugu # 23 Events: 1964, 1979, 1983, 1984, 1987, 1989, 1990, 1994, 1996, 1997, 1999, 2000, 2002, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+  - best feature film in urdu # 2 Events: 2013, 2019
+  - best feature film on national integration # 15 Events: 1988, 1989, 1992, 1993, 1996, 1998, 1999, 2002, 2004, 2005, 2007, 2009, 2014, 2016, 2023
+  - best female playback singer # 1 Event: 2022
+  - best film # 23 Events: 1959, 1961, 1966, 1967, 1975, 1976, 1977, 1978, 1980, 1981, 1982, 1985, 1986, 1989, 1990, 1992, 1996, 1998, 2001, 2004, 2005, 2011, 2017
+  - best film (arts and culture) # 1 Event: 2019
+  - best film in sherdukpan dialect # 1 Event: 2019
+  - best film on environment conservation / preservation # 4 Events: 2010, 2015, 2016, 2019
+  - best film on environment conservation/ preservation # 2 Events: 2012, 2014
+  - best film on environment conservation/preservation # 2 Events: 2022, 2023
+  - best film on family values # 4 Events: 2009, 2014, 2022, 2023
+  - best film on family welfare # 7 Events: 1990, 1995, 2005, 2006, 2007, 2008, 2013
+  - best film on family welfare - feature # 2 Events: 1983, 2005
+  - best film on other social issues # 16 Events: 1988, 1991, 1994, 1995, 1999, 2000, 2001, 2002, 2003, 2004, 2006, 2014, 2015, 2016, 2017, 2018
+  - best film on social issue # 2 Events: 2022, 2023
+  - best film on social issues # 11 Events: 1996, 2004, 2009, 2010, 2013, 2014, 2015, 2019, 2020, 2022, 2023
+  - best film on social issues (non-feature) # 1 Event: 2020
+  - best film on social welfare # 1 Event: 2019
+  - best film with mass appeal, wholesome entertainment and aesthetic value # 2 Events: 1976, 1979
+  - best film- non fiction # 2 Events: 1986, 2008
+  - best first non-feature film # 1 Event: 2019
+  - best first non-feature film of a director # 1 Event: 2006
+  - best investigative film # 6 Events: 2002, 2010, 2013, 2019, 2022, 2023
+  - best location sound recordist # 1 Event: 2023
+  - best lyricist # 3 Events: 1993, 1999, 2002
+  - best lyrics # 16 Events: 1988, 1991, 1998, 2001, 2003, 2005, 2007, 2008, 2010, 2011, 2013, 2014, 2015, 2016, 2022, 2023
+  - best maithili film # 1 Event: 2023
+  - best make-up artist # 3 Events: 2009, 2019, 2020
+  - best makeup artist # 8 Events: 2008, 2012, 2013, 2014, 2016, 2018, 2022, 2023
+  - best malayalam film # 1 Event: 1990
+  - best male playback singer # 3 Events: 2012, 2013, 2022
+  - best meiteilon film # 1 Event: 2023
+  - best mishing film # 1 Event: 2023
+  - best music # 1 Event: 1994
+  - best music direction # 9 Events: 1968, 1995, 2003, 2004, 2006, 2009, 2014, 2017, 2020
+  - best music direction (songs) # 1 Event: 2011
+  - best music direction - background score # 4 Events: 2015, 2016, 2018, 2023
+  - best music direction - songs # 4 Events: 2015, 2016, 2018, 2023
+  - 'best music direction: background score' # 1 Event: 2022
+  - 'best music direction: songs' # 1 Event: 2022
+  - best music director # 28 Events: 1971, 1972, 1974, 1976, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1991, 1993, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2005, 2008, 2011, 2019
+  - best music director for a non-feature film # 3 Events: 2002, 2022, 2023
+  - best narration / voice over # 1 Event: 2020
+  - best narration/ voiceover # 2 Events: 2022, 2023
+  - best non-feature environment/conservation/preservation film # 1 Event: 1998
+  - best non-feature film # 9 Events: 2008, 2009, 2011, 2014, 2016, 2019, 2020, 2022, 2023
+  - best non-feature film editing # 1 Event: 2020
+  - best odia film # 1 Event: 2023
+  - best on location sound # 1 Event: 2022
+  - best performance # 1 Event: 1991
+  - best playback singer (female) # 30 Events: 1971, 1973, 1975, 1978, 1982, 1983, 1987, 1988, 1991, 1993, 1994, 1996, 1997, 1998, 1999, 2001, 2003, 2005, 2006, 2008, 2009, 2011, 2012, 2014, 2015, 2016, 2018, 2019, 2020, 2023
+  - best playback singer (male) # 38 Events: 1968, 1971, 1973, 1975, 1976, 1977, 1978, 1980, 1982, 1983, 1984, 1987, 1988, 1989, 1992, 1994, 1995, 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2023
+  - best popular film providing wholesome entertainment # 33 Events: 1975, 1980, 1987, 1988, 1989, 1990, 1991, 1994, 1995, 1996, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2018, 2020, 2022, 2023
+  - best production design # 7 Events: 2015, 2017, 2018, 2019, 2020, 2022, 2023
+  - best promotional film # 3 Events: 2003, 2009, 2023
+  - best re-recording mixing # 1 Event: 2013
+  - best regional film ( oriya) # 2 Events: 1993, 2020
+  - best regional film (hindi) # 4 Events: 1989, 2001, 2003, 2004
+  - best regional film (marathi) # 1 Event: 2001
+  - best regional film (oriya) # 6 Events: 1960, 1967, 1981, 1986, 1994, 1997
+  - best science and technology film # 2 Events: 2022, 2023
+  - best screenplay # 31 Events: 1967, 1971, 1973, 1974, 1975, 1978, 1982, 1983, 1984, 1986, 1987, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1997, 1998, 1999, 2002, 2003, 2004, 2005, 2007, 2010, 2011, 2014, 2017, 2022
+  - best screenplay (adapted) # 8 Events: 2011, 2012, 2013, 2015, 2016, 2018, 2019, 2023
+  - best screenplay (dialogue writer) # 2 Events: 2022, 2023
+  - best screenplay (dialogues) # 7 Events: 2012, 2013, 2015, 2016, 2017, 2018, 2019
+  - best screenplay (original) # 8 Events: 1977, 2012, 2013, 2015, 2016, 2018, 2020, 2023
+  - best screenplay(adapted) # 1 Event: 2019
+  - best screenplay(dialogues) # 1 Event: 2012
+  - best short fiction # 3 Events: 1993, 2002, 2017
+  - best short fiction film # 3 Events: 2019, 2022, 2023
+  - best short film # 1 Event: 1986
+  - best sound design # 1 Event: 2015
+  - best sound designer # 1 Event: 1994
+  - best special effects # 21 Events: 1995, 1997, 2000, 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2020, 2023
+  - best story # 1 Event: 1974
+  - best stunt # 1 Event: 2019
+  - best stunt choreography # 2 Events: 2017, 2022
+  - best stunt direction # 1 Event: 2023
+  - best supporting actor # 29 Events: 1987, 1988, 1989, 1990, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2020, 2022, 2023
+  - best supporting actress # 29 Events: 1985, 1987, 1988, 1990, 1992, 1993, 1994, 1995, 1997, 1998, 1999, 2000, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2012, 2013, 2014, 2015, 2016, 2020, 2022, 2023
+  - best tulu film # 1 Event: 2022
+  - certificate of merit # 2 Events: 1954, 1956
+  - certificate of merit for female actor # 4 Events: 2010, 2014, 2015, 2018
+  - indira gandhi award for best first film # 1 Event: 1993
+  - nargees dutt award # 3 Events: 1982, 2001, 2003
+  - nargid dutt award # 1 Event: 2010
+  - second best feature film # 1 Event: 1976
+  - second best feature film in bengali # 1 Event: 1962
+  - second best feature film in hindi # 2 Events: 1958, 1962
+  - second best film # 1 Event: 1991
+  - special jury award # 17 Events: 1990, 1991, 1993, 1994, 1997, 2004, 2007, 2011, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2022, 2023
+  - special jury award (non-feature film) # 4 Events: 2002, 2015, 2016, 2019
+  - special jury award / special mention (feature film) # 1 Event: 1993
+  - 'special jury award: best non fiction film' # 1 Event: 2017
+  - special mention # 17 Events: 1982, 1991, 1994, 1995, 1996, 1997, 2002, 2003, 2012, 2013, 2014, 2015, 2016, 2019, 2020, 2022, 2023
+  - special mention (actor) # 7 Events: 1989, 1990, 1998, 1999, 2007, 2017, 2020
+  - special mention (actress) # 5 Events: 1992, 1996, 1997, 2013, 2017
+  - special mention (child actor) # 1 Event: 1996
+  - third best feature film in bengali # 1 Event: 1958
+ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event/ev0001931)
+  years: ['2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023']
+  awards:  # Award Options: Indian Television Academy Awards, India
+  - indian television academy award # 23 Events: 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+  - milestone achievement award # 2 Events: 2001, 2020
+  - ott award # 6 Events: 2018, 2019, 2020, 2021, 2022, 2023
+  - special award # 8 Events: 2008, 2012, 2013, 2015, 2018, 2019, 2020, 2021
+  - technical award # 18 Events: 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2021, 2022
+  - technical award (tv) # 1 Event: 2023
+  - technical award (web) # 1 Event: 2023
+  categories: # Category Options: Indian Television Academy Awards, India
+  - best actor - drama # 22 Events: 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023
+  - best actor - drama (ott) # 3 Events: 2021, 2022, 2023
+  - best actor - popular # 23 Events: 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+  - best actor - popular (ott) # 1 Event: 2023
+  - best actor - web series # 4 Events: 2017, 2018, 2019, 2020
+  - best actor in a comic role # 17 Events: 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2023
+  - best actor in a comic role (jury) # 2 Events: 2021, 2022
+  - best actor in a comic role (popular) # 3 Events: 2021, 2022, 2023
+  - best actor in a negative role # 16 Events: 2005, 2006, 2007, 2009, 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023
+  - best actor in a supporting role # 18 Events: 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+  - best actor in a supporting role (comedy) # 1 Event: 2023
+  - best actor in a supporting role (drama) # 1 Event: 2023
+  - best actor in a supporting role - web series # 2 Events: 2018, 2019
+  - best actor in an original film # 2 Events: 2021, 2023
+  - best actor of the year # 1 Event: 2021
+  - 'best actor: comedy (ott)' # 2 Events: 2022, 2023
+  - 'best actor: original film (ott)' # 1 Event: 2022
+  - best actress - drama # 22 Events: 2001, 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+  - best actress - drama (ott) # 3 Events: 2021, 2022, 2023
+  - best actress - popular # 23 Events: 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+  - best actress - popular (ott) # 1 Event: 2023
+  - best actress - web series # 3 Events: 2017, 2018, 2019
+  - best actress in a comic role # 19 Events: 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2023
+  - best actress in a comic role (jury) # 2 Events: 2021, 2022
+  - best actress in a comic role (popular) # 3 Events: 2021, 2022, 2023
+  - best actress in a negative role # 17 Events: 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2021, 2022, 2023
+  - best actress in a supporting role # 18 Events: 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+  - best actress in a supporting role (comedy) # 1 Event: 2023
+  - best actress in a supporting role (drama) # 1 Event: 2023
+  - best actress in an original film # 2 Events: 2021, 2023
+  - 'best actress: comedy (ott)' # 2 Events: 2022, 2023
+  - 'best actress: original film (ott)' # 1 Event: 2022
+  - best anchor # 2 Events: 2003, 2015
+  - best anchor - game/quiz show # 11 Events: 2001, 2003, 2004, 2005, 2006, 2008, 2009, 2010, 2013, 2022, 2023
+  - best anchor - music & film based show # 6 Events: 2003, 2010, 2012, 2014, 2016, 2017
+  - best anchor - music/dance based show # 3 Events: 2006, 2011, 2023
+  - best anchor - news/current affairs show # 2 Events: 2001, 2005
+  - best anchor - reality tv # 1 Event: 2021
+  - best anchor - talk/chat show # 1 Event: 2010
+  - best anchor- talk chat show # 1 Event: 2021
+  - best art direction # 8 Events: 2002, 2005, 2006, 2007, 2008, 2010, 2012, 2013
+  - best art direction - fiction # 2 Events: 2009, 2018
+  - best art direction - non fiction # 1 Event: 2018
+  - best audiography # 2 Events: 2004, 2005
+  - best child actor # 16 Events: 2005, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2023
+  - best children show # 1 Event: 2017
+  - best children's program # 5 Events: 2001, 2002, 2005, 2010, 2018
+  - best children's programme # 1 Event: 2003
+  - best cinematography # 1 Event: 2016
+  - best cookery show # 2 Events: 2001, 2005
+  - best costume design # 1 Event: 2023
+  - best costume designer # 8 Events: 2004, 2006, 2007, 2008, 2011, 2012, 2018, 2022
+  - best costume designer - ott # 1 Event: 2022
+  - best costumes # 5 Events: 2002, 2005, 2013, 2014, 2017
+  - best debutant actress of the year -ott # 2 Events: 2020, 2022
+  - best dialogue # 1 Event: 2023
+  - best dialogue (comedy) # 1 Event: 2022
+  - best dialogue (drama) # 3 Events: 2017, 2021, 2022
+  - best dialogue (ott) # 1 Event: 2021
+  - best dialogue - drama # 1 Event: 2018
+  - best dialogue - drama (ott) # 1 Event: 2023
+  - best dialogue - ott # 1 Event: 2022
+  - best dialogue - sitcom comedy # 1 Event: 2018
+  - best dialogues # 8 Events: 2005, 2007, 2008, 2009, 2010, 2013, 2016, 2018
+  - best direction - comedy # 1 Event: 2023
+  - best direction - drama # 1 Event: 2023
+  - best direction - drama (ott) # 1 Event: 2023
+  - best direction - reality show # 1 Event: 2023
+  - 'best direction: comedy (ott)' # 1 Event: 2023
+  - best director - comedy # 8 Events: 2001, 2002, 2003, 2005, 2017, 2019, 2021, 2022
+  - best director - comedy (ott) # 1 Event: 2022
+  - best director - drama # 12 Events: 2001, 2002, 2003, 2004, 2005, 2007, 2008, 2017, 2018, 2019, 2021, 2022
+  - best director - drama (ott) # 1 Event: 2022
+  - best director - original film # 2 Events: 2021, 2022
+  - best director - sitcom comedy # 1 Event: 2018
+  - best director - thriller # 1 Event: 2018
+  - best director - web series # 2 Events: 2017, 2019
+  - best director drama - jury # 1 Event: 2018
+  - best documentary # 1 Event: 2023
+  - best documentary (ott) # 1 Event: 2023
+  - best dop - ott # 1 Event: 2023
+  - best editing # 2 Events: 2011, 2013
+  - best editing (ott) # 1 Event: 2022
+  - best game quiz show # 1 Event: 2001
+  - best game/quiz show # 2 Events: 2005, 2008
+  - best historical serial # 2 Events: 2019, 2021
+  - best historical/mythological serial # 12 Events: 2004, 2006, 2007, 2008, 2009, 2010, 2011, 2013, 2014, 2015, 2016, 2017
+  - best host # 1 Event: 2018
+  - best host - game/quiz show # 1 Event: 2007
+  - best host - music & film based show # 1 Event: 2009
+  - best host - talk/chat show # 1 Event: 2007
+  - best lyricist # 3 Events: 2011, 2014, 2023
+  - best make-up # 3 Events: 2004, 2005, 2006
+  - best movie of the year # 1 Event: 2021
+  - best music & film based show # 2 Events: 2016, 2017
+  - best music composer # 1 Event: 2023
+  - best mytho/fantasy serial # 1 Event: 2021
+  - best mythological show # 1 Event: 2019
+  - best onscreen couple # 1 Event: 2019
+  - best original film - ott # 4 Events: 2020, 2021, 2022, 2023
+  - best performance by an actor in a negative role (ott) # 1 Event: 2022
+  - best popular show # 1 Event: 2020
+  - best reality show # 9 Events: 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2021
+  - best reality show (dance/music) # 2 Events: 2021, 2023
+  - best reality show (game/quiz) # 3 Events: 2013, 2022, 2023
+  - best screenplay - ott # 1 Event: 2023
+  - best serial # 1 Event: 2015
+  - best serial - comedy # 14 Events: 2001, 2003, 2005, 2007, 2010, 2011, 2013, 2014, 2015, 2016, 2017, 2019, 2021, 2022
+  - best serial - comedy (popular) # 1 Event: 2023
+  - best serial - drama # 19 Events: 2001, 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2016, 2017, 2018, 2019, 2021, 2022, 2023
+  - best serial - historical # 1 Event: 2023
+  - best serial - historical/mythological # 1 Event: 2002
+  - best serial - mytho/fantasy # 1 Event: 2023
+  - best serial - popular # 14 Events: 2001, 2004, 2005, 2006, 2008, 2011, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2023
+  - best serial - thriller / horror # 6 Events: 2003, 2004, 2010, 2012, 2015, 2017
+  - best serial - thriller/horor # 2 Events: 2007, 2019
+  - 'best serial: comedy' # 1 Event: 2023
+  - best show - music & film based show # 4 Events: 2005, 2008, 2009, 2010
+  - best singer # 11 Events: 2006, 2007, 2010, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2023
+  - best story # 3 Events: 2017, 2022, 2023
+  - best story - ott # 2 Events: 2021, 2022
+  - best story ott # 1 Event: 2023
+  - best supporting actor - drama (ott) # 2 Events: 2021, 2022
+  - best supporting actor in an original film # 1 Event: 2021
+  - 'best supporting actor: comedy (ott)' # 1 Event: 2022
+  - 'best supporting actor: original film (ott)' # 1 Event: 2022
+  - best supporting actress - drama (ott) # 2 Events: 2021, 2022
+  - best supporting actress in an original film # 1 Event: 2021
+  - 'best supporting actress: comedy (ott)' # 1 Event: 2022
+  - best talk/chat show # 2 Events: 2021, 2023
+  - best teleplay # 8 Events: 2002, 2004, 2010, 2016, 2017, 2018, 2021, 2023
+  - best title music # 3 Events: 2008, 2012, 2014
+  - best vfx (ott) # 1 Event: 2022
+  - best videography # 2 Events: 2004, 2008
+  - best visual effects # 11 Events: 2004, 2005, 2010, 2011, 2013, 2017, 2018, 2019, 2021, 2022, 2023
+  - best web series # 2 Events: 2017, 2018
+  - best web series - comedy # 2 Events: 2022, 2023
+  - best web series - drama # 3 Events: 2021, 2022, 2023
+  - best web series - popular # 1 Event: 2023
+  - bollywood entertainer of the year # 1 Event: 2018
+  - comedy genius # 1 Event: 2019
+  - film with social impact # 1 Event: 2021
+  - gr8! best newcomer - female # 1 Event: 2004
+  - gr8! best newcomer - male # 1 Event: 2004
+  - gr8! face - female # 1 Event: 2011
+  - gr8! face - male # 1 Event: 2011
+  - gr8! lil wonder of tv # 1 Event: 2008
+  - gr8! on-screen couple # 1 Event: 2015
+  - gr8! on-screen couple (viewer's choice) # 1 Event: 2014
+  - gr8! on-screen couple of the year # 2 Events: 2014, 2016
+  - gr8! performer - male # 1 Event: 2012
+  - gr8! performer female # 1 Event: 2014
+  - gr8! performer male # 1 Event: 2014
+  - gr8! performer of the year - female # 5 Events: 2008, 2010, 2012, 2013, 2015
+  - gr8! performer of the year - male # 4 Events: 2008, 2010, 2013, 2015
+  - highest rated show # 1 Event: 2018
+  - international artist # 1 Event: 2020
+  - ita scroll of honour # 2 Events: 2012, 2013
+  - landmark-ott # 1 Event: 2020
+  - milestone award # 1 Event: 2020
+  - milestone of indian television # 1 Event: 2001
+  - most entertaining personality on tv # 1 Event: 2017
+  - most popular actor - ott # 2 Events: 2021, 2022
+  - most popular actress - ott # 5 Events: 2018, 2019, 2020, 2021, 2022
+  - most popular film (ott release) # 1 Event: 2021
+  - most popular show (ott) # 1 Event: 2021
+  - most popular show - comedy # 1 Event: 2021
+  - most popular show - drama # 1 Event: 2021
+  - most stylish male in reality series # 1 Event: 2015
+  - popular star (male) # 1 Event: 2018
+  - special recognition # 1 Event: 2015
+  - viewer mention # 1 Event: 2021
+ev0005699: # Zee Rishtey Awards (https://www.imdb.com/event/ev0005699)
+  years: ['2007', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2024']
+  awards:  # Award Options: Zee Rishtey Awards
+  - zee rishtey award # 15 Events: 2007, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2024
+  categories: # Category Options: Zee Rishtey Awards
+  - best director # 1 Event: 2021
+  - best jodi # 1 Event: 2018
+  - best show # 1 Event: 2018
+  - best show across the channels # 1 Event: 2018
+  - favorite anchor # 2 Events: 2016, 2018
+  - favorite bahu # 1 Event: 2016
+  - favorite behenon ka rishta # 1 Event: 2007
+  - favorite beta # 5 Events: 2015, 2016, 2017, 2018, 2022
+  - favorite beti # 3 Events: 2016, 2017, 2021
+  - favorite bhabhi-dever rishta # 1 Event: 2007
+  - favorite buzurg # 1 Event: 2017
+  - favorite character (female) # 2 Events: 2021, 2022
+  - favorite character (male) # 1 Event: 2021
+  - favorite devrani jethani rishta # 1 Event: 2007
+  - favorite dharavaahik # 2 Events: 2017, 2021
+  - favorite dharavaahik (fiction) # 1 Event: 2012
+  - favorite female # 1 Event: 2019
+  - favorite guru/shishya rishta # 1 Event: 2007
+  - favorite jija sala/sali rishta # 1 Event: 2007
+  - favorite jodi # 10 Events: 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2024
+  - favorite maata # 2 Events: 2016, 2018
+  - favorite male # 1 Event: 2019
+  - favorite parivaar # 6 Events: 2010, 2011, 2012, 2014, 2016, 2017
+  - favorite pati-patni rishta # 1 Event: 2007
+  - favorite popular character (female) # 2 Events: 2017, 2020
+  - favorite popular character (female) (on zee5) # 1 Event: 2018
+  - favorite popular character (male) # 1 Event: 2017
+  - favorite popular character (male) (on zee5) # 3 Events: 2018, 2021, 2022
+  - favorite popular face (female) # 6 Events: 2011, 2012, 2013, 2014, 2017, 2018
+  - favorite popular face (male) # 6 Events: 2011, 2012, 2013, 2014, 2015, 2018
+  - favorite reality show # 2 Events: 2012, 2016
+  - favorite saas-bahu rishta # 1 Event: 2007
+  - favorite sasur # 1 Event: 2021
+  - favorite sautan # 1 Event: 2016
+  - favorite show # 1 Event: 2019
+  - favourite actor in a negative role # 3 Events: 2018, 2019, 2021
+  - favourite anchor # 1 Event: 2012
+  - favourite bahu # 2 Events: 2020, 2021
+  - favourite behen # 6 Events: 2010, 2011, 2012, 2013, 2014, 2019
+  - favourite beta # 6 Events: 2011, 2012, 2013, 2014, 2021, 2024
+  - favourite beti # 6 Events: 2011, 2012, 2013, 2014, 2019, 2024
+  - favourite bhabhi # 2 Events: 2011, 2021
+  - favourite bhabi # 1 Event: 2019
+  - favourite bhai # 5 Events: 2011, 2012, 2013, 2014, 2019
+  - favourite child artist # 1 Event: 2022
+  - favourite dosti # 1 Event: 2014
+  - favourite father # 1 Event: 2018
+  - favourite guru-shisya # 1 Event: 2012
+  - favourite jodi # 2 Events: 2021, 2022
+  - favourite judge panal # 2 Events: 2019, 2022
+  - favourite khalnayak # 4 Events: 2011, 2012, 2013, 2014
+  - favourite khalnayak jodi # 1 Event: 2020
+  - favourite kutumb # 1 Event: 2019
+  - favourite maa # 3 Events: 2020, 2022, 2024
+  - favourite mata # 1 Event: 2012
+  - favourite mata-pita # 2 Events: 2011, 2014
+  - favourite naya sadasya # 1 Event: 2018
+  - favourite naya sadasya - female # 5 Events: 2011, 2012, 2014, 2021, 2022
+  - favourite naya sadasya - male # 6 Events: 2011, 2012, 2014, 2019, 2021, 2022
+  - favourite naya sadasya-female # 1 Event: 2018
+  - favourite nayi jodi # 6 Events: 2011, 2012, 2013, 2014, 2021, 2022
+  - favourite pita # 1 Event: 2022
+  - favourite popular face (female) # 1 Event: 2015
+  - favourite saas # 2 Events: 2014, 2016
+  - favourite saas bahu rishta # 1 Event: 2014
+  - favourite saas jamai rishta # 1 Event: 2014
+  - favourite saas-bahu rishta # 2 Events: 2011, 2014
+  - favourite saas-sasur # 2 Events: 2011, 2012
+  - favourite story # 2 Events: 2014, 2015
+  - favourite stylish personality of the year # 1 Event: 2015
+  - favourite tv judge # 1 Event: 2017
+  - personality of the year # 1 Event: 2012
+  - social swagger # 1 Event: 2018
+  - zee ki shaan # 1 Event: 2011
+ev0005770: # Nickelodeon Kids' Choice Awards, India (https://www.imdb.com/event/ev0005770)
+  years: ['2013', '2016', '2017', '2018', '2019', '2021', '2022', '2023']
+  awards:  # Award Options: Nickelodeon Kids' Choice Awards, India
+  - nickelodeon kids' choice award # 8 Events: 2013, 2016, 2017, 2018, 2019, 2021, 2022, 2023
+  - special award # 4 Events: 2016, 2018, 2019, 2022
+  categories: # Category Options: Nickelodeon Kids' Choice Awards, India
+  - dabur best smile # 1 Event: 2017
+  - dynamic performer award # 1 Event: 2018
+  - favorite actor - movie # 7 Events: 2013, 2016, 2017, 2018, 2019, 2022, 2023
+  - favorite actor - tv # 6 Events: 2013, 2016, 2017, 2018, 2019, 2021
+  - favorite actress - movie # 7 Events: 2013, 2016, 2017, 2018, 2019, 2022, 2023
+  - favorite actress - tv # 6 Events: 2013, 2016, 2017, 2018, 2019, 2021
+  - favorite animation show # 1 Event: 2021
+  - favorite child entertainer # 3 Events: 2016, 2017, 2021
+  - favorite dancing star # 2 Events: 2016, 2017
+  - favorite film # 4 Events: 2013, 2016, 2017, 2018
+  - favorite hollywood movie # 1 Event: 2013
+  - favorite indian cartoon character # 2 Events: 2016, 2017
+  - favorite movie # 3 Events: 2019, 2022, 2023
+  - favorite movie (south) # 2 Events: 2022, 2023
+  - favorite movie actor (south) # 2 Events: 2022, 2023
+  - favorite movie actress (south) # 1 Event: 2022
+  - favorite show on kids channel # 7 Events: 2013, 2016, 2017, 2018, 2019, 2022, 2023
+  - favorite tv actor # 2 Events: 2022, 2023
+  - favorite tv actress # 2 Events: 2022, 2023
+  - favorite tv show # 5 Events: 2013, 2016, 2018, 2019, 2022
+  - favorite tv show (fiction) # 1 Event: 2023
+  - favorite tv show (reality) # 1 Event: 2023
+  - favourite bollywood movie song # 2 Events: 2018, 2019
+  - favourite child entertainer on tv # 3 Events: 2018, 2019, 2023
+  - favourite indian cartoon character # 1 Event: 2022
+  - favourite mobile game # 2 Events: 2018, 2019
+  - favourite movie song # 1 Event: 2016
+  - favourite singer # 1 Event: 2023
+  - favourite song # 2 Events: 2022, 2023
+  - favourite song (south) # 1 Event: 2023
+  - jodi kamaal ki # 2 Events: 2016, 2019
+  - new kid on the block # 1 Event: 2018
+  - newcomer of the year # 1 Event: 2019
+  - power house performer of the year # 2 Events: 2018, 2022
+ev0011808: # Indian Film Festival Of Melbourne (https://www.imdb.com/event/ev0011808)
+  years: ['2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023']
+  awards:  # Award Options: Indian Film Festival Of Melbourne
+  - best actor # 1 Event: 2019
+  - best actress # 1 Event: 2021
+  - best director # 2 Events: 2018, 2021
+  - best documentary # 4 Events: 2019, 2020, 2021, 2023
+  - best indie film # 4 Events: 2018, 2019, 2021, 2023
+  - best short film # 4 Events: 2019, 2020, 2021, 2022
+  - beyond bollywood # 3 Events: 2020, 2021, 2022
+  - honorary award # 3 Events: 2017, 2021, 2023
+  - iff award # 9 Events: 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023
+  - iff award - streaming platform # 3 Events: 2021, 2022, 2023
+  - iffm disruptor award # 1 Event: 2021
+  categories: # Category Options: Indian Film Festival Of Melbourne
+  - australian premiere # 1 Event: 2022
+  - best actor # 9 Events: 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023
+  - best actor in a series # 3 Events: 2021, 2022, 2023
+  - best actress # 9 Events: 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023
+  - best actress in a series # 3 Events: 2021, 2022, 2023
+  - best director # 9 Events: 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023
+  - best documentary # 4 Events: 2019, 2020, 2021, 2023
+  - best film # 9 Events: 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023
+  - best indie film # 5 Events: 2018, 2019, 2021, 2022, 2023
+  - best series # 2 Events: 2022, 2023
+  - best short film # 5 Events: 2014, 2019, 2020, 2021, 2022
+  - best supporting performance # 1 Event: 2018
+  - beyond bollywood # 2 Events: 2020, 2021
+  - disruptor in cinema award # 1 Event: 2022
+  - honorary mention # 1 Event: 2021
+  - iffm disruptor award # 1 Event: 2021
+  - leadership in cinema award # 1 Event: 2022
+  - rainbow stories award # 1 Event: 2023
+ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
+  years: ['2020', '2021', '2022', '2023']
+  awards:  # Award Options: Filmfare OTT Awards
+  - critics choice award # 4 Events: 2020, 2021, 2022, 2023
+  - filmfare award # 1 Event: 2022
+  - popular award # 4 Events: 2020, 2021, 2022, 2023
+  - short film award # 1 Event: 2023
+  - technical award # 4 Events: 2020, 2021, 2022, 2023
+  categories: # Category Options: Filmfare OTT Awards
+  - best actor - drama # 4 Events: 2020, 2021, 2022, 2023
+  - best actor - short film # 1 Event: 2023
+  - best actor - web original film # 1 Event: 2023
+  - 'best actor: comedy' # 4 Events: 2020, 2021, 2022, 2023
+  - 'best actor: web original film' # 4 Events: 2020, 2021, 2022, 2023
+  - best actress - drama # 4 Events: 2020, 2021, 2022, 2023
+  - best actress - short film # 1 Event: 2023
+  - best actress - web original film # 1 Event: 2023
+  - 'best actress: comedy' # 4 Events: 2020, 2021, 2022, 2023
+  - 'best actress: web original film' # 4 Events: 2020, 2021, 2022, 2023
+  - best adapted screenplay (series) # 1 Event: 2023
+  - best art direction # 1 Event: 2020
+  - best background music # 3 Events: 2020, 2021, 2022
+  - best background music (series) # 1 Event: 2023
+  - best background music (web original film) # 1 Event: 2023
+  - best cinematographer (series) # 1 Event: 2023
+  - best cinematographer (web original film) # 1 Event: 2023
+  - best cinematography # 3 Events: 2020, 2021, 2022
+  - best costume design # 3 Events: 2020, 2021, 2022
+  - best costume design (series) # 1 Event: 2023
+  - best dialogue # 2 Events: 2021, 2022
+  - best dialogue (series) # 1 Event: 2023
+  - best dialogue (web original film) # 1 Event: 2023
+  - best dialogues # 1 Event: 2020
+  - best director # 4 Events: 2020, 2021, 2022, 2023
+  - best director - series # 1 Event: 2023
+  - best director - short film # 1 Event: 2023
+  - 'best director: web original film' # 1 Event: 2023
+  - best editing (series) # 1 Event: 2023
+  - best editing (web original film) # 1 Event: 2023
+  - best editor # 3 Events: 2020, 2021, 2022
+  - best nonfiction original, series/special # 4 Events: 2020, 2021, 2022, 2023
+  - best original screenplay (series) # 1 Event: 2023
+  - best original screenplay (web original film) # 1 Event: 2023
+  - best original screenplay, series # 1 Event: 2022
+  - best original soundtrack # 3 Events: 2020, 2021, 2022
+  - best original soundtrack (series) # 1 Event: 2023
+  - best original story # 3 Events: 2020, 2021, 2022
+  - best production design # 2 Events: 2021, 2022
+  - best production design (series) # 1 Event: 2023
+  - best production design (web original film) # 1 Event: 2023
+  - best screenplay # 1 Event: 2020
+  - best screenplay (adapted) # 1 Event: 2021
+  - best screenplay (original) # 2 Events: 2021, 2022
+  - best series # 4 Events: 2020, 2021, 2022, 2023
+  - best series - comedy # 4 Events: 2020, 2021, 2022, 2023
+  - best series - drama # 4 Events: 2020, 2021, 2022, 2023
+  - best short film (fiction) # 1 Event: 2023
+  - best short film (people's choice) # 1 Event: 2023
+  - best sound design (series) # 1 Event: 2023
+  - best sound design (web original film) # 1 Event: 2023
+  - best story (series) # 1 Event: 2023
+  - best story (web original film) # 1 Event: 2023
+  - best supporting actor - drama # 4 Events: 2020, 2021, 2022, 2023
+  - 'best supporting actor: comedy' # 4 Events: 2020, 2021, 2022, 2023
+  - 'best supporting actor: web original film' # 4 Events: 2020, 2021, 2022, 2023
+  - best supporting actress - drama # 4 Events: 2020, 2021, 2022, 2023
+  - 'best supporting actress: comedy' # 4 Events: 2020, 2021, 2022, 2023
+  - 'best supporting actress: web original film' # 4 Events: 2020, 2021, 2022, 2023
+  - best vfx # 2 Events: 2021, 2022
+  - best vfx (series) # 1 Event: 2023
+  - best web original film # 4 Events: 2020, 2021, 2022, 2023
+ev0036701: # Critics’ Choice Shorts and Series Awards, India (https://www.imdb.com/event/ev0036701)
+  years: ['2019', '2021', '2022', '2023', '2024']
+  awards:  # Award Options: Critics’ Choice Shorts and Series Awards, India
+  - series award # 4 Events: 2021, 2022, 2023, 2024
+  - short film award # 5 Events: 2019, 2021, 2022, 2023, 2024
+  categories: # Category Options: Critics’ Choice Shorts and Series Awards, India
+  - best actor # 4 Events: 2021, 2022, 2023, 2024
+  - best actor in a short film # 4 Events: 2019, 2021, 2022, 2024
+  - best actress # 4 Events: 2021, 2022, 2023, 2024
+  - best actress in a short film # 4 Events: 2021, 2022, 2023, 2024
+  - best cinematographer # 1 Event: 2019
+  - best cinematography in a short film # 2 Events: 2021, 2024
+  - best director # 2 Events: 2019, 2024
+  - best director in a short film # 3 Events: 2021, 2022, 2024
+  - best film fiction # 1 Event: 2019
+  - best score # 1 Event: 2019
+  - best series # 3 Events: 2021, 2022, 2023
+  - best short film # 3 Events: 2021, 2022, 2024
+  - best supporting actor # 4 Events: 2021, 2022, 2023, 2024
+  - best supporting actress # 4 Events: 2021, 2022, 2023, 2024
+  - best web series # 1 Event: 2024
+  - best writing # 4 Events: 2021, 2022, 2023, 2024
+  - best writing in a short film # 3 Events: 2021, 2022, 2024
+ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
+  years: ['2021', '2022', '2023', '2024']
+  awards:  # Award Options: Iconic Gold Awards
+  - iconic # 4 Events: 2021, 2022, 2023, 2024
+  categories: # Category Options: Iconic Gold Awards
+  - best actor in a negative role # 1 Event: 2023
+  - best actor of the year # 3 Events: 2022, 2023, 2024
+  - best actor of the year - critics choice # 2 Events: 2022, 2024
+  - best actor of the year - jury's choice # 1 Event: 2024
+  - best actor of the year - ott # 1 Event: 2024
+  - best actor of the year - popular choice # 1 Event: 2024
+  - best actor of the year - web series # 1 Event: 2024
+  - best actress in a negative role # 2 Events: 2021, 2023
+  - best actress in a web film # 1 Event: 2021
+  - best actress of the year # 3 Events: 2022, 2023, 2024
+  - best actress of the year - critics choice # 2 Events: 2022, 2024
+  - best actress of the year - ott # 1 Event: 2024
+  - best actress of the year - popular choice # 1 Event: 2024
+  - best actress of the year - web series # 1 Event: 2024
+  - best debut actor # 1 Event: 2023
+  - best debut actor of the year - web series # 1 Event: 2024
+  - best debut actress # 1 Event: 2023
+  - best debut actress of the year # 1 Event: 2024
+  - best debut director of the year # 1 Event: 2024
+  - best director - comedy # 1 Event: 2024
+  - best director - critics choice # 1 Event: 2024
+  - best director of the year # 2 Events: 2022, 2024
+  - best director of the year - ott # 1 Event: 2024
+  - best film - people choice # 1 Event: 2023
+  - best film of the year # 3 Events: 2022, 2023, 2024
+  - best film of the year - ott # 1 Event: 2024
+  - best film of the year - people's choice # 1 Event: 2024
+  - best supporting actor of the year # 3 Events: 2022, 2023, 2024
+  - best supporting actor of the year - web series # 1 Event: 2024
+  - best supporting actress of the year # 3 Events: 2022, 2023, 2024
+  - best supporting actress of the year - web series # 1 Event: 2024
+  - best tv actor of the year # 2 Events: 2023, 2024
+  - best tv actress of the year # 3 Events: 2021, 2023, 2024
+  - best web series of the year # 1 Event: 2023
+  - blockbuster movie of the year # 1 Event: 2024
+  - casting director of the year # 1 Event: 2022
+  - comedy serial of the year # 1 Event: 2021
+  - debut actor of the year # 1 Event: 2022
+  - debut actress of the year # 1 Event: 2022
+  - debut tv actor of the year # 1 Event: 2022
+  - debut tv actress of the year # 1 Event: 2022
+  - fearless perfomance of the year # 1 Event: 2022
+  - game changer movie of the year # 1 Event: 2024
+  - millennial star on rise # 1 Event: 2023
+  - most impactful actress # 1 Event: 2023
+  - most liked tv actress of the year # 1 Event: 2022
+  - most liked web series of the year # 1 Event: 2023
+  - most popular contestant of the year # 1 Event: 2023
+  - most promising tv actor of the year # 1 Event: 2021
+  - outstanding achievement in indian cinema # 1 Event: 2023
+  - powerpack perfomance of the year # 1 Event: 2022
+  - powerpack perfomance of the year - critics choice # 1 Event: 2022
+  - powerpack performance comedy # 1 Event: 2023
+  - powerpack performance of the year - female # 2 Events: 2023, 2024
+  - powerpack performance of the year - male # 1 Event: 2023
+  - powerpack performance of the year - ott # 1 Event: 2024
+  - rising star of the year # 1 Event: 2022
+  - singer of the year # 1 Event: 2024
+ev0060658: # Bollywood Film Journalist Awards (https://www.imdb.com/event/ev0060658)
+  years: ['2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024']
+  awards:  # Award Options: Bollywood Film Journalist Awards
+  - critics choice award # 1 Event: 2022
+  - popular award # 8 Events: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - short film award # 1 Event: 2019
+  - special award # 1 Event: 2019
+  categories: # Category Options: Bollywood Film Journalist Awards
+  - best actor # 8 Events: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best actress # 8 Events: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best director # 8 Events: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best female debut # 8 Events: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best film # 8 Events: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best male debut # 8 Events: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best supporting actor # 8 Events: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - best supporting actress # 8 Events: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+  - debutant- producer # 1 Event: 2019
+  - rising star of the year # 1 Event: 2019
+ev0073358: # International Iconic Awards (https://www.imdb.com/event/ev0073358)
+  years: ['2021', '2022', '2023', '2024']
+  awards:  # Award Options: International Iconic Awards
+  - iconic award # 4 Events: 2021, 2022, 2023, 2024
+  categories: # Category Options: International Iconic Awards
+  - best actor # 3 Events: 2022, 2023, 2024
+  - best actor - critics # 1 Event: 2024
+  - best actor in a negative role # 1 Event: 2024
+  - best actor in a web film # 1 Event: 2024
+  - best actor in a web series # 3 Events: 2021, 2023, 2024
+  - best actress # 3 Events: 2022, 2023, 2024
+  - best actress - critics # 4 Events: 2021, 2022, 2023, 2024
+  - best actress in a web film # 1 Event: 2024
+  - best actress in a web series # 3 Events: 2021, 2023, 2024
+  - best director # 2 Events: 2023, 2024
+  - best film # 1 Event: 2024
+  - best supporting actor # 1 Event: 2024
+  - best supporting actor in a web film # 1 Event: 2024
+  - best supporting actor in a web series # 1 Event: 2024
+  - best supporting actress # 1 Event: 2024
+  - best supporting actress in a web film # 1 Event: 2024
+  - best supporting actress in a web series # 1 Event: 2024
+  - best web film # 1 Event: 2024
+  - best web series # 4 Events: 2021, 2022, 2023, 2024
+  - most popular actor # 1 Event: 2022
+  - most popular actress # 2 Events: 2022, 2023
+  - most promising actress # 1 Event: 2022
