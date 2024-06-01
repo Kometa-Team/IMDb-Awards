@@ -122,6 +122,10 @@
     best film:
       nominee: [tt21688772]
       winner: [tt21688772]
+  industry selects:
+    industry selects:
+      nominee: [tt17520962]
+      winner: []
   tribute award for performance:
     tribute award for performance:
       nominee: [tt13139228]
@@ -820,7 +824,7 @@
       winner: [tt1045658]
   discovery award:
     discovery award:
-      nominee: [tt1718765, tt2333598, tt2098628, tt2077721, tt2182209, tt2673176, tt1977739, tt1900908, tt2085002, tt2219514, tt2379438, tt2193676, tt2239512, tt2169662, tt2208272, tt2318625, tt2083294, tt2234397, tt1854513, tt1935902, tt2311822, tt2323264, tt2290934, tt1975286, tt2191612, tt2319142, tt1981140]
+      nominee: [tt1718765, tt2333598, tt2098628, tt2077721, tt1854513, tt2182209, tt2673176, tt1977739, tt1900908, tt2085002, tt2219514, tt2379438, tt2193676, tt2239512, tt2169662, tt2208272, tt2318625, tt2083294, tt2234397, tt1935902, tt2311822, tt2323264, tt2290934, tt1975286, tt2191612, tt2319142, tt1981140]
       winner: [tt1718765]
   best canadian feature film:
     best canadian feature film:
@@ -1410,6 +1414,9 @@
       winner: [tt0147192, tt0157183]
 '1997': # https://www.imdb.com/event/ev0000659/1997/1/?ref_=ev_eh
   people's choice award:
+    best film:
+      nominee: [tt0122710]
+      winner: []
     people's choice award:
       nominee: [tt0125128]
       winner: [tt0125128]
@@ -1423,7 +1430,7 @@
       winner: []
   best canadian feature film:
     best canadian feature film:
-      nominee: [tt0125128, tt0120255]
+      nominee: [tt0125128, tt0120255, tt0122710]
       winner: [tt0125128, tt0120255]
   best canadian first feature film:
     best canadian first feature film:

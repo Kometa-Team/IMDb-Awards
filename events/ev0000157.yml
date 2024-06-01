@@ -751,7 +751,7 @@
       nominee: [tt2315200, tt2846996, tt2261749, tt2846972, tt2165236]
       winner: [tt2315200]
     best foreign film (meilleur film étranger):
-      nominee: [tt2024519, tt2334873, tt2435076, tt1853728, tt1454468, tt1854513, tt2358891]
+      nominee: [tt2024519, tt1854513, tt2334873, tt2435076, tt1853728, tt1454468, tt2358891]
       winner: [tt2024519]
     best original music (meilleure musique originale):
       nominee: [tt2054790, tt2207050, tt1937118, tt2027140, tt2406252]
@@ -1592,7 +1592,7 @@
       nominee: [tt0202077, tt0144201, tt0151137]
       winner: [tt0202077]
     best film (meilleur film):
-      nominee: [tt0174330, tt0181530, tt0167926, tt0144201, tt0151137]
+      nominee: [tt0174330, tt0181530, tt0144201, tt0167926, tt0151137]
       winner: [tt0174330]
     best first work (meilleure première oeuvre):
       nominee: [tt0202077, tt0211401, tt0187200, tt0201538, tt0211286]
@@ -1607,13 +1607,13 @@
       nominee: [tt0163180, tt0133385, tt0189916, tt0151137]
       winner: [tt0163180]
     best screenplay, original or adaptation (meilleur scénario, original ou adaptation):
-      nominee: [tt0174330, tt0210167, tt0210163, tt0144201, tt0211286]
+      nominee: [tt0174330, tt0144201, tt0210167, tt0210163, tt0211286]
       winner: [tt0174330]
     best short film (meilleur court-métrage):
       nominee: [tt0232574, tt0232548, tt0231083, tt0231316, tt0232553]
       winner: [tt0232574]
     best sound (meilleur son):
-      nominee: [tt0151137, tt0167926, tt0144201]
+      nominee: [tt0151137, tt0144201, tt0167926]
       winner: [tt0151137]
     best supporting actor (meilleur acteur dans un second rôle):
       nominee: [tt0210163, tt0167926, tt0211286, tt0202283]

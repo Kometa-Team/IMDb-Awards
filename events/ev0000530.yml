@@ -287,10 +287,10 @@
 '2019': # https://www.imdb.com/event/ev0000530/2019/1/?ref_=ev_eh
   people's choice award:
     favorite action movie:
-      nominee: [tt4154796, tt4154664, tt6565702, tt6806448, tt3741700, tt6146586, tt0448115, tt6320628]
+      nominee: [tt4154796, tt4154664, tt6806448, tt3741700, tt6146586, tt0448115, tt6320628, tt6565702]
       winner: [tt4154796]
     favorite action movie star:
-      nominee: [tt6320628, tt4154796, tt4154664, tt6565702, tt6806448, tt6146586]
+      nominee: [tt6320628, tt4154796, tt4154664, tt6806448, tt6146586, tt6565702]
       winner: [tt6320628]
     favorite animated movie star:
       nominee: [tt6105098, tt2386490, tt5884052, tt6095472, tt3513498, tt5113040, tt1979376]
@@ -320,7 +320,7 @@
       nominee: [tt6139732, tt2386490, tt5884052, tt6095472, tt3513498, tt6105098, tt5113040, tt1979376]
       winner: [tt6139732]
     favorite female movie star:
-      nominee: [tt6320628, tt4154796, tt4154664, tt6565702, tt3741700, tt2283336, tt1618434, tt6857112]
+      nominee: [tt6320628, tt4154796, tt4154664, tt3741700, tt2283336, tt1618434, tt6857112, tt6565702]
       winner: [tt6320628]
     favorite female tv star:
       nominee: [tt4574334, tt3920596, tt0944947, tt5420376, tt1520211, tt5555260]
