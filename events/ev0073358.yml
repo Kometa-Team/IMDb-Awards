@@ -2,29 +2,29 @@
 '2024':  # https://www.imdb.com/event/ev0073358/2024/1/?ref_=ev_eh
   iconic award:
     best actor:
-      nominee: [tt15654328, tt15440322, tt13927994, tt13751694, tt14993250, tt15354916, tt27459160, tt15441054, tt10786774]
-      winner: []
+      nominee: [tt27459160, tt15654328, tt15440322, tt13927994, tt13751694, tt14993250, tt15354916, tt15441054, tt10786774]
+      winner: [tt27459160]
     best actor - critics:
-      nominee: [tt15944428, tt11998558, tt14914988, tt23864864, tt15680228, tt11364772, tt23849204]
-      winner: []
+      nominee: [tt14914988, tt15944428, tt11998558, tt23864864, tt15680228, tt11364772, tt23849204]
+      winner: [tt14914988]
     best actor in a negative role:
       nominee: [tt13751694, tt18411490, tt12844910, tt15441054, tt15134398, tt15654328, tt13022984, tt13927994, tt15354916]
       winner: []
     best actor in a web film:
-      nominee: [tt15944428, tt11905536, tt12887208, tt20754156, tt22188452, tt23865712, tt27501039, tt22297828, tt27012110]
-      winner: []
+      nominee: [tt12887208, tt22188452, tt15944428, tt11905536, tt20754156, tt23865712, tt27501039, tt22297828, tt27012110]
+      winner: [tt12887208, tt22188452]
     best actor in a web series:
       nominee: [tt15752618, tt15576504, tt19868804, tt11912196, tt8392006, tt27862209, tt13847564, tt15477488, tt19768024]
       winner: []
     best actress:
-      nominee: [tt14993250, tt12844910, tt18411490, tt27459160, tt15354916, tt13751694, tt8672856, tt13927994, tt15428134]
-      winner: []
+      nominee: [tt27459160, tt14993250, tt12844910, tt18411490, tt15354916, tt13751694, tt8672856, tt13927994, tt15428134]
+      winner: [tt27459160]
     best actress - critics:
-      nominee: [tt24268454, tt13449254, tt27330026, tt25433734, tt27458291, tt23804378, tt8672856, tt15654328]
-      winner: []
+      nominee: [tt25433734, tt24268454, tt13449254, tt27330026, tt27458291, tt23804378, tt8672856, tt15654328]
+      winner: [tt25433734]
     best actress in a web film:
-      nominee: [tt27816768, tt19755170, tt15748830, tt20754156, tt12887208, tt14339846, tt15516226, tt18413766, tt27012110, tt22297828]
-      winner: []
+      nominee: [tt12887208, tt27816768, tt19755170, tt15748830, tt20754156, tt14339846, tt15516226, tt18413766, tt27012110, tt22297828]
+      winner: [tt12887208]
     best actress in a web series:
       nominee: [tt30460964, tt28494878, tt15752618, tt29687692, tt19072562, tt27442834, tt19768024, tt29261323, tt12448030, tt28638031]
       winner: [tt30460964]
@@ -47,8 +47,8 @@
       nominee: [tt15441054, tt14993250, tt11663228, tt27330026, tt15354916]
       winner: []
     best supporting actress in a web film:
-      nominee: [tt27989067, tt27816768, tt29613587, tt23804378, tt12887208]
-      winner: []
+      nominee: [tt12887208, tt27989067, tt27816768, tt29613587, tt23804378]
+      winner: [tt12887208]
     best supporting actress in a web series:
       nominee: [tt12448030, tt19868466, tt11912196, tt15576504]
       winner: []
