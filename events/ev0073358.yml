@@ -1,6 +1,9 @@
 # International Iconic Awards
 '2024':  # https://www.imdb.com/event/ev0073358/2024/1/?ref_=ev_eh
   iconic award:
+    actor of the year:
+      nominee: [tt13818368]
+      winner: [tt13818368]
     best actor:
       nominee: [tt27459160, tt15654328, tt15440322, tt13927994, tt13751694, tt14993250, tt15354916, tt15441054, tt10786774]
       winner: [tt27459160]
@@ -8,14 +11,14 @@
       nominee: [tt14914988, tt15944428, tt11998558, tt23864864, tt15680228, tt11364772, tt23849204]
       winner: [tt14914988]
     best actor in a negative role:
-      nominee: [tt13751694, tt18411490, tt12844910, tt15441054, tt15134398, tt15654328, tt13022984, tt13927994, tt15354916]
-      winner: []
+      nominee: [tt15441054, tt13751694, tt18411490, tt12844910, tt15134398, tt13818368, tt15654328, tt13022984, tt13927994, tt15354916]
+      winner: [tt15441054]
     best actor in a web film:
       nominee: [tt12887208, tt22188452, tt15944428, tt11905536, tt20754156, tt23865712, tt27501039, tt22297828, tt27012110]
       winner: [tt12887208, tt22188452]
     best actor in a web series:
-      nominee: [tt15752618, tt15576504, tt19868804, tt11912196, tt8392006, tt27862209, tt13847564, tt15477488, tt19768024]
-      winner: []
+      nominee: [tt15477488, tt15752618, tt15576504, tt19868804, tt11912196, tt8392006, tt27862209, tt13847564, tt19768024]
+      winner: [tt15477488]
     best actress:
       nominee: [tt27459160, tt14993250, tt12844910, tt18411490, tt15354916, tt13751694, tt8672856, tt13927994, tt15428134]
       winner: [tt27459160]
@@ -26,26 +29,26 @@
       nominee: [tt12887208, tt27816768, tt19755170, tt15748830, tt20754156, tt14339846, tt15516226, tt18413766, tt27012110, tt22297828]
       winner: [tt12887208]
     best actress in a web series:
-      nominee: [tt30460964, tt28494878, tt15752618, tt29687692, tt19072562, tt27442834, tt19768024, tt29261323, tt12448030, tt28638031]
-      winner: [tt30460964]
+      nominee: [tt30460964, tt12448030, tt28494878, tt15752618, tt29687692, tt19072562, tt27442834, tt19768024, tt29261323, tt28638031]
+      winner: [tt30460964, tt12448030]
     best director:
-      nominee: [tt15354916, tt14993250, tt11663228, tt13927994, tt13751694, tt23849204]
-      winner: []
+      nominee: [tt15441054, tt15354916, tt14993250, tt11663228, tt13927994, tt13751694, tt23849204]
+      winner: [tt15441054]
     best film:
       nominee: [tt15441054, tt23849204, tt13751694, tt25433734, tt11663228, tt15354916, tt15654328, tt12844910, tt22444570, tt13927994]
       winner: [tt15441054]
     best supporting actor:
       nominee: [tt15175188, tt18411490, tt15354916, tt15440322, tt13751694, tt11663228]
-      winner: []
+      winner: [tt15175188]
     best supporting actor in a web film:
-      nominee: [tt27853283, tt20754156, tt15516226, tt18951176, tt18413766]
-      winner: []
+      nominee: [tt20754156, tt27853283, tt15516226, tt18951176, tt18413766]
+      winner: [tt20754156]
     best supporting actor in a web series:
       nominee: [tt19072562, tt22531848, tt22014226, tt16296870, tt13847564, tt19868466, tt12448030]
-      winner: []
+      winner: [tt19072562]
     best supporting actress:
-      nominee: [tt15441054, tt14993250, tt11663228, tt27330026, tt15354916]
-      winner: []
+      nominee: [tt13818368, tt15441054, tt14993250, tt11663228, tt27330026, tt15354916]
+      winner: [tt13818368]
     best supporting actress in a web film:
       nominee: [tt12887208, tt27989067, tt27816768, tt29613587, tt23804378]
       winner: [tt12887208]
@@ -58,6 +61,9 @@
     best web series:
       nominee: [tt12448030, tt29261323, tt11912196, tt15477488, tt19768024, tt19072562, tt15471900, tt27442834, tt15752618, tt15576504]
       winner: [tt12448030, tt29261323]
+    superstar of the year:
+      nominee: [tt27502523]
+      winner: [tt27502523]
 '2023': # https://www.imdb.com/event/ev0073358/2023/1/?ref_=ev_eh
   iconic award:
     best actor:
