@@ -16,6 +16,9 @@
     best actor in a web film:
       nominee: [tt12887208, tt22188452, tt15944428, tt11905536, tt20754156, tt23865712, tt27501039, tt22297828, tt27012110]
       winner: [tt12887208, tt22188452]
+    best actor in a web film - critics:
+      nominee: [tt30783769]
+      winner: [tt30783769]
     best actor in a web series:
       nominee: [tt15477488, tt15752618, tt15576504, tt19868804, tt11912196, tt8392006, tt27862209, tt13847564, tt19768024]
       winner: [tt15477488]
@@ -28,6 +31,9 @@
     best actress in a web film:
       nominee: [tt12887208, tt27816768, tt19755170, tt15748830, tt20754156, tt14339846, tt15516226, tt18413766, tt27012110, tt22297828]
       winner: [tt12887208]
+    best actress in a web film - critics:
+      nominee: [tt18413766]
+      winner: [tt18413766]
     best actress in a web series:
       nominee: [tt30460964, tt12448030, tt28494878, tt15752618, tt29687692, tt19072562, tt27442834, tt19768024, tt29261323, tt28638031]
       winner: [tt30460964, tt12448030]
@@ -46,24 +52,39 @@
     best supporting actor in a web series:
       nominee: [tt19072562, tt22531848, tt22014226, tt16296870, tt13847564, tt19868466, tt12448030]
       winner: [tt19072562]
+    best supporting actor in a web series - critics:
+      nominee: [tt14420552]
+      winner: [tt14420552]
     best supporting actress:
-      nominee: [tt13818368, tt15441054, tt14993250, tt11663228, tt27330026, tt15354916]
-      winner: [tt13818368]
+      nominee: [tt13818368, tt14993250, tt15441054, tt11663228, tt27330026, tt15354916]
+      winner: [tt13818368, tt14993250]
     best supporting actress in a web film:
       nominee: [tt12887208, tt27989067, tt27816768, tt29613587, tt23804378]
       winner: [tt12887208]
     best supporting actress in a web series:
       nominee: [tt12448030, tt19868466, tt11912196, tt15576504]
-      winner: []
+      winner: [tt12448030]
+    best supporting actress in a web series - critics:
+      nominee: [tt15204292]
+      winner: [tt15204292]
     best web film:
       nominee: [tt12887208, tt19755170, tt27501039, tt22297828, tt18951176, tt22188452, tt15748830, tt18413766, tt13131232, tt24485052]
       winner: [tt12887208]
     best web series:
       nominee: [tt12448030, tt29261323, tt11912196, tt15477488, tt19768024, tt19072562, tt15471900, tt27442834, tt15752618, tt15576504]
       winner: [tt12448030, tt29261323]
+    most promising actress:
+      nominee: [tt15441054]
+      winner: [tt15441054]
     superstar of the year:
       nominee: [tt27502523]
       winner: [tt27502523]
+    versatile actor in a web series:
+      nominee: [tt15204292]
+      winner: [tt15204292]
+    versatile actress in a web series:
+      nominee: [tt19072562]
+      winner: [tt19072562]
 '2023': # https://www.imdb.com/event/ev0073358/2023/1/?ref_=ev_eh
   iconic award:
     best actor:
