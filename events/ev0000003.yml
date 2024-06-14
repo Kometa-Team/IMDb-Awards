@@ -1,5 +1,6 @@
 # Academy Awards, USA
-'2024':  # https://www.imdb.com/event/ev0000003/2024/1/?ref_=ev_eh
+'2025': {}  # https://www.imdb.com/event/ev0000003/2025/1/?ref_=ev_eh
+'2024': # https://www.imdb.com/event/ev0000003/2024/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt15398776, tt23561236, tt17009710, tt1517268, tt5537002, tt5535276, tt13238346, tt14230458, tt14849194, tt7160372]

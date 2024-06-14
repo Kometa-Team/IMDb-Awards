@@ -5710,6 +5710,7 @@ ev0073358: # International Iconic Awards (https://www.imdb.com/event/ev0073358)
   years: ['2024', '2023', '2022', '2021']
   awards:  # Award Options: International Iconic Awards
   - iconic award # 4 Events: 2021-2024
+  - television award # 1 Event: 2024
   categories: # Category Options: International Iconic Awards
   - actor of the year # 1 Event: 2024
   - best actor # 3 Events: 2022-2024
@@ -5735,6 +5736,7 @@ ev0073358: # International Iconic Awards (https://www.imdb.com/event/ev0073358)
   - best supporting actress in a web series - critics # 1 Event: 2024
   - best web film # 1 Event: 2024
   - best web series # 4 Events: 2021-2024
+  - favourite personality of the year # 1 Event: 2024
   - most popular actor # 1 Event: 2022
   - most popular actress # 2 Events: 2022-2023
   - most promising actress # 2 Events: 2022, 2024

@@ -19,6 +19,9 @@
     'best actress: web original film':
       nominee: [tt14152140, tt15128068, tt19755170, tt18413766, tt18951176, tt19838608, tt14428598, tt15048606]
       winner: [tt14152140]
+    best director:
+      nominee: [tt11611698]
+      winner: []
     best director - series:
       nominee: [tt19868804, tt13868972, tt27759189, tt22297178, tt11611698, tt15477488, tt27853283, tt19868314, tt9398466]
       winner: [tt19868804]
