@@ -150,6 +150,9 @@
     the nighttime talk show of 2022:
       nominee: [tt3444938, tt0320037, tt3530232, tt3513388, tt0115147, tt4280606, tt3697842, tt2057880]
       winner: [tt3444938]
+    the pop podcast of 2022:
+      nominee: [tt21920936]
+      winner: [tt21920936]
     the reality show of 2022:
       nominee: [tt15791630, tt7252812, tt10087444, tt7686456, tt2224452, tt9817298, tt1252370, tt1720601]
       winner: [tt15791630]
@@ -1595,7 +1598,7 @@
       nominee: [tt0090466]
       winner: [tt0090466]
     favorite tv series among young people:
-      nominee: [tt0098749]
+      nominee: [tt0098749, tt0096694]
       winner: [tt0098749]
 '1991': # https://www.imdb.com/event/ev0000530/1991/1/?ref_=ev_eh
   people's choice award:

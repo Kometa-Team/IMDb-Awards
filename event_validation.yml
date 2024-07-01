@@ -1419,7 +1419,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - un certain regard - special distinction of the jury # 1 Event: 2012
   - un certain regard - special jury prize # 10 Events: 2006-2007, 2009, 2011-2014, 2016-2017, 2019
   - un certain regard - youth prize # 1 Event: 2024
-  - un certain regard award # 34 Events: 1978, 1986, 1989, 1991, 1993, 1995-2019, 2021-2024
+  - un certain regard award # 35 Events: 1978, 1981, 1986, 1989, 1991, 1993, 1995-2019, 2021-2024
   - un certain regard award - special mention # 4 Events: 2000, 2019, 2021, 2024
   - un certain regard jury prize # 13 Events: 2003, 2008-2010, 2014-2016, 2018-2019, 2021-2024
   - un regard neuf short film prize # 1 Event: 2008
@@ -1649,7 +1649,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - un certain regard - special distinction of the jury # 1 Event: 2012
   - un certain regard - special jury prize # 10 Events: 2006-2007, 2009, 2011-2014, 2016-2017, 2019
   - un certain regard - youth prize # 1 Event: 2024
-  - un certain regard award # 34 Events: 1978, 1986, 1989, 1991, 1993, 1995-2019, 2021-2024
+  - un certain regard award # 35 Events: 1978, 1981, 1986, 1989, 1991, 1993, 1995-2019, 2021-2024
   - un certain regard award - special mention # 4 Events: 2000, 2019, 2021, 2024
   - un certain regard jury prize # 13 Events: 2003, 2008-2010, 2014-2016, 2018-2019, 2021-2024
   - un regard neuf short film prize # 1 Event: 2008
@@ -2988,9 +2988,9 @@ ev0000245: # Filmfare Awards (https://www.imdb.com/event/ev0000245)
   - best comedian/comedienne # 7 Events: 1967-1968, 1971, 1976-1977, 1980, 1983
   - best comic actor # 27 Events: 1969-1970, 1972-1975, 1979, 1982, 1985-1986, 1990-2001, 2003-2007
   - best costume design # 19 Events: 1996, 2007-2024
-  - best debut actor # 24 Events: 1993, 1996-2001, 2003-2004, 2006, 2008-2009, 2011-2017, 2019-2020, 2022-2024
-  - best debut actor (male/female) # 6 Events: 1989, 1992, 1994-1995, 2002, 2005
-  - best debut actress # 24 Events: 1996-2001, 2003-2004, 2006-2009, 2011-2017, 2019, 2021-2024
+  - best debut actor # 25 Events: 1993, 1996-2004, 2006, 2008-2009, 2011-2017, 2019-2020, 2022-2024
+  - best debut actor (male/female) # 5 Events: 1989, 1992, 1994-1995, 2005
+  - best debut actress # 25 Events: 1996-2004, 2006-2009, 2011-2017, 2019, 2021-2024
   - best debut director # 15 Events: 1990, 2010-2019, 2021-2024
   - best dialogue # 40 Events: 1959, 1962, 1967, 1972, 1978-1980, 1984-1985, 1993-1996, 1998-2024
   - best dialogue writer # 16 Events: 1960, 1964-1966, 1969-1970, 1973-1976, 1981, 1986-1992
@@ -3788,7 +3788,7 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - second best feature film in bengali # 1 Event: 1962
   - second best feature film in hindi # 2 Events: 1958, 1962
   - second best film # 1 Event: 1991
-  - special jury award # 17 Events: 1990-1991, 1993-1994, 1997, 2004, 2007, 2011-2014, 2016-2019, 2022-2023
+  - special jury award # 18 Events: 1990-1991, 1993-1994, 1997, 2004-2005, 2007, 2011-2014, 2016-2019, 2022-2023
   - special jury award (non-feature film) # 4 Events: 2002, 2015-2016, 2019
   - special jury award / special mention (feature film) # 1 Event: 1993
   - 'special jury award: best non fiction film' # 1 Event: 2017
@@ -4042,6 +4042,7 @@ ev0000530: # People's Choice Awards, USA (https://www.imdb.com/event/ev0000530)
   - the music video of 2022 # 1 Event: 2022
   - the nighttime talk show of 2022 # 1 Event: 2022
   - the nighttime talk show of the year # 1 Event: 2024
+  - the pop podcast of 2022 # 1 Event: 2022
   - the reality show of 2022 # 1 Event: 2022
   - the reality show of the year # 1 Event: 2024
   - the reality tv star of 2022 # 1 Event: 2022
@@ -4445,7 +4446,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - anicaflash prize # 4 Events: 1994, 1997-1999
   - arca cinemagiovani award # 8 Events: 2014-2018, 2020, 2022-2023
   - assomusica award # 2 Events: 2014-2015
-  - audience award # 7 Events: 1992, 1994, 1996, 2001-2003, 2005
+  - audience award # 9 Events: 1992, 1994, 1996, 2001-2003, 2005, 2010-2011
   - audience award (arena) # 1 Event: 1990
   - audience award (critics' week) # 10 Events: 1991, 2004-2005, 2012-2014, 2016-2019
   - audience award - armani beauty (orizzonti extra) # 3 Events: 2021-2023
@@ -4466,14 +4467,14 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - best color film # 2 Events: 1935, 1972
   - best director # 5 Events: 1934-1936, 1941, 2023
   - best european short film # 2 Events: 2009, 2012
-  - best first film # 2 Events: 1998, 2009
+  - best first film # 3 Events: 1998, 2009, 2023
   - best first work # 13 Events: 1960-1965, 1967, 1980-1982, 1984-1986
   - best foreign documentary # 3 Events: 1935-1936, 1956
   - best foreign screenplay # 1 Event: 1937
   - best innovative budget award # 4 Events: 2012-2015
   - best italian comedy # 1 Event: 1935
   - best italian documentary # 2 Events: 1935, 1946
-  - best italian film # 6 Events: 1947-1951, 2017
+  - best italian film # 7 Events: 1947-1951, 2017, 2022
   - best music # 1 Event: 1935
   - best musical film # 1 Event: 1936
   - best overall artistic contribution # 2 Events: 1937, 1982
@@ -4742,6 +4743,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - venice authors prize - special mention # 2 Events: 1982, 1986
   - venice award for best virtual reality # 2 Events: 2019-2020
   - venice horizons award # 20 Events: 2004-2023
+  - venice horizons award - special jury prize # 2 Events: 2010-2011
   - venice horizons award - special mention # 6 Events: 2004, 2007-2011
   - venice horizons documentary award # 5 Events: 2005-2009
   - venice horizons youtube award # 1 Event: 2012
@@ -4779,7 +4781,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - anica cup # 2 Events: 1946, 1948
   - anicaflash prize # 4 Events: 1994, 1997-1999
   - animated film # 1 Event: 1936
-  - arca # 1 Event: 2017
+  - arca # 2 Events: 2017, 2022
   - assomusica award # 2 Events: 2014-2015
   - audience award # 1 Event: 1992
   - audience award (arena) # 1 Event: 1990
@@ -4838,7 +4840,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - best film in competition # 13 Events: 1994, 1998, 2004-2005, 2007-2013, 2016, 2018
   - best film on the relationship man-nature # 4 Events: 1996, 1999-2001
   - best first feature # 1 Event: 2000
-  - best first film # 7 Events: 1972, 1998-2001, 2003, 2009
+  - best first film # 8 Events: 1972, 1998-2001, 2003, 2009, 2023
   - best first work # 18 Events: 1960-1965, 1967, 1972, 1980-1986, 1996, 1998, 2004
   - best food scene # 1 Event: 2016
   - best foreign director # 1 Event: 1937
@@ -5086,7 +5088,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - ocic award - honorable mention # 19 Events: 1954-1956, 1966, 1980-1982, 1984-1985, 1987, 1989-1992, 1994-1997, 2000
   - ocic special award # 2 Events: 1980, 1999
   - open prize # 9 Events: 2003-2007, 2009, 2012-2013, 2015
-  - orizzonti and parallel sections # 2 Events: 2022-2023
+  - orizzonti and parallel sections # 5 Events: 2009-2011, 2022-2023
   - orizzonti award for best short film # 3 Events: 2011, 2019, 2023
   - other formats # 1 Event: 2002
   - outstanding technical contribution # 8 Events: 2005-2012
@@ -5177,6 +5179,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - venice days # 2 Events: 2010, 2013
   - venice days award # 2 Events: 2014, 2019
   - venice horizons award # 1 Event: 2023
+  - venice horizons award - special jury prize # 2 Events: 2010-2011
   - venice horizons award - special mention # 5 Events: 2004, 2007-2010
   - venice horizons documentary award # 5 Events: 2005-2009
   - venice horizons youtube award # 1 Event: 2012

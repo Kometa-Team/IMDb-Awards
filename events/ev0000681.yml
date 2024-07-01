@@ -111,6 +111,10 @@
     venice horizons award:
       nominee: [tt20236042]
       winner: []
+  best first film:
+    best first film:
+      nominee: [tt10449310]
+      winner: []
   green drop award:
     green drop award:
       nominee: [tt27722543, tt14225838]
@@ -351,11 +355,15 @@
       nominee: [tt21376206]
       winner: [tt21376206]
     best short film:
-      nominee: [tt21920446, tt21920828, tt21920794, tt21922628, tt13380624, tt21920522, tt21922662, tt20448606, tt21373876, tt15203884, tt21920502, tt21920552]
+      nominee: [tt21920446, tt21920828, tt21920794, tt21922628, tt13380624, tt21920522, tt21922662, tt20448606, tt21373876, tt21920502, tt21920552, tt15203884]
       winner: [tt21920446]
     special jury prize:
       nominee: [tt15062756]
       winner: [tt15062756]
+  best italian film:
+    arca:
+      nominee: [tt6337816]
+      winner: [tt6337816]
   fipresci prize:
     competition:
       nominee: [tt15301048]
@@ -2989,10 +2997,17 @@
     most creative stereoscopic film of the year:
       nominee: [tt2151815]
       winner: [tt2151815]
+  audience award:
+    best film:
+      nominee: [tt2206094]
+      winner: []
   fipresci prize:
     competition:
       nominee: [tt1723811]
       winner: [tt1723811]
+    orizzonti and parallel sections:
+      nominee: [tt2206094]
+      winner: []
     parallel sections:
       nominee: [tt2359417]
       winner: [tt2359417]
@@ -3114,6 +3129,10 @@
     vittorio veneto film festival award:
       nominee: [tt1821597]
       winner: [tt1821597]
+  venice horizons award - special jury prize:
+    venice horizons award - special jury prize:
+      nominee: [tt2206094]
+      winner: []
   vittorio veneto film festival award - special mention:
     vittorio veneto film festival award - special mention:
       nominee: [tt1467061]
@@ -3191,6 +3210,10 @@
     most creative 3d film stereoscopic film of the year:
       nominee: [tt0499549, tt0892769]
       winner: [tt0499549, tt0892769]
+  audience award:
+    best film:
+      nominee: [tt1783352]
+      winner: []
   best short film:
     documentary:
       nominee: [tt1832920]
@@ -3199,6 +3222,9 @@
     competition:
       nominee: [tt1693830]
       winner: [tt1693830]
+    orizzonti and parallel sections:
+      nominee: [tt1783352]
+      winner: []
     parallel sections:
       nominee: [tt1760956]
       winner: [tt1760956]
@@ -3319,6 +3345,10 @@
     equal opportunity award:
       nominee: [tt1401643]
       winner: [tt1401643]
+  venice horizons award - special jury prize:
+    venice horizons award - special jury prize:
+      nominee: [tt1783352]
+      winner: []
   award of the city of venice:
     award of the city of venice:
       nominee: [tt1508328]
@@ -3405,6 +3435,9 @@
     competition:
       nominee: [tt1405809]
       winner: [tt1405809]
+    orizzonti and parallel sections:
+      nominee: [tt1500682]
+      winner: []
     parallel sections:
       nominee: [tt1499639]
       winner: [tt1499639]
@@ -3529,7 +3562,7 @@
       winner: [tt1371700]
   best first film:
     best first film:
-      nominee: [tt1559348]
+      nominee: [tt1559348, tt1500682]
       winner: []
   international critics award:
     best feature film:
@@ -6473,7 +6506,7 @@
 '1988': # https://www.imdb.com/event/ev0000681/1988/1/?ref_=ev_eh
   golden lion:
     golden lion:
-      nominee: [tt0095513, tt0096077, tt0094816, tt0092716, tt0094836, tt0340925, tt0159402, tt0095086, tt0179884, tt0095279, tt0095280, tt0096288, tt0095555, tt0095564, tt0095097, tt0096336, tt0096516, tt0092754, tt0095649, tt0095729, tt0096259, tt0095675]
+      nominee: [tt0095513, tt0096077, tt0094816, tt0094836, tt0340925, tt0159402, tt0095086, tt0179884, tt0095279, tt0095280, tt0096288, tt0095555, tt0095564, tt0095097, tt0096336, tt0096516, tt0092754, tt0092716, tt0095649, tt0095729, tt0096259, tt0095675]
       winner: [tt0095513]
   grand special jury prize:
     grand special jury prize:
@@ -6513,8 +6546,8 @@
       winner: [tt0094836]
   new cinema award:
     new cinema award:
-      nominee: [tt0092716, tt0179884]
-      winner: [tt0092716, tt0179884]
+      nominee: [tt0179884, tt0092716]
+      winner: [tt0179884, tt0092716]
   new cinema award - special mention:
     new cinema award - special mention:
       nominee: [tt0171863]
@@ -6535,8 +6568,8 @@
       winner: [tt0096336]
   special golden ciak:
     special golden ciak:
-      nominee: [tt0092716, tt0095097]
-      winner: [tt0092716, tt0095097]
+      nominee: [tt0095097, tt0092716]
+      winner: [tt0095097, tt0092716]
   fipresci prize:
     competition:
       nominee: [tt0095279, tt0096288]
@@ -8617,7 +8650,7 @@
 '1939': # https://www.imdb.com/event/ev0000681/1939/1/?ref_=ev_eh
   mussolini cup:
     best foreign film:
-      nominee: [tt0358915, tt0122901, tt0272450, tt0031092, tt0031114, tt0036575, tt0178380, tt0032063, tt0030118, tt0031296, tt0030927, tt0185265, tt0175757, tt0031277, tt0029957, tt0031309, tt0031514, tt0153329, tt0032751, tt0030349, tt0175890, tt0136474, tt0031374, tt0031868, tt0027510, tt1460650, tt0452421, tt0030830, tt0032173, tt0031334, tt0031388, tt0031650, tt0188884, tt0143748, tt0032089, tt0031508, tt0032154, tt0278163]
+      nominee: [tt0358915, tt0122901, tt0272450, tt0031092, tt0031114, tt0036575, tt0178380, tt0032063, tt0030118, tt0031296, tt0030927, tt0185265, tt0175757, tt0031277, tt0032751, tt0029957, tt0031309, tt0031514, tt0153329, tt0030349, tt0175890, tt0136474, tt0031374, tt0031868, tt0027510, tt1460650, tt0452421, tt0030830, tt0032173, tt0031334, tt0031388, tt0031650, tt0188884, tt0143748, tt0032089, tt0031508, tt0032154, tt0278163]
       winner: []
     best italian film:
       nominee: [tt0031017, tt0029977, tt0031391, tt0427669, tt0030458, tt0031424, tt0031798, tt0031949]

@@ -1768,7 +1768,7 @@
       nominee: [tt5329344, tt4122068, tt5953328]
       winner: [tt5329344]
     'best director: factual':
-      nominee: [tt5905508, tt5698100, tt6245282]
+      nominee: [tt5905508, tt3468534, tt6245282]
       winner: [tt5905508]
     'best director: fiction':
       nominee: [tt5571524, tt5639464, tt4786824, tt1399664]
@@ -1780,8 +1780,8 @@
       nominee: [tt3428912, tt4786824, tt5014882, tt3910804]
       winner: [tt3428912]
     'best editing: factual':
-      nominee: [tt5698100, tt5905508, tt5491994]
-      winner: [tt5698100]
+      nominee: [tt3468534, tt5905508, tt5491994]
+      winner: [tt3468534]
     'best editing: fiction':
       nominee: [tt1399664, tt5687612, tt5571524, tt1475582]
       winner: [tt1399664]
@@ -1846,8 +1846,8 @@
       nominee: [tt3762198, tt5603098, tt5687612, tt5619658]
       winner: [tt3762198]
     best single documentary:
-      nominee: [tt5698100, tt5449572, tt6156350]
-      winner: [tt5698100]
+      nominee: [tt3468534, tt5449572, tt6156350]
+      winner: [tt3468534]
     best single drama:
       nominee: [tt5639464, tt6035766, tt5518906, tt5900272]
       winner: [tt5639464]
@@ -3081,7 +3081,7 @@
       nominee: [tt0105929, tt1844923, tt1864017, tt1861225]
       winner: [tt0105929]
     best international:
-      nominee: [tt1526318, tt0826760, tt1442437, tt1823011]
+      nominee: [tt1526318, tt1442437, tt0826760, tt1823011]
       winner: [tt1526318]
     best leading actor:
       nominee: [tt1831575, tt1475582, tt2126154, tt1800493]
@@ -3414,7 +3414,7 @@
       winner: []
   audience award (tv):
     audience award (tv):
-      nominee: [tt1737565, tt1606375, tt0826760, tt1533435, tt1836351, tt1475582]
+      nominee: [tt1737565, tt1606375, tt1533435, tt1836351, tt1475582, tt0826760]
       winner: [tt1737565]
   bafta children's award:
     best feature film:
@@ -3859,8 +3859,8 @@
       nominee: [tt0445876]
       winner: []
     best features:
-      nominee: [tt0870973]
-      winner: []
+      nominee: [tt1189010, tt0870973]
+      winner: [tt1189010]
     best interactivity:
       nominee: [tt1761449, tt1327033, tt1199099]
       winner: [tt1761449]

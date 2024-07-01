@@ -197,7 +197,7 @@
       nominee: [tt27531109]
       winner: [tt27531109]
     directors' fortnight:
-      nominee: [tt27706804]
+      nominee: [tt27706804, tt27897697, tt16090596, tt26744610, tt27803887, tt16160622, tt21869176, tt27737950, tt27789218, tt27728178, tt27664169, tt27541074, tt27732307, tt27722061, tt27752060, tt27540821, tt11112532, tt27795342, tt27770035, tt15732890, tt27756953, tt27543446, tt27819782, tt27546190, tt10399622, tt7575046, tt27547624, tt27470830, tt27540911]
       winner: [tt27706804]
   canal+ award:
     best short:
@@ -4291,7 +4291,7 @@
       winner: [tt0117040]
   golden camera:
     golden camera:
-      nominee: [tt0116930, tt0115633, tt0116317, tt0119256, tt0116594, tt0115735, tt0116913, tt0117690, tt0116041, tt0117958]
+      nominee: [tt0116930, tt0115633, tt0116317, tt0119256, tt0116594, tt0116913, tt0115735, tt0117690, tt0116041, tt0117958]
       winner: [tt0116930]
   un certain regard award:
     un certain regard award:
@@ -5433,8 +5433,12 @@
       winner: [tt0083260]
   golden camera:
     golden camera:
-      nominee: [tt0080612]
+      nominee: [tt0080612, tt0159570]
       winner: [tt0080612]
+  un certain regard award:
+    un certain regard award:
+      nominee: [tt0082151]
+      winner: []
   young cinema award:
     young cinema award:
       nominee: [tt0082678, tt0082800]
@@ -6431,7 +6435,7 @@
 '1959': # https://www.imdb.com/event/ev0000147/1959/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
-      nominee: [tt0053146, tt0053261, tt0051372, tt0051712, tt0256920, tt0052700, tt0052979, tt0051695, tt0051600, tt0052893, tt0053023, tt0051842, tt0053065, tt0051641, tt0051983, tt0053151, tt0052118, tt0053226, tt0052192, tt0053306, tt0052420, tt0053198, tt0052738, tt0051504, tt0051533, tt0170774, tt0052438]
+      nominee: [tt0053146, tt0053261, tt0051372, tt0051712, tt0256920, tt0052700, tt0052979, tt0051695, tt0051600, tt0052893, tt0053023, tt0051842, tt0053065, tt0051641, tt0051983, tt0053151, tt0052078, tt0052118, tt0053226, tt0052192, tt0053306, tt0052420, tt0053198, tt0052738, tt11347488, tt0051504, tt0051533, tt0170774, tt0052438]
       winner: [tt0053146]
   grand prize of the jury:
     grand prize of the jury:

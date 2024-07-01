@@ -2106,8 +2106,11 @@
     best cinematography:
       nominee: [tt0249371, tt0292490]
       winner: [tt0249371]
-    best debut actor (male/female):
-      nominee: [tt0278291, tt0299108]
+    best debut actor:
+      nominee: [tt0284328]
+      winner: [tt0284328]
+    best debut actress:
+      nominee: [tt0278291]
       winner: [tt0278291]
     best dialogue:
       nominee: [tt0248126]
@@ -3400,7 +3403,7 @@
       nominee: [tt0080926]
       winner: [tt0080926]
     best director:
-      nominee: [tt0080322]
+      nominee: [tt0080322, tt0080926, tt0081624, tt0244585, tt0178204]
       winner: [tt0080322]
     best editor:
       nominee: [tt0080926]
@@ -3415,19 +3418,19 @@
       nominee: [tt0081624]
       winner: [tt0081624]
     best music director:
-      nominee: [tt0214841]
+      nominee: [tt0214841, tt0246879, tt0081624, tt0178204, tt0081491]
       winner: [tt0214841]
     best playback singer - female:
-      nominee: [tt0246879]
+      nominee: [tt0246879, tt0178198, tt0156581, tt0362057]
       winner: [tt0246879]
     best playback singer - male:
-      nominee: [tt0081624]
+      nominee: [tt0081624, tt0080653, tt0214841, tt0246914]
       winner: [tt0081624]
     best screenplay:
       nominee: [tt0080322]
       winner: [tt0080322]
     best story:
-      nominee: [tt0080322]
+      nominee: [tt0080322, tt0178204, tt0080926, tt0244585, tt0081624]
       winner: [tt0080322]
     best supporting actor:
       nominee: [tt0080322, tt6710718, tt0178204, tt0259170, tt0080926]

@@ -9561,11 +9561,11 @@
       nominee: [tt0098769]
       winner: [tt0098769]
     outstanding individual - informational programming:
-      nominee: [tt0252010, tt0158807, tt0292762, tt0304580]
+      nominee: [tt0252010, tt0158807, tt0204150, tt0304580]
       winner: [tt0252010]
     outstanding individual achievement - classical music/dance programming:
-      nominee: [tt0293632, tt0335704]
-      winner: [tt0293632, tt0335704]
+      nominee: [tt0335704, tt0293632]
+      winner: [tt0335704, tt0293632]
     outstanding individual achievement in animation:
       nominee: [tt0252993]
       winner: [tt0252993]
@@ -9573,7 +9573,7 @@
       nominee: [tt0266218, tt0159876, tt0098830, tt0072562]
       winner: [tt0266218]
     outstanding informational series:
-      nominee: [tt0098769, tt0081857, tt0292844, tt0292762, tt0094574]
+      nominee: [tt0098769, tt0081857, tt0292844, tt0204150, tt0094574]
       winner: [tt0098769]
     outstanding informational special:
       nominee: [tt0292912, tt0083399, tt0326459, tt0293687]
@@ -10434,7 +10434,7 @@
       nominee: [tt0090445, tt0088478, tt0090410, tt0086730, tt0090466]
       winner: [tt0090445]
     outstanding classical program in the performing arts:
-      nominee: [tt0092179, tt0499622, tt0149439, tt0330562, tt0335704]
+      nominee: [tt0092179, tt0499622, tt0335704, tt0149439, tt0330562]
       winner: [tt0092179]
     outstanding comedy series:
       nominee: [tt0088526, tt0083399, tt0083413, tt0086770, tt0086687]
@@ -10855,7 +10855,7 @@
       nominee: [tt0086759, tt0088495, tt0086730, tt0085088]
       winner: [tt0086759]
     outstanding classical program in the performing arts:
-      nominee: [tt0500167, tt0149439, tt0308495, tt0335704, tt2391972]
+      nominee: [tt0500167, tt0335704, tt0149439, tt0308495, tt2391972]
       winner: [tt0500167]
     outstanding comedy series:
       nominee: [tt0086687, tt0083399, tt0083413, tt0086742, tt0086770]
@@ -11112,8 +11112,8 @@
       nominee: [tt0081873, tt0083395, tt0081858, tt0084967]
       winner: [tt0081873]
     outstanding individual achievement - classical music/dance programming:
-      nominee: [tt0149439, tt1700447, tt0335704, tt0165042]
-      winner: [tt0149439, tt1700447, tt0335704]
+      nominee: [tt0335704, tt0149439, tt1700447, tt0165042]
+      winner: [tt0335704, tt0149439, tt1700447]
     outstanding individual achievement - costumers:
       nominee: [tt0084160, tt0086770, tt0086348, tt0078607, tt0087769]
       winner: []
@@ -12214,7 +12214,7 @@
       nominee: [tt0078526, tt0077536, tt0077610, tt0077837, tt0076314]
       winner: [tt0078526]
     outstanding classical program in the performing arts:
-      nominee: [tt0165042, tt0149439, tt0335704, tt0136439]
+      nominee: [tt0165042, tt0335704, tt0149439, tt0136439]
       winner: [tt0165042]
     outstanding comedy series:
       nominee: [tt0066626, tt0072472, tt0068098, tt0075584, tt0075596]
