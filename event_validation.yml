@@ -5200,8 +5200,9 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - young venice award - special mention # 1 Event: 1985
   - younger's in movie # 1 Event: 2020
 ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event/ev0001931)
-  years: ['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001']
+  years: ['1988', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001']
   awards:  # Award Options: Indian Television Academy Awards, India
+  - doordarshan award # 1 Event: 1988
   - indian television academy award # 23 Events: 2001-2023
   - milestone achievement award # 2 Events: 2001, 2020
   - ott award # 6 Events: 2018-2023
@@ -5210,6 +5211,7 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - technical award (tv) # 1 Event: 2023
   - technical award (web) # 1 Event: 2023
   categories: # Category Options: Indian Television Academy Awards, India
+  - best actor # 1 Event: 1988
   - best actor - drama # 22 Events: 2001-2019, 2021-2023
   - best actor - drama (ott) # 3 Events: 2021-2023
   - best actor - popular # 23 Events: 2001-2023
@@ -5462,15 +5464,15 @@ ev0005699: # Zee Rishtey Awards (https://www.imdb.com/event/ev0005699)
   - social swagger # 1 Event: 2018
   - zee ki shaan # 1 Event: 2011
 ev0005770: # Nickelodeon Kids' Choice Awards, India (https://www.imdb.com/event/ev0005770)
-  years: ['2023', '2022', '2021', '2019', '2018', '2017', '2016', '2013']
+  years: ['2020', '2023', '2022', '2021', '2019', '2018', '2017', '2016', '2013']
   awards:  # Award Options: Nickelodeon Kids' Choice Awards, India
-  - nickelodeon kids' choice award # 8 Events: 2013-2023
+  - nickelodeon kids' choice award # 9 Events: 2013-2019, 2020, 2021-2023
   - special award # 4 Events: 2016, 2018-2019, 2022
   categories: # Category Options: Nickelodeon Kids' Choice Awards, India
   - dabur best smile # 1 Event: 2017
   - dynamic performer award # 1 Event: 2018
   - favorite actor - movie # 7 Events: 2013-2019, 2022-2023
-  - favorite actor - tv # 6 Events: 2013-2021
+  - favorite actor - tv # 7 Events: 2013-2019, 2020, 2021
   - favorite actress - movie # 7 Events: 2013-2019, 2022-2023
   - favorite actress - tv # 6 Events: 2013-2021
   - favorite animation show # 1 Event: 2021

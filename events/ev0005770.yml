@@ -99,6 +99,11 @@
     favorite child entertainer:
       nominee: [tt10956014]
       winner: [tt10956014]
+'2020': # https://www.imdb.com/event/ev0005770/2020/1/?ref_=ev_eh
+  nickelodeon kids' choice award:
+    favorite actor - tv:
+      nominee: [tt0158417]
+      winner: []
 '2019': # https://www.imdb.com/event/ev0005770/2019/1/?ref_=ev_eh
   nickelodeon kids' choice award:
     favorite actor - movie:
