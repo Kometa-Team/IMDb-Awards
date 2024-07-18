@@ -1,5 +1,9 @@
 # Venice Film Festival
 '2024':  # https://www.imdb.com/event/ev0000681/2024/1/?ref_=ev_eh
+  golden lion:
+    best film:
+      nominee: [tt14961016, tt28297850, tt11315808, tt22893404, tt24176060, tt29439114]
+      winner: []
   venezia classici award:
     best restored film:
       nominee: [tt0044413, tt0033405, tt0077482, tt0043686, tt0074578, tt0032599, tt0054130, tt0081169, tt0117407, tt0058326, tt0073817, tt0045555, tt0047313, tt0059281, tt31042325, tt0066466, tt0076080, tt0058458]
