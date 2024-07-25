@@ -2,7 +2,7 @@
 '2024':  # https://www.imdb.com/event/ev0000681/2024/1/?ref_=ev_eh
   golden lion:
     best film:
-      nominee: [tt14961016, tt28297850, tt11315808, tt22893404, tt24176060, tt29439114]
+      nominee: [tt31350080, tt30057084, tt31322960, tt31105878, tt13610344, tt14961016, tt28297850, tt11315808, tt22893404, tt33029375, tt24176060, tt8999762, tt26625693, tt29439114, tt28618488]
       winner: []
   venice horizons award:
     best film:
@@ -10,6 +10,10 @@
       winner: []
     best short film:
       nominee: [tt32897489, tt32989921, tt23249208, tt31995855, tt32365707]
+      winner: []
+  international critics' week award:
+    best film:
+      nominee: [tt18691614]
       winner: []
   critics' week award:
     best film:

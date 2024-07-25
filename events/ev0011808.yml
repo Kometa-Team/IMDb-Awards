@@ -6,7 +6,11 @@
       winner: []
   iff award:
     best actress:
-      nominee: [tt14993250]
+      nominee: [tt14993250, tt29301456, tt29451582, tt22818604, tt21626284, tt32537777, tt18277182, tt27032419, tt21361340]
+      winner: []
+  iff award - streaming platform:
+    best actress in a series:
+      nominee: [tt20319332]
       winner: []
 '2023': # https://www.imdb.com/event/ev0011808/2023/1/?ref_=ev_eh
   iff award:
