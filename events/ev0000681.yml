@@ -2,14 +2,14 @@
 '2024':  # https://www.imdb.com/event/ev0000681/2024/1/?ref_=ev_eh
   golden lion:
     best film:
-      nominee: [tt31350080, tt30057084, tt31322960, tt31105878, tt13610344, tt14961016, tt28297850, tt11315808, tt22893404, tt33029375, tt24176060, tt8999762, tt26625693, tt29439114, tt28618488]
+      nominee: [tt31350080, tt30057084, tt31322960, tt31105878, tt28231777, tt13610344, tt14961016, tt11315808, tt28522540, tt30810792, tt22893404, tt24176060, tt28297850, tt28419037, tt8999762, tt26625693, tt28601337, tt29439114, tt30325268, tt28618488, tt33029375]
       winner: []
   venice horizons award:
     best film:
-      nominee: [tt29429122]
+      nominee: [tt33030375, tt27907962, tt28522108, tt27706317, tt31710037, tt32928666, tt28522171, tt33030383, tt33030403, tt29298085, tt22060498, tt33030324, tt29429122, tt32432999, tt33030347, tt30253514, tt33030379, tt33030320, tt33030357]
       winner: []
     best short film:
-      nominee: [tt32897489, tt32989921, tt23249208, tt31995855, tt32365707]
+      nominee: [tt31995855, tt32897489, tt32989921, tt23249208, tt32365707]
       winner: []
   international critics' week award:
     best film:
@@ -20,6 +20,9 @@
       nominee: [tt18691614]
       winner: []
   venezia classici award:
+    best documentary on cinema:
+      nominee: [tt33030472, tt33029845, tt33030466]
+      winner: []
     best restored film:
       nominee: [tt0044413, tt0033405, tt0077482, tt0043686, tt0074578, tt0032599, tt0054130, tt0081169, tt0117407, tt0058326, tt0073817, tt0045555, tt0047313, tt0059281, tt31042325, tt0066466, tt0076080, tt0058458]
       winner: []
@@ -30,6 +33,14 @@
   sic@sic short italian cinema @ settimana internazionale della critica:
     best short film:
       nominee: [tt33023242]
+      winner: []
+  venice immersive:
+    grand jury prize:
+      nominee: [tt32986814, tt32986914, tt32986801]
+      winner: []
+  venice immersive grand prize:
+    venice immersive grand prize:
+      nominee: [tt32986814, tt32986914, tt32986801]
       winner: []
 '2023': # https://www.imdb.com/event/ev0000681/2023/1/?ref_=ev_eh
   golden lion:
