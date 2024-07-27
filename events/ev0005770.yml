@@ -256,6 +256,11 @@
     jodi kamaal ki:
       nominee: [tt3678938]
       winner: [tt3678938]
+'2015': # https://www.imdb.com/event/ev0005770/2015/1/?ref_=ev_eh
+  nickelodeon kids' choice award:
+    favorite actor - movie:
+      nominee: [tt2556308, tt2338151, tt2905838, tt2372222, tt2461132]
+      winner: [tt2556308]
 '2013': # https://www.imdb.com/event/ev0005770/2013/1/?ref_=ev_eh
   nickelodeon kids' choice award:
     favorite actor - movie:
