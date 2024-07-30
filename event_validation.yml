@@ -4307,8 +4307,8 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - world cinema, documentary # 1 Event: 2024
   - world cinema, dramatic # 1 Event: 2024
 ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0000659)
-  years: ['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000',
-    '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978']
+  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
+    '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978']
   awards:  # Award Options: Toronto International Film Festival
   - amplify voices award # 4 Events: 2020-2023
   - barry avrich award # 1 Event: 2019
@@ -4342,7 +4342,7 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - metro media award # 7 Events: 1992-1998
   - netpac award # 12 Events: 2012-2023
   - people's choice award # 45 Events: 1978-2018, 2020-2023
-  - platform prize # 8 Events: 2015-2019, 2021-2023
+  - platform prize # 9 Events: 2015-2019, 2021-2024
   - platform prize - honorable mention # 4 Events: 2015-2017, 2019
   - rbc emerging filmmaker award # 4 Events: 2010-2013
   - rbc emerging filmmaker award - fan favorite # 3 Events: 2010-2012
@@ -4412,7 +4412,7 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - netpac award # 12 Events: 2012-2023
   - netpac award honorable mention # 1 Event: 2018
   - people's choice award # 39 Events: 1978-2015, 2020
-  - platform prize # 8 Events: 2015-2019, 2021-2023
+  - platform prize # 9 Events: 2015-2019, 2021-2024
   - platform prize - honorable mention # 4 Events: 2015-2017, 2019
   - rbc emerging filmmaker award # 4 Events: 2010-2013
   - rbc emerging filmmaker award - fan favorite # 3 Events: 2010-2012
