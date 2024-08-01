@@ -8175,7 +8175,7 @@
       nominee: [tt0098844, tt0108724, tt0123816, tt0112022, tt0106179]
       winner: [tt0098844]
     outstanding classical music-dance program:
-      nominee: [tt0176397, tt0165651, tt0325156, tt0149439, tt0166365]
+      nominee: [tt0176397, tt0165651, tt0255868, tt0149439, tt0166365]
       winner: [tt0176397]
     outstanding comedy series:
       nominee: [tt0106004, tt0115082, tt0118254, tt0098904, tt0103466]
@@ -8361,8 +8361,8 @@
       nominee: [tt0108757, tt0108742, tt0101120, tt0108897, tt0072562, tt0103569]
       winner: [tt0108757]
     outstanding technical direction/camera/video for a special:
-      nominee: [tt0325156, tt0123086, tt0319679]
-      winner: [tt0325156]
+      nominee: [tt0255868, tt0123086, tt0319679]
+      winner: [tt0255868]
     outstanding variety, music or comedy series:
       nominee: [tt0106053, tt0108742, tt0108897, tt0103569, tt0115396]
       winner: [tt0106053]
@@ -14395,7 +14395,7 @@
       nominee: [tt0058816, tt0831400, tt0047736, tt0060009, tt0058844, tt0061263]
       winner: [tt0058816]
     outstanding achievement in sports programming - individuals:
-      nominee: [tt0190895, tt2240892, tt1572006]
+      nominee: [tt0190895, tt1572006, tt2240892]
       winner: [tt0190895]
     outstanding achievement in sports programming - programs:
       nominee: [tt0190895, tt2240892, tt0344615, tt2208152]
@@ -15168,7 +15168,7 @@
       nominee: [tt1199576, tt0046600, tt0045410, tt0042116, tt0043224]
       winner: [tt1199576]
     outstanding program achievement in the field of news:
-      nominee: [tt0275133, tt0135082, tt0927228, tt2243240]
+      nominee: [tt0275133, tt0927228, tt0135082, tt2243240]
       winner: [tt0275133]
     outstanding program achievement in the field of public affairs and education:
       nominee: [tt0050072, tt0319967, tt0149490, tt1645570, tt2243214]

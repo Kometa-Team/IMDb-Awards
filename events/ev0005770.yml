@@ -146,17 +146,20 @@
 '2018': # https://www.imdb.com/event/ev0005770/2018/1/?ref_=ev_eh
   nickelodeon kids' choice award:
     favorite actor - movie:
-      nominee: [tt7700730]
+      nominee: [tt7700730, tt5956100, tt5997666, tt6843812]
       winner: [tt7700730]
     favorite actor - tv:
       nominee: [tt1708446]
       winner: [tt1708446]
     favorite actress - movie:
-      nominee: [tt7098658]
+      nominee: [tt7098658, tt5935704, tt5842616, tt5956100]
       winner: [tt7098658]
     favorite actress - tv:
       nominee: [tt1708446]
       winner: [tt1708446]
+    favorite dancing star:
+      nominee: [tt8060624, tt6843812, tt7431594, tt5956100]
+      winner: [tt8060624]
     favorite film:
       nominee: [tt5956100]
       winner: [tt5956100]
@@ -197,7 +200,7 @@
       nominee: [tt1708446, tt5154982, tt5747326, tt3550730]
       winner: [tt1708446]
     favorite actress - movie:
-      nominee: [tt5456546]
+      nominee: [tt5074352, tt5456546, tt6108090]
       winner: []
     favorite actress - tv:
       nominee: [tt1708446, tt5323298, tt5154982]

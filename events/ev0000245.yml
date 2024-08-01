@@ -3506,7 +3506,7 @@
       nominee: [tt0246492, tt0077797, tt0158845, tt0157337, tt0079590]
       winner: [tt0246492]
     best director:
-      nominee: [tt0076696, tt0079590, tt7154564, tt0151466, tt0078418]
+      nominee: [tt0076696, tt0079590, tt0078204, tt0151466, tt0078418]
       winner: [tt0076696]
     best film:
       nominee: [tt0151466, tt0165625, tt0079590, tt0076696, tt0078418]
@@ -3696,7 +3696,7 @@
       nominee: [tt0072860]
       winner: [tt0072860]
     best story:
-      nominee: [tt0072860]
+      nominee: [tt0072860, tt0178186, tt0073458, tt0073707]
       winner: [tt0072860]
     best supporting actor:
       nominee: [tt0072860, tt0073707, tt0071800, tt0370468, tt0246420]
@@ -3822,8 +3822,8 @@
       nominee: [tt0149814, tt0066758, tt0138411]
       winner: [tt0149814]
     best actress:
-      nominee: [tt0078222, tt0229949, tt0067546]
-      winner: [tt0078222, tt0229949]
+      nominee: [tt0078222, tt0067546, tt0229949]
+      winner: [tt0078222]
     best art director:
       nominee: [tt0067546]
       winner: [tt0067546]
@@ -3843,10 +3843,10 @@
       nominee: [tt0068929]
       winner: [tt0068929]
     best lyricist:
-      nominee: [tt0149814]
+      nominee: [tt0149814, tt0066758, tt0234724]
       winner: [tt0149814]
     best music director:
-      nominee: [tt0149814]
+      nominee: [tt0149814, tt0067546, tt0234724, tt0066758]
       winner: [tt0149814]
     best playback singer - female:
       nominee: [tt0067183]
@@ -3861,10 +3861,10 @@
       nominee: [tt0066758]
       winner: [tt0066758]
     best supporting actor:
-      nominee: [tt0149814]
+      nominee: [tt0149814, tt0234724]
       winner: [tt0149814]
     best supporting actress:
-      nominee: [tt0067183]
+      nominee: [tt0067183, tt0158579, tt0149814]
       winner: [tt0067183]
 '1972': # https://www.imdb.com/event/ev0000245/1972/1/?ref_=ev_eh
   filmfare award:

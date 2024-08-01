@@ -2595,9 +2595,15 @@
     best costume designer:
       nominee: [tt0274372]
       winner: [tt0274372]
+    best director:
+      nominee: [tt32109041]
+      winner: [tt32109041]
     best editing:
       nominee: [tt0271197]
       winner: [tt0271197]
+    best film on family welfare:
+      nominee: [tt32109041]
+      winner: [tt32109041]
     best film on other social issues:
       nominee: [tt2022587]
       winner: [tt2022587]
@@ -3976,9 +3982,18 @@
     best actress:
       nominee: [tt0151511]
       winner: [tt0151511]
+    best cinematography (black and white):
+      nominee: [tt0154159]
+      winner: [tt0154159]
+    best cinematography (color):
+      nominee: [tt0155893]
+      winner: [tt0155893]
     best music director:
       nominee: [tt0235274]
       winner: [tt0235274]
+    best playback singer (female):
+      nominee: [tt0154159]
+      winner: [tt0154159]
     best playback singer (male):
       nominee: [tt0230271]
       winner: [tt0230271]
@@ -3992,6 +4007,9 @@
     best feature film in tamil:
       nominee: [tt0154159]
       winner: [tt0154159]
+    best feature film in telugu:
+      nominee: [tt0155893]
+      winner: [tt0155893]
 '1975': # https://www.imdb.com/event/ev0000467/1975/1/?ref_=ev_eh
   golden lotus award:
     best direction:

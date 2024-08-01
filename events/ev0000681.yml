@@ -41,7 +41,7 @@
 '2023': # https://www.imdb.com/event/ev0000681/2023/1/?ref_=ev_eh
   golden lion:
     best film:
-      nominee: [tt14230458, tt22001304, tt23573936, tt17009348, tt21113540, tt27219440, tt28490044, tt21824548, tt27722543, tt13866832, tt14225838, tt4707780, tt5535276, tt19864828, tt13321244, tt27704325, tt22041854, tt14407336, tt1136617, tt20561198, tt18453866, tt26746630]
+      nominee: [tt14230458, tt22001304, tt23573936, tt17009348, tt21113540, tt27219440, tt28490044, tt3758542, tt21824548, tt27722543, tt13866832, tt14225838, tt4707780, tt5535276, tt19864828, tt13321244, tt27704325, tt22041854, tt14407336, tt1136617, tt20561198, tt18453866, tt26746630]
       winner: [tt14230458]
   silver lion:
     best director:
@@ -374,7 +374,7 @@
       winner: [tt10168670]
   luigi de laurentiis award:
     best debut film:
-      nominee: [tt15376894, tt8649344]
+      nominee: [tt15376894]
       winner: [tt15376894]
   venice horizons award:
     best actor:
@@ -521,7 +521,7 @@
       winner: [tt1978735]
   gda director's award:
     gda director's award:
-      nominee: [tt21838736, tt18272884]
+      nominee: [tt21838736]
       winner: [tt21838736]
   verona film club award:
     verona film club award:
@@ -3820,7 +3820,7 @@
       winner: [tt1039652]
   venice horizons award:
     best film:
-      nominee: [tt0834170, tt1094235, tt1093836, tt0841017, tt1094270, tt1094643, tt2015288, tt0913958, tt1094262, tt1010420, tt1094648, tt0915749, tt1094655, tt0943982, tt1094277, tt1094621, tt0989890, tt1079450, tt1051905, tt1094286, tt1094635]
+      nominee: [tt0834170, tt1094235, tt1093836, tt0841017, tt1094270, tt1094643, tt2015288, tt0913958, tt1094262, tt1010420, tt1094648, tt0915749, tt0943982, tt1094277, tt1094621, tt0989890, tt1079450, tt1051905, tt1094655, tt1094286, tt1094635]
       winner: [tt0834170]
   venice horizons documentary award:
     venice horizons documentary award:

@@ -983,7 +983,7 @@
       winner: [tt11598898]
   best first feature award:
     best first feature:
-      nominee: [tt11652808, tt10365870, tt11468896, tt7935770, tt8387918, tt11657892, tt10268550, tt9892094, tt11162826, tt10247750, tt10434142, tt11802742, tt11744432, tt11647154, tt8386958, tt2456492]
+      nominee: [tt11652808, tt11468896, tt7935770, tt8387918, tt11657892, tt10268550, tt9892094, tt11162826, tt10247750, tt10434142, tt11802742, tt11744432, tt11647154, tt10365870, tt8386958, tt2456492]
       winner: [tt11652808]
   audi short film award:
     audi short film award:
@@ -2093,6 +2093,10 @@
     eurimages co-production development award - special mention:
       nominee: [tt7703070]
       winner: [tt7703070]
+  best original screenplay of a foreign language film:
+    best original screenplay of a foreign language film:
+      nominee: [tt4634458]
+      winner: [tt4634458]
 '2014': # https://www.imdb.com/event/ev0000091/2014/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
@@ -5876,6 +5880,10 @@
     reader jury of the "siegessäule":
       nominee: [tt0114093]
       winner: [tt0114093]
+  forum:
+    forum section:
+      nominee: [tt0115929]
+      winner: []
 '1995': # https://www.imdb.com/event/ev0000091/1995/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
@@ -6209,6 +6217,10 @@
     reader jury of the "berliner zeitung":
       nominee: [tt0105708]
       winner: [tt0105708]
+  forum:
+    forum section:
+      nominee: [tt0104333]
+      winner: []
 '1991': # https://www.imdb.com/event/ev0000091/1991/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
@@ -8732,7 +8744,7 @@
       nominee: [tt0064260]
       winner: [tt0064260]
     golden berlin bear:
-      nominee: [tt0052995, tt0053867, tt0054482, tt0159283, tt0053472, tt0042332, tt0231686, tt0125560, tt0053946, tt0053981, tt0054068, tt0053111, tt0232148, tt0232154, tt0196536, tt0053168, tt0232484, tt0139707, tt0053328, tt0053602, tt0231477, tt0053996, tt0053964, tt0053824, tt0054328, tt0054476]
+      nominee: [tt0052995, tt0053867, tt0054482, tt0159283, tt0053472, tt0042332, tt0231686, tt0125560, tt0053946, tt0053981, tt0054068, tt0053111, tt0232148, tt0232154, tt0196536, tt0053168, tt0232484, tt0139707, tt0053328, tt0053602, tt0053996, tt0053964, tt0231477, tt0053824, tt0054328, tt0054476]
       winner: [tt0052995]
   silver berlin bear:
     best actor:
