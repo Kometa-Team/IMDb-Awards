@@ -4343,7 +4343,7 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - jury prize # 3 Events: 1982, 2006, 2021
   - metro media award # 7 Events: 1992-1998
   - netpac award # 12 Events: 2012-2023
-  - people's choice award # 45 Events: 1978-2018, 2020-2023
+  - people's choice award # 46 Events: 1978-2018, 2020-2024
   - platform prize # 9 Events: 2015-2019, 2021-2024
   - platform prize - honorable mention # 4 Events: 2015-2017, 2019
   - rbc emerging filmmaker award # 4 Events: 2010-2013
@@ -4381,7 +4381,7 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - best canadian short film - special jury citation # 6 Events: 1992-1996, 1999
   - best canadian short film - special mention # 3 Events: 1997, 2000, 2022
   - best director # 1 Event: 1993
-  - best film # 20 Events: 1982, 1996-1997, 2000, 2003-2006, 2010, 2013-2023
+  - best film # 21 Events: 1982, 1996-1997, 2000, 2003-2006, 2010, 2013-2024
   - best international short film # 9 Events: 1996, 2014-2021
   - best screenplay # 2 Events: 2006, 2018
   - best short film # 3 Events: 2015-2016, 2022
@@ -5532,14 +5532,16 @@ ev0011808: # Indian Film Festival Of Melbourne (https://www.imdb.com/event/ev001
   categories: # Category Options: Indian Film Festival Of Melbourne
   - australian premiere # 1 Event: 2022
   - best actor # 10 Events: 2014-2019, 2021-2024
-  - best actor in a series # 3 Events: 2021-2023
+  - best actor in a series # 4 Events: 2021-2024
   - best actress # 10 Events: 2014-2019, 2021-2024
   - best actress in a series # 4 Events: 2021-2024
-  - best director # 9 Events: 2014-2019, 2021-2023
+  - best director # 10 Events: 2014-2019, 2021-2024
+  - best director - critic # 1 Event: 2024
   - best documentary # 5 Events: 2019-2021, 2023-2024
-  - best film # 9 Events: 2014-2019, 2021-2023
+  - best film # 10 Events: 2014-2019, 2021-2024
+  - best film - critic # 1 Event: 2024
   - best indie film # 5 Events: 2018-2019, 2021-2023
-  - best series # 2 Events: 2022-2023
+  - best series # 3 Events: 2022-2024
   - best short film # 6 Events: 2014, 2019-2022, 2024
   - best supporting performance # 1 Event: 2018
   - beyond bollywood # 2 Events: 2020-2021
