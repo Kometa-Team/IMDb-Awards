@@ -2,11 +2,15 @@
 '2024':  # https://www.imdb.com/event/ev0000659/2024/1/?ref_=ev_eh
   people's choice award:
     best film:
-      nominee: [tt22023622]
+      nominee: [tt18691614, tt22023622]
       winner: []
   platform prize:
     platform prize:
       nominee: [tt26676914, tt29271889, tt30519830, tt7972570, tt27170114, tt27717667, tt27142003, tt30768181, tt21905244, tt33034110]
+      winner: []
+  wavelengths section:
+    shorts:
+      nominee: [tt30207757]
       winner: []
   tiff variety artisan award:
     tiff variety artisan award:
