@@ -35,9 +35,6 @@
     best editing:
       nominee: [tt27302079]
       winner: [tt27302079]
-    best feature film promoting national, social and environment value:
-      nominee: [tt23664710]
-      winner: [tt23664710]
     best film in avgc:
       nominee: [tt6277462]
       winner: [tt6277462]
@@ -83,6 +80,9 @@
     best supporting actress:
       nominee: [tt15309708]
       winner: [tt15309708]
+    best feature film promoting national, social and environment values:
+      nominee: [tt23664710]
+      winner: [tt23664710]
   regional award:
     best feature film in assamese:
       nominee: [tt20220796]
@@ -108,24 +108,15 @@
     best feature film in telugu:
       nominee: [tt13664684]
       winner: [tt13664684]
-    best film in avgc:
-      nominee: [tt6277462]
-      winner: [tt6277462]
     best odia film:
       nominee: [tt17592606]
       winner: [tt17592606]
     best punjabi film:
       nominee: [tt23321482]
       winner: [tt23321482]
-    best sound design:
-      nominee: [tt2571022]
-      winner: [tt2571022]
     best tiwa film:
       nominee: [tt28938920]
       winner: [tt28938920]
-    best feature film promoting national, social and environment values:
-      nominee: [tt23664710]
-      winner: [tt23664710]
   special jury award:
     feature film:
       nominee: [tt18951176, tt15576596]
@@ -159,8 +150,8 @@
       nominee: [tt26446979]
       winner: [tt26446979]
     best non feature film promoting social and environmental values:
-      nominee: [tt23664710]
-      winner: [tt23664710]
+      nominee: [tt21378924]
+      winner: [tt21378924]
     best non-feature film:
       nominee: [tt18072646]
       winner: [tt18072646]
