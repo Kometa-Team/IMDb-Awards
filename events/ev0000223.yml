@@ -136,6 +136,9 @@
     outstanding contemporary makeup (non-prosthetic):
       nominee: [tt11815682, tt11691774, tt14452776, tt7203552, tt2356777]
       winner: []
+    outstanding costumes for variety, nonfiction or reality programming:
+      nominee: [tt27549751]
+      winner: [tt27549751]
     outstanding directing for a documentary/nonfiction program:
       nominee: [tt20274588, tt14524712, tt30259532, tt19308034, tt21629194, tt30796448]
       winner: []
@@ -191,8 +194,11 @@
       nominee: [tt15822846, tt27790101, tt2326517, tt10801534, tt7829834]
       winner: []
     outstanding individual achievement in animation:
-      nominee: [tt15248880]
-      winner: [tt15248880]
+      nominee: [tt15248880, tt13309742, tt14028208, tt22177220, tt21056886]
+      winner: [tt15248880, tt13309742, tt14028208, tt22177220, tt21056886]
+    outstanding innovation in emerging media programming:
+      nominee: [tt29439046, tt32501594]
+      winner: [tt29439046, tt32501594]
     outstanding lighting design/lighting direction for a variety series:
       nominee: [tt0759364, tt0319931, tt0463398, tt0072562, tt3697842, tt1839337]
       winner: []
@@ -205,6 +211,9 @@
     outstanding makeup for a variety, nonfiction or reality program:
       nominee: [tt0463398, tt0072562, tt27549751, tt6289132, tt1839337, tt11285856]
       winner: []
+    outstanding motion design:
+      nominee: [tt19308034]
+      winner: [tt19308034]
     outstanding music composition for a documentary series or special (original dramatic score):
       nominee: [tt20274588, tt14524712, tt19308034, tt9805674, tt13514636]
       winner: []
@@ -307,7 +316,7 @@
     outstanding sound editing for a limited or anthology series, movie or special:
       nominee: [tt15320362, tt2802850, tt2640044, tt11016042, tt2356777]
       winner: []
-    outstanding sound editing for a nonfiction or reality program (single or multi-camera):
+    outstanding sound editing for a nonfiction or reality program:
       nominee: [tt19308034, tt9805674, tt21629194, tt30796448, tt14674086]
       winner: []
     outstanding sound mixing for a comedy or drama series (half-hour) and animation:
@@ -322,7 +331,7 @@
     outstanding sound mixing for a nonfiction program (single or multi-camera):
       nominee: [tt19308034, tt9805674, tt19891206, tt21629194, tt31922530]
       winner: []
-    outstanding sound mixing for a reality program (single or multi-camera):
+    outstanding sound mixing for a reality program:
       nominee: [tt0446809, tt1353056, tt0285335, tt1839337, tt14674086]
       winner: []
     outstanding sound mixing for a variety series or special:
