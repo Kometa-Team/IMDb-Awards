@@ -2723,6 +2723,9 @@
     best debut actor (male/female):
       nominee: [tt0106206]
       winner: [tt0106206]
+    best debut actress:
+      nominee: [tt0106206, tt0106333]
+      winner: [tt0106206]
     best director:
       nominee: [tt0106655, tt0106204, tt0107166, tt0107311, tt0109555]
       winner: [tt0106655]
@@ -2807,6 +2810,9 @@
     best debut actor:
       nominee: [tt0126871]
       winner: [tt0126871]
+    best debut actress:
+      nominee: [tt0126871, tt0104605, tt0172170, tt0105315]
+      winner: [tt0126871]
     best film - critics:
       nominee: [tt0104478]
       winner: [tt0104478]
@@ -2873,6 +2879,9 @@
     best debut actor (male/female):
       nominee: [tt0254683]
       winner: [tt0254683]
+    best debut actress:
+      nominee: [tt0102645, tt0254683, tt0102844, tt0121352]
+      winner: [tt0102645]
     best dialogue writer:
       nominee: [tt0102258]
       winner: [tt0102258]
@@ -2992,6 +3001,12 @@
     best comic actor:
       nominee: [tt0098168, tt0155175, tt0100095]
       winner: [tt0098168]
+    best debut actor:
+      nominee: [tt0100095]
+      winner: [tt0100095]
+    best debut actress:
+      nominee: [tt0100095]
+      winner: [tt0100095]
     best debut director:
       nominee: [tt0100095]
       winner: [tt0100095]

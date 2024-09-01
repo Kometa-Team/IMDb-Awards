@@ -1575,7 +1575,7 @@
       nominee: [tt0253474, tt0217505, tt0287467, tt0299658, tt0274558]
       winner: [tt0253474]
     best writing, original screenplay:
-      nominee: [tt0287467, tt0245574, tt0297884, tt0217505, tt0259446]
+      nominee: [tt0287467, tt0297884, tt0217505, tt0259446, tt0245574]
       winner: [tt0287467]
     best writing, adapted screenplay:
       nominee: [tt0253474, tt0276751, tt0268126, tt0299658, tt0274558]
@@ -2689,7 +2689,7 @@
       nominee: [tt0093389, tt0092699, tt0092965, tt0093010, tt0093870]
       winner: [tt0093389]
     best foreign language film:
-      nominee: [tt0092603, tt0092584, tt0092593, tt0093668, tt0093004]
+      nominee: [tt0092603, tt0092593, tt0092584, tt0093668, tt0093004]
       winner: [tt0092603]
     best makeup:
       nominee: [tt0093148, tt0093145]
@@ -2716,7 +2716,7 @@
       nominee: [tt0093389, tt0093010, tt0093058, tt0089606, tt0092843]
       winner: [tt0093389]
     best writing, screenplay written directly for the screen:
-      nominee: [tt0093565, tt0092699, tt0092593, tt0093209, tt0093818]
+      nominee: [tt0093565, tt0092593, tt0092699, tt0093209, tt0093818]
       winner: [tt0093565]
   special achievement award:
     special achievement award:
@@ -4895,7 +4895,7 @@
       nominee: [tt0050212, tt0050083, tt0050490, tt0050839, tt0050933]
       winner: [tt0050212]
     best writing, story and screenplay - written directly for the screen:
-      nominee: [tt0050306, tt0050419, tt0050681, tt0046521, tt0051087]
+      nominee: [tt0050306, tt0050419, tt0046521, tt0050681, tt0051087]
       winner: [tt0050306]
 '1957': # https://www.imdb.com/event/ev0000003/1957/1/?ref_=ev_eh
   oscar:
@@ -4975,7 +4975,7 @@
       nominee: [tt0048960, tt0048973, tt0049233, tt0049261, tt0049456]
       winner: [tt0048960]
     best writing, best screenplay - original:
-      nominee: [tt0048980, tt0049388, tt0049022, tt0048281, tt0047528]
+      nominee: [tt0048980, tt0049388, tt0047528, tt0049022, tt0048281]
       winner: [tt0048980]
     best writing, motion picture story:
       nominee: [tt0049030, tt0048166, tt0049170, tt0046149, tt0045274]

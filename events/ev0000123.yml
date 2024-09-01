@@ -5303,7 +5303,7 @@
 '2003': # https://www.imdb.com/event/ev0000123/2003/1/?ref_=ev_eh
   bafta film award:
     best screenplay - original:
-      nominee: [tt0287467, tt0245574, tt0301199, tt0217505, tt0318411]
+      nominee: [tt0287467, tt0301199, tt0217505, tt0318411, tt0245574]
       winner: [tt0287467]
     best screenplay - adapted:
       nominee: [tt0268126, tt0276751, tt0264464, tt0274558, tt0253474]
@@ -5330,7 +5330,7 @@
       nominee: [tt0167261, tt0217505, tt0295297, tt0181689, tt0145487]
       winner: [tt0167261]
     best film not in the english language:
-      nominee: [tt0287467, tt0245574, tt0317248, tt0238936, tt0295682]
+      nominee: [tt0287467, tt0317248, tt0238936, tt0295682, tt0245574]
       winner: [tt0287467]
     best short animation:
       nominee: [tt0396596, tt0376157, tt0331218, tt0342293, tt0396935]
@@ -7833,10 +7833,10 @@
       nominee: [tt0093010, tt0095159, tt0093389, tt0096438]
       winner: [tt0093010]
     best film:
-      nominee: [tt0093389, tt0095159, tt0092603, tt0092593]
+      nominee: [tt0093389, tt0095159, tt0092593, tt0092603]
       winner: [tt0093389]
     best film not in the english language:
-      nominee: [tt0092603, tt0093664, tt0092593, tt0093191]
+      nominee: [tt0092603, tt0092593, tt0093664, tt0093191]
       winner: [tt0092603]
     best make up artist:
       nominee: [tt0093389, tt0095274, tt0094721, tt0093870]
@@ -9136,7 +9136,7 @@
       nominee: [tt0180934, tt0078970, tt0078590]
       winner: [tt0180934]
     best programme/series without category:
-      nominee: [tt0077082, tt0304212]
+      nominee: [tt0077082, tt0304212, tt33294446]
       winner: [tt0077082]
     best single play:
       nominee: [tt0165592, tt0078970, tt0338469, tt0082624]
@@ -10933,7 +10933,7 @@
       nominee: [tt0047642, tt0223376, tt0048669]
       winner: [tt0047642]
     best film from any source:
-      nominee: [tt0049674, tt0047849, tt0046828, tt0048028, tt0048356, tt0047478, tt0048620, tt0048673, tt0047945, tt0046889, tt0048281, tt0047278, tt0048512, tt0047528]
+      nominee: [tt0049674, tt0047849, tt0046828, tt0048028, tt0047528, tt0048356, tt0047478, tt0048620, tt0048673, tt0047945, tt0046889, tt0048281, tt0047278, tt0048512]
       winner: [tt0049674]
     best foreign actor:
       nominee: [tt0048356, tt0048432, tt0048380, tt0048028, tt0047478]

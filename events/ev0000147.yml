@@ -176,6 +176,10 @@
     best screenplay:
       nominee: [tt23736044]
       winner: [tt23736044]
+  special distinction:
+    short film:
+      nominee: [tt27658383]
+      winner: [tt27658383]
   golden camera:
     golden camera:
       nominee: [tt10399622, tt27540911, tt14748950, tt26256406, tt14330672, tt27732307, tt27502351, tt25750836, tt22890246, tt21605226, tt27470830, tt25406412, tt21992864, tt21086802, tt10037498, tt7575046, tt8209702, tt27722061, tt27502506, tt27531109, tt10370812, tt23790924]
@@ -1038,7 +1042,7 @@
       winner: [tt6802896]
   c.i.c.a.e. award:
     c.i.c.a.e. award:
-      nominee: [tt6217608]
+      nominee: [tt6217608, tt6802896, tt6802918, tt4720702, tt6464290, tt6213284, tt6340264, tt5629340, tt6803924, tt6423776, tt5642124, tt5923026, tt5613402, tt5356274, tt6288250, tt5929226, tt6803946, tt5649144, tt6803974]
       winner: [tt6217608]
   fipresci prize:
     competition:

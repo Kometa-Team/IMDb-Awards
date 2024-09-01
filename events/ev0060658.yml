@@ -211,6 +211,10 @@
     best supporting actress:
       nominee: [tt4807830, tt6971752, tt6108090, tt5997928, tt6967980, tt5918074]
       winner: [tt4807830, tt6971752]
+  short film award:
+    animated short film:
+      nominee: [tt5823554]
+      winner: [tt5823554]
 '2017': # https://www.imdb.com/event/ev0060658/2017/1/?ref_=ev_eh
   popular award:
     best actor:

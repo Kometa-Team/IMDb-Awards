@@ -1051,7 +1051,7 @@
       nominee: [tt9581076]
       winner: [tt9581076]
     best actress:
-      nominee: [tt9581076]
+      nominee: [tt9581076, tt8054608]
       winner: [tt9581076]
     best director:
       nominee: [tt7760890]
@@ -1787,6 +1787,10 @@
     heiner carow prize:
       nominee: [tt4667788]
       winner: [tt4667788]
+  vff talent highlight pitch award:
+    vff talent highlight pitch award:
+      nominee: [tt4103726]
+      winner: [tt4103726]
   special mention of the generation 14plus international jury:
     feature film:
       nominee: [tt5360804]
@@ -6958,7 +6962,7 @@
       nominee: [tt0124030]
       winner: [tt0124030]
     golden berlin bear:
-      nominee: [tt0089169, tt0090310, tt0088679, tt0088950, tt0123793, tt0089860, tt0088217, tt0089366, tt0087397, tt0123976, tt0124011, tt0087751, tt0088646, tt0124026, tt0124048, tt0087921, tt0087937, tt0088015, tt0088173, tt0087205, tt0124168, tt0089834, tt0124113, tt0089813, tt0092241]
+      nominee: [tt0089169, tt0090310, tt0088679, tt0088950, tt0089860, tt0088217, tt0089366, tt0087397, tt0123976, tt0124011, tt0087751, tt0088646, tt0124026, tt0124048, tt0087921, tt0087937, tt0088015, tt0088173, tt0123793, tt0087205, tt0124168, tt0089834, tt0124113, tt0089813, tt0092241]
       winner: [tt0089169, tt0090310]
   silver berlin bear:
     best actor:
@@ -7303,8 +7307,8 @@
       nominee: [tt0124046]
       winner: [tt0124046]
     fipresci prize:
-      nominee: [tt0133060, tt0134859]
-      winner: [tt0133060, tt0134859]
+      nominee: [tt0134859, tt0133060]
+      winner: [tt0134859, tt0133060]
   interfilm award - otto dibelius film award:
     competition:
       nominee: [tt0083257]
@@ -7991,8 +7995,8 @@
       winner: [tt0068730]
   interfilm award - recommendation:
     forum of new cinema:
-      nominee: [tt0069398, tt0068230, tt0069214, tt0233692, tt0070359, tt0234792]
-      winner: [tt0069398, tt0068230, tt0069214, tt0233692, tt0070359, tt0234792]
+      nominee: [tt0068230, tt0069214, tt0233692, tt0070359, tt0234792, tt0069398]
+      winner: [tt0068230, tt0069214, tt0233692, tt0070359, tt0234792, tt0069398]
   ocic award:
     competition:
       nominee: [tt0068730]
