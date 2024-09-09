@@ -52,10 +52,33 @@
     special jury prize:
       nominee: [tt33030347]
       winner: [tt33030347]
+  fipresci prize:
+    competition:
+      nominee: [tt8999762]
+      winner: [tt8999762]
+    orizzonti and parallel sections:
+      nominee: [tt33030375]
+      winner: [tt33030375]
+  signis award:
+    signis award:
+      nominee: [tt14961016]
+      winner: [tt14961016]
+  netpac award:
+    netpac award:
+      nominee: [tt22060498]
+      winner: [tt22060498]
   critics' week award:
     best film:
       nominee: [tt21430026, tt18691614, tt33022318, tt33022319, tt26341960, tt29730305, tt32402294]
       winner: [tt21430026]
+  fedic award:
+    best film:
+      nominee: [tt32038799]
+      winner: [tt32038799]
+  fedic award - special mention:
+    fedic award - special mention:
+      nominee: [tt31710037]
+      winner: [tt31710037]
   queer lion award:
     queer lion award:
       nominee: [tt29360967, tt27706317, tt28231777, tt30810792, tt26341960, tt30327721, tt33030379, tt24176060]
@@ -64,6 +87,18 @@
     label europa cinemas award:
       nominee: [tt28797114]
       winner: [tt28797114]
+  brian award:
+    brian award:
+      nominee: [tt29439114]
+      winner: [tt29439114]
+  green drop award:
+    green drop award:
+      nominee: [tt14961016, tt28618488]
+      winner: [tt14961016, tt28618488]
+  interfilm award:
+    interfilm award for promoting interreligious dialogue:
+      nominee: [tt33030320]
+      winner: [tt33030320]
   venezia classici award:
     best documentary on cinema:
       nominee: [tt33029845, tt33030472, tt33030504, tt33030466, tt27046641, tt33030457, tt33030485, tt33030449, tt33030499]
@@ -71,10 +106,47 @@
     best restored film:
       nominee: [tt0077482, tt0044413, tt0033405, tt0043686, tt0074578, tt0032599, tt0054130, tt0081169, tt0097810, tt0117407, tt0058326, tt0073817, tt0045555, tt0047313, tt0059281, tt0066466, tt0076080, tt0058458]
       winner: [tt0077482]
+  arca cinemagiovani award:
+    best film:
+      nominee: [tt8999762]
+      winner: [tt8999762]
+    best italian film in venice:
+      nominee: [tt32038799]
+      winner: [tt32038799]
+  soundtrack stars award:
+    best soundtrack:
+      nominee: [tt11315808, tt28297850]
+      winner: [tt11315808, tt28297850]
+    special mention:
+      nominee: [tt33029848]
+      winner: [tt33029848]
+  sorriso diverso venezia award:
+    best italian film:
+      nominee: [tt28618488]
+      winner: [tt28618488]
   marcello mastrioanno award:
     best young actor:
       nominee: [tt28522540]
       winner: [tt28522540]
+  nuovoimaie talent award:
+    best new young actress:
+      nominee: [tt28618488, tt31710037]
+      winner: [tt28618488, tt31710037]
+  la pellicola d'oro award:
+    best chief electrician:
+      nominee: [tt28618488]
+      winner: [tt28618488]
+    best costume designer:
+      nominee: [tt31322960]
+      winner: [tt31322960]
+  smithers foundation award:
+    ambassador of hope:
+      nominee: [tt25147850]
+      winner: [tt25147850]
+  edipo re award (università degli studi di padova e resint rete dell'economia sociale internazionale):
+    edipo re award (università degli studi di padova e resint rete dell'economia sociale internazionale):
+      nominee: [tt28231777]
+      winner: [tt28231777]
   mario serandrei - hotel saturnia & international award for the best technical contribution:
     mario serandrei - hotel saturnia & international award for the best technical contribution:
       nominee: [tt33022318]
@@ -83,6 +155,39 @@
     verona film club award for most innovative film:
       nominee: [tt21430026]
       winner: [tt21430026]
+  lanterna magica award:
+    lanterna magica award:
+      nominee: [tt33030140]
+      winner: [tt33030140]
+  lizzani award:
+    lizzani award:
+      nominee: [tt28297850]
+      winner: [tt28297850]
+  fanheart3 award:
+    graffetta d'oro for best film:
+      nominee: [tt2049403]
+      winner: [tt2049403]
+    nave d'argento for best otp:
+      nominee: [tt14257582]
+      winner: [tt14257582]
+    xr fan experience:
+      nominee: [tt32986283]
+      winner: [tt32986283]
+    xr special mention:
+      nominee: [tt32990864]
+      winner: [tt32990864]
+  premio fondazione fai persona lavoro ambiente award:
+    premio fondazione fai persona lavoro ambiente award:
+      nominee: [tt29730305]
+      winner: [tt29730305]
+  premio fondazione fai persona lavoro ambiente award - special mention:
+    premio fondazione fai persona lavoro ambiente award - special mention:
+      nominee: [tt18691614]
+      winner: [tt18691614]
+  rb casting award:
+    rb casting award:
+      nominee: [tt31710037]
+      winner: [tt31710037]
   grand prize venice international critics' week:
     special mention:
       nominee: [tt33022319]
@@ -104,6 +209,9 @@
     best technical contribution:
       nominee: [tt33343136]
       winner: [tt33343136]
+    centro nazionale del cortometraggio award:
+      nominee: [tt33023242]
+      winner: [tt33023242]
   giornate degli autori award:
     giornate degli autori award:
       nominee: [tt18301776, tt33075921, tt30984809]
@@ -115,6 +223,20 @@
     special jury prize:
       nominee: [tt32986565]
       winner: [tt32986565]
+  premio cinemasarà award:
+    premio cinemasarà award:
+      nominee: [tt8999762]
+      winner: [tt8999762]
+  authors under 40 award:
+    best directing and screenwriting:
+      nominee: [tt30984809]
+      winner: [tt30984809]
+    best director:
+      nominee: [tt21993128, tt22060498]
+      winner: [tt21993128, tt22060498]
+    special mention for cinematography:
+      nominee: [tt33030375]
+      winner: [tt33030375]
   giornate degli autori director's award:
     giornate degli autori director's award:
       nominee: [tt27911420]
@@ -127,6 +249,14 @@
     venice immersive grand prize:
       nominee: [tt32986814, tt32990077, tt32986658, tt32990760, tt32986272, tt32986579, tt32990755, tt32986890, tt32990719, tt32986914, tt32986527, tt32990708, tt32986621, tt32990731, tt32986551, tt32986801, tt32474351, tt32986283]
       winner: [tt32986814]
+  premio cinemasarà award - special mention:
+    premio cinemasarà award - special mention:
+      nominee: [tt28231777]
+      winner: [tt28231777]
+  unimed prize for cultural diversity:
+    unimed prize for cultural diversity:
+      nominee: [tt8999762]
+      winner: [tt8999762]
   critics' week audience award:
     critics' week audience award:
       nominee: [tt26341960]
