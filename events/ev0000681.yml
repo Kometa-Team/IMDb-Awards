@@ -223,6 +223,10 @@
     special jury prize:
       nominee: [tt32986565]
       winner: [tt32986565]
+  green drop award - special mention:
+    green drop award:
+      nominee: [tt32813279]
+      winner: []
   premio cinemasarà award:
     premio cinemasarà award:
       nominee: [tt8999762]
@@ -243,7 +247,7 @@
       winner: [tt27911420]
   giornate degli autori audience award:
     giornate degli autori audience award:
-      nominee: [tt33015212]
+      nominee: [tt33015212, tt32402247]
       winner: [tt33015212]
   venice immersive grand prize:
     venice immersive grand prize:
