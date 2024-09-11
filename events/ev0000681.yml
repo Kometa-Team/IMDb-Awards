@@ -99,6 +99,10 @@
     interfilm award for promoting interreligious dialogue:
       nominee: [tt33030320]
       winner: [tt33030320]
+  silver lion - short film:
+    corto cortissimo short film competition:
+      nominee: [tt33347309]
+      winner: []
   venezia classici award:
     best documentary on cinema:
       nominee: [tt33029845, tt33030472, tt33030504, tt33030466, tt27046641, tt33030457, tt33030485, tt33030449, tt33030499]
@@ -247,7 +251,7 @@
       winner: [tt27911420]
   giornate degli autori audience award:
     giornate degli autori audience award:
-      nominee: [tt33015212, tt32402247]
+      nominee: [tt33015212, tt32402247, tt33247053]
       winner: [tt33015212]
   venice immersive grand prize:
     venice immersive grand prize:
@@ -265,6 +269,10 @@
     critics' week audience award:
       nominee: [tt26341960]
       winner: [tt26341960]
+  luciano sovena award:
+    international film critics week:
+      nominee: [tt18691614]
+      winner: [tt18691614]
 '2023': # https://www.imdb.com/event/ev0000681/2023/1/?ref_=ev_eh
   golden lion:
     best film:
