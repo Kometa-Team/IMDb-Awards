@@ -1,6 +1,9 @@
 # Awards of the International Indian Film Academy
 '2024':  # https://www.imdb.com/event/ev0000361/2024/1/?ref_=ev_eh
   popular award:
+    best actress in a leading role:
+      nominee: [tt14993250, tt12844910, tt14914988, tt14295590, tt15428134]
+      winner: []
     best performance in a negative role:
       nominee: [tt15732324]
       winner: []
