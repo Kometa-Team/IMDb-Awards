@@ -4326,7 +4326,9 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   awards:  # Award Options: Toronto International Film Festival
   - amplify voices award # 4 Events: 2020-2023
   - barry avrich award # 1 Event: 2019
-  - best canadian feature film # 37 Events: 1984-2005, 2007-2020, 2023
+  - best canadian discovery award # 1 Event: 2024
+  - best canadian discovery award - honourable mention # 1 Event: 2024
+  - best canadian feature film # 38 Events: 1984-2005, 2007-2020, 2023-2024
   - best canadian feature film - honourable mention # 3 Events: 2017, 2019, 2023
   - best canadian feature film - special jury citation # 16 Events: 1986-1987, 1991-1996, 1999-2000, 2004, 2006, 2008-2009, 2013, 2015
   - best canadian first feature film # 23 Events: 1997-2019
@@ -4343,7 +4345,7 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - eurimages audentia award # 1 Event: 2018
   - eurimages audentia award - honorable mention # 1 Event: 2018
   - film circuit people's choice award # 2 Events: 2013, 2015
-  - fipresci prize # 6 Events: 2018-2023
+  - fipresci prize # 7 Events: 2018-2024
   - grolsch people's choice award # 3 Events: 2018-2020
   - grosch people's choice award # 1 Event: 2016
   - imdbpro short cuts # 5 Events: 2020-2024
@@ -4355,16 +4357,18 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - jury prize # 3 Events: 1982, 2006, 2021
   - metro media award # 7 Events: 1992-1998
   - midnight madness award # 1 Event: 2019
-  - netpac award # 12 Events: 2012-2023
+  - netpac award # 13 Events: 2012-2024
   - people's choice award # 46 Events: 1978-2018, 2020-2024
-  - platform prize # 9 Events: 2015-2019, 2021-2024
+  - platform award # 1 Event: 2024
+  - platform award - honourable mention # 1 Event: 2024
+  - platform prize # 8 Events: 2015-2019, 2021-2023
   - platform prize - honorable mention # 4 Events: 2015-2017, 2019
   - rbc emerging filmmaker award # 4 Events: 2010-2013
   - rbc emerging filmmaker award - fan favorite # 3 Events: 2010-2012
   - rbc emerging filmmaker award - honorable mention # 4 Events: 2010-2013
   - rising stars award # 2 Events: 2015, 2020
-  - short cuts award # 18 Events: 1996, 2004-2019, 2022
-  - short cuts award - honorable mention # 14 Events: 2005, 2008-2009, 2011-2019, 2021-2022
+  - short cuts award # 19 Events: 1996, 2004-2019, 2022, 2024
+  - short cuts award - honorable mention # 15 Events: 2005, 2008-2009, 2011-2019, 2021-2022, 2024
   - special tribute award # 1 Event: 2021
   - tiff emerging talent award # 1 Event: 2021
   - tiff studio screenwriting lab # 1 Event: 2013
@@ -4382,7 +4386,9 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - artisian award # 1 Event: 2021
   - barry avrich award # 1 Event: 2019
   - best african film # 1 Event: 2021
-  - best canadian feature film # 37 Events: 1984-2005, 2007-2020, 2023
+  - best canadian discovery award # 1 Event: 2024
+  - best canadian discovery award - honourable mention # 1 Event: 2024
+  - best canadian feature film # 38 Events: 1984-2005, 2007-2020, 2023-2024
   - best canadian feature film - honourable mention # 3 Events: 2017, 2019, 2023
   - best canadian feature film - special jury citation # 16 Events: 1986-1987, 1991-1996, 1999-2000, 2004, 2006, 2008-2009, 2013, 2015
   - best canadian film # 14 Events: 2004-2015, 2017, 2021
@@ -4390,12 +4396,12 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - best canadian first feature film - honorable mention # 1 Event: 2017
   - best canadian first feature film - special jury citation # 5 Events: 1999-2000, 2008, 2011, 2013
   - best canadian first feature film - special jury congratulation # 1 Event: 1999
-  - best canadian short film # 21 Events: 1989-2003, 2014-2019
+  - best canadian short film # 22 Events: 1989-2003, 2014-2019, 2024
   - best canadian short film - special jury citation # 6 Events: 1992-1996, 1999
   - best canadian short film - special mention # 3 Events: 1997, 2000, 2022
   - best director # 1 Event: 1993
   - best film # 21 Events: 1982, 1996-1997, 2000, 2003-2006, 2010, 2013-2024
-  - best international short film # 9 Events: 1996, 2014-2021
+  - best international short film # 10 Events: 1996, 2014-2021, 2024
   - best screenplay # 2 Events: 2006, 2018
   - best short film # 3 Events: 2015-2016, 2022
   - changemaker award # 1 Event: 2020
@@ -4404,17 +4410,18 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - cultural innovation award - honorable mention # 1 Event: 2007
   - discovery # 17 Events: 1984, 1996, 2008-2022
   - discovery award # 14 Events: 1999-2008, 2012-2013, 2015-2016
-  - documentary # 15 Events: 2009-2023
+  - documentary # 16 Events: 2009-2024
   - eurimages audentia award # 1 Event: 2018
   - eurimages audentia award - honorable mention # 1 Event: 2018
   - experimental short film # 2 Events: 2016-2017
-  - fipresci prize # 1 Event: 2023
+  - fipresci prize # 2 Events: 2023-2024
   - gala or special presentations # 3 Events: 2006, 2016-2017
   - grolsch people's choice award # 2 Events: 2018-2019
   - grosch people's choice award # 1 Event: 2016
   - honorable mention for best canadian short film # 1 Event: 2021
   - imdbpro short cuts award for best canadian film # 5 Events: 2020-2024
   - imdbpro short cuts award for best film # 5 Events: 2020-2024
+  - imdbpro short cuts award for best international short film # 1 Event: 2024
   - imdbpro short cuts share her journey award # 4 Events: 2020-2023
   - imdbpro short cuts share her journey award - honourable mention # 1 Event: 2023
   - industry selects # 3 Events: 2021-2023
@@ -4424,12 +4431,14 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - international critics' award (fipresci) - special mention # 3 Events: 1996, 2001-2002
   - masters # 2 Events: 1999, 2007
   - metro media award # 7 Events: 1992-1998
-  - midnight madness # 15 Events: 2009-2023
+  - midnight madness # 16 Events: 2009-2024
   - midnight madness award # 1 Event: 2019
-  - netpac award # 12 Events: 2012-2023
+  - netpac award # 13 Events: 2012-2024
   - netpac award honorable mention # 1 Event: 2018
   - people's choice award # 39 Events: 1978-2015, 2020
-  - platform prize # 9 Events: 2015-2019, 2021-2024
+  - platform award # 1 Event: 2024
+  - platform award - honourable mention # 1 Event: 2024
+  - platform prize # 8 Events: 2015-2019, 2021-2023
   - platform prize - honorable mention # 4 Events: 2015-2017, 2019
   - rbc emerging filmmaker award # 4 Events: 2010-2013
   - rbc emerging filmmaker award - fan favorite # 3 Events: 2010-2012

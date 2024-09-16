@@ -17,11 +17,11 @@
       nominee: [tt2788316, tt4406178, tt4786824, tt7203552, tt14044212]
       winner: []
     outstanding lead actor in a comedy series:
-      nominee: [tt13623580, tt14452776, tt0264235, tt11691774, tt7908628]
-      winner: []
+      nominee: [tt14452776, tt13623580, tt0264235, tt11691774, tt7908628]
+      winner: [tt14452776]
     outstanding lead actress in a comedy series:
-      nominee: [tt14452776, tt11815682, tt8888540, tt14271498, tt14218830, tt11691774]
-      winner: []
+      nominee: [tt11815682, tt14452776, tt8888540, tt14271498, tt14218830, tt11691774]
+      winner: [tt11815682]
     outstanding lead actor in a limited or anthology series or movie:
       nominee: [tt11016042, tt2802850, tt15384586, tt13649112, tt1984119]
       winner: []
@@ -30,16 +30,16 @@
       winner: []
     outstanding supporting actor in a drama series:
       nominee: [tt7203552, tt5875444, tt4786824, tt2788316]
-      winner: []
+      winner: [tt7203552]
     outstanding supporting actress in a drama series:
-      nominee: [tt4406178, tt4786824, tt7203552]
-      winner: []
+      nominee: [tt4786824, tt4406178, tt7203552]
+      winner: [tt4786824]
     outstanding supporting actor in a comedy series:
-      nominee: [tt0072562, tt14452776, tt11691774, tt11815682, tt14218830]
-      winner: []
+      nominee: [tt14452776, tt0072562, tt11691774, tt11815682, tt14218830]
+      winner: [tt14452776]
     outstanding supporting actress in a comedy series:
-      nominee: [tt8888540, tt11815682, tt14218830, tt14452776, tt11691774]
-      winner: []
+      nominee: [tt14452776, tt8888540, tt11815682, tt14218830, tt11691774]
+      winner: [tt14452776]
     outstanding supporting actor in a limited or anthology series or movie:
       nominee: [tt2356777, tt15384586, tt2802850, tt13911628, tt14404618, tt13649112, tt1984119]
       winner: []
@@ -71,8 +71,8 @@
       nominee: [tt0320037, tt3513388, tt0115147, tt3697842]
       winner: []
     outstanding reality competition program:
-      nominee: [tt1353056, tt0285335, tt15557874, tt1839337, tt0765425]
-      winner: []
+      nominee: [tt15557874, tt1353056, tt0285335, tt1839337, tt0765425]
+      winner: [tt15557874]
     outstanding television movie:
       nominee: [tt13405810, tt27145269, tt10172266, tt21279806, tt14914430]
       winner: [tt13405810]

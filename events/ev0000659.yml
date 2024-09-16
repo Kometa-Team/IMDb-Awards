@@ -2,23 +2,64 @@
 '2024':  # https://www.imdb.com/event/ev0000659/2024/1/?ref_=ev_eh
   people's choice award:
     best film:
-      nominee: [tt18691614, tt22023622]
+      nominee: [tt12908150, tt20221436, tt28607951, tt18691614, tt22023622]
+      winner: [tt12908150]
+    documentary:
+      nominee: [tt33312360, tt30321133, tt33084872]
+      winner: [tt33312360]
+    midnight madness:
+      nominee: [tt17526714, tt17079606, tt30505698]
+      winner: [tt17526714]
+  best canadian feature film:
+    best canadian feature film:
+      nominee: [tt29634258]
+      winner: [tt29634258]
+  netpac award:
+    netpac award:
+      nominee: [tt14093994]
+      winner: [tt14093994]
+  short cuts award:
+    best canadian short film:
+      nominee: [tt32144500]
       winner: []
-  platform prize:
-    platform prize:
-      nominee: [tt26676914, tt29271889, tt30519830, tt7972570, tt27170114, tt27717667, tt27142003, tt30768181, tt21905244, tt33034110]
-      winner: []
+  short cuts award - honorable mention:
+    best international short film:
+      nominee: [tt33317291]
+      winner: [tt33317291]
   imdbpro short cuts:
     imdbpro short cuts award for best canadian film:
-      nominee: [tt32144500, tt33087322, tt33099535, tt33086973, tt32601294, tt12429712, tt32444952, tt32205767, tt29520774, tt33015167]
-      winner: []
+      nominee: [tt33087322, tt33099535, tt33086973, tt32601294, tt12429712, tt32444952, tt32205767, tt29520774, tt33015167]
+      winner: [tt33087322]
     imdbpro short cuts award for best film:
       nominee: [tt32897626, tt32205774, tt29869027, tt32560209, tt33202234, tt33131401, tt32365707, tt32205738, tt32342056, tt32144480, tt30751010, tt28632018, tt33091593, tt32810843, tt20519854, tt32875105, tt33202250, tt32923607]
       winner: []
+    imdbpro short cuts award for best international short film:
+      nominee: [tt33317061]
+      winner: [tt33317061]
+  fipresci prize:
+    fipresci prize:
+      nominee: [tt14778372]
+      winner: [tt14778372]
   tiff variety artisan award:
     tiff variety artisan award:
       nominee: [tt20221436]
       winner: [tt20221436]
+  best canadian discovery award:
+    best canadian discovery award:
+      nominee: [tt31691389]
+      winner: [tt31691389]
+  platform award:
+    platform award:
+      nominee: [tt27142003, tt26676914, tt29271889, tt30519830, tt7972570, tt27170114, tt27717667, tt30768181, tt21905244, tt33034110]
+      winner: [tt27142003]
+  platform award - honourable mention:
+    platform award - honourable mention:
+      nominee: [tt29271889]
+      winner: [tt29271889]
+  best canadian discovery award - honourable mention:
+    best canadian discovery award - honourable mention:
+      nominee: [tt7264528]
+      winner: [tt7264528]
 '2023': # https://www.imdb.com/event/ev0000659/2023/1/?ref_=ev_eh
   people's choice award:
     best film:
