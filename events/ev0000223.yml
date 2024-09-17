@@ -2,20 +2,20 @@
 '2024':  # https://www.imdb.com/event/ev0000223/2024/1/?ref_=ev_eh
   primetime emmy:
     outstanding drama series:
-      nominee: [tt13016388, tt12637874, tt14044212, tt2788316, tt5875444, tt4786824, tt4406178, tt7203552]
-      winner: []
+      nominee: [tt2788316, tt13016388, tt12637874, tt14044212, tt5875444, tt4786824, tt4406178, tt7203552]
+      winner: [tt2788316]
     outstanding comedy series:
-      nominee: [tt14218830, tt0264235, tt11815682, tt11691774, tt8888540, tt13623580, tt14452776, tt7908628]
-      winner: []
+      nominee: [tt11815682, tt14218830, tt0264235, tt11691774, tt8888540, tt13623580, tt14452776, tt7908628]
+      winner: [tt11815682]
     outstanding limited or anthology series:
       nominee: [tt13649112, tt2802850, tt13911628, tt11016042, tt2356777]
-      winner: []
+      winner: [tt13649112]
     outstanding lead actor in a drama series:
-      nominee: [tt4786824, tt14044212, tt5875444, tt2788316, tt19854762, tt12637874]
-      winner: []
+      nominee: [tt2788316, tt4786824, tt14044212, tt5875444, tt19854762, tt12637874]
+      winner: [tt2788316]
     outstanding lead actress in a drama series:
       nominee: [tt2788316, tt4406178, tt4786824, tt7203552, tt14044212]
-      winner: []
+      winner: [tt2788316]
     outstanding lead actor in a comedy series:
       nominee: [tt14452776, tt13623580, tt0264235, tt11691774, tt7908628]
       winner: [tt14452776]
@@ -23,11 +23,11 @@
       nominee: [tt11815682, tt14452776, tt8888540, tt14271498, tt14218830, tt11691774]
       winner: [tt11815682]
     outstanding lead actor in a limited or anthology series or movie:
-      nominee: [tt11016042, tt2802850, tt15384586, tt13649112, tt1984119]
-      winner: []
+      nominee: [tt13649112, tt11016042, tt2802850, tt15384586, tt1984119]
+      winner: [tt13649112]
     outstanding lead actress in a limited or anthology series or movie:
-      nominee: [tt13911628, tt2356777, tt2802850, tt1984119, tt15837600]
-      winner: []
+      nominee: [tt2356777, tt13911628, tt2802850, tt1984119, tt15837600]
+      winner: [tt2356777]
     outstanding supporting actor in a drama series:
       nominee: [tt7203552, tt5875444, tt4786824, tt2788316]
       winner: [tt7203552]
@@ -41,35 +41,35 @@
       nominee: [tt14452776, tt8888540, tt11815682, tt14218830, tt11691774]
       winner: [tt14452776]
     outstanding supporting actor in a limited or anthology series or movie:
-      nominee: [tt2356777, tt15384586, tt2802850, tt13911628, tt14404618, tt13649112, tt1984119]
-      winner: []
+      nominee: [tt2802850, tt2356777, tt15384586, tt13911628, tt14404618, tt13649112, tt1984119]
+      winner: [tt2802850]
     outstanding supporting actress in a limited or anthology series or movie:
-      nominee: [tt13911628, tt11016042, tt1984119, tt13649112, tt2356777, tt1640719]
-      winner: []
+      nominee: [tt13649112, tt13911628, tt11016042, tt1984119, tt2356777, tt1640719]
+      winner: [tt13649112]
     outstanding directing for a drama series:
-      nominee: [tt14044212, tt2788316, tt5875444, tt4786824, tt7203552, tt10244600]
-      winner: []
+      nominee: [tt2788316, tt14044212, tt5875444, tt4786824, tt7203552, tt10244600]
+      winner: [tt2788316]
     outstanding directing for a comedy series:
-      nominee: [tt14218830, tt11815682, tt14452776, tt13210838, tt5960322]
-      winner: []
+      nominee: [tt14452776, tt14218830, tt11815682, tt13210838, tt5960322]
+      winner: [tt14452776]
     outstanding directing for a limited or anthology series or movie:
-      nominee: [tt13649112, tt2802850, tt1984119, tt13911628, tt11016042, tt2356777]
-      winner: []
+      nominee: [tt11016042, tt13649112, tt2802850, tt1984119, tt13911628, tt2356777]
+      winner: [tt11016042]
     outstanding writing for a drama series:
-      nominee: [tt12637874, tt14044212, tt2788316, tt5875444, tt4786824]
-      winner: []
+      nominee: [tt5875444, tt12637874, tt14044212, tt2788316, tt4786824]
+      winner: [tt5875444]
     outstanding writing for a comedy series:
-      nominee: [tt14218830, tt11650492, tt11815682, tt14452776, tt8310612, tt7908628]
-      winner: []
+      nominee: [tt11815682, tt14218830, tt11650492, tt14452776, tt8310612, tt7908628]
+      winner: [tt11815682]
     outstanding writing for a limited or anthology series or movie:
       nominee: [tt13649112, tt2085059, tt2802850, tt15384586, tt11016042, tt2356777]
-      winner: []
+      winner: [tt13649112]
     outstanding writing for a variety special:
       nominee: [tt31727542, tt30402897, tt11459818, tt29729075, tt27590028]
-      winner: []
+      winner: [tt31727542]
     outstanding talk series:
-      nominee: [tt0320037, tt3513388, tt0115147, tt3697842]
-      winner: []
+      nominee: [tt0115147, tt0320037, tt3513388, tt3697842]
+      winner: [tt0115147]
     outstanding reality competition program:
       nominee: [tt15557874, tt1353056, tt0285335, tt1839337, tt0765425]
       winner: [tt15557874]
@@ -300,7 +300,7 @@
       winner: [tt2788316]
     outstanding scripted variety series:
       nominee: [tt3530232, tt0072562]
-      winner: []
+      winner: [tt3530232]
     outstanding short form comedy, drama or variety series:
       nominee: [tt26217118, tt6396082, tt21228928, tt0350448, tt2244495]
       winner: [tt26217118]
