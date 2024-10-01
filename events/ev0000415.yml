@@ -134,6 +134,9 @@
       nominee: [tt6277462]
       winner: [tt6277462]
   special award:
+    performer of the year:
+      nominee: [tt13449624]
+      winner: [tt13449624]
     pride of indian cinema:
       nominee: [tt8178634]
       winner: [tt8178634]
@@ -641,6 +644,10 @@
     best supporting actress:
       nominee: [tt4635372, tt3678782, tt4934950, tt3735246]
       winner: [tt4635372]
+  zee cine award:
+    best lyrics:
+      nominee: [tt5190958]
+      winner: [tt5190958]
 '2014': # https://www.imdb.com/event/ev0000415/2014/1/?ref_=ev_eh
   popular award:
     best actor:

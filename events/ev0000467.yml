@@ -599,6 +599,9 @@
     best actress:
       nominee: [tt6903440]
       winner: [tt6903440]
+    best audiography:
+      nominee: [tt10370116]
+      winner: [tt10370116]
     best child artist:
       nominee: [tt8747560]
       winner: [tt8747560]
@@ -695,6 +698,10 @@
     best debut film of a director:
       nominee: [tt10735202]
       winner: [tt10735202]
+  special jury award:
+    feature film:
+      nominee: [tt10370116]
+      winner: [tt10370116]
   non-feature films award:
     best cinematography - non-feature:
       nominee: [tt15234260]
@@ -1068,6 +1075,9 @@
     best film on other social issues:
       nominee: [tt5571734]
       winner: [tt5571734]
+    best lyrics:
+      nominee: [tt5934894]
+      winner: [tt5934894]
     best music direction:
       nominee: [tt6209546]
       winner: [tt6209546]
@@ -1826,6 +1836,10 @@
     special jury award:
       nominee: [tt2157192]
       winner: [tt2157192]
+  regional award:
+    best feature film in tamil:
+      nominee: [tt2078763]
+      winner: [tt2078763]
   national film award:
     best screenplay(dialogues):
       nominee: [tt2218988]
@@ -1872,6 +1886,9 @@
     best cinematography:
       nominee: [tt1945039]
       winner: [tt1945039]
+    best costume design:
+      nominee: [tt1954481]
+      winner: [tt1954481]
     best editing:
       nominee: [tt1821317]
       winner: [tt1821317]
@@ -1902,7 +1919,14 @@
     best supporting actor:
       nominee: [tt1841762]
       winner: [tt1841762]
+    best supporting actress:
+      nominee: [tt1954481]
+      winner: [tt1954481]
     special jury award:
+      nominee: [tt1821317]
+      winner: [tt1821317]
+  special mention:
+    actor:
       nominee: [tt1821317]
       winner: [tt1821317]
   regional award:
@@ -1968,6 +1992,9 @@
     best background score:
       nominee: [tt0887769]
       winner: [tt0887769]
+    best child artist:
+      nominee: [tt1804623]
+      winner: [tt1804623]
     best choreography:
       nominee: [tt1447500]
       winner: [tt1447500]
@@ -2074,6 +2101,9 @@
     best film on social issues:
       nominee: [tt1653015]
       winner: [tt1653015]
+    best make-up artist:
+      nominee: [tt1379228]
+      winner: [tt1379228]
     best music direction:
       nominee: [tt1653015]
       winner: [tt1653015]
@@ -2121,6 +2151,9 @@
       winner: [tt1316036]
 '2008': # https://www.imdb.com/event/ev0000467/2008/1/?ref_=ev_eh
   golden lotus award:
+    best animated film:
+      nominee: [tt2237888]
+      winner: [tt2237888]
     best director:
       nominee: [tt0986244, tt0819810]
       winner: [tt0986244, tt0819810]
@@ -2180,6 +2213,9 @@
     best feature film in kannada:
       nominee: [tt1437827]
       winner: [tt1437827]
+    best feature film in tamil:
+      nominee: [tt6944510]
+      winner: [tt6944510]
   national film award:
     best editing, non fiction:
       nominee: [tt1529333]
@@ -2218,8 +2254,8 @@
       nominee: [tt0892113]
       winner: [tt0892113]
     best editing:
-      nominee: [tt0986244, tt0458050]
-      winner: [tt0986244, tt0458050]
+      nominee: [tt0458050]
+      winner: [tt0458050]
     best feature film in tamil:
       nominee: [tt1045898]
       winner: [tt1045898]
@@ -2293,6 +2329,9 @@
     best audiography:
       nominee: [tt0405508]
       winner: [tt0405508]
+    best choreography:
+      nominee: [tt1305873]
+      winner: [tt1305873]
     best cinematography:
       nominee: [tt1305873, tt0470611]
       winner: [tt1305873, tt0470611]
@@ -2336,6 +2375,9 @@
     best feature film in marathi:
       nominee: [tt0833444]
       winner: [tt0833444]
+    best feature film in tamil:
+      nominee: [tt2575568]
+      winner: [tt2575568]
   national film award:
     best feature film in bengali:
       nominee: [tt6980382]
@@ -2443,6 +2485,10 @@
     best film on family welfare:
       nominee: [tt6079544]
       winner: [tt6079544]
+  special jury award:
+    best actor:
+      nominee: [tt13782450]
+      winner: [tt13782450]
 '2004': # https://www.imdb.com/event/ev0000467/2004/1/?ref_=ev_eh
   golden lotus award:
     best children's film:
@@ -2510,6 +2556,9 @@
     best feature film in bengali:
       nominee: [tt0366304]
       winner: [tt0366304]
+    best feature film in tamil:
+      nominee: [tt0434105]
+      winner: [tt0434105]
   national film award:
     best audiography (location sound recordist):
       nominee: [tt3592248]
@@ -2591,6 +2640,12 @@
     best screenplay:
       nominee: [tt0329393]
       winner: [tt0329393]
+    best special effects:
+      nominee: [tt13914856]
+      winner: [tt13914856]
+    best supporting actor:
+      nominee: [tt13919932]
+      winner: [tt13919932]
     best supporting actress:
       nominee: [tt0368969]
       winner: [tt0368969]
@@ -2668,6 +2723,9 @@
     best editing:
       nominee: [tt0292113]
       winner: [tt0292113]
+    best female playback singer:
+      nominee: [tt0459186]
+      winner: [tt0459186]
     best film on other social issues:
       nominee: [tt0267363]
       winner: [tt0267363]
@@ -2733,6 +2791,10 @@
     best debut film of a director:
       nominee: [tt6959266]
       winner: [tt6959266]
+  special jury award:
+    best film:
+      nominee: [tt0367942]
+      winner: [tt0367942]
 '2001': # https://www.imdb.com/event/ev0000467/2001/1/?ref_=ev_eh
   golden lotus award:
     best direction:
@@ -2757,6 +2819,9 @@
     best audiography:
       nominee: [tt0301240]
       winner: [tt0301240]
+    best child artist:
+      nominee: [tt33304932]
+      winner: [tt33304932]
     best choreography:
       nominee: [tt0273313]
       winner: [tt0273313]
@@ -2796,10 +2861,17 @@
     best regional film (marathi):
       nominee: [tt0261545]
       winner: [tt0261545]
+    best screenplay:
+      nominee: [tt14817350]
+      winner: [tt14817350]
   nargees dutt award:
     nargees dutt award:
       nominee: [tt0218533]
       winner: [tt0218533]
+  regional award:
+    best feature film in tamil:
+      nominee: [tt0274372]
+      winner: [tt0274372]
   national film award:
     best feature film in bengali:
       nominee: [tt0368678]

@@ -3495,7 +3495,7 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - special award # 11 Events: 1998-2001, 2013-2014, 2018-2024
   - technical award # 18 Events: 2000, 2002-2016, 2018-2024
   - viewers' choice award # 6 Events: 2017-2024
-  - zee cine award # 12 Events: 1998-1999, 2001, 2003-2005, 2007, 2011-2012, 2017, 2023-2024
+  - zee cine award # 13 Events: 1998-1999, 2001, 2003-2005, 2007, 2011-2012, 2016-2017, 2023-2024
   - zee premiere choice award # 2 Events: 2001, 2012
   categories: # Category Options: Zee Cine Awards
   - best action # 10 Events: 2003-2005, 2014-2016, 2018-2024
@@ -3595,7 +3595,7 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - male # 1 Event: 2001
   - outstanding performance - female # 1 Event: 2002
   - outstanding performance - male # 1 Event: 2002
-  - performer of the year # 1 Event: 2024
+  - performer of the year # 2 Events: 2023-2024
   - power club - box office award # 2 Events: 2013-2014
   - pride of indian cinema # 1 Event: 2023
   - sound mixing # 3 Events: 1999, 2005, 2011
@@ -3616,10 +3616,10 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - non-feature films award # 13 Events: 1999, 2004, 2006, 2009, 2014, 2016-2024
   - president's gold medal # 13 Events: 1954-1957, 1959-1960, 1962-1963, 1965, 1969-1970, 1973, 1994
   - president's silver medal # 17 Events: 1955, 1959-1967, 1969-1970, 1987-1988, 1992, 2012-2013
-  - regional award # 53 Events: 1956, 1958, 1961-1962, 1968, 1970-1981, 1983-1984, 1986-1990, 1992-2000, 2002-2006, 2008-2011, 2013-2024
+  - regional award # 55 Events: 1956, 1958, 1961-1962, 1968, 1970-1981, 1983-1984, 1986-1990, 1992-2006, 2008-2024
   - silver lotus award # 59 Events: 1960-1961, 1967-2024
-  - special jury award # 9 Events: 1977, 1991, 1997, 2004, 2011, 2017-2019, 2024
-  - special mention # 25 Events: 1982, 1989-1992, 1994-1999, 2002-2003, 2007, 2010, 2013-2023
+  - special jury award # 12 Events: 1977, 1991, 1997, 2002, 2004-2005, 2011, 2017-2020, 2024
+  - special mention # 26 Events: 1982, 1989-1992, 1994-1999, 2002-2003, 2007, 2010-2011, 2013-2023
   categories: # Category Options: National Film Awards, India
   - . # 2 Events: 1954, 1956
   - 2nd best feature film # 2 Events: 1971, 1975
@@ -3627,6 +3627,7 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - 2nd best feature film in tamil # 1 Event: 1966
   - 3rd best feature film in bengali # 2 Events: 1957, 1964
   - 3rd best feature film in hindi # 1 Event: 1964
+  - actor # 1 Event: 2011
   - all india certificate of merit (feature film) # 1 Event: 1958
   - best   feature film # 1 Event: 2017
   - best  actor # 3 Events: 2017-2019
@@ -3641,13 +3642,13 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best actor in a supporting role # 1 Event: 1986
   - best actress # 53 Events: 1968-2016, 2020-2024
   - best actress in a supporting role # 1 Event: 1989
-  - best animated film # 2 Events: 1995-1996
+  - best animated film # 3 Events: 1995-1996, 2008
   - best animation film # 6 Events: 1998, 2010, 2013, 2017, 2023-2024
   - best anthropological # 1 Event: 2023
   - best art direction # 16 Events: 1982, 1988, 1993, 1997, 1999-2005, 2008, 2011, 2013-2014, 2016
   - best arts / cultural film # 2 Events: 2011, 2014
   - best arts and culture film # 3 Events: 2022-2024
-  - best audiography # 20 Events: 1982, 1984, 1991, 1993-1995, 1999, 2001-2003, 2005-2010, 2015, 2017, 2019, 2022
+  - best audiography # 21 Events: 1982, 1984, 1991, 1993-1995, 1999, 2001-2003, 2005-2010, 2015, 2017, 2019-2022
   - best audiography (location sound recordist) # 11 Events: 2004, 2010-2014, 2016, 2018-2019, 2022-2023
   - best audiography (on location sound recordist) # 1 Event: 2018
   - best audiography (re-recordist of the final mixed track) # 9 Events: 2010-2011, 2013-2014, 2016, 2018-2019, 2022-2023
@@ -3658,10 +3659,10 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best biographical film # 4 Events: 1998, 2022-2024
   - best biographical film / best historical reconstruction / compilation film # 1 Event: 2018
   - best child actor # 5 Events: 1971, 1986, 2003, 2011, 2018
-  - best child artist # 19 Events: 1961, 1969, 1989, 1991, 1997, 1999, 2002, 2004, 2012-2017, 2019-2024
+  - best child artist # 21 Events: 1961, 1969, 1989, 1991, 1997, 1999, 2001-2002, 2004, 2010, 2012-2017, 2019-2024
   - best children's film # 17 Events: 1968, 1970, 1979, 1996, 1998, 2004, 2006-2007, 2010, 2012-2017, 2019-2020
   - best children’s film # 2 Events: 2022-2023
-  - best choreography # 24 Events: 1994-1995, 1997, 2000-2005, 2009-2024
+  - best choreography # 25 Events: 1994-1995, 1997, 2000-2006, 2009-2024
   - best cinematographer # 1 Event: 2004
   - best cinematography # 35 Events: 1974, 1978-1979, 1982-1988, 1990, 1992-1995, 1998-2002, 2005-2007, 2011-2018, 2020-2024
   - best cinematography (black and white) # 3 Events: 1973, 1976-1977
@@ -3670,7 +3671,7 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best cinematography in a non-feature film # 3 Events: 2022-2024
   - best cinematography in non-feature category # 1 Event: 2017
   - best cinematography in non-feature film # 1 Event: 2016
-  - best costume design # 8 Events: 1991-1992, 2006, 2018, 2020-2024
+  - best costume design # 9 Events: 1991-1992, 2006, 2011, 2018, 2020-2024
   - best costume designer # 18 Events: 1990, 1993-1994, 2000-2003, 2005, 2007, 2009-2010, 2012-2017, 2019
   - best debut film of a director # 23 Events: 1983-1986, 1995, 2000, 2002-2003, 2005-2007, 2009-2010, 2012-2017, 2020-2024
   - best debut film of a director - non feature # 1 Event: 2015
@@ -3711,14 +3712,14 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best feature film in oriya # 4 Events: 1986, 1992, 1998, 2018
   - best feature film in punjabi # 4 Events: 1998, 2015-2016, 2020
   - best feature film in rajasthani # 1 Event: 2019
-  - best feature film in tamil # 60 Events: 1955-1974, 1976, 1978, 1980-1988, 1990-2000, 2002-2003, 2005, 2007, 2009-2011, 2013-2024
+  - best feature film in tamil # 65 Events: 1955-1974, 1976, 1978, 1980-1988, 1990-2024
   - best feature film in telegu # 1 Event: 2004
   - best feature film in telugu # 25 Events: 1964, 1976, 1979, 1983-1984, 1987, 1989-1990, 1994, 1996-1997, 1999-2000, 2002, 2013-2024
   - best feature film in urdu # 2 Events: 2013, 2019
   - best feature film on national integration # 15 Events: 1988-1989, 1992-1993, 1996, 1998-1999, 2002, 2004-2005, 2007, 2009, 2014, 2016, 2023
   - best feature film promoting national, social and environment values # 1 Event: 2024
-  - best female playback singer # 6 Events: 1969-1970, 1972, 1986, 1995, 2022
-  - best film # 23 Events: 1959, 1961, 1966-1967, 1975-1978, 1980-1982, 1985-1986, 1989-1990, 1992, 1996, 1998, 2001, 2004-2005, 2011, 2017
+  - best female playback singer # 7 Events: 1969-1970, 1972, 1986, 1995, 2002, 2022
+  - best film # 24 Events: 1959, 1961, 1966-1967, 1975-1978, 1980-1982, 1985-1986, 1989-1990, 1992, 1996, 1998, 2001-2002, 2004-2005, 2011, 2017
   - best film (arts and culture) # 1 Event: 2019
   - best film in avgc # 1 Event: 2024
   - best film in sherdukpan dialect # 1 Event: 2019
@@ -3740,7 +3741,7 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best investigative film # 6 Events: 2002, 2010, 2013, 2019, 2022-2023
   - best location sound recordist # 1 Event: 2023
   - best lyricist # 4 Events: 1969, 1993, 1999, 2002
-  - best lyrics # 19 Events: 1986, 1988, 1991, 1998, 2000-2001, 2003, 2005, 2007-2008, 2010-2011, 2013-2016, 2022-2024
+  - best lyrics # 20 Events: 1986, 1988, 1991, 1998, 2000-2001, 2003, 2005, 2007-2008, 2010-2011, 2013-2017, 2022-2024
   - best maithili film # 1 Event: 2023
   - best make-up artist # 3 Events: 2009, 2019-2020
   - best makeup artist # 9 Events: 2008, 2012-2014, 2016, 2018, 2022-2024
@@ -3778,7 +3779,7 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best regional film (marathi) # 1 Event: 2001
   - best regional film (oriya) # 6 Events: 1960, 1967, 1981, 1986, 1994, 1997
   - best science and technology film # 2 Events: 2022-2023
-  - best screenplay # 31 Events: 1967, 1971, 1973-1975, 1978, 1982-1984, 1986-1987, 1989-1995, 1997-1999, 2002-2005, 2007, 2010-2011, 2014, 2017, 2022
+  - best screenplay # 32 Events: 1967, 1971, 1973-1975, 1978, 1982-1984, 1986-1987, 1989-1995, 1997-1999, 2001-2005, 2007, 2010-2011, 2014, 2017, 2022
   - best screenplay (adapted) # 8 Events: 2011-2013, 2015-2016, 2018-2019, 2023
   - best screenplay (dialogue writer) # 3 Events: 2022-2024
   - best screenplay (dialogues) # 7 Events: 2012-2013, 2015-2019
@@ -3791,18 +3792,18 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best short film # 2 Events: 1986, 2024
   - best sound design # 2 Events: 2015, 2024
   - best sound designer # 1 Event: 1994
-  - best special effects # 23 Events: 1994-1995, 1997, 1999-2000, 2002, 2004-2014, 2016-2020, 2023
+  - best special effects # 24 Events: 1994-1995, 1997, 1999-2000, 2002-2014, 2016-2020, 2023
   - best story # 1 Event: 1974
   - best stunt # 1 Event: 2019
   - best stunt choreography # 2 Events: 2017, 2022
   - best stunt direction # 2 Events: 2023-2024
-  - best supporting actor # 30 Events: 1987-1990, 1993-2000, 2002, 2004-2016, 2020-2024
-  - best supporting actress # 30 Events: 1985, 1987-1988, 1990, 1992-1995, 1997-2000, 2002-2010, 2012-2016, 2020-2024
+  - best supporting actor # 31 Events: 1987-1990, 1993-2000, 2002-2016, 2020-2024
+  - best supporting actress # 31 Events: 1985, 1987-1988, 1990, 1992-1995, 1997-2000, 2002-2016, 2020-2024
   - best tiwa film # 1 Event: 2024
   - best tulu film # 1 Event: 2022
   - certificate of merit # 2 Events: 1954, 1956
   - certificate of merit for female actor # 4 Events: 2010, 2014-2015, 2018
-  - feature film # 1 Event: 2024
+  - feature film # 2 Events: 2020, 2024
   - indira gandhi award for best first film # 1 Event: 1993
   - nargees dutt award # 3 Events: 1982, 2001, 2003
   - nargid dutt award # 1 Event: 2010
@@ -4654,9 +4655,8 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - l'oreal paris award # 1 Event: 2011
   - la navicella venezia cinema award # 2 Events: 1989, 2012
   - la pellicola d'oro award # 8 Events: 2017-2024
-  - label europa cinemas # 16 Events: 2004-2016, 2020-2021, 2023
   - label europa cinemas - special mention # 1 Event: 2013
-  - label europa cinemas award # 1 Event: 2024
+  - label europa cinemas award # 17 Events: 2004-2016, 2020-2021, 2023-2024
   - lanterna magica award # 6 Events: 2019-2024
   - laterna magica prize # 17 Events: 1998-2007, 2009-2012, 2014-2016
   - laterna magica prize - special mention # 1 Event: 2001
@@ -4719,9 +4719,8 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - prize of the international youth jury # 1 Event: 1997
   - prize of the students of the university 'la sapienza' # 1 Event: 1988
   - propaganda ministry cup # 2 Events: 1935-1936
-  - queer lion # 17 Events: 2007-2023
   - queer lion - special mention # 2 Events: 2007, 2015
-  - queer lion award # 1 Event: 2024
+  - queer lion award # 18 Events: 2007-2024
   - rb casting award # 3 Events: 2020, 2022, 2024
   - rota soundtrack award # 5 Events: 1999-2003
   - s.i.a.e. award for emrging talent # 4 Events: 2013, 2015, 2017, 2021
@@ -4735,8 +4734,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - sergio trasatti award - special mention # 4 Events: 1985, 1988, 1998-1999
   - sfera 1932 award # 1 Event: 2018
   - sfera 1932 award - special mention # 1 Event: 2019
-  - sic@sic short italian cinema @ settimana internazionale della critica # 3 Events: 2021-2023
-  - sic@sic short italian cinema alla settimana internazionale della critica # 1 Event: 2024
+  - sic@sic short italian cinema alla settimana internazionale della critica # 4 Events: 2021-2024
   - signis award # 20 Events: 2002-2018, 2022-2024
   - signis award - honorable mention # 18 Events: 2002-2004, 2006-2015, 2017-2018, 2020, 2022-2023
   - silver lion # 40 Events: 1953-1955, 1957, 1972, 1983, 1987-1994, 1998, 2000-2024
@@ -4794,8 +4792,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - venice immersive grand prize # 2 Events: 2023-2024
   - venice tv prize # 3 Events: 1984-1986
   - venice tv prize - special mention # 1 Event: 1985
-  - verona film club award # 4 Events: 2019-2020, 2022-2023
-  - verona film club award for most innovative film # 1 Event: 2024
+  - verona film club award for most innovative film # 5 Events: 2019-2020, 2022-2024
   - vittorio veneto film festival award # 6 Events: 2011-2016
   - vittorio veneto film festival award - special mention # 4 Events: 2011, 2013-2015
   - volpi award # 1 Event: 1951
@@ -5097,9 +5094,8 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - kodak-cinecritica award # 3 Events: 1989-1990, 1992
   - l'oreal paris award # 1 Event: 2011
   - la navicella venezia cinema award # 2 Events: 1989, 2012
-  - label europa cinemas # 13 Events: 2004-2016
   - label europa cinemas - special mention # 1 Event: 2013
-  - label europa cinemas award # 1 Event: 2024
+  - label europa cinemas award # 14 Events: 2004-2016, 2024
   - lanterna magica award # 6 Events: 2019-2024
   - laterna magica prize # 17 Events: 1998-2007, 2009-2012, 2014-2016
   - laterna magica prize - special mention # 1 Event: 2001
@@ -5169,9 +5165,8 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - prize of the international youth jury # 1 Event: 1997
   - prize of the students of the university 'la sapienza' # 1 Event: 1988
   - propaganda ministry cup # 1 Event: 1936
-  - queer lion # 17 Events: 2007-2023
   - queer lion - special mention # 2 Events: 2007, 2015
-  - queer lion award # 1 Event: 2024
+  - queer lion award # 18 Events: 2007-2024
   - rb casting award # 3 Events: 2020, 2022, 2024
   - recreative children's film # 1 Event: 1966
   - revelation # 1 Event: 2006
@@ -5242,8 +5237,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - venice tv prize # 3 Events: 1984-1986
   - venice tv prize - special mention # 1 Event: 1985
   - venice vr expanded # 1 Event: 2020
-  - verona film club award # 4 Events: 2019-2020, 2022-2023
-  - verona film club award for most innovative film # 1 Event: 2024
+  - verona film club award for most innovative film # 5 Events: 2019-2020, 2022-2024
   - virtual reality # 1 Event: 2019
   - virtual reality competition # 3 Events: 2019-2021
   - virtual reality linear competition # 1 Event: 2019
