@@ -1,11 +1,26 @@
 # Awards of the International Indian Film Academy
 '2024':  # https://www.imdb.com/event/ev0000361/2024/1/?ref_=ev_eh
-  popular award:
+  iifa award:
+    best actor in a leading role:
+      nominee: [tt13751694, tt14993250, tt15354916, tt15441054, tt10786774, tt23849204]
+      winner: []
     best actress in a leading role:
-      nominee: [tt14993250, tt12844910, tt14914988, tt14295590, tt15428134]
+      nominee: [tt14993250, tt12844910, tt14914988, tt14295590]
+      winner: []
+    best director:
+      nominee: [tt15732324, tt15354916, tt14993250, tt13751694, tt12844910, tt23849204]
       winner: []
     best performance in a negative role:
       nominee: [tt13751694, tt15354916, tt15732324, tt12844910, tt18411490]
+      winner: []
+    best picture:
+      nominee: [tt23849204, tt13751694, tt15354916, tt14993250, tt10786774, tt14914988]
+      winner: []
+    best supporting actor:
+      nominee: [tt13751694, tt14993250, tt14914988, tt15600222]
+      winner: []
+    best supporting actress:
+      nominee: [tt23849204, tt14993250, tt10786774, tt13751694]
       winner: []
 '2023': # https://www.imdb.com/event/ev0000361/2023/1/?ref_=ev_eh
   special award:

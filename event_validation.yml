@@ -3399,10 +3399,10 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
   years: ['2024', '2023', '2022', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000']
   awards:  # Award Options: Awards of the International Indian Film Academy
   - award for technical excellence # 13 Events: 2000-2008, 2010-2012, 2014
-  - iifa award # 2 Events: 2022-2023
+  - iifa award # 3 Events: 2022-2024
   - iifa golden decade honour # 1 Event: 2009
   - international indian film academy award # 2 Events: 2017-2018
-  - popular award # 21 Events: 2000-2017, 2019-2020, 2024
+  - popular award # 20 Events: 2000-2017, 2019-2020
   - producer guild award # 1 Event: 2008
   - special award # 10 Events: 2000, 2006-2008, 2011-2012, 2014-2015, 2019, 2023
   - technical award # 10 Events: 2009, 2013, 2015-2023
@@ -3413,7 +3413,7 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
   - best  actress in a leading role # 2 Events: 2010, 2019
   - best  director # 2 Events: 2010, 2019
   - best action # 14 Events: 2003, 2005-2017
-  - best actor in a leading role # 19 Events: 2000-2009, 2011-2018, 2020
+  - best actor in a leading role # 20 Events: 2000-2009, 2011-2018, 2020, 2024
   - best actor in a leading role - female # 2 Events: 2022-2023
   - best actor in a leading role - male # 2 Events: 2022-2023
   - best actor in a supporting role # 18 Events: 2001-2002, 2004-2019
@@ -3435,7 +3435,7 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
   - best debut director # 2 Events: 2005, 2013
   - best dialogue # 20 Events: 2000-2012, 2014-2017, 2019-2022
   - best dialogues # 3 Events: 2013, 2018, 2023
-  - best director # 21 Events: 2000-2009, 2011-2018, 2020-2023
+  - best director # 22 Events: 2000-2009, 2011-2018, 2020-2024
   - best editing # 23 Events: 2000-2023
   - best female debut # 3 Events: 2001, 2006, 2014
   - best film # 7 Events: 2000, 2009, 2011, 2015-2018
@@ -3450,7 +3450,7 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
   - best performance by an actor in a negative role # 12 Events: 2000-2002, 2004-2005, 2007-2008, 2010-2013, 2017
   - best performance in a comic role # 5 Events: 2006, 2008-2009, 2014, 2016
   - best performance in a negative role # 7 Events: 2005-2006, 2008-2009, 2014, 2016, 2024
-  - best picture # 14 Events: 2001-2008, 2012-2014, 2020-2023
+  - best picture # 15 Events: 2001-2008, 2012-2014, 2020-2024
   - best playback singer - female # 22 Events: 2000-2002, 2004-2023
   - best playback singer - male # 22 Events: 2000-2002, 2004-2023
   - best production design # 5 Events: 2012-2015, 2017
@@ -3467,8 +3467,8 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
   - best story # 19 Events: 2000-2002, 2004-2014, 2016-2020
   - best story - adapted # 2 Events: 2022-2023
   - best story - original # 2 Events: 2022-2023
-  - best supporting actor # 3 Events: 2000, 2003, 2020
-  - best supporting actress # 3 Events: 2000, 2003, 2020
+  - best supporting actor # 4 Events: 2000, 2003, 2020, 2024
+  - best supporting actress # 4 Events: 2000, 2003, 2020, 2024
   - creative person of the year # 1 Event: 2007
   - director of the decade # 1 Event: 2009
   - face of the year # 1 Event: 2008
@@ -3495,7 +3495,7 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - special award # 11 Events: 1998-2001, 2013-2014, 2018-2024
   - technical award # 18 Events: 2000, 2002-2016, 2018-2024
   - viewers' choice award # 6 Events: 2017-2024
-  - zee cine award # 11 Events: 1998-1999, 2001, 2003-2005, 2007, 2011-2012, 2017, 2023
+  - zee cine award # 12 Events: 1998-1999, 2001, 2003-2005, 2007, 2011-2012, 2017, 2023-2024
   - zee premiere choice award # 2 Events: 2001, 2012
   categories: # Category Options: Zee Cine Awards
   - best action # 10 Events: 2003-2005, 2014-2016, 2018-2024
@@ -3523,7 +3523,7 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best debut - female # 6 Events: 2000, 2002, 2007, 2012-2014
   - best debut - male # 6 Events: 2000, 2002, 2007, 2012-2014
   - best debut actor # 12 Events: 1998-1999, 2001, 2004, 2006, 2008, 2016-2023
-  - best debut actress # 12 Events: 1998-1999, 2001, 2003-2004, 2008, 2016-2023
+  - best debut actress # 13 Events: 1998-1999, 2001, 2003-2004, 2008, 2016-2024
   - best debut director # 7 Events: 2002, 2008, 2016, 2018-2023
   - best debuting director # 4 Events: 2004-2005, 2013-2014
   - best dialogue # 11 Events: 2003-2005, 2008, 2012-2016, 2019, 2023-2024
