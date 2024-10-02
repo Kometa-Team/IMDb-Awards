@@ -67,6 +67,17 @@
     netpac award:
       nominee: [tt22060498]
       winner: [tt22060498]
+  pasinetti award:
+    best actress:
+      nominee: [tt33029848]
+      winner: [tt33029848]
+    best film:
+      nominee: [tt28297850]
+      winner: [tt28297850]
+  pasinetti award - special mention:
+    pasinetti award - special mention:
+      nominee: [tt31710037]
+      winner: [tt31710037]
   critics' week award:
     best film:
       nominee: [tt21430026, tt18691614, tt33022318, tt33022319, tt26341960, tt29730305, tt32402294]
@@ -110,6 +121,14 @@
     best restored film:
       nominee: [tt0077482, tt0044413, tt0033405, tt0043686, tt0074578, tt0032599, tt0054130, tt0081169, tt0097810, tt0117407, tt0058326, tt0073817, tt0045555, tt0047313, tt0059281, tt0066466, tt0076080, tt0058458]
       winner: [tt0077482]
+  leoncino d'oro agiscuola award:
+    leoncino d'oro agiscuola award:
+      nominee: [tt28601337]
+      winner: [tt28601337]
+  leoncino d'oro agiscuola award - cinema for unicef:
+    leoncino d'oro agiscuola award - cinema for unicef:
+      nominee: [tt31710037]
+      winner: [tt31710037]
   arca cinemagiovani award:
     best film:
       nominee: [tt8999762]
@@ -117,6 +136,10 @@
     best italian film in venice:
       nominee: [tt32038799]
       winner: [tt32038799]
+  cict-unesco enrico fulchignoni award:
+    cict-unesco enrico fulchignoni award:
+      nominee: [tt32986677]
+      winner: [tt32986677]
   soundtrack stars award:
     best soundtrack:
       nominee: [tt11315808, tt28297850]
@@ -125,6 +148,9 @@
       nominee: [tt33029848]
       winner: [tt33029848]
   sorriso diverso venezia award:
+    best film in a foreign language:
+      nominee: [tt21993128]
+      winner: [tt21993128]
     best italian film:
       nominee: [tt28618488]
       winner: [tt28618488]
@@ -143,6 +169,9 @@
     best costume designer:
       nominee: [tt31322960]
       winner: [tt31322960]
+    best prop maker:
+      nominee: [tt28297850]
+      winner: [tt28297850]
   smithers foundation award:
     ambassador of hope:
       nominee: [tt25147850]
@@ -186,8 +215,8 @@
       winner: [tt29730305]
   premio fondazione fai persona lavoro ambiente award - special mention:
     premio fondazione fai persona lavoro ambiente award - special mention:
-      nominee: [tt18691614]
-      winner: [tt18691614]
+      nominee: [tt18691614, tt18301776]
+      winner: [tt18691614, tt18301776]
   rb casting award:
     rb casting award:
       nominee: [tt31710037]
@@ -216,10 +245,6 @@
     centro nazionale del cortometraggio award:
       nominee: [tt33023242]
       winner: [tt33023242]
-  giornate degli autori award:
-    giornate degli autori award:
-      nominee: [tt18301776, tt33075921, tt30984809]
-      winner: []
   venice immersive:
     immersive achievement prize:
       nominee: [tt29298455]
@@ -247,11 +272,11 @@
       winner: [tt33030375]
   giornate degli autori director's award:
     giornate degli autori director's award:
-      nominee: [tt27911420]
+      nominee: [tt27911420, tt28797114, tt33355331, tt33069917, tt18301776, tt33246838, tt33015212, tt33075921, tt33355361, tt30984809]
       winner: [tt27911420]
   giornate degli autori audience award:
     giornate degli autori audience award:
-      nominee: [tt33015212, tt32402247, tt33247053]
+      nominee: [tt33015212]
       winner: [tt33015212]
   venice immersive grand prize:
     venice immersive grand prize:
@@ -261,10 +286,22 @@
     premio cinemasarà award - special mention:
       nominee: [tt28231777]
       winner: [tt28231777]
+  ca' foscari young jury award:
+    ca' foscari young jury award:
+      nominee: [tt18301776]
+      winner: [tt18301776]
   unimed prize for cultural diversity:
     unimed prize for cultural diversity:
       nominee: [tt8999762]
       winner: [tt8999762]
+  impact award:
+    impact award:
+      nominee: [tt28601337]
+      winner: [tt28601337]
+  cinema & arts award:
+    cinema & arts award:
+      nominee: [tt26341960, tt32249940]
+      winner: [tt26341960, tt32249940]
   critics' week audience award:
     critics' week audience award:
       nominee: [tt26341960]
@@ -273,6 +310,18 @@
     international film critics week:
       nominee: [tt18691614]
       winner: [tt18691614]
+  rotella award:
+    rotella award:
+      nominee: [tt28297850]
+      winner: [tt28297850]
+  edipo re award - special mention:
+    edipo re award - special mention:
+      nominee: [tt18301776]
+      winner: [tt18301776]
+  premio speciale film impresa award:
+    premio speciale film impresa award:
+      nominee: [tt21993128]
+      winner: [tt21993128]
 '2023': # https://www.imdb.com/event/ev0000681/2023/1/?ref_=ev_eh
   golden lion:
     best film:

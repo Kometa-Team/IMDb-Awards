@@ -2,26 +2,72 @@
 '2024':  # https://www.imdb.com/event/ev0000361/2024/1/?ref_=ev_eh
   iifa award:
     best actor in a leading role:
-      nominee: [tt13751694, tt14993250, tt15354916, tt15441054, tt10786774, tt23849204]
-      winner: []
+      nominee: [tt15354916, tt13751694, tt14993250, tt15441054, tt10786774, tt23849204]
+      winner: [tt15354916]
     best actress in a leading role:
-      nominee: [tt14993250, tt12844910, tt14914988, tt14295590]
-      winner: []
+      nominee: [tt14295590, tt14993250, tt12844910, tt14914988, tt15428134]
+      winner: [tt14295590]
     best director:
-      nominee: [tt15732324, tt15354916, tt14993250, tt13751694, tt12844910, tt23849204]
-      winner: []
+      nominee: [tt23849204, tt15732324, tt15354916, tt14993250, tt13751694, tt12844910]
+      winner: [tt23849204]
+    best lyrics:
+      nominee: [tt13751694]
+      winner: [tt13751694]
+    best music direction:
+      nominee: [tt13751694]
+      winner: [tt13751694]
     best performance in a negative role:
       nominee: [tt13751694, tt15354916, tt15732324, tt12844910, tt18411490]
-      winner: []
+      winner: [tt13751694]
     best picture:
-      nominee: [tt23849204, tt13751694, tt15354916, tt14993250, tt10786774, tt14914988]
-      winner: []
+      nominee: [tt13751694, tt23849204, tt15354916, tt14993250, tt10786774, tt14914988]
+      winner: [tt13751694]
+    best playback singer - female:
+      nominee: [tt15354916]
+      winner: [tt15354916]
+    best playback singer - male:
+      nominee: [tt13751694]
+      winner: [tt13751694]
+    best story - adapted:
+      nominee: [tt23849204]
+      winner: [tt23849204]
+    best story - original:
+      nominee: [tt14993250]
+      winner: [tt14993250]
     best supporting actor:
       nominee: [tt13751694, tt14993250, tt14914988, tt15600222]
-      winner: []
+      winner: [tt13751694]
     best supporting actress:
-      nominee: [tt23849204, tt14993250, tt10786774, tt13751694]
-      winner: []
+      nominee: [tt14993250, tt23849204, tt10786774, tt13751694]
+      winner: [tt14993250]
+  technical award:
+    best background score:
+      nominee: [tt13751694]
+      winner: [tt13751694]
+    best choreography:
+      nominee: [tt12844910]
+      winner: [tt12844910]
+    best cinematography:
+      nominee: [tt15354916]
+      winner: [tt15354916]
+    best dialogue:
+      nominee: [tt14993250]
+      winner: [tt14993250]
+    best editing:
+      nominee: [tt13751694]
+      winner: [tt13751694]
+    best screenplay:
+      nominee: [tt23849204]
+      winner: [tt23849204]
+    best sound design:
+      nominee: [tt13751694]
+      winner: [tt13751694]
+    best sound mixing:
+      nominee: [tt15354916]
+      winner: [tt15354916]
+    best special effects (visuals):
+      nominee: [tt15354916]
+      winner: [tt15354916]
 '2023': # https://www.imdb.com/event/ev0000361/2023/1/?ref_=ev_eh
   special award:
     outstanding achievement in regional cinema:
