@@ -14,7 +14,7 @@
       nominee: [tt13751694]
       winner: [tt13751694]
     best music direction:
-      nominee: [tt13751694]
+      nominee: [tt13751694, tt23849204, tt15354916, tt12844910, tt14993250, tt15576460]
       winner: [tt13751694]
     best performance in a negative role:
       nominee: [tt13751694, tt15354916, tt15732324, tt12844910, tt18411490]
@@ -23,10 +23,10 @@
       nominee: [tt13751694, tt23849204, tt15354916, tt14993250, tt10786774, tt14914988]
       winner: [tt13751694]
     best playback singer - female:
-      nominee: [tt15354916]
+      nominee: [tt15354916, tt13751694, tt12844910, tt14993250]
       winner: [tt15354916]
     best playback singer - male:
-      nominee: [tt13751694]
+      nominee: [tt13751694, tt15428134, tt12844910]
       winner: [tt13751694]
     best story - adapted:
       nominee: [tt23849204]
@@ -40,6 +40,12 @@
     best supporting actress:
       nominee: [tt14993250, tt23849204, tt10786774, tt13751694]
       winner: [tt14993250]
+    debut director of the year:
+      nominee: [tt23036080]
+      winner: [tt23036080]
+    debutant of the year:
+      nominee: [tt29301456]
+      winner: [tt29301456]
   technical award:
     best background score:
       nominee: [tt13751694]
