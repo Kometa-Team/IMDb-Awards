@@ -2,7 +2,7 @@
 '2024':  # https://www.imdb.com/event/ev0000659/2024/1/?ref_=ev_eh
   people's choice award:
     best film:
-      nominee: [tt12908150, tt20221436, tt28607951, tt18691614, tt31350080, tt22023622, tt32890130]
+      nominee: [tt12908150, tt20221436, tt28607951, tt18691614, tt31350080, tt22023622, tt19783734, tt32890130]
       winner: [tt12908150]
     documentary:
       nominee: [tt33312360, tt30321133, tt33084872]
@@ -20,7 +20,7 @@
       winner: [tt29634258]
   netpac award:
     netpac award:
-      nominee: [tt14093994]
+      nominee: [tt22208340, tt14093994]
       winner: [tt14093994]
   short cuts award:
     best canadian short film:
