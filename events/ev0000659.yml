@@ -22,26 +22,16 @@
     netpac award:
       nominee: [tt22208340, tt14093994]
       winner: [tt14093994]
-  short cuts award:
-    best canadian short film:
-      nominee: [tt32144500]
-      winner: []
-    best international short film:
-      nominee: [tt32989921]
-      winner: []
   short cuts award - honorable mention:
     best international short film:
       nominee: [tt33317291]
       winner: [tt33317291]
   imdbpro short cuts:
     imdbpro short cuts award for best canadian film:
-      nominee: [tt33087322, tt33099535, tt33086973, tt32601294, tt12429712, tt32444952, tt32205767, tt29520774, tt33015167]
+      nominee: [tt33087322, tt32144500, tt33099535, tt33086973, tt32601294, tt12429712, tt32444952, tt32205767, tt29520774, tt33317303, tt33015167]
       winner: [tt33087322]
     imdbpro short cuts award for best film:
-      nominee: [tt32897626, tt32205774, tt29869027, tt32560209, tt33202234, tt33131401, tt32365707, tt32205738, tt32342056, tt32144480, tt30751010, tt28632018, tt33091593, tt32810843, tt20519854, tt32875105, tt33202250, tt32923607]
-      winner: []
-    imdbpro short cuts award for best international short film:
-      nominee: [tt33317061]
+      nominee: [tt33317061, tt32897626, tt32205774, tt29869027, tt32560209, tt33202234, tt32989921, tt33131401, tt32365707, tt32205738, tt32342056, tt33317291, tt32144480, tt30751010, tt28632018, tt33091593, tt32810843, tt20519854, tt32875105, tt33202250, tt32923607]
       winner: [tt33317061]
   fipresci prize:
     fipresci prize:
