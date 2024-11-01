@@ -402,7 +402,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - best feature film suitable for young people # 11 Events: 1959-1969
   - best feature-length documentary # 6 Events: 1956, 1959-1961, 1963-1964
   - best feature-length documentary/cultural film # 2 Events: 1957-1958
-  - best film # 27 Events: 1955, 1963, 1977, 1981, 1984, 1989, 1994-1995, 1997-1998, 2003, 2007, 2009-2012, 2014-2024
+  - best film # 28 Events: 1955, 1963, 1977, 1981, 1984, 1989, 1994-1995, 1997-1998, 2003, 2006-2007, 2009-2012, 2014-2024
   - best film music # 6 Events: 2002-2007
   - best first feature # 4 Events: 2014, 2019-2021
   - best first feature award # 9 Events: 2012-2019, 2021
@@ -3314,7 +3314,7 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best television series - drama # 48 Events: 1976-2023
   - best television series - musical or comedy # 7 Events: 2017-2023
   - best television series, drama # 1 Event: 2024
-  - best television series, musical or comedy # 1 Event: 2024
+  - best television series, musical or comedy # 2 Events: 2020, 2024
   - best television special - variety or musical # 1 Event: 1982
   - best tv actor - comedy or musical # 6 Events: 1970-1975
   - best tv actor - drama # 6 Events: 1970-1975
@@ -3614,7 +3614,7 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - golden lotus award # 61 Events: 1961-1962, 1965-2024
   - indira gandhi award for best first film # 9 Events: 1984, 1986, 1993, 2000, 2002-2003, 2007, 2010, 2017
   - nargees dutt award # 8 Events: 1982, 1989, 1992, 2001-2003, 2005, 2007
-  - national film award # 39 Events: 1960, 1967-1969, 1971-1975, 1977, 1982-1983, 1985-1990, 1992-1994, 1999, 2001-2014, 2017, 2019-2020
+  - national film award # 41 Events: 1960, 1967-1969, 1971-1975, 1977, 1982-1983, 1985-1990, 1992-1994, 1999, 2001-2017, 2019-2020
   - non-feature films award # 13 Events: 1999, 2004, 2006, 2009, 2014, 2016-2024
   - president's gold medal # 13 Events: 1954-1957, 1959-1960, 1962-1963, 1965, 1969-1970, 1973, 1994
   - president's silver medal # 17 Events: 1955, 1959-1967, 1969-1970, 1987-1988, 1992, 2012-2013
@@ -3687,6 +3687,7 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best editing in a non-feature film # 4 Events: 2018, 2022-2024
   - best editing in non-feature film # 2 Events: 2011, 2019
   - best editing, non fiction # 1 Event: 2008
+  - best education film # 2 Events: 2016, 2019
   - best educational / motivational / instructional film # 1 Event: 2019
   - best educational film # 3 Events: 2015, 2020, 2023
   - best environment film # 3 Events: 2014, 2022-2023
@@ -3728,7 +3729,8 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best film on environment conservation / preservation # 5 Events: 1999, 2010, 2015-2016, 2019
   - best film on environment conservation/ preservation # 2 Events: 2012, 2014
   - best film on environment conservation/preservation # 2 Events: 2022-2023
-  - best film on family values # 4 Events: 2009, 2014, 2022-2023
+  - best film on family value # 1 Event: 2016
+  - best film on family values # 6 Events: 2009, 2011, 2014-2015, 2022-2023
   - best film on family welfare # 8 Events: 1990, 1995, 2001, 2005-2008, 2013
   - best film on family welfare - feature # 2 Events: 1983, 2005
   - best film on other social issues # 17 Events: 1988, 1991, 1993-1995, 1999-2004, 2006, 2014-2018
@@ -3736,6 +3738,7 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best film on social issues # 11 Events: 1996, 2004, 2009-2010, 2013-2015, 2019-2023
   - best film on social issues (non-feature) # 1 Event: 2020
   - best film on social welfare # 1 Event: 2019
+  - best film on sports # 1 Event: 2011
   - best film with mass appeal, wholesome entertainment and aesthetic value # 2 Events: 1976, 1979
   - best film- non fiction # 2 Events: 1986, 2008
   - best first non-feature film # 1 Event: 2019
@@ -3773,7 +3776,7 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best playback singer (male) # 39 Events: 1968, 1971, 1973, 1975-1978, 1980, 1982-1984, 1987-1989, 1992, 1994-1999, 2001-2009, 2014-2020, 2023-2024
   - best popular film providing wholesome entertainment # 34 Events: 1975, 1980, 1987-1991, 1994-1996, 1998-2016, 2018, 2020-2024
   - best production design # 8 Events: 2015, 2017-2024
-  - best promotional film # 3 Events: 2003, 2009, 2023
+  - best promotional film # 4 Events: 2003, 2009, 2013, 2023
   - best punjabi film # 1 Event: 2024
   - best re-recording mixing # 1 Event: 2013
   - best regional film ( oriya) # 2 Events: 1993, 2020
@@ -4403,7 +4406,7 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - best canadian short film - special jury citation # 6 Events: 1992-1996, 1999
   - best canadian short film - special mention # 3 Events: 1997, 2000, 2022
   - best director # 1 Event: 1993
-  - best film # 21 Events: 1982, 1996-1997, 2000, 2003-2006, 2010, 2013-2024
+  - best film # 22 Events: 1982, 1996-1997, 2000, 2003-2006, 2009-2010, 2013-2024
   - best international short film # 10 Events: 1996, 2014-2021, 2024
   - best screenplay # 2 Events: 2006, 2018
   - best short film # 3 Events: 2015-2016, 2022
@@ -4424,7 +4427,6 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - honorable mention for best canadian short film # 1 Event: 2021
   - imdbpro short cuts award for best canadian film # 5 Events: 2020-2024
   - imdbpro short cuts award for best film # 5 Events: 2020-2024
-  - imdbpro short cuts award for best international short film # No Events Found
   - imdbpro short cuts share her journey award # 4 Events: 2020-2023
   - imdbpro short cuts share her journey award - honourable mention # 1 Event: 2023
   - industry selects # 3 Events: 2021-2023
@@ -5363,7 +5365,7 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best host - game/quiz show # 1 Event: 2007
   - best host - music & film based show # 1 Event: 2009
   - best host - talk/chat show # 1 Event: 2007
-  - best lyricist # 3 Events: 2011, 2014, 2023
+  - best lyricist # 4 Events: 2011, 2014, 2018, 2023
   - best make-up # 3 Events: 2004-2006
   - best movie of the year # 1 Event: 2021
   - best music & film based show # 2 Events: 2016-2017
@@ -5477,6 +5479,7 @@ ev0005699: # Zee Rishtey Awards (https://www.imdb.com/event/ev0005699)
   - favorite popular character (female) (on zee5) # 1 Event: 2018
   - favorite popular character (male) # 1 Event: 2017
   - favorite popular character (male) (on zee5) # 3 Events: 2018, 2021-2022
+  - favorite popular dharavahik # 1 Event: 2013
   - favorite popular face (female) # 6 Events: 2011-2014, 2017-2018
   - favorite popular face (male) # 6 Events: 2011-2015, 2018
   - favorite reality show # 2 Events: 2012, 2016
@@ -5487,7 +5490,8 @@ ev0005699: # Zee Rishtey Awards (https://www.imdb.com/event/ev0005699)
   - favourite actor in a negative role # 3 Events: 2018-2019, 2021
   - favourite anchor # 1 Event: 2012
   - favourite bahu # 2 Events: 2020-2021
-  - favourite behen # 6 Events: 2010-2014, 2019
+  - favourite behen # 5 Events: 2010-2012, 2014, 2019
+  - favourite behenein # 1 Event: 2013
   - favourite beta # 6 Events: 2011-2014, 2021, 2024
   - favourite beti # 6 Events: 2011-2014, 2019, 2024
   - favourite bhabhi # 2 Events: 2011, 2021
@@ -5504,10 +5508,10 @@ ev0005699: # Zee Rishtey Awards (https://www.imdb.com/event/ev0005699)
   - favourite kutumb # 1 Event: 2019
   - favourite maa # 3 Events: 2020, 2022-2024
   - favourite mata # 1 Event: 2012
-  - favourite mata-pita # 2 Events: 2011, 2014
+  - favourite mata-pita # 3 Events: 2011, 2013-2014
   - favourite naya sadasya # 1 Event: 2018
-  - favourite naya sadasya - female # 5 Events: 2011-2012, 2014, 2021-2022
-  - favourite naya sadasya - male # 6 Events: 2011-2012, 2014, 2019, 2021-2022
+  - favourite naya sadasya - female # 6 Events: 2011-2014, 2021-2022
+  - favourite naya sadasya - male # 7 Events: 2011-2014, 2019, 2021-2022
   - favourite naya sadasya-female # 1 Event: 2018
   - favourite nayi jodi # 6 Events: 2011-2014, 2021-2022
   - favourite pita # 1 Event: 2022
@@ -5516,13 +5520,15 @@ ev0005699: # Zee Rishtey Awards (https://www.imdb.com/event/ev0005699)
   - favourite saas bahu rishta # 1 Event: 2014
   - favourite saas jamai rishta # 1 Event: 2014
   - favourite saas-bahu rishta # 2 Events: 2011, 2014
-  - favourite saas-sasur # 2 Events: 2011-2012
+  - favourite saas-jamai rishta # 1 Event: 2013
+  - favourite saas-sasur # 3 Events: 2011-2013
   - favourite story # 2 Events: 2014-2015
   - favourite stylish personality of the year # 1 Event: 2015
   - favourite tv judge # 1 Event: 2017
   - personality of the year # 1 Event: 2012
   - social swagger # 1 Event: 2018
   - zee ki shaan # 1 Event: 2011
+  - zee rishton ki parakh # 1 Event: 2013
 ev0005770: # Nickelodeon Kids' Choice Awards, India (https://www.imdb.com/event/ev0005770)
   years: ['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2013']
   awards:  # Award Options: Nickelodeon Kids' Choice Awards, India
@@ -5776,9 +5782,9 @@ ev0060658: # Bollywood Film Journalist Awards (https://www.imdb.com/event/ev0060
   - debutant- producer # 1 Event: 2019
   - rising star of the year # 1 Event: 2019
 ev0073358: # International Iconic Awards (https://www.imdb.com/event/ev0073358)
-  years: ['2024', '2023', '2022', '2021']
+  years: ['2024', '2023', '2022', '2021', '2020']
   awards:  # Award Options: International Iconic Awards
-  - iconic award # 4 Events: 2021-2024
+  - iconic award # 5 Events: 2020-2024
   - television award # 1 Event: 2024
   categories: # Category Options: International Iconic Awards
   - actor of the year # 1 Event: 2024
@@ -5788,7 +5794,7 @@ ev0073358: # International Iconic Awards (https://www.imdb.com/event/ev0073358)
   - best actor in a web film # 1 Event: 2024
   - best actor in a web film - critics # 1 Event: 2024
   - best actor in a web series # 3 Events: 2021, 2023-2024
-  - best actress # 3 Events: 2022-2024
+  - best actress # 4 Events: 2020, 2022-2024
   - best actress - critics # 4 Events: 2021-2024
   - best actress in a web film # 1 Event: 2024
   - best actress in a web film - critics # 1 Event: 2024

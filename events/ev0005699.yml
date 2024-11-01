@@ -342,13 +342,16 @@
     favorite jodi:
       nominee: [tt2500352]
       winner: [tt2500352]
+    favorite popular dharavahik:
+      nominee: [tt3426342]
+      winner: [tt3426342]
     favorite popular face (female):
-      nominee: [tt2500352]
+      nominee: [tt2500352, tt3430928, tt3426342, tt3294528]
       winner: [tt2500352]
     favorite popular face (male):
-      nominee: [tt3430928]
-      winner: [tt3430928]
-    favourite behen:
+      nominee: [tt3426342, tt3430928, tt2282359, tt2500352, tt3294496]
+      winner: [tt3426342]
+    favourite behenein:
       nominee: [tt3294496]
       winner: [tt3294496]
     favourite beta:
@@ -363,9 +366,27 @@
     favourite khalnayak:
       nominee: [tt2500352]
       winner: [tt2500352]
+    favourite mata-pita:
+      nominee: [tt3294528]
+      winner: [tt3294528]
+    favourite naya sadasya - female:
+      nominee: [tt3430920]
+      winner: [tt3430920]
+    favourite naya sadasya - male:
+      nominee: [tt3433480]
+      winner: [tt3433480]
     favourite nayi jodi:
       nominee: [tt3426342]
       winner: [tt3426342]
+    favourite saas-jamai rishta:
+      nominee: [tt6929192]
+      winner: [tt6929192]
+    favourite saas-sasur:
+      nominee: [tt3430928]
+      winner: [tt3430928]
+    zee rishton ki parakh:
+      nominee: [tt2103372, tt1708446, tt7112704]
+      winner: [tt2103372, tt1708446, tt7112704]
 '2012': # https://www.imdb.com/event/ev0005699/2012/1/?ref_=ev_eh
   zee rishtey award:
     favorite dharavaahik (fiction):

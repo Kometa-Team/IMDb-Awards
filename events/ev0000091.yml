@@ -3858,6 +3858,9 @@
       winner: [tt0494231]
 '2006': # https://www.imdb.com/event/ev0000091/2006/1/?ref_=ev_eh
   golden berlin bear:
+    best film:
+      nominee: [tt0445620]
+      winner: [tt0445620]
     best short film:
       nominee: [tt0783661, tt0783741, tt0783674, tt0783702, tt0783729, tt0783735, tt0781448, tt0783722, tt0778677, tt0783846]
       winner: [tt0783661]

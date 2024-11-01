@@ -659,8 +659,8 @@
       nominee: [tt7401524]
       winner: [tt7401524]
     best dialogue - drama:
-      nominee: [tt8437668]
-      winner: [tt8437668]
+      nominee: [tt8437668, tt8163874]
+      winner: [tt8437668, tt8163874]
     best director - drama:
       nominee: [tt7690392, tt5697728]
       winner: [tt7690392]
@@ -676,6 +676,9 @@
     best host:
       nominee: [tt0486068]
       winner: [tt0486068]
+    best lyricist:
+      nominee: [tt8163874]
+      winner: [tt8163874]
     best reality show:
       nominee: [tt10370866]
       winner: [tt10370866]

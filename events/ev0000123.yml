@@ -5934,8 +5934,8 @@
       winner: [tt0053494]
   bafta children's award:
     best animation:
-      nominee: [tt0268958]
-      winner: [tt0268958]
+      nominee: [tt0389571]
+      winner: [tt0389571]
     best drama:
       nominee: [tt0283180, tt0163437, tt0227905, tt0284335]
       winner: [tt0283180]
@@ -5943,7 +5943,7 @@
       nominee: [tt0126029]
       winner: [tt0126029]
     best international:
-      nominee: [tt0257325]
+      nominee: [tt0257325, tt0389571]
       winner: [tt0257325]
     best presenter:
       nominee: [tt0267217]
@@ -10662,7 +10662,7 @@
       nominee: [tt0056172, tt0056141, tt0055796, tt0056308, tt0056583, tt0056673]
       winner: [tt0056172]
     best film from any source:
-      nominee: [tt0056172, tt0056141, tt0055796, tt0055032, tt0054632, tt0055093, tt0056308, tt0056346, tt0055827, tt0056049, tt0057239, tt0053746, tt0054426, tt0056218, tt0056241, tt0055244, tt0055499, tt0055614]
+      nominee: [tt0056172, tt0056141, tt0055796, tt0055032, tt0054632, tt0055093, tt0056308, tt0056346, tt0055827, tt0057239, tt0053746, tt0054426, tt0056218, tt0056241, tt0056049, tt0055244, tt0055499, tt0055614]
       winner: [tt0056172]
     best foreign actor:
       nominee: [tt0055798, tt0056172, tt0055728, tt0054599, tt0056183, tt0054426, tt0055082, tt0056195, tt0055796]
@@ -10738,7 +10738,7 @@
       nominee: [tt0053602, tt0053371, tt0053900, tt0054269, tt0053752, tt0053796, tt0052997, tt0054086, tt0054403, tt0054412]
       winner: [tt0053602]
     best film from any source:
-      nominee: [tt0053604, tt0053146, tt0053793, tt0052893, tt0053946, tt0053619, tt0054022, tt0054198, tt0054269, tt0053270, tt0054331, tt0054377, tt0053198, tt0053602, tt0053779, tt0054403, tt0054412]
+      nominee: [tt0053604, tt0053146, tt0053793, tt0052893, tt0053946, tt0053619, tt0053779, tt0054022, tt0054198, tt0054269, tt0053270, tt0054331, tt0054377, tt0053198, tt0053602, tt0054403, tt0054412]
       winner: [tt0053604]
     best foreign actor:
       nominee: [tt0053604, tt0053793, tt0053946, tt0052711, tt0054022]
@@ -10933,7 +10933,7 @@
       nominee: [tt0047642, tt0223376, tt0048669]
       winner: [tt0047642]
     best film from any source:
-      nominee: [tt0049674, tt0047849, tt0046828, tt0048028, tt0048356, tt0047478, tt0048620, tt0048673, tt0047945, tt0046889, tt0048281, tt0047278, tt0048512, tt0047528]
+      nominee: [tt0049674, tt0047849, tt0046828, tt0048028, tt0047528, tt0048356, tt0047478, tt0048620, tt0048673, tt0047945, tt0046889, tt0048281, tt0047278, tt0048512]
       winner: [tt0049674]
     best foreign actor:
       nominee: [tt0048356, tt0048432, tt0048380, tt0048028, tt0047478]

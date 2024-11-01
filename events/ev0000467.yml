@@ -838,6 +838,9 @@
     best audiography (location sound recordist):
       nominee: [tt8380826]
       winner: [tt8380826]
+    best education film:
+      nominee: [tt20867248]
+      winner: [tt20867248]
     best investigative film:
       nominee: [tt8415272]
       winner: [tt8415272]
@@ -1296,6 +1299,13 @@
     best feature film in telugu:
       nominee: [tt5137380]
       winner: [tt5137380]
+  national film award:
+    best education film:
+      nominee: [tt7243664]
+      winner: [tt7243664]
+    best film on family value:
+      nominee: [tt6087408]
+      winner: [tt6087408]
   non-feature films award:
     best debut film of a director:
       nominee: [tt5653948]
@@ -1431,6 +1441,10 @@
     best feature film in telugu:
       nominee: [tt3496054]
       winner: [tt3496054]
+  national film award:
+    best film on family values:
+      nominee: [tt4874316]
+      winner: [tt4874316]
 '2014': # https://www.imdb.com/event/ev0000467/2014/1/?ref_=ev_eh
   golden lotus award:
     best children's film:
@@ -1754,6 +1768,9 @@
     best popular film providing wholesome entertainment:
       nominee: [tt2317337]
       winner: [tt2317337]
+    best promotional film:
+      nominee: [tt3234002]
+      winner: [tt3234002]
 '2012': # https://www.imdb.com/event/ev0000467/2012/1/?ref_=ev_eh
   golden lotus award:
     best children's film:
@@ -1949,6 +1966,12 @@
     best feature film in bengali:
       nominee: [tt2501906]
       winner: [tt2501906]
+    best film on family values:
+      nominee: [tt33742129]
+      winner: [tt33742129]
+    best film on sports:
+      nominee: [tt33742146]
+      winner: [tt33742146]
   special jury award:
     best director:
       nominee: [tt2501906]
