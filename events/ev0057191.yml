@@ -1,5 +1,5 @@
 # Iconic Gold Awards
-'2024':  # https://www.imdb.com/event/ev0057191/2024/1/?ref_=ev_eh
+'2024':  # https://www.imdb.com/event/ev0057191/2024/1/
   iconic:
     best actor of the year:
       nominee: [tt15944428]
@@ -23,8 +23,8 @@
       nominee: [tt8672856]
       winner: [tt8672856]
     best actress of the year - critics choice:
-      nominee: [tt24268454, tt18413766]
-      winner: [tt24268454, tt18413766]
+      nominee: [tt18413766, tt24268454]
+      winner: [tt18413766, tt24268454]
     best actress of the year - ott:
       nominee: [tt15516226]
       winner: [tt15516226]
@@ -97,7 +97,7 @@
     singer of the year:
       nominee: [tt15441054]
       winner: [tt15441054]
-'2023': # https://www.imdb.com/event/ev0057191/2023/1/?ref_=ev_eh
+'2023': # https://www.imdb.com/event/ev0057191/2023/1/
   iconic:
     best actor in a negative role:
       nominee: [tt10644708]
@@ -162,7 +162,7 @@
     powerpack performance of the year - male:
       nominee: [tt23037654]
       winner: [tt23037654]
-'2022': # https://www.imdb.com/event/ev0057191/2022/1/?ref_=ev_eh
+'2022': # https://www.imdb.com/event/ev0057191/2022/1/
   iconic:
     best actor of the year:
       nominee: [tt10295212]
@@ -218,7 +218,7 @@
     rising star of the year:
       nominee: [tt12347286]
       winner: [tt12347286]
-'2021': # https://www.imdb.com/event/ev0057191/2021/1/?ref_=ev_eh
+'2021': # https://www.imdb.com/event/ev0057191/2021/1/
   iconic:
     best actress in a negative role:
       nominee: [tt13085534]

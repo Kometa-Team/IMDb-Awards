@@ -1,5 +1,5 @@
 # National Film Awards, India
-'2024':  # https://www.imdb.com/event/ev0000467/2024/1/?ref_=ev_eh
+'2024':  # https://www.imdb.com/event/ev0000467/2024/1/
   golden lotus award:
     best debut film of a director:
       nominee: [tt27794632]
@@ -18,8 +18,8 @@
       nominee: [tt15327088]
       winner: [tt15327088]
     best actress:
-      nominee: [tt23664710, tt11772746]
-      winner: [tt23664710, tt11772746]
+      nominee: [tt11772746, tt23664710]
+      winner: [tt11772746, tt23664710]
     best child artist:
       nominee: [tt22037066]
       winner: [tt22037066]
@@ -35,6 +35,9 @@
     best editing:
       nominee: [tt27302079]
       winner: [tt27302079]
+    best feature film promoting national, social and environment values:
+      nominee: [tt23664710]
+      winner: [tt23664710]
     best film in avgc:
       nominee: [tt6277462]
       winner: [tt6277462]
@@ -80,9 +83,6 @@
     best supporting actress:
       nominee: [tt15309708]
       winner: [tt15309708]
-    best feature film promoting national, social and environment values:
-      nominee: [tt23664710]
-      winner: [tt23664710]
   regional award:
     best feature film in assamese:
       nominee: [tt20220796]
@@ -119,8 +119,8 @@
       winner: [tt28938920]
   special jury award:
     feature film:
-      nominee: [tt18951176, tt15576596]
-      winner: [tt18951176, tt15576596]
+      nominee: [tt15576596, tt18951176]
+      winner: [tt15576596, tt18951176]
   non-feature films award:
     best animation film:
       nominee: [tt33131333]
@@ -167,7 +167,7 @@
     special mention:
       nominee: [tt33131357, tt33131368]
       winner: [tt33131357, tt33131368]
-'2023': # https://www.imdb.com/event/ev0000467/2023/1/?ref_=ev_eh
+'2023': # https://www.imdb.com/event/ev0000467/2023/1/
   golden lotus award:
     best children’s film:
       nominee: [tt14459608]
@@ -277,8 +277,8 @@
       winner: [tt10295212]
   special mention:
     special mention:
-      nominee: [tt10534500, tt22696258, tt20118774, tt10300570]
-      winner: [tt10534500, tt22696258, tt20118774, tt10300570]
+      nominee: [tt10300570, tt10534500, tt20118774, tt22696258]
+      winner: [tt10300570, tt10534500, tt20118774, tt22696258]
   regional award:
     best feature film in  gujarati:
       nominee: [tt9681686]
@@ -333,8 +333,8 @@
       nominee: [tt18335494]
       winner: [tt18335494]
     best biographical film:
-      nominee: [tt28758306, tt20450658]
-      winner: [tt28758306, tt20450658]
+      nominee: [tt20450658, tt28758306]
+      winner: [tt20450658, tt28758306]
     best cinematography in a non-feature film:
       nominee: [tt18341150]
       winner: [tt18341150]
@@ -384,9 +384,9 @@
       nominee: [tt28789296]
       winner: [tt28789296]
     special mention:
-      nominee: [tt21348660, tt15113492, tt28776489, tt28776552]
-      winner: [tt21348660, tt15113492, tt28776489, tt28776552]
-'2022': # https://www.imdb.com/event/ev0000467/2022/1/?ref_=ev_eh
+      nominee: [tt15113492, tt21348660, tt28776489, tt28776552]
+      winner: [tt15113492, tt21348660, tt28776489, tt28776552]
+'2022': # https://www.imdb.com/event/ev0000467/2022/1/
   golden lotus award:
     best children’s film:
       nominee: [tt21379038]
@@ -405,8 +405,8 @@
       winner: [tt8108274]
   silver lotus award:
     best actor:
-      nominee: [tt8108274, tt10189514]
-      winner: [tt8108274, tt10189514]
+      nominee: [tt10189514, tt8108274]
+      winner: [tt10189514, tt8108274]
     best actress:
       nominee: [tt10189514]
       winner: [tt10189514]
@@ -423,8 +423,8 @@
       nominee: [tt11960634]
       winner: [tt11960634]
     best child artist:
-      nominee: [tt21379038, tt17348144]
-      winner: [tt21379038, tt17348144]
+      nominee: [tt17348144, tt21379038]
+      winner: [tt17348144, tt21379038]
     best choreography:
       nominee: [tt14039678]
       winner: [tt14039678]
@@ -511,8 +511,8 @@
       winner: [tt8946762]
   special mention:
     special mention:
-      nominee: [tt14209306, tt13653678, tt11384400, tt16745146, tt13623916, tt11779640]
-      winner: [tt14209306, tt13653678, tt11384400, tt16745146, tt13623916, tt11779640]
+      nominee: [tt11384400, tt11779640, tt13623916, tt13653678, tt14209306, tt16745146]
+      winner: [tt11384400, tt11779640, tt13623916, tt13653678, tt14209306, tt16745146]
   regional award:
     best feature film in assamese:
       nominee: [tt13385480]
@@ -575,7 +575,7 @@
     best science and technology film:
       nominee: [tt21378914]
       winner: [tt21378914]
-'2020': # https://www.imdb.com/event/ev0000467/2020/1/?ref_=ev_eh
+'2020': # https://www.imdb.com/event/ev0000467/2020/1/
   golden lotus award:
     best children's film:
       nominee: [tt11135910]
@@ -594,11 +594,11 @@
       winner: [tt8333978]
   silver lotus award:
     best actor:
-      nominee: [tt9477520, tt8436188, tt8476998]
-      winner: [tt9477520, tt8436188, tt8476998]
+      nominee: [tt8436188, tt8476998, tt9477520]
+      winner: [tt8436188, tt8476998, tt9477520]
     best actress:
-      nominee: [tt6903440]
-      winner: [tt6903440]
+      nominee: [tt6903440, tt8983166]
+      winner: [tt6903440, tt8983166]
     best audiography:
       nominee: [tt10370116]
       winner: [tt10370116]
@@ -680,6 +680,9 @@
     best background score:
       nominee: [tt10294858]
       winner: [tt10294858]
+    best debut film of a director:
+      nominee: [tt10735202]
+      winner: [tt10735202]
     best film on social issues:
       nominee: [tt8621438]
       winner: [tt8621438]
@@ -695,9 +698,6 @@
     best screenplay (original):
       nominee: [tt10294858]
       winner: [tt10294858]
-    best debut film of a director:
-      nominee: [tt10735202]
-      winner: [tt10735202]
   special jury award:
     feature film:
       nominee: [tt10370116]
@@ -718,7 +718,7 @@
     best non-feature film editing:
       nominee: [tt10436314]
       winner: [tt10436314]
-'2019': # https://www.imdb.com/event/ev0000467/2019/1/?ref_=ev_eh
+'2019': # https://www.imdb.com/event/ev0000467/2019/1/
   golden lotus award:
     best  feature film:
       nominee: [tt10469118]
@@ -841,6 +841,9 @@
     best education film:
       nominee: [tt20867248]
       winner: [tt20867248]
+    best film in sherdukpan dialect:
+      nominee: [tt8748810]
+      winner: [tt8748810]
     best investigative film:
       nominee: [tt8415272]
       winner: [tt8415272]
@@ -850,15 +853,12 @@
     best production design:
       nominee: [tt6200656]
       winner: [tt6200656]
-    best short fiction film:
-      nominee: [tt8185522]
-      winner: [tt8185522]
-    best film in sherdukpan dialect:
-      nominee: [tt8748810]
-      winner: [tt8748810]
     best screenplay(adapted):
       nominee: [tt10834986]
       winner: [tt10834986]
+    best short fiction film:
+      nominee: [tt8185522]
+      winner: [tt8185522]
   special jury award:
     special jury award:
       nominee: [tt10469118]
@@ -885,7 +885,7 @@
     best non-feature film:
       nominee: [tt9074318]
       winner: [tt9074318]
-'2018': # https://www.imdb.com/event/ev0000467/2018/1/?ref_=ev_eh
+'2018': # https://www.imdb.com/event/ev0000467/2018/1/
   golden lotus award:
     best director:
       nominee: [tt8396232]
@@ -1027,7 +1027,7 @@
     best film on other social issues:
       nominee: [tt8066304]
       winner: [tt8066304]
-'2017': # https://www.imdb.com/event/ev0000467/2017/1/?ref_=ev_eh
+'2017': # https://www.imdb.com/event/ev0000467/2017/1/
   golden lotus award:
     best   feature film:
       nominee: [tt6272504]
@@ -1061,8 +1061,8 @@
       nominee: [tt5461134]
       winner: [tt5461134]
     best child artist:
-      nominee: [tt6384376, tt5439424, tt8029242]
-      winner: [tt6384376, tt5439424, tt8029242]
+      nominee: [tt5439424, tt6384376, tt8029242]
+      winner: [tt5439424, tt6384376, tt8029242]
     best choreography:
       nominee: [tt5946852]
       winner: [tt5946852]
@@ -1107,11 +1107,11 @@
       winner: [tt5297256]
   special mention:
     best film:
-      nominee: [tt6143422, tt5997928]
-      winner: [tt6143422, tt5997928]
+      nominee: [tt5997928, tt6143422]
+      winner: [tt5997928, tt6143422]
     special mention (actor):
-      nominee: [tt5997928]
-      winner: [tt5997928]
+      nominee: [tt5997928, tt8914956]
+      winner: [tt5997928, tt8914956]
     special mention (actress):
       nominee: [tt5286444]
       winner: [tt5286444]
@@ -1153,13 +1153,13 @@
       winner: [tt5109326]
   special jury award:
     special jury award:
-      nominee: [tt6097918]
-      winner: [tt6097918]
+      nominee: [tt5297256, tt5946852, tt6097918]
+      winner: [tt5297256, tt5946852, tt6097918]
   non-feature films award:
     best audiography:
       nominee: [tt6237816]
       winner: [tt6237816]
-'2016': # https://www.imdb.com/event/ev0000467/2016/1/?ref_=ev_eh
+'2016': # https://www.imdb.com/event/ev0000467/2016/1/
   golden lotus award:
     best children's film:
       nominee: [tt5805252]
@@ -1247,11 +1247,11 @@
       nominee: [tt4934950]
       winner: [tt4934950]
     best screenplay (dialogues):
-      nominee: [tt3767372, tt2140465]
-      winner: [tt3767372, tt2140465]
+      nominee: [tt2140465, tt3767372]
+      winner: [tt2140465, tt3767372]
     best screenplay (original):
-      nominee: [tt3767372, tt2140465]
-      winner: [tt3767372, tt2140465]
+      nominee: [tt2140465, tt3767372]
+      winner: [tt2140465, tt3767372]
     best special effects:
       nominee: [tt2631186]
       winner: [tt2631186]
@@ -1265,8 +1265,8 @@
       nominee: [tt2929690]
       winner: [tt2929690]
     special mention:
-      nominee: [tt5310090, tt5312232, tt5214394]
-      winner: [tt5310090, tt5312232, tt5214394]
+      nominee: [tt4760086, tt5214394, tt5310090, tt5312232]
+      winner: [tt4760086, tt5214394, tt5310090, tt5312232]
   special mention:
     special jury award (non-feature film):
       nominee: [tt4835948]
@@ -1310,11 +1310,11 @@
     best debut film of a director:
       nominee: [tt5653948]
       winner: [tt5653948]
-'2015': # https://www.imdb.com/event/ev0000467/2015/1/?ref_=ev_eh
+'2015': # https://www.imdb.com/event/ev0000467/2015/1/
   golden lotus award:
     best children's film:
-      nominee: [tt4203824, tt3973410]
-      winner: [tt4203824, tt3973410]
+      nominee: [tt3973410, tt4203824]
+      winner: [tt3973410, tt4203824]
     best debut film of a director:
       nominee: [tt3843088]
       winner: [tt3843088]
@@ -1407,8 +1407,8 @@
       nominee: [tt3828724]
       winner: [tt3828724]
     special mention:
-      nominee: [tt3341582]
-      winner: [tt3341582]
+      nominee: [tt3341582, tt3531852]
+      winner: [tt3341582, tt3531852]
   special mention:
     certificate of merit for female actor:
       nominee: [tt4742102]
@@ -1445,7 +1445,7 @@
     best film on family values:
       nominee: [tt4874316]
       winner: [tt4874316]
-'2014': # https://www.imdb.com/event/ev0000467/2014/1/?ref_=ev_eh
+'2014': # https://www.imdb.com/event/ev0000467/2014/1/
   golden lotus award:
     best children's film:
       nominee: [tt3267464]
@@ -1491,8 +1491,8 @@
       nominee: [tt2855648]
       winner: [tt2855648]
     best child artist:
-      nominee: [tt2827320, tt2187248]
-      winner: [tt2827320, tt2187248]
+      nominee: [tt2187248, tt2827320]
+      winner: [tt2187248, tt2827320]
     best choreography:
       nominee: [tt2356180]
       winner: [tt2356180]
@@ -1599,7 +1599,7 @@
     best non-feature film:
       nominee: [tt4016924]
       winner: [tt4016924]
-'2013': # https://www.imdb.com/event/ev0000467/2013/1/?ref_=ev_eh
+'2013': # https://www.imdb.com/event/ev0000467/2013/1/
   golden lotus award:
     best animation film:
       nominee: [tt1172587]
@@ -1711,8 +1711,8 @@
       nominee: [tt2317337]
       winner: [tt2317337]
     special jury award:
-      nominee: [tt2480566, tt1821480]
-      winner: [tt2480566, tt1821480]
+      nominee: [tt1787988, tt1821480, tt1954470, tt2086826, tt2480566]
+      winner: [tt1787988, tt1821480, tt1954470, tt2086826, tt2480566]
   special mention:
     special mention:
       nominee: [tt2188116]
@@ -1771,7 +1771,7 @@
     best promotional film:
       nominee: [tt3234002]
       winner: [tt3234002]
-'2012': # https://www.imdb.com/event/ev0000467/2012/1/?ref_=ev_eh
+'2012': # https://www.imdb.com/event/ev0000467/2012/1/
   golden lotus award:
     best children's film:
       nominee: [tt1841542]
@@ -1861,7 +1861,7 @@
     best screenplay(dialogues):
       nominee: [tt2218988]
       winner: [tt2218988]
-'2011': # https://www.imdb.com/event/ev0000467/2011/1/?ref_=ev_eh
+'2011': # https://www.imdb.com/event/ev0000467/2011/1/
   golden lotus award:
     best direction:
       nominee: [tt1821317]
@@ -1976,7 +1976,7 @@
     best director:
       nominee: [tt2501906]
       winner: [tt2501906]
-'2010': # https://www.imdb.com/event/ev0000467/2010/1/?ref_=ev_eh
+'2010': # https://www.imdb.com/event/ev0000467/2010/1/
   golden lotus award:
     best animation film:
       nominee: [tt1050739]
@@ -2085,7 +2085,7 @@
     nargid dutt award:
       nominee: [tt1815837]
       winner: [tt1815837]
-'2009': # https://www.imdb.com/event/ev0000467/2009/1/?ref_=ev_eh
+'2009': # https://www.imdb.com/event/ev0000467/2009/1/
   golden lotus award:
     best debut film of a director:
       nominee: [tt1280558]
@@ -2131,8 +2131,8 @@
       nominee: [tt1653015]
       winner: [tt1653015]
     best playback singer (female):
-      nominee: [tt1359552]
-      winner: [tt1359552]
+      nominee: [tt1359552, tt1653015]
+      winner: [tt1359552, tt1653015]
     best playback singer (male):
       nominee: [tt1653015]
       winner: [tt1653015]
@@ -2172,14 +2172,14 @@
     best non-feature film:
       nominee: [tt1316036]
       winner: [tt1316036]
-'2008': # https://www.imdb.com/event/ev0000467/2008/1/?ref_=ev_eh
+'2008': # https://www.imdb.com/event/ev0000467/2008/1/
   golden lotus award:
     best animated film:
       nominee: [tt2237888]
       winner: [tt2237888]
     best director:
-      nominee: [tt0986244, tt0819810]
-      winner: [tt0986244, tt0819810]
+      nominee: [tt0819810, tt0986244]
+      winner: [tt0819810, tt0986244]
     best feature film:
       nominee: [tt1286811]
       winner: [tt1286811]
@@ -2246,7 +2246,7 @@
     best film- non fiction:
       nominee: [tt1529333]
       winner: [tt1529333]
-'2007': # https://www.imdb.com/event/ev0000467/2007/1/?ref_=ev_eh
+'2007': # https://www.imdb.com/event/ev0000467/2007/1/
   golden lotus award:
     best children's film:
       nominee: [tt3019716]
@@ -2298,14 +2298,14 @@
       nominee: [tt0432637]
       winner: [tt0432637]
     best supporting actor:
-      nominee: [tt0456144]
-      winner: [tt0456144]
+      nominee: [tt0456144, tt1228754]
+      winner: [tt0456144, tt1228754]
     best supporting actress:
       nominee: [tt0488414]
       winner: [tt0488414]
     special jury award:
-      nominee: [tt5164632, tt0488414]
-      winner: [tt5164632, tt0488414]
+      nominee: [tt0488414, tt5164632]
+      winner: [tt0488414, tt5164632]
   special mention:
     special mention (actor):
       nominee: [tt0470283]
@@ -2319,13 +2319,13 @@
       nominee: [tt14333090]
       winner: [tt14333090]
   national film award:
-    best feature film in hindi:
-      nominee: [tt0983990]
-      winner: [tt0983990]
     best feature film in bengali:
       nominee: [tt0853142]
       winner: [tt0853142]
-'2006': # https://www.imdb.com/event/ev0000467/2006/1/?ref_=ev_eh
+    best feature film in hindi:
+      nominee: [tt0983990]
+      winner: [tt0983990]
+'2006': # https://www.imdb.com/event/ev0000467/2006/1/
   golden lotus award:
     best children's film:
       nominee: [tt0457802]
@@ -2356,8 +2356,8 @@
       nominee: [tt1305873]
       winner: [tt1305873]
     best cinematography:
-      nominee: [tt1305873, tt0470611]
-      winner: [tt1305873, tt0470611]
+      nominee: [tt0470611, tt1305873]
+      winner: [tt0470611, tt1305873]
     best costume design:
       nominee: [tt0375611]
       winner: [tt0375611]
@@ -2412,7 +2412,7 @@
     best first non-feature film of a director:
       nominee: [tt0478176]
       winner: [tt0478176]
-'2005': # https://www.imdb.com/event/ev0000467/2005/1/?ref_=ev_eh
+'2005': # https://www.imdb.com/event/ev0000467/2005/1/
   golden lotus award:
     best debut film of a director:
       nominee: [tt0472620]
@@ -2512,7 +2512,7 @@
     best actor:
       nominee: [tt13782450]
       winner: [tt13782450]
-'2004': # https://www.imdb.com/event/ev0000467/2004/1/?ref_=ev_eh
+'2004': # https://www.imdb.com/event/ev0000467/2004/1/
   golden lotus award:
     best children's film:
       nominee: [tt0490013]
@@ -2537,8 +2537,8 @@
       nominee: [tt0366761]
       winner: [tt0366761]
     best child artist:
-      nominee: [tt0396962, tt0389973]
-      winner: [tt0396962, tt0389973]
+      nominee: [tt0389973, tt0396962]
+      winner: [tt0389973, tt0396962]
     best choreography:
       nominee: [tt0254481]
       winner: [tt0254481]
@@ -2552,8 +2552,8 @@
       nominee: [tt0347779]
       winner: [tt0347779]
     best film on other social issues:
-      nominee: [tt0373856, tt0254481]
-      winner: [tt0373856, tt0254481]
+      nominee: [tt0254481, tt0373856]
+      winner: [tt0254481, tt0373856]
     best music direction:
       nominee: [tt0347304]
       winner: [tt0347304]
@@ -2603,7 +2603,7 @@
     best film on social issues:
       nominee: [tt14672968]
       winner: [tt14672968]
-'2003': # https://www.imdb.com/event/ev0000467/2003/1/?ref_=ev_eh
+'2003': # https://www.imdb.com/event/ev0000467/2003/1/
   golden lotus award:
     best direction:
       nominee: [tt0329393]
@@ -2707,7 +2707,7 @@
     best promotional film:
       nominee: [tt4321396]
       winner: [tt4321396]
-'2002': # https://www.imdb.com/event/ev0000467/2002/1/?ref_=ev_eh
+'2002': # https://www.imdb.com/event/ev0000467/2002/1/
   golden lotus award:
     best direction:
       nominee: [tt3308446]
@@ -2723,8 +2723,8 @@
       nominee: [tt11188208]
       winner: [tt11188208]
     best actress:
-      nominee: [tt0292113, tt0267363]
-      winner: [tt0292113, tt0267363]
+      nominee: [tt0267363, tt0292113]
+      winner: [tt0267363, tt0292113]
     best art direction:
       nominee: [tt0169102]
       winner: [tt0169102]
@@ -2762,8 +2762,8 @@
       nominee: [tt0940673]
       winner: [tt0940673]
     best playback singer (male):
-      nominee: [tt0169102]
-      winner: [tt0169102]
+      nominee: [tt0169102, tt0292490]
+      winner: [tt0169102, tt0292490]
     best screenplay:
       nominee: [tt0334352]
       winner: [tt0334352]
@@ -2808,17 +2808,17 @@
       nominee: [tt0334352]
       winner: [tt0334352]
   national film award:
-    best investigative film:
-      nominee: [tt0369612]
-      winner: [tt0369612]
     best debut film of a director:
       nominee: [tt6959266]
       winner: [tt6959266]
+    best investigative film:
+      nominee: [tt0369612]
+      winner: [tt0369612]
   special jury award:
     best film:
       nominee: [tt0367942]
       winner: [tt0367942]
-'2001': # https://www.imdb.com/event/ev0000467/2001/1/?ref_=ev_eh
+'2001': # https://www.imdb.com/event/ev0000467/2001/1/
   golden lotus award:
     best direction:
       nominee: [tt0287781]
@@ -2899,7 +2899,7 @@
     best feature film in bengali:
       nominee: [tt0368678]
       winner: [tt0368678]
-'2000': # https://www.imdb.com/event/ev0000467/2000/1/?ref_=ev_eh
+'2000': # https://www.imdb.com/event/ev0000467/2000/1/
   golden lotus award:
     best director:
       nominee: [tt0255665]
@@ -2948,8 +2948,8 @@
       nominee: [tt0222012]
       winner: [tt0222012]
     best supporting actress:
-      nominee: [tt0249866, tt0239251]
-      winner: [tt0249866, tt0239251]
+      nominee: [tt0239251, tt0249866]
+      winner: [tt0239251, tt0249866]
   indira gandhi award for best first film:
     best debut film of a director:
       nominee: [tt0382792]
@@ -2970,7 +2970,7 @@
     best feature film in telugu:
       nominee: [tt1575583]
       winner: [tt1575583]
-'1999': # https://www.imdb.com/event/ev0000467/1999/1/?ref_=ev_eh
+'1999': # https://www.imdb.com/event/ev0000467/1999/1/
   golden lotus award:
     best feature film:
       nominee: [tt0259547]
@@ -3055,7 +3055,7 @@
     best audiography:
       nominee: [tt0254508]
       winner: [tt0254508]
-'1998': # https://www.imdb.com/event/ev0000467/1998/1/?ref_=ev_eh
+'1998': # https://www.imdb.com/event/ev0000467/1998/1/
   golden lotus award:
     best children's film:
       nominee: [tt1125830]
@@ -3068,8 +3068,8 @@
       winner: [tt0118983]
   silver lotus award:
     best actor:
-      nominee: [tt0274078, tt0199669]
-      winner: [tt0274078, tt0199669]
+      nominee: [tt0199669, tt0274078]
+      winner: [tt0199669, tt0274078]
     best actress:
       nominee: [tt0143202]
       winner: [tt0143202]
@@ -3129,7 +3129,7 @@
     best feature film in tamil:
       nominee: [tt0169302]
       winner: [tt0169302]
-'1997': # https://www.imdb.com/event/ev0000467/1997/1/?ref_=ev_eh
+'1997': # https://www.imdb.com/event/ev0000467/1997/1/
   golden lotus award:
     best direction:
       nominee: [tt0984202]
@@ -3202,9 +3202,9 @@
       winner: [tt0359750]
   special jury award:
     special jury award:
-      nominee: [tt0286942, tt0116002]
-      winner: [tt0286942, tt0116002]
-'1996': # https://www.imdb.com/event/ev0000467/1996/1/?ref_=ev_eh
+      nominee: [tt0116002, tt0286942]
+      winner: [tt0116002, tt0286942]
+'1996': # https://www.imdb.com/event/ev0000467/1996/1/
   golden lotus award:
     best children's film:
       nominee: [tt0295294]
@@ -3272,7 +3272,7 @@
     best feature film in telugu:
       nominee: [tt0306098]
       winner: [tt0306098]
-'1995': # https://www.imdb.com/event/ev0000467/1995/1/?ref_=ev_eh
+'1995': # https://www.imdb.com/event/ev0000467/1995/1/
   golden lotus award:
     best debut film of a director:
       nominee: [tt0305836]
@@ -3324,8 +3324,8 @@
       nominee: [tt0230623]
       winner: [tt0230623]
     best playback singer (male):
-      nominee: [tt0097416]
-      winner: [tt0097416]
+      nominee: [tt0097416, tt0305951]
+      winner: [tt0097416, tt0305951]
     best screenplay:
       nominee: [tt0230623]
       winner: [tt0230623]
@@ -3333,8 +3333,8 @@
       nominee: [tt0097416]
       winner: [tt0097416]
     best supporting actor:
-      nominee: [tt0178392, tt0140412]
-      winner: [tt0178392, tt0140412]
+      nominee: [tt0140412, tt0178392]
+      winner: [tt0140412, tt0178392]
     best supporting actress:
       nominee: [tt0110449]
       winner: [tt0110449]
@@ -3358,7 +3358,7 @@
     best feature film in tamil:
       nominee: [tt0140412]
       winner: [tt0140412]
-'1994': # https://www.imdb.com/event/ev0000467/1994/1/?ref_=ev_eh
+'1994': # https://www.imdb.com/event/ev0000467/1994/1/
   golden lotus award:
     best direction:
       nominee: [tt0248317]
@@ -3371,8 +3371,8 @@
       winner: [tt0109555, tt0214915]
   silver lotus award:
     best actor:
-      nominee: [tt0248317]
-      winner: [tt0248317]
+      nominee: [tt0108490, tt0248317]
+      winner: [tt0108490, tt0248317]
     best actress:
       nominee: [tt0214915]
       winner: [tt0214915]
@@ -3410,8 +3410,8 @@
       nominee: [tt0108329]
       winner: [tt0108329]
     best supporting actor:
-      nominee: [tt0444983]
-      winner: [tt0444983]
+      nominee: [tt0108144, tt0444983]
+      winner: [tt0108144, tt0444983]
     best supporting actress:
       nominee: [tt0444983]
       winner: [tt0444983]
@@ -3449,7 +3449,7 @@
     best film on other social issues:
       nominee: [tt0306225]
       winner: [tt0306225]
-'1993': # https://www.imdb.com/event/ev0000467/1993/1/?ref_=ev_eh
+'1993': # https://www.imdb.com/event/ev0000467/1993/1/
   golden lotus award:
     best feature film:
       nominee: [tt0106407]
@@ -3521,19 +3521,19 @@
       nominee: [tt0105575]
       winner: [tt0105575]
   national film award:
-    best feature film in hindi:
-      nominee: [tt0110794]
-      winner: [tt0110794]
     best feature film in bengali:
       nominee: [tt0109140]
       winner: [tt0109140]
+    best feature film in hindi:
+      nominee: [tt0110794]
+      winner: [tt0110794]
     best regional film ( oriya):
       nominee: [tt0235225]
       winner: [tt0235225]
     special jury award / special mention (feature film):
       nominee: [tt0137100]
       winner: [tt0137100]
-'1992': # https://www.imdb.com/event/ev0000467/1992/1/?ref_=ev_eh
+'1992': # https://www.imdb.com/event/ev0000467/1992/1/
   golden lotus award:
     best director:
       nominee: [tt0101279]
@@ -3595,7 +3595,7 @@
     best director:
       nominee: [tt0107767]
       winner: [tt0107767]
-'1991': # https://www.imdb.com/event/ev0000467/1991/1/?ref_=ev_eh
+'1991': # https://www.imdb.com/event/ev0000467/1991/1/
   golden lotus award:
     best director:
       nominee: [tt0345177]
@@ -3657,7 +3657,7 @@
     best performance:
       nominee: [tt0099652]
       winner: [tt0099652]
-'1990': # https://www.imdb.com/event/ev0000467/1990/1/?ref_=ev_eh
+'1990': # https://www.imdb.com/event/ev0000467/1990/1/
   golden lotus award:
     best feature film:
       nominee: [tt0158481]
@@ -3670,8 +3670,8 @@
       winner: [tt0097045, tt0097437]
   silver lotus award:
     best actor:
-      nominee: [tt0097851]
-      winner: [tt0097851]
+      nominee: [tt0097851, tt0230597]
+      winner: [tt0097851, tt0230597]
     best actress:
       nominee: [tt0149740]
       winner: [tt0149740]
@@ -3717,7 +3717,7 @@
     special jury award:
       nominee: [tt0308450]
       winner: [tt0308450]
-'1989': # https://www.imdb.com/event/ev0000467/1989/1/?ref_=ev_eh
+'1989': # https://www.imdb.com/event/ev0000467/1989/1/
   golden lotus award:
     best film:
       nominee: [tt0095872]
@@ -3752,8 +3752,8 @@
       winner: [tt0290820]
   special mention:
     special mention (actor):
-      nominee: [tt0095936]
-      winner: [tt0095936]
+      nominee: [tt0095936, tt0290820]
+      winner: [tt0095936, tt0290820]
   nargees dutt award:
     best feature film on national integration:
       nominee: [tt0155124]
@@ -3769,7 +3769,7 @@
     best actress in a supporting role:
       nominee: [tt0097268]
       winner: [tt0097268]
-'1988': # https://www.imdb.com/event/ev0000467/1988/1/?ref_=ev_eh
+'1988': # https://www.imdb.com/event/ev0000467/1988/1/
   golden lotus award:
     best feature film:
       nominee: [tt0093136]
@@ -3797,8 +3797,8 @@
       nominee: [tt0247896]
       winner: [tt0247896]
     best film on other social issues:
-      nominee: [tt0308678, tt0156166]
-      winner: [tt0308678, tt0156166]
+      nominee: [tt0156166, tt0308678]
+      winner: [tt0156166, tt0308678]
     best lyrics:
       nominee: [tt0091256]
       winner: [tt0091256]
@@ -3832,7 +3832,7 @@
     best feature film in bengali:
       nominee: [tt0092572]
       winner: [tt0092572]
-'1987': # https://www.imdb.com/event/ev0000467/1987/1/?ref_=ev_eh
+'1987': # https://www.imdb.com/event/ev0000467/1987/1/
   golden lotus award:
     best feature film:
       nominee: [tt0089599, tt0232753]
@@ -3873,8 +3873,8 @@
       winner: [tt1466884]
   president's silver medal:
     best cinematography:
-      nominee: [tt0249047]
-      winner: [tt0249047]
+      nominee: [tt0090634, tt0249047]
+      winner: [tt0090634, tt0249047]
   regional award:
     best feature film in bengali:
       nominee: [tt0124055]
@@ -3892,7 +3892,7 @@
     best director:
       nominee: [tt0092557]
       winner: [tt0092557]
-'1986': # https://www.imdb.com/event/ev0000467/1986/1/?ref_=ev_eh
+'1986': # https://www.imdb.com/event/ev0000467/1986/1/
   golden lotus award:
     best direction:
       nominee: [tt0090202]
@@ -3952,7 +3952,7 @@
     best film- non fiction:
       nominee: [tt0137903]
       winner: [tt0137903]
-'1985': # https://www.imdb.com/event/ev0000467/1985/1/?ref_=ev_eh
+'1985': # https://www.imdb.com/event/ev0000467/1985/1/
   golden lotus award:
     best debut film of a director:
       nominee: [tt0254562]
@@ -3983,7 +3983,7 @@
     best feature film in hindi:
       nominee: [tt0087868]
       winner: [tt0087868]
-'1984': # https://www.imdb.com/event/ev0000467/1984/1/?ref_=ev_eh
+'1984': # https://www.imdb.com/event/ev0000467/1984/1/
   golden lotus award:
     best direction:
       nominee: [tt0085785]
@@ -4030,7 +4030,7 @@
     best feature film in telugu:
       nominee: [tt0086231]
       winner: [tt0086231]
-'1983': # https://www.imdb.com/event/ev0000467/1983/1/?ref_=ev_eh
+'1983': # https://www.imdb.com/event/ev0000467/1983/1/
   golden lotus award:
     best feature film:
       nominee: [tt0134580]
@@ -4083,7 +4083,7 @@
     best feature film in hindi:
       nominee: [tt0085776]
       winner: [tt0085776]
-'1982': # https://www.imdb.com/event/ev0000467/1982/1/?ref_=ev_eh
+'1982': # https://www.imdb.com/event/ev0000467/1982/1/
   golden lotus award:
     best director:
       nominee: [tt0081968]
@@ -4137,7 +4137,7 @@
     best feature film in bengali:
       nominee: [tt0155473]
       winner: [tt0155473]
-'1981': # https://www.imdb.com/event/ev0000467/1981/1/?ref_=ev_eh
+'1981': # https://www.imdb.com/event/ev0000467/1981/1/
   golden lotus award:
     best direction:
       nominee: [tt0080341]
@@ -4171,7 +4171,7 @@
     best feature film in bengali:
       nominee: [tt0080856]
       winner: [tt0080856]
-'1980': # https://www.imdb.com/event/ev0000467/1980/1/?ref_=ev_eh
+'1980': # https://www.imdb.com/event/ev0000467/1980/1/
   golden lotus award:
     best direction:
       nominee: [tt0079098]
@@ -4199,7 +4199,7 @@
     best feature film in tamil:
       nominee: [tt0215037]
       winner: [tt0215037]
-'1979': # https://www.imdb.com/event/ev0000467/1979/1/?ref_=ev_eh
+'1979': # https://www.imdb.com/event/ev0000467/1979/1/
   golden lotus award:
     best children's film:
       nominee: [tt0077775]
@@ -4227,7 +4227,7 @@
     best feature film in bengali:
       nominee: [tt0077457]
       winner: [tt0077457]
-'1978': # https://www.imdb.com/event/ev0000467/1978/1/?ref_=ev_eh
+'1978': # https://www.imdb.com/event/ev0000467/1978/1/
   golden lotus award:
     best film:
       nominee: [tt0076080]
@@ -4240,8 +4240,8 @@
       nominee: [tt0075747]
       winner: [tt0075747]
     best cinematography:
-      nominee: [tt0235522, tt0078381]
-      winner: [tt0235522, tt0078381]
+      nominee: [tt0078381, tt0235522]
+      winner: [tt0078381, tt0235522]
     best playback singer (female):
       nominee: [tt0140448]
       winner: [tt0140448]
@@ -4258,7 +4258,7 @@
     best feature film in tamil:
       nominee: [tt0077131]
       winner: [tt0077131]
-'1977': # https://www.imdb.com/event/ev0000467/1977/1/?ref_=ev_eh
+'1977': # https://www.imdb.com/event/ev0000467/1977/1/
   golden lotus award:
     best director:
       nominee: [tt0234415]
@@ -4294,7 +4294,7 @@
     best film:
       nominee: [tt0116002]
       winner: [tt0116002]
-'1976': # https://www.imdb.com/event/ev0000467/1976/1/?ref_=ev_eh
+'1976': # https://www.imdb.com/event/ev0000467/1976/1/
   golden lotus award:
     best director:
       nominee: [tt0074710]
@@ -4343,7 +4343,7 @@
     best feature film in telugu:
       nominee: [tt0155893]
       winner: [tt0155893]
-'1975': # https://www.imdb.com/event/ev0000467/1975/1/?ref_=ev_eh
+'1975': # https://www.imdb.com/event/ev0000467/1975/1/
   golden lotus award:
     best direction:
       nominee: [tt0072190]
@@ -4378,13 +4378,13 @@
       nominee: [tt0072190]
       winner: [tt0072190]
   national film award:
-    best feature film in marathi:
-      nominee: [tt0192566]
-      winner: [tt0192566]
     best feature film in bengali:
       nominee: [tt0313447]
       winner: [tt0313447]
-'1974': # https://www.imdb.com/event/ev0000467/1974/1/?ref_=ev_eh
+    best feature film in marathi:
+      nominee: [tt0192566]
+      winner: [tt0192566]
+'1974': # https://www.imdb.com/event/ev0000467/1974/1/
   golden lotus award:
     best direction:
       nominee: [tt0070009]
@@ -4409,8 +4409,8 @@
       nominee: [tt0070498]
       winner: [tt0070498]
     best story:
-      nominee: [tt0073034, tt0071707]
-      winner: [tt0073034, tt0071707]
+      nominee: [tt0071707, tt0073034]
+      winner: [tt0071707, tt0073034]
   regional award:
     best feature film in bengali:
       nominee: [tt0069737]
@@ -4419,7 +4419,7 @@
     best feature film in tamil:
       nominee: [tt0264537]
       winner: [tt0264537]
-'1973': # https://www.imdb.com/event/ev0000467/1973/1/?ref_=ev_eh
+'1973': # https://www.imdb.com/event/ev0000467/1973/1/
   golden lotus award:
     best feature film:
       nominee: [tt0069334]
@@ -4461,7 +4461,7 @@
     best feature film in bengali:
       nominee: [tt0252018]
       winner: [tt0252018]
-'1972': # https://www.imdb.com/event/ev0000467/1972/1/?ref_=ev_eh
+'1972': # https://www.imdb.com/event/ev0000467/1972/1/
   golden lotus award:
     best feature film:
       nominee: [tt0067729]
@@ -4487,13 +4487,13 @@
     best director:
       nominee: [tt0237499]
       winner: [tt0237499]
-    best feature film in tamil:
-      nominee: [tt3437536]
-      winner: [tt3437536]
     best feature film in bengali:
       nominee: [tt0237260]
       winner: [tt0237260]
-'1971': # https://www.imdb.com/event/ev0000467/1971/1/?ref_=ev_eh
+    best feature film in tamil:
+      nominee: [tt3437536]
+      winner: [tt3437536]
+'1971': # https://www.imdb.com/event/ev0000467/1971/1/
   golden lotus award:
     best director:
       nominee: [tt0066237]
@@ -4524,8 +4524,8 @@
       nominee: [tt0378450]
       winner: [tt0378450]
     best playback singer (male):
-      nominee: [tt0066070]
-      winner: [tt0066070]
+      nominee: [tt0066070, tt0378450]
+      winner: [tt0066070, tt0378450]
     best screenplay:
       nominee: [tt0066237]
       winner: [tt0066237]
@@ -4537,7 +4537,7 @@
     best feature film in tamil:
       nominee: [tt1445727]
       winner: [tt1445727]
-'1970': # https://www.imdb.com/event/ev0000467/1970/1/?ref_=ev_eh
+'1970': # https://www.imdb.com/event/ev0000467/1970/1/
   golden lotus award:
     best direction:
       nominee: [tt0064086]
@@ -4573,7 +4573,7 @@
     best feature film in hindi:
       nominee: [tt0244776]
       winner: [tt0244776]
-'1969': # https://www.imdb.com/event/ev0000467/1969/1/?ref_=ev_eh
+'1969': # https://www.imdb.com/event/ev0000467/1969/1/
   golden lotus award:
     best director:
       nominee: [tt0063023]
@@ -4612,15 +4612,15 @@
     best feature film in bengali:
       nominee: [tt0192354]
       winner: [tt0192354]
-'1968': # https://www.imdb.com/event/ev0000467/1968/1/?ref_=ev_eh
+'1968': # https://www.imdb.com/event/ev0000467/1968/1/
   golden lotus award:
     best director:
       nominee: [tt0061474]
       winner: [tt0061474]
   silver lotus award:
     best actor:
-      nominee: [tt0317088]
-      winner: [tt0317088]
+      nominee: [tt0061474, tt0317088]
+      winner: [tt0061474, tt0317088]
     best actress:
       nominee: [tt0156923]
       winner: [tt0156923]
@@ -4638,7 +4638,7 @@
     best children's film:
       nominee: [tt0234066]
       winner: [tt0234066]
-'1967': # https://www.imdb.com/event/ev0000467/1967/1/?ref_=ev_eh
+'1967': # https://www.imdb.com/event/ev0000467/1967/1/
   golden lotus award:
     best film:
       nominee: [tt0061072]
@@ -4664,7 +4664,7 @@
     best feature film in bengali:
       nominee: [tt0396462]
       winner: [tt0396462]
-'1966': # https://www.imdb.com/event/ev0000467/1966/1/?ref_=ev_eh
+'1966': # https://www.imdb.com/event/ev0000467/1966/1/
   golden lotus award:
     best film:
       nominee: [tt0059028]
@@ -4677,7 +4677,7 @@
     2nd best feature film in tamil:
       nominee: [tt0246986]
       winner: [tt0246986]
-'1965': # https://www.imdb.com/event/ev0000467/1965/1/?ref_=ev_eh
+'1965': # https://www.imdb.com/event/ev0000467/1965/1/
   golden lotus award:
     best feature film:
       nominee: [tt28756862]
@@ -4701,7 +4701,7 @@
     best feature film:
       nominee: [tt28756862]
       winner: []
-'1964': # https://www.imdb.com/event/ev0000467/1964/1/?ref_=ev_eh
+'1964': # https://www.imdb.com/event/ev0000467/1964/1/
   president's silver medal:
     best feature film in assamese:
       nominee: [tt14391524]
@@ -4717,15 +4717,15 @@
       winner: [tt0206877]
   certificate of merit:
     3rd best feature film in bengali:
-      nominee: [tt0322877, tt0057277]
-      winner: [tt0322877, tt0057277]
+      nominee: [tt0057277, tt0322877]
+      winner: [tt0057277, tt0322877]
     3rd best feature film in hindi:
       nominee: [tt0057120]
       winner: [tt0057120]
     best feature film in tamil:
       nominee: [tt0214839, tt0250461]
       winner: []
-'1963': # https://www.imdb.com/event/ev0000467/1963/1/?ref_=ev_eh
+'1963': # https://www.imdb.com/event/ev0000467/1963/1/
   president's gold medal:
     best feature film:
       nominee: [tt0055882]
@@ -4742,9 +4742,9 @@
       nominee: [tt0055724]
       winner: [tt0055724]
     best feature film in tamil:
-      nominee: [tt0233222, tt0056477]
+      nominee: [tt0056477, tt0233222]
       winner: []
-'1962': # https://www.imdb.com/event/ev0000467/1962/1/?ref_=ev_eh
+'1962': # https://www.imdb.com/event/ev0000467/1962/1/
   golden lotus award:
     best feature film:
       nominee: [tt0156879]
@@ -4780,7 +4780,7 @@
     second best feature film in hindi:
       nominee: [tt0054910]
       winner: [tt0054910]
-'1961': # https://www.imdb.com/event/ev0000467/1961/1/?ref_=ev_eh
+'1961': # https://www.imdb.com/event/ev0000467/1961/1/
   golden lotus award:
     best feature film:
       nominee: [tt0233541]
@@ -4798,7 +4798,7 @@
       winner: [tt0054157]
   certificate of merit:
     best feature film in tamil:
-      nominee: [tt0215024, tt0156666]
+      nominee: [tt0156666, tt0215024]
       winner: [tt0215024]
   regional award:
     best feature film in bengali:
@@ -4807,7 +4807,7 @@
     best feature film in hindi:
       nominee: [tt0054098]
       winner: [tt0054098]
-'1960': # https://www.imdb.com/event/ev0000467/1960/1/?ref_=ev_eh
+'1960': # https://www.imdb.com/event/ev0000467/1960/1/
   silver lotus award:
     best regional film (oriya):
       nominee: [tt1402563]
@@ -4822,13 +4822,13 @@
       winner: [tt0156350]
   certificate of merit:
     best feature film in tamil:
-      nominee: [tt0322916, tt0250803]
-      winner: [tt0322916, tt0250803]
+      nominee: [tt0250803, tt0322916]
+      winner: [tt0250803, tt0322916]
   national film award:
     best feature film in bengali:
       nominee: [tt0269261]
       winner: [tt0269261]
-'1959': # https://www.imdb.com/event/ev0000467/1959/1/?ref_=ev_eh
+'1959': # https://www.imdb.com/event/ev0000467/1959/1/
   president's gold medal:
     best film:
       nominee: [tt0156987]
@@ -4844,7 +4844,7 @@
     best feature film in tamil:
       nominee: [tt0247174, tt0269952]
       winner: [tt0247174, tt0269952]
-'1958': # https://www.imdb.com/event/ev0000467/1958/1/?ref_=ev_eh
+'1958': # https://www.imdb.com/event/ev0000467/1958/1/
   certificate of merit:
     all india certificate of merit (feature film):
       nominee: [tt0050188]
@@ -4859,7 +4859,7 @@
     third best feature film in bengali:
       nominee: [tt0050484]
       winner: [tt0050484]
-'1957': # https://www.imdb.com/event/ev0000467/1957/1/?ref_=ev_eh
+'1957': # https://www.imdb.com/event/ev0000467/1957/1/
   president's gold medal:
     best feature film:
       nominee: [tt0049393]
@@ -4871,7 +4871,7 @@
     best feature film in tamil:
       nominee: [tt0234059]
       winner: [tt0234059]
-'1956': # https://www.imdb.com/event/ev0000467/1956/1/?ref_=ev_eh
+'1956': # https://www.imdb.com/event/ev0000467/1956/1/
   president's gold medal:
     best feature film:
       nominee: [tt0048473]
@@ -4893,7 +4893,7 @@
     best feature film in bengali:
       nominee: [tt0048473]
       winner: [tt0048473]
-'1955': # https://www.imdb.com/event/ev0000467/1955/1/?ref_=ev_eh
+'1955': # https://www.imdb.com/event/ev0000467/1955/1/
   president's gold medal:
     best feature film:
       nominee: [tt0137958]
@@ -4906,7 +4906,7 @@
     best feature film in tamil:
       nominee: [tt0154153, tt0247322]
       winner: [tt0154153, tt0247322]
-'1954': # https://www.imdb.com/event/ev0000467/1954/1/?ref_=ev_eh
+'1954': # https://www.imdb.com/event/ev0000467/1954/1/
   president's gold medal:
     best feature film:
       nominee: [tt0155174]

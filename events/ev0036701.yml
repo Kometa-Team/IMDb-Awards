@@ -1,26 +1,26 @@
 # Critics’ Choice Shorts and Series Awards, India
-'2024':  # https://www.imdb.com/event/ev0036701/2024/1/?ref_=ev_eh
+'2024':  # https://www.imdb.com/event/ev0036701/2024/1/
   series award:
     best actor:
-      nominee: [tt27853283, tt28804856, tt16296870, tt15477488, tt19868314]
+      nominee: [tt15477488, tt16296870, tt19868314, tt27853283, tt28804856]
       winner: [tt27853283]
     best actress:
-      nominee: [tt11611698, tt22297178, tt19868314, tt27989067, tt19868804]
+      nominee: [tt11611698, tt19868314, tt19868804, tt22297178, tt27989067]
       winner: [tt11611698]
     best director:
-      nominee: [tt19868804, tt8439854, tt11611698, tt27853283, tt19868314]
+      nominee: [tt11611698, tt19868314, tt19868804, tt27853283, tt8439854]
       winner: [tt19868804]
     best supporting actor:
-      nominee: [tt19868804, tt11611698, tt27853283, tt19868314, tt15477488]
+      nominee: [tt11611698, tt15477488, tt19868314, tt19868804, tt27853283]
       winner: [tt19868804]
     best supporting actress:
-      nominee: [tt27989067, tt19868804, tt19072562, tt27759189, tt19868314]
+      nominee: [tt19072562, tt19868314, tt19868804, tt27759189, tt27989067]
       winner: [tt27989067]
     best web series:
-      nominee: [tt27853283, tt19868314, tt15477488, tt19868804, tt11611698]
+      nominee: [tt11611698, tt15477488, tt19868314, tt19868804, tt27853283]
       winner: [tt27853283]
     best writing:
-      nominee: [tt27853283, tt19868314, tt19868804, tt27989067, tt11611698]
+      nominee: [tt11611698, tt19868314, tt19868804, tt27853283, tt27989067]
       winner: [tt27853283]
   short film award:
     best actor in a short film:
@@ -41,53 +41,53 @@
     best writing in a short film:
       nominee: [tt28153892]
       winner: [tt28153892]
-'2023': # https://www.imdb.com/event/ev0036701/2023/1/?ref_=ev_eh
+'2023': # https://www.imdb.com/event/ev0036701/2023/1/
   series award:
     best actor:
-      nominee: [tt13868972, tt23037654, tt20319332, tt16796586, tt21908550]
+      nominee: [tt13868972, tt16796586, tt20319332, tt21908550, tt23037654]
       winner: [tt13868972]
     best actress:
-      nominee: [tt14160684, tt18247152, tt16796586, tt14420552, tt20319332]
+      nominee: [tt14160684, tt14420552, tt16796586, tt18247152, tt20319332]
       winner: [tt14160684]
     best series:
-      nominee: [tt13868972, tt9398466, tt14160684, tt20873118, tt21908550]
+      nominee: [tt13868972, tt14160684, tt20873118, tt21908550, tt9398466]
       winner: [tt13868972]
     best supporting actor:
-      nominee: [tt12004706, tt16085542, tt14420552, tt14160684, tt21908550]
+      nominee: [tt12004706, tt14160684, tt14420552, tt16085542, tt21908550]
       winner: [tt12004706]
     best supporting actress:
-      nominee: [tt9398466, tt14420552, tt11150912, tt20873118, tt18247152]
+      nominee: [tt11150912, tt14420552, tt18247152, tt20873118, tt9398466]
       winner: [tt9398466]
     best writing:
-      nominee: [tt13868972, tt9398466, tt14160684, tt20873118, tt21908550]
+      nominee: [tt13868972, tt14160684, tt20873118, tt21908550, tt9398466]
       winner: [tt13868972]
   short film award:
     best actress in a short film:
       nominee: [tt25435538]
       winner: [tt25435538]
-'2022': # https://www.imdb.com/event/ev0036701/2022/1/?ref_=ev_eh
+'2022': # https://www.imdb.com/event/ev0036701/2022/1/
   series award:
     best actor:
-      nominee: [tt15404324, tt14160660, tt10530900, tt9544034, tt13690576]
+      nominee: [tt10530900, tt13690576, tt14160660, tt15404324, tt9544034]
       winner: [tt15404324]
     best actress:
-      nominee: [tt9544034, tt10238792, tt15404324, tt12448030]
+      nominee: [tt10238792, tt12448030, tt15404324, tt9544034]
       winner: [tt9544034]
     best series:
-      nominee: [tt15404324, tt12448030, tt10530900, tt12714854, tt9544034]
+      nominee: [tt10530900, tt12448030, tt12714854, tt15404324, tt9544034]
       winner: [tt15404324]
     best supporting actor:
-      nominee: [tt9544034, tt14420552, tt15404324]
+      nominee: [tt14420552, tt15404324, tt9544034]
       winner: [tt9544034]
     best supporting actress:
-      nominee: [tt12714854, tt9544034, tt15404324, tt10530900]
+      nominee: [tt10530900, tt12714854, tt15404324, tt9544034]
       winner: [tt12714854]
     best writing:
-      nominee: [tt9544034, tt13690576, tt9432978, tt15404324, tt9367742]
+      nominee: [tt13690576, tt15404324, tt9367742, tt9432978, tt9544034]
       winner: [tt9544034]
   short film award:
     best actor in a short film:
-      nominee: [tt15422534, tt15018248]
+      nominee: [tt15018248, tt15422534]
       winner: [tt15422534]
     best actress in a short film:
       nominee: [tt11985920]
@@ -101,22 +101,22 @@
     best writing in a short film:
       nominee: [tt11985920]
       winner: [tt11985920]
-'2021': # https://www.imdb.com/event/ev0036701/2021/1/?ref_=ev_eh
+'2021': # https://www.imdb.com/event/ev0036701/2021/1/
   series award:
     best actor:
-      nominee: [tt12392504, tt12805346, tt6473300, tt9680440, tt11854694]
+      nominee: [tt11854694, tt12392504, tt12805346, tt6473300, tt9680440]
       winner: [tt12392504]
     best actress:
-      nominee: [tt12448030, tt6473300, tt12392504, tt7675948]
+      nominee: [tt12392504, tt12448030, tt6473300, tt7675948]
       winner: [tt12448030]
     best series:
-      nominee: [tt12392504, tt12448030, tt9680440, tt12004706, tt11854694]
+      nominee: [tt11854694, tt12004706, tt12392504, tt12448030, tt9680440]
       winner: [tt12392504]
     best supporting actor:
-      nominee: [tt9680440, tt12004706, tt12805346, tt12392504]
+      nominee: [tt12004706, tt12392504, tt12805346, tt9680440]
       winner: [tt9680440]
     best supporting actress:
-      nominee: [tt9680440, tt9094282, tt12004706, tt9814458]
+      nominee: [tt12004706, tt9094282, tt9680440, tt9814458]
       winner: [tt9680440]
     best writing:
       nominee: [tt12392504]
@@ -132,15 +132,15 @@
       nominee: [tt13684152]
       winner: [tt13684152]
     best director in a short film:
-      nominee: [tt14716140, tt13684152]
+      nominee: [tt13684152, tt14716140]
       winner: []
     best short film:
-      nominee: [tt8991706, tt13684152]
+      nominee: [tt13684152, tt8991706]
       winner: [tt8991706]
     best writing in a short film:
-      nominee: [tt14716140, tt13684152]
+      nominee: [tt13684152, tt14716140]
       winner: []
-'2019': # https://www.imdb.com/event/ev0036701/2019/1/?ref_=ev_eh
+'2019': # https://www.imdb.com/event/ev0036701/2019/1/
   short film award:
     best actor in a short film:
       nominee: [tt8847626]

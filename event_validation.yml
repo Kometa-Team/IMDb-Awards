@@ -733,7 +733,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best comedy and comedy entertainment programme # 3 Events: 2014-2015, 2017
   - best comedy entertainment programme # 1 Event: 2018
   - best comedy performance # 15 Events: 1995-2009
-  - best comedy programme # 5 Events: 2007-2009, 2011, 2013
+  - best comedy programme # 6 Events: 2007-2009, 2011-2013
   - best comedy programme or series # 3 Events: 2002-2003, 2006
   - best comedy series # 11 Events: 1981-1991
   - best content for change # 1 Event: 2018
@@ -779,7 +779,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best entertainment craft team # 2 Events: 2013, 2017
   - best entertainment performance # 14 Events: 2000-2006, 2008, 2010-2013, 2017-2018
   - best entertainment perfromance # 1 Event: 2007
-  - best entertainment programme # 5 Events: 2009, 2013, 2016-2018
+  - best entertainment programme # 6 Events: 2009-2010, 2013, 2016-2018
   - best entertainment programme or series # 1 Event: 2003
   - best evolving game # 8 Events: 2017-2024
   - best factual # 14 Events: 1996-1997, 2000, 2002-2003, 2005-2006, 2009-2013, 2015-2016
@@ -1150,11 +1150,11 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - writer, drama # 3 Events: 2022-2024
   - xbox # 2 Events: 2004-2005
 ev0000133: # Critics Choice Awards (https://www.imdb.com/event/ev0000133)
-  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', 2016-2, '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
-    '2000', '1999', '1998', '1997', '1996']
+  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', 2016-2, '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
+    '2001', '2000', '1999', '1998', '1997', '1996']
   awards:  # Award Options: Critics Choice Awards
   - alan j. pakula award # 1 Event: 2001
-  - critics choice award # 29 Events: 1996-2024
+  - critics choice award # 30 Events: 1996-2025
   - critics' choice mvp award # 1 Event: 2015
   - freedom award # 2 Events: 2003, 2006
   categories: # Category Options: Critics Choice Awards
@@ -1164,34 +1164,34 @@ ev0000133: # Critics Choice Awards (https://www.imdb.com/event/ev0000133)
   - best actor # 29 Events: 1996-2024
   - best actor in a comedy # 6 Events: 2013-2014, 2016-2019
   - best actor in a comedy movie # 1 Event: 2015
-  - best actor in a comedy series # 7 Events: 2018-2024
-  - best actor in a drama series # 7 Events: 2018-2024
+  - best actor in a comedy series # 8 Events: 2018-2025
+  - best actor in a drama series # 8 Events: 2018-2025
   - best actor in a limited series or a movie made for television # 1 Event: 2021
-  - best actor in a limited series or movie made for television # 4 Events: 2020, 2022-2024
+  - best actor in a limited series or movie made for television # 5 Events: 2020, 2022-2025
   - best actor in a movie made for television or limited series # 2 Events: 2018-2019
   - best actor in a picture made for television # 1 Event: 2002
   - best actor in an action movie # 5 Events: 2013-2016-2
   - best actress # 29 Events: 1996-2024
   - best actress in a comedy # 6 Events: 2013-2014, 2016-2019
   - best actress in a comedy movie # 1 Event: 2015
-  - best actress in a comedy series # 7 Events: 2018-2024
-  - best actress in a drama series # 7 Events: 2018-2024
+  - best actress in a comedy series # 8 Events: 2018-2025
+  - best actress in a drama series # 8 Events: 2018-2025
   - best actress in a limited series or a movie made for television # 1 Event: 2021
-  - best actress in a limited series or movie made for television # 4 Events: 2020, 2022-2024
+  - best actress in a limited series or movie made for television # 5 Events: 2020, 2022-2025
   - best actress in a movie made for television or limited series # 2 Events: 2018-2019
   - best actress in a picture made for television # 1 Event: 2002
   - best actress in an action movie # 5 Events: 2013-2016-2
   - best adapted screenplay # 13 Events: 2012-2024
   - best animated feature # 22 Events: 2001, 2003-2020, 2022-2024
   - best animated film # 4 Events: 1999-2002
-  - best animated series # 4 Events: 2020, 2022-2024
+  - best animated series # 5 Events: 2020, 2022-2025
   - best animation series # 2 Events: 2018-2019
   - best art direction # 7 Events: 2010-2016
   - best child performance # 4 Events: 1997-1998, 2000-2001
   - best cinematography # 16 Events: 2001, 2010-2024
   - best comedy # 8 Events: 2013-2014, 2016-2021
   - best comedy movie # 11 Events: 2006-2012, 2015, 2022-2024
-  - best comedy series # 7 Events: 2018-2024
+  - best comedy series # 8 Events: 2018-2025
   - best comedy special # 5 Events: 2020-2024
   - best composer # 8 Events: 2002-2009
   - best costume design # 15 Events: 2010-2024
@@ -1199,21 +1199,21 @@ ev0000133: # Critics Choice Awards (https://www.imdb.com/event/ev0000133)
   - best director # 29 Events: 1996-2024
   - best documentary # 8 Events: 1996-1999, 2003-2004, 2006, 2008
   - best documentary feature # 10 Events: 2005, 2007, 2009-2016
-  - best drama series # 7 Events: 2018-2024
+  - best drama series # 8 Events: 2018-2025
   - best editing # 15 Events: 2010-2024
   - best family film # 7 Events: 1996-2001, 2008
   - best family film (live action) # 3 Events: 2005-2007
   - best family film - live action # 3 Events: 2002-2004
   - best feature documentary # 2 Events: 2000-2001
   - best foreign language film # 18 Events: 2007-2024
-  - best foreign language series # 3 Events: 2022-2024
+  - best foreign language series # 4 Events: 2022-2025
   - best foreign-language film # 11 Events: 1996-2006
   - best hair & makeup # 9 Events: 2015-2020, 2022-2024
   - best hair and makeup # 1 Event: 2021
   - best inanimate object # 1 Event: 2001
-  - best limited series # 7 Events: 2018-2024
+  - best limited series # 8 Events: 2018-2025
   - best makeup # 5 Events: 2010-2014
-  - best movie made for television # 6 Events: 2018, 2020-2024
+  - best movie made for television # 7 Events: 2018, 2020-2025
   - best movie made for tv # 1 Event: 2019
   - best original screenplay # 13 Events: 2012-2024
   - best picture # 29 Events: 1996-2024
@@ -1233,20 +1233,20 @@ ev0000133: # Critics Choice Awards (https://www.imdb.com/event/ev0000133)
   - best soundtrack # 3 Events: 2005-2007
   - best structured reality show # 1 Event: 2018
   - best supporting actor # 29 Events: 1996-2024
-  - best supporting actor in a comedy series # 7 Events: 2018-2024
-  - best supporting actor in a drama series # 7 Events: 2018-2024
+  - best supporting actor in a comedy series # 8 Events: 2018-2025
+  - best supporting actor in a drama series # 8 Events: 2018-2025
   - best supporting actor in a limited series or a movie made for television # 1 Event: 2021
-  - best supporting actor in a limited series or movie made for television # 4 Events: 2020, 2022-2024
+  - best supporting actor in a limited series or movie made for television # 5 Events: 2020, 2022-2025
   - best supporting actor in a movie made for television or limited series # 1 Event: 2018
   - best supporting actor in a movie or limited series # 1 Event: 2019
   - best supporting actress # 29 Events: 1996-2024
-  - best supporting actress in a comedy series # 7 Events: 2018-2024
-  - best supporting actress in a drama series # 7 Events: 2018-2024
+  - best supporting actress in a comedy series # 8 Events: 2018-2025
+  - best supporting actress in a drama series # 8 Events: 2018-2025
   - best supporting actress in a limited series or a movie made for television # 1 Event: 2021
-  - best supporting actress in a limited series or movie made for television # 4 Events: 2020, 2022-2024
+  - best supporting actress in a limited series or movie made for television # 5 Events: 2020, 2022-2025
   - best supporting actress in a movie made for television or limited series # 1 Event: 2018
   - best supporting actress in a movie or limited series # 1 Event: 2019
-  - best talk show # 6 Events: 2018, 2020-2024
+  - best talk show # 7 Events: 2018, 2020-2025
   - best unstructured reality show # 1 Event: 2018
   - best visual effects # 15 Events: 2010-2024
   - best writer # 7 Events: 2003-2009
@@ -1299,7 +1299,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - c.i.c.a.e. award - special mention # 2 Events: 2007, 2009
   - canal+ award # 32 Events: 1992-2019, 2021-2024
   - cannes junior award # 3 Events: 2000, 2003, 2022
-  - cannes soundtrack award # 10 Events: 2013-2019, 2021-2023
+  - cannes soundtrack award # 11 Events: 2013-2019, 2021-2024
   - cannes xr x veer future award # 2 Events: 2021-2022
   - cinefondation award # 27 Events: 1998-2024
   - cinefondation award - special mention # 1 Event: 1999
@@ -1459,7 +1459,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - best color # 1 Event: 1946
   - best comedy # 1 Event: 1959
   - best comedy (prix de la meilleure comédie) # 1 Event: 1962
-  - best composer # 7 Events: 2016-2019, 2021-2023
+  - best composer # 8 Events: 2016-2019, 2021-2024
   - best director # 62 Events: 1946, 1949-1952, 1955-1959, 1961, 1965-1970, 1972, 1975-1976, 1978-1979, 1982-2019, 2021-2024
   - best documentary # 1 Event: 2018
   - best documentary - short film # 1 Event: 1953
@@ -3165,12 +3165,12 @@ ev0000280: # German Film Awards (https://www.imdb.com/event/ev0000280)
   - special award for a feature film # 1 Event: 1962
   - special film award '40th anniversary of the federal republic of germany' # 1 Event: 1989
 ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
-  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
-    '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977', '1976',
-    '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953', '1952', '1951',
-    '1950', '1949', '1948', '1947', '1946', '1945', '1944']
+  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
+    '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977',
+    '1976', '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953', '1952',
+    '1951', '1950', '1949', '1948', '1947', '1946', '1945', '1944']
   awards:  # Award Options: Golden Globes, USA
-  - golden globe # 81 Events: 1944-2024
+  - golden globe # 82 Events: 1944-2025
   - outstanding merit # 1 Event: 1960
   - samuel goldwyn international award # 6 Events: 1959-1964
   - silver globe # 1 Event: 1962
@@ -3206,7 +3206,7 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best cinematography - color # 6 Events: 1950-1953, 1955, 1963
   - best director # 28 Events: 1944-1971
   - best director - motion picture # 52 Events: 1972-2023
-  - best director, motion picture # 1 Event: 2024
+  - best director, motion picture # 2 Events: 2024-2025
   - best documentary # 1 Event: 1977
   - best documentary film # 4 Events: 1973-1976
   - best documentary of historical interest # 1 Event: 1954
@@ -3227,32 +3227,32 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best motion picture acting debut - female # 1 Event: 1979
   - best motion picture acting debut - male # 1 Event: 1979
   - best motion picture made for television # 6 Events: 1976-1981
-  - best motion picture, animated # 1 Event: 2024
-  - best motion picture, drama # 1 Event: 2024
-  - best motion picture, musical or comedy # 1 Event: 2024
-  - best motion picture, non-english language # 1 Event: 2024
+  - best motion picture, animated # 2 Events: 2024-2025
+  - best motion picture, drama # 2 Events: 2024-2025
+  - best motion picture, musical or comedy # 2 Events: 2024-2025
+  - best motion picture, non-english language # 2 Events: 2024-2025
   - best movie made for tv # 2 Events: 1972-1973
   - best original score # 16 Events: 1948-1953, 1960-1963, 1965-1970
   - best original score - motion picture # 52 Events: 1971-1981, 1983-2023
-  - best original score, motion picture # 1 Event: 2024
+  - best original score, motion picture # 2 Events: 2024-2025
   - best original song # 6 Events: 1962, 1966-1970
   - best original song - motion picture # 53 Events: 1971-2023
-  - best original song, motion picture # 1 Event: 2024
+  - best original song, motion picture # 2 Events: 2024-2025
   - best outdoor drama # 1 Event: 1956
-  - best performance by a female actor in a limited series, anthology series or motion picture made for television # 1 Event: 2024
-  - best performance by a female actor in a motion picture, drama # 1 Event: 2024
-  - best performance by a female actor in a motion picture, musical or comedy # 1 Event: 2024
-  - best performance by a female actor in a supporting role in any motion picture # 1 Event: 2024
-  - best performance by a female actor in a supporting role on television # 1 Event: 2024
-  - best performance by a female actor in a television series, drama # 1 Event: 2024
-  - best performance by a female actor in a television series, musical or comedy # 1 Event: 2024
-  - best performance by a male actor in a limited series, anthology series or motion picture made for television # 1 Event: 2024
-  - best performance by a male actor in a motion picture, drama # 1 Event: 2024
-  - best performance by a male actor in a motion picture, musical or comedy # 1 Event: 2024
-  - best performance by a male actor in a supporting role in any motion picture # 1 Event: 2024
-  - best performance by a male actor in a supporting role on television # 1 Event: 2024
-  - best performance by a male actor in a television series, drama # 1 Event: 2024
-  - best performance by a male actor in a television series, musical or comedy # 1 Event: 2024
+  - best performance by a female actor in a limited series, anthology series or motion picture made for television # 2 Events: 2024-2025
+  - best performance by a female actor in a motion picture, drama # 2 Events: 2024-2025
+  - best performance by a female actor in a motion picture, musical or comedy # 2 Events: 2024-2025
+  - best performance by a female actor in a supporting role in any motion picture # 2 Events: 2024-2025
+  - best performance by a female actor in a supporting role on television # 2 Events: 2024-2025
+  - best performance by a female actor in a television series, drama # 2 Events: 2024-2025
+  - best performance by a female actor in a television series, musical or comedy # 2 Events: 2024-2025
+  - best performance by a male actor in a limited series, anthology series or motion picture made for television # 2 Events: 2024-2025
+  - best performance by a male actor in a motion picture, drama # 2 Events: 2024-2025
+  - best performance by a male actor in a motion picture, musical or comedy # 2 Events: 2024-2025
+  - best performance by a male actor in a supporting role in any motion picture # 2 Events: 2024-2025
+  - best performance by a male actor in a supporting role on television # 2 Events: 2024-2025
+  - best performance by a male actor in a television series, drama # 2 Events: 2024-2025
+  - best performance by a male actor in a television series, musical or comedy # 2 Events: 2024-2025
   - best performance by an actor in a limited series or a motion picture made for television # 3 Events: 2018-2020
   - best performance by an actor in a limited series or motion picture made for television # 2 Events: 2016-2017
   - best performance by an actor in a limited series, anthology series or a motion picture made for television # 1 Event: 2021
@@ -3293,11 +3293,11 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best performance by an actress in a television series - drama # 43 Events: 1981-2023
   - best performance by an actress in a television series - musical or comedy # 7 Events: 2017-2023
   - best performance by an actress in a television supporting role # 1 Event: 2021
-  - best performance in stand-up comedy on television # 1 Event: 2024
+  - best performance in stand-up comedy on television # 2 Events: 2024-2025
   - best picture # 7 Events: 1944-1950
   - best screenplay # 13 Events: 1948-1955, 1966-1970
   - best screenplay - motion picture # 53 Events: 1971-2023
-  - best screenplay, motion picture # 1 Event: 2024
+  - best screenplay, motion picture # 2 Events: 2024-2025
   - best song # 1 Event: 1965
   - best supporting actor # 27 Events: 1944-1970
   - best supporting actor - motion picture # 6 Events: 1971-1976
@@ -3309,12 +3309,12 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best supporting actress in a series, miniseries or motion picture made for television # 2 Events: 1981-1982
   - best television limited series or motion picture made for television # 6 Events: 2011, 2016-2020
   - best television limited series, anthology series or motion picture made for television # 3 Events: 2021-2023
-  - best television limited series, anthology series, or motion picture made for television # 1 Event: 2024
+  - best television limited series, anthology series, or motion picture made for television # 2 Events: 2024-2025
   - best television series - comedy or musical # 41 Events: 1976-2016
   - best television series - drama # 48 Events: 1976-2023
   - best television series - musical or comedy # 7 Events: 2017-2023
-  - best television series, drama # 1 Event: 2024
-  - best television series, musical or comedy # 2 Events: 2020, 2024
+  - best television series, drama # 2 Events: 2024-2025
+  - best television series, musical or comedy # 3 Events: 2020, 2024-2025
   - best television special - variety or musical # 1 Event: 1982
   - best tv actor - comedy or musical # 6 Events: 1970-1975
   - best tv actor - drama # 6 Events: 1970-1975
@@ -3330,7 +3330,7 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best tv special # 1 Event: 1973
   - best tv star - female # 7 Events: 1963-1969
   - best tv star - male # 7 Events: 1963-1969
-  - cinematic and box office achievement # 1 Event: 2024
+  - cinematic and box office achievement # 2 Events: 2024-2025
   - most promising newcomer # 1 Event: 1951
   - most promising newcomer - female # 26 Events: 1948, 1950, 1952-1975
   - most promising newcomer - male # 26 Events: 1948, 1950, 1952-1975
@@ -3344,57 +3344,57 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - special merit award # 2 Events: 1961-1962
   - television achievement # 5 Events: 1956-1959, 1961
 ev0000349: # Film Independent Spirit Awards (https://www.imdb.com/event/ev0000349)
-  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
-    '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986']
+  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
+    '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986']
   awards:  # Award Options: Film Independent Spirit Awards
   - find your audience award # 3 Events: 2011-2013
-  - independent spirit award # 39 Events: 1986-2024
-  - john cassavetes award # 23 Events: 2002-2024
+  - independent spirit award # 40 Events: 1986-2025
+  - john cassavetes award # 24 Events: 2002-2025
   - producers award # 15 Events: 1998-2012
-  - robert altman award # 17 Events: 2008-2024
-  - someone to watch award # 30 Events: 1995-2024
+  - robert altman award # 18 Events: 2008-2025
+  - someone to watch award # 31 Events: 1995-2025
   - special distinction award # 9 Events: 1986-1987, 1991, 1993, 1995, 2004-2005, 2007, 2015
-  - truer than fiction award # 28 Events: 1997-2024
+  - truer than fiction award # 29 Events: 1997-2025
   categories: # Category Options: Film Independent Spirit Awards
-  - best breakthrough performance # 2 Events: 2023-2024
-  - best breakthrough performance in a new scripted series # 1 Event: 2024
-  - best cinematography # 39 Events: 1986-2024
+  - best breakthrough performance # 3 Events: 2023-2025
+  - best breakthrough performance in a new scripted series # 2 Events: 2024-2025
+  - best cinematography # 40 Events: 1986-2025
   - best debut performance # 11 Events: 1995-2005
-  - best director # 39 Events: 1986-2024
-  - best documentary # 24 Events: 2001-2024
-  - best editing # 11 Events: 2014-2024
-  - best ensemble cast in a new scripted series # 4 Events: 2021-2024
-  - best feature # 39 Events: 1986-2024
+  - best director # 40 Events: 1986-2025
+  - best documentary # 25 Events: 2001-2025
+  - best editing # 12 Events: 2014-2025
+  - best ensemble cast in a new scripted series # 5 Events: 2021-2025
+  - best feature # 40 Events: 1986-2025
   - best feature - under $500,000 # 1 Event: 2001
   - best female lead # 37 Events: 1986-2022
   - best female performance in a new scripted series # 2 Events: 2021-2022
   - best film music # 1 Event: 1992
-  - best first feature # 37 Events: 1987-1999, 2001-2024
+  - best first feature # 38 Events: 1987-1999, 2001-2025
   - best first feature - over $500,000 # 1 Event: 2000
   - best first feature - under $500,000 # 1 Event: 2000
-  - best first screenplay # 30 Events: 1995-2024
+  - best first screenplay # 31 Events: 1995-2025
   - best foreign film # 24 Events: 1988-2011
-  - best international film # 13 Events: 2012-2024
-  - best lead performance # 2 Events: 2023-2024
-  - best lead performance in a new scripted series # 2 Events: 2023-2024
+  - best international film # 14 Events: 2012-2025
+  - best lead performance # 3 Events: 2023-2025
+  - best lead performance in a new scripted series # 3 Events: 2023-2025
   - best male lead # 37 Events: 1986-2022
   - best male performance in a new scripted series # 2 Events: 2021-2022
-  - best new non-scripted or documentary series # 4 Events: 2021-2024
-  - best new scripted series # 4 Events: 2021-2024
+  - best new non-scripted or documentary series # 5 Events: 2021-2025
+  - best new scripted series # 5 Events: 2021-2025
   - best original score # 1 Event: 1993
-  - best screenplay # 39 Events: 1986-2024
+  - best screenplay # 40 Events: 1986-2025
   - best supporting female # 35 Events: 1988-2022
   - best supporting male # 35 Events: 1988-2022
-  - best supporting performance # 2 Events: 2023-2024
-  - best supporting performance in a new scripted series # 2 Events: 2023-2024
+  - best supporting performance # 3 Events: 2023-2025
+  - best supporting performance in a new scripted series # 3 Events: 2023-2025
   - find your audience award # 3 Events: 2011-2013
-  - john cassavetes award # 23 Events: 2002-2024
+  - john cassavetes award # 24 Events: 2002-2025
   - producers award # 15 Events: 1998-2012
-  - robert altman award # 17 Events: 2008-2024
-  - someone to watch award # 30 Events: 1995-2024
+  - robert altman award # 18 Events: 2008-2025
+  - someone to watch award # 31 Events: 1995-2025
   - special distinction # 1 Event: 1993
   - special distinction award # 8 Events: 1986-1987, 1991, 1995, 2004-2005, 2007, 2015
-  - truer than fiction award # 28 Events: 1997-2024
+  - truer than fiction award # 29 Events: 1997-2025
 ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.com/event/ev0000361)
   years: ['2024', '2023', '2022', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000']
   awards:  # Award Options: Awards of the International Indian Film Academy
@@ -3431,7 +3431,7 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
   - best costume designer # 5 Events: 2000, 2002-2003, 2006, 2011
   - best debut actor # 15 Events: 2002, 2004, 2007-2013, 2015-2017, 2019, 2022-2023
   - best debut actor (male/female) # 1 Event: 2005
-  - best debut actress # 15 Events: 2002, 2004, 2007-2013, 2015-2017, 2019, 2022-2023
+  - best debut actress # 16 Events: 2002-2004, 2007-2013, 2015-2017, 2019, 2022-2023
   - best debut director # 2 Events: 2005, 2013
   - best dialogue # 21 Events: 2000-2012, 2014-2017, 2019-2022, 2024
   - best dialogues # 3 Events: 2013, 2018, 2023
@@ -3832,7 +3832,7 @@ ev0000468: # National Film Preservation Board, USA (https://www.imdb.com/event/e
   - national film registry # 35 Events: 1989-2023
   categories: # Category Options: National Film Preservation Board, USA
   - national film preservation board # 16 Events: 1992, 2000, 2005, 2010, 2012-2023
-  - national film registry # 25 Events: 1989-2013
+  - national film registry # 24 Events: 1989-2009, 2011-2013
 ev0000530: # People's Choice Awards, USA (https://www.imdb.com/event/ev0000530)
   years: ['2024', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000',
     '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977', '1976', '1975']
@@ -4384,7 +4384,7 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - vanguard honours # 3 Events: 2006, 2016, 2018
   - visions award # 3 Events: 2002, 2006, 2011
   - visions award - special citation # 1 Event: 2002
-  - wavelengths section # 4 Events: 2016-2017, 2019-2020
+  - wavelengths section # 5 Events: 2016-2017, 2019-2020, 2024
   categories: # Category Options: Toronto International Film Festival
   - amplify voices award # 3 Events: 2020-2022
   - amplify voices award - best bipoc canadian feature # 1 Event: 2023
@@ -4451,6 +4451,7 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - rising stars award # 2 Events: 2015, 2020
   - shawn mendes foundation changemaker award # 3 Events: 2021-2023
   - 'short cuts: share her journey shorts' # 1 Event: 2019
+  - shorts # 1 Event: 2024
   - special mention # 2 Events: 2020-2021
   - special presentations # 13 Events: 1984, 2008-2019
   - special tribute award # 1 Event: 2021
@@ -4521,7 +4522,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - best psychological film # 1 Event: 1935
   - best scientific film # 2 Events: 1936-1937
   - best screenplay # 1 Event: 1935
-  - best short film # 15 Events: 1934, 1955, 1963, 1967, 1972, 2003-2006, 2008-2010, 2016, 2018-2019
+  - best short film # 16 Events: 1934, 1955, 1963, 1967, 1972, 2003-2006, 2008-2010, 2016, 2018-2019, 2024
   - best short film - special mention # 11 Events: 1957, 1999-2006, 2008, 2016
   - best vr immersive user experience # 2 Events: 2019-2020
   - best vr story # 4 Events: 2017-2020
@@ -4625,7 +4626,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - golden rudder # 4 Events: 1965, 1967, 1969, 1971
   - grand biennale art trophy # 1 Event: 1938
   - grand international award # 2 Events: 1947-1948
-  - grand jury prize for best vr immersive work # 1 Event: 2021
+  - grand jury prize for best vr immersive work # 2 Events: 2018, 2021
   - grand prize of the european academy # 1 Event: 1993
   - grand prize venice international critics' week # 5 Events: 2020-2024
   - grand special jury prize # 27 Events: 1983-2005, 2013-2015, 2018
@@ -5069,7 +5070,6 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - grand international award # 2 Events: 1947-1948
   - grand jury prize # 8 Events: 2016-2017, 2019-2024
   - grand prize of the european academy # 1 Event: 1993
-  - grand prize venice international critics' week # No Events Found
   - grand special jury prize # 27 Events: 1983-2005, 2013-2015, 2018
   - green drop award # 11 Events: 2012-2019, 2022-2024
   - green drop award - special mention # 1 Event: 2022
@@ -5192,7 +5192,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - sergio trasatti award - special mention # 4 Events: 1985, 1988, 1998-1999
   - sfera 1932 award # 1 Event: 2018
   - sfera 1932 award - special mention # 1 Event: 2019
-  - short film # 11 Events: 1957, 1970, 2000, 2003-2004, 2006, 2009, 2011, 2016, 2018-2019
+  - short film # 12 Events: 1957, 1970, 2000, 2003-2004, 2006, 2009, 2011, 2016, 2018-2019, 2024
   - signis award # 20 Events: 2002-2018, 2022-2024
   - signis award - honorable mention # 18 Events: 2002-2004, 2006-2015, 2017-2018, 2020, 2022-2023
   - silver lion # 12 Events: 1953-1955, 1957, 1987-1989, 1991-1994, 1998
@@ -5250,7 +5250,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - venice vr expanded # 1 Event: 2020
   - verona film club award for most innovative film # 5 Events: 2019-2020, 2022-2024
   - virtual reality # 1 Event: 2019
-  - virtual reality competition # 3 Events: 2019-2021
+  - virtual reality competition # 4 Events: 2018-2021
   - virtual reality linear competition # 1 Event: 2019
   - vittorio veneto film festival award # 4 Events: 2011-2013, 2015
   - vittorio veneto film festival award - special mention # 4 Events: 2011, 2013-2015
@@ -5262,21 +5262,22 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - young venice award - special mention # 1 Event: 1985
   - younger's in movie # 1 Event: 2020
 ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event/ev0001931)
-  years: ['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '1988']
+  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
+    '1988']
   awards:  # Award Options: Indian Television Academy Awards, India
   - doordarshan award # 1 Event: 1988
-  - indian television academy award # 23 Events: 2001-2023
+  - indian television academy award # 24 Events: 2001-2024
   - milestone achievement award # 2 Events: 2001, 2020
-  - ott award # 6 Events: 2018-2023
+  - ott award # 7 Events: 2018-2024
   - special award # 8 Events: 2008, 2012-2013, 2015, 2018-2021
   - technical award # 18 Events: 2002, 2004-2014, 2016-2019, 2021-2022
   - technical award (tv) # 1 Event: 2023
   - technical award (web) # 1 Event: 2023
   categories: # Category Options: Indian Television Academy Awards, India
   - best actor # 1 Event: 1988
-  - best actor - drama # 22 Events: 2001-2019, 2021-2023
+  - best actor - drama # 23 Events: 2001-2019, 2021-2024
   - best actor - drama (ott) # 3 Events: 2021-2023
-  - best actor - popular # 23 Events: 2001-2023
+  - best actor - popular # 24 Events: 2001-2024
   - best actor - popular (ott) # 1 Event: 2023
   - best actor - web series # 4 Events: 2017-2020
   - best actor in a comic role # 17 Events: 2001-2007, 2010, 2012-2019, 2023
@@ -5291,10 +5292,10 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best actor of the year # 1 Event: 2021
   - 'best actor: comedy (ott)' # 2 Events: 2022-2023
   - 'best actor: original film (ott)' # 1 Event: 2022
-  - best actress - drama # 22 Events: 2001-2002, 2004-2023
-  - best actress - drama (ott) # 3 Events: 2021-2023
-  - best actress - popular # 23 Events: 2001-2023
-  - best actress - popular (ott) # 1 Event: 2023
+  - best actress - drama # 23 Events: 2001-2002, 2004-2024
+  - best actress - drama (ott) # 4 Events: 2021-2024
+  - best actress - popular # 24 Events: 2001-2024
+  - best actress - popular (ott) # 2 Events: 2023-2024
   - best actress - web series # 3 Events: 2017-2019
   - best actress in a comic role # 19 Events: 2002-2019, 2023
   - best actress in a comic role (jury) # 2 Events: 2021-2022
@@ -5303,7 +5304,7 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best actress in a supporting role # 18 Events: 2005-2022
   - best actress in a supporting role (comedy) # 1 Event: 2023
   - best actress in a supporting role (drama) # 1 Event: 2023
-  - best actress in an original film # 2 Events: 2021, 2023
+  - best actress in an original film # 3 Events: 2021, 2023-2024
   - 'best actress: comedy (ott)' # 2 Events: 2022-2023
   - 'best actress: original film (ott)' # 1 Event: 2022
   - best anchor # 2 Events: 2003, 2015
@@ -5606,76 +5607,94 @@ ev0011808: # Indian Film Festival Of Melbourne (https://www.imdb.com/event/ev001
   - leadership in cinema award # 1 Event: 2022
   - rainbow stories award # 1 Event: 2023
 ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
-  years: ['2023', '2022', '2021', '2020']
+  years: ['2024', '2023', '2022', '2021', '2020']
   awards:  # Award Options: Filmfare OTT Awards
-  - critics choice award # 4 Events: 2020-2023
+  - critics choice award # 5 Events: 2020-2024
   - filmfare award # 1 Event: 2022
-  - popular award # 4 Events: 2020-2023
+  - popular award # 5 Events: 2020-2024
   - short film award # 1 Event: 2023
-  - technical award # 4 Events: 2020-2023
+  - technical award # 5 Events: 2020-2024
   categories: # Category Options: Filmfare OTT Awards
-  - best actor - drama # 4 Events: 2020-2023
+  - best actor - comedy # 1 Event: 2024
+  - best actor - drama # 5 Events: 2020-2024
+  - best actor - film # 1 Event: 2024
   - best actor - short film # 1 Event: 2023
-  - best actor - web original film # 1 Event: 2023
+  - best actor - web original film # 2 Events: 2023-2024
   - 'best actor: comedy' # 4 Events: 2020-2023
   - 'best actor: web original film' # 4 Events: 2020-2023
-  - best actress - drama # 4 Events: 2020-2023
+  - best actress - comedy # 1 Event: 2024
+  - best actress - drama # 5 Events: 2020-2024
+  - best actress - film # 1 Event: 2024
   - best actress - short film # 1 Event: 2023
-  - best actress - web original film # 1 Event: 2023
+  - best actress - web original film # 2 Events: 2023-2024
   - 'best actress: comedy' # 4 Events: 2020-2023
   - 'best actress: web original film' # 4 Events: 2020-2023
-  - best adapted screenplay (series) # 1 Event: 2023
+  - best adapted screenplay (series) # 2 Events: 2023-2024
   - best art direction # 1 Event: 2020
   - best background music # 3 Events: 2020-2022
-  - best background music (series) # 1 Event: 2023
-  - best background music (web original film) # 1 Event: 2023
-  - best cinematographer (series) # 1 Event: 2023
-  - best cinematographer (web original film) # 1 Event: 2023
+  - best background music (series) # 2 Events: 2023-2024
+  - best background music (web original film) # 2 Events: 2023-2024
+  - best cinematographer (series) # 2 Events: 2023-2024
+  - best cinematographer (web original film) # 2 Events: 2023-2024
   - best cinematography # 3 Events: 2020-2022
+  - best comedy (series/specials) # 1 Event: 2024
   - best costume design # 3 Events: 2020-2022
-  - best costume design (series) # 1 Event: 2023
+  - best costume design (series) # 2 Events: 2023-2024
+  - best debut director, film # 1 Event: 2024
+  - best debut director, series # 1 Event: 2024
+  - best debut male, film # 1 Event: 2024
   - best dialogue # 2 Events: 2021-2022
-  - best dialogue (series) # 1 Event: 2023
-  - best dialogue (web original film) # 1 Event: 2023
+  - best dialogue (series) # 2 Events: 2023-2024
+  - best dialogue (web original film) # 2 Events: 2023-2024
   - best dialogues # 1 Event: 2020
-  - best director # 4 Events: 2020-2023
-  - best director - series # 1 Event: 2023
+  - best director # 5 Events: 2020-2024
+  - best director - series # 2 Events: 2023-2024
   - best director - short film # 1 Event: 2023
+  - best director - web original film # 1 Event: 2024
   - 'best director: web original film' # 1 Event: 2023
-  - best editing (series) # 1 Event: 2023
-  - best editing (web original film) # 1 Event: 2023
+  - best editing (series) # 2 Events: 2023-2024
+  - best editing (web original film) # 2 Events: 2023-2024
   - best editor # 3 Events: 2020-2022
-  - best nonfiction original, series/special # 4 Events: 2020-2023
-  - best original screenplay (series) # 1 Event: 2023
-  - best original screenplay (web original film) # 1 Event: 2023
+  - best film # 1 Event: 2024
+  - best film, web original # 1 Event: 2024
+  - best music album # 1 Event: 2024
+  - best nonfiction original, series/special # 5 Events: 2020-2024
+  - best original screenplay (series) # 2 Events: 2023-2024
+  - best original screenplay (web original film) # 2 Events: 2023-2024
   - best original screenplay, series # 1 Event: 2022
   - best original soundtrack # 3 Events: 2020-2022
-  - best original soundtrack (series) # 1 Event: 2023
+  - best original soundtrack (series) # 2 Events: 2023-2024
   - best original story # 3 Events: 2020-2022
+  - best original story, series # 1 Event: 2024
   - best production design # 2 Events: 2021-2022
-  - best production design (series) # 1 Event: 2023
-  - best production design (web original film) # 1 Event: 2023
+  - best production design (series) # 2 Events: 2023-2024
+  - best production design (web original film) # 2 Events: 2023-2024
   - best screenplay # 1 Event: 2020
   - best screenplay (adapted) # 1 Event: 2021
   - best screenplay (original) # 2 Events: 2021-2022
-  - best series # 4 Events: 2020-2023
+  - best series # 5 Events: 2020-2024
   - best series - comedy # 4 Events: 2020-2023
   - best series - drama # 4 Events: 2020-2023
   - best short film (fiction) # 1 Event: 2023
   - best short film (people's choice) # 1 Event: 2023
-  - best sound design (series) # 1 Event: 2023
-  - best sound design (web original film) # 1 Event: 2023
+  - best sound design (series) # 2 Events: 2023-2024
+  - best sound design (web original film) # 2 Events: 2023-2024
   - best story (series) # 1 Event: 2023
-  - best story (web original film) # 1 Event: 2023
-  - best supporting actor - drama # 4 Events: 2020-2023
+  - best story (web original film) # 2 Events: 2023-2024
+  - best supporting actor - comedy # 1 Event: 2024
+  - best supporting actor - drama # 5 Events: 2020-2024
+  - best supporting actor - web original film # 1 Event: 2024
   - 'best supporting actor: comedy' # 4 Events: 2020-2023
   - 'best supporting actor: web original film' # 4 Events: 2020-2023
-  - best supporting actress - drama # 4 Events: 2020-2023
+  - best supporting actress - comedy # 1 Event: 2024
+  - best supporting actress - drama # 5 Events: 2020-2024
+  - best supporting actress - web original film # 1 Event: 2024
   - 'best supporting actress: comedy' # 4 Events: 2020-2023
   - 'best supporting actress: web original film' # 4 Events: 2020-2023
   - best vfx # 2 Events: 2021-2022
-  - best vfx (series) # 1 Event: 2023
+  - best vfx (series) # 2 Events: 2023-2024
   - best web original film # 4 Events: 2020-2023
+  - special recognition # 1 Event: 2024
 ev0036701: # Critics’ Choice Shorts and Series Awards, India (https://www.imdb.com/event/ev0036701)
   years: ['2024', '2023', '2022', '2021', '2019']
   awards:  # Award Options: Critics’ Choice Shorts and Series Awards, India

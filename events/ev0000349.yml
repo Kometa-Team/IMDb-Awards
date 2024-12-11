@@ -1,63 +1,135 @@
 # Film Independent Spirit Awards
-'2024':  # https://www.imdb.com/event/ev0000349/2024/1/?ref_=ev_eh
+'2025':  # https://www.imdb.com/event/ev0000349/2025/1/
   independent spirit award:
-    best feature:
-      nominee: [tt13238346, tt21192142, tt23561236, tt13651794, tt16252698, tt28639049]
-      winner: [tt13238346]
-    best first feature:
-      nominee: [tt12427158, tt11534720, tt11317110, tt18382328, tt22964884]
-      winner: [tt12427158]
-    best lead performance:
-      nominee: [tt23561236, tt21192142, tt16252698, tt13238346, tt19864828, tt9048804, tt13651794, tt12427158, tt6337816]
-      winner: [tt23561236]
-    best lead performance in a new scripted series:
-      nominee: [tt14403178, tt17921714, tt3581920, tt14759574, tt14961048, tt15227418, tt13649510, tt17543592, tt18970320]
-      winner: [tt14403178]
-    best supporting performance:
-      nominee: [tt14849194, tt5198890, tt16252698, tt24146896, tt13651794, tt23561236, tt21867434, tt21232992]
-      winner: [tt14849194]
-    best supporting performance in a new scripted series:
-      nominee: [tt3581920, tt8559532, tt13623608, tt14961048, tt19050000, tt15677150, tt13911628, tt13649510]
-      winner: [tt3581920]
-    best director:
-      nominee: [tt13238346, tt21192142, tt16252698, tt13651794, tt5198890]
-      winner: [tt13238346]
-    best screenplay:
-      nominee: [tt23561236, tt9048804, tt17527468, tt13238346, tt14849194]
-      winner: [tt23561236]
-    best first screenplay:
-      nominee: [tt13651794, tt11317110, tt21156390, tt21232992, tt22964884]
-      winner: [tt13651794]
-    best cinematography:
-      nominee: [tt14849194, tt11534720, tt6337816, tt11317110, tt28639049]
-      winner: [tt14849194]
-    best international film:
-      nominee: [tt17009710, tt19623228, tt6315898, tt7160372, tt26315142]
-      winner: [tt17009710]
-    best documentary:
-      nominee: [tt27502426, tt22857256, tt7196012, tt22528178, tt15307068]
-      winner: [tt27502426]
-    best editing:
-      nominee: [tt21440780, tt24146896, tt21232992, tt22964884, tt28639049]
-      winner: [tt21440780]
     best breakthrough performance:
-      nominee: [tt14849194, tt17527468, tt18382328, tt8591526, tt22170270]
+      nominee: [tt18559464, tt19637052, tt22803220, tt24486184, tt24805832]
+      winner: []
+    best breakthrough performance in a new scripted series:
+      nominee: [tt13649112, tt14404618, tt15571732, tt27982433, tt30321175]
+      winner: []
+    best cinematography:
+      nominee: [tt10399622, tt19864832, tt23055660, tt28366692, tt6133444]
+      winner: []
+    best director:
+      nominee: [tt15574270, tt19864832, tt28607951, tt8368368, tt8999762]
+      winner: []
+    best documentary:
+      nominee: [tt14452174, tt26773767, tt30319823, tt30342963, tt30953759]
+      winner: []
+    best editing:
+      nominee: [tt12810074, tt28082769, tt30319503, tt31371971, tt8368368]
+      winner: []
+    best ensemble cast in a new scripted series:
+      nominee: [tt23730262]
+      winner: []
+    best feature:
+      nominee: [tt15574270, tt17526714, tt23055660, tt28479262, tt28607951]
+      winner: []
+    best first feature:
+      nominee: [tt15078804, tt15507512, tt24805832, tt28366692, tt30319503]
+      winner: []
+    best first screenplay:
+      nominee: [tt15078804, tt27722061, tt28366692, tt30319503, tt30319516]
+      winner: []
+    best international film:
+      nominee: [tt11891850, tt27722543, tt28131427, tt32086077, tt4772188]
+      winner: []
+    best lead performance:
+      nominee: [tt12349832, tt12810074, tt15574270, tt17526714, tt23778968, tt28479262, tt28607951, tt30321095, tt6133444, tt8368368]
+      winner: []
+    best lead performance in a new scripted series:
+      nominee: [tt11016042, tt13649112, tt15435876, tt15571732, tt1640719, tt18182112, tt20782190, tt26246248, tt2788316]
+      winner: []
+    best new non-scripted or documentary series:
+      nominee: [tt11691160, tt17676722, tt29529730, tt29538806, tt30835095]
+      winner: []
+    best new scripted series:
+      nominee: [tt13649112, tt18182112, tt20782190, tt2788316, tt27982433]
+      winner: []
+    best screenplay:
+      nominee: [tt15574270, tt18559464, tt21097228, tt21823606, tt28015403]
+      winner: []
+    best supporting performance:
+      nominee: [tt15507512, tt15574270, tt18277182, tt21097228, tt21823606, tt27722375, tt28479262, tt28607951, tt30319503]
+      winner: []
+    best supporting performance in a new scripted series:
+      nominee: [tt10732048, tt13649112, tt15571732, tt1640719, tt17677860, tt20782190, tt2788316, tt8773420]
+      winner: []
+  john cassavetes award:
+    john cassavetes award:
+      nominee: [tt18277182, tt21651430, tt24486184, tt30321095, tt31371971]
+      winner: []
+  robert altman award:
+    robert altman award:
+      nominee: [tt28491891]
+      winner: [tt28491891]
+  truer than fiction award:
+    truer than fiction award:
+      nominee: [tt30319555, tt30319854, tt5637628]
+      winner: []
+  someone to watch award:
+    someone to watch award:
+      nominee: [tt10399622, tt28569819, tt32928666]
+      winner: []
+'2024': # https://www.imdb.com/event/ev0000349/2024/1/
+  independent spirit award:
+    best breakthrough performance:
+      nominee: [tt14849194, tt17527468, tt18382328, tt22170270, tt8591526]
       winner: [tt14849194]
     best breakthrough performance in a new scripted series:
-      nominee: [tt3581920, tt15320362, tt14488438, tt13649510, tt8559532]
+      nominee: [tt13649510, tt14488438, tt15320362, tt3581920, tt8559532]
       winner: [tt3581920]
+    best cinematography:
+      nominee: [tt11317110, tt11534720, tt14849194, tt28639049, tt6337816]
+      winner: [tt14849194]
+    best director:
+      nominee: [tt13238346, tt13651794, tt16252698, tt21192142, tt5198890]
+      winner: [tt13238346]
+    best documentary:
+      nominee: [tt15307068, tt22528178, tt22857256, tt27502426, tt7196012]
+      winner: [tt27502426]
+    best editing:
+      nominee: [tt21232992, tt21440780, tt22964884, tt24146896, tt28639049]
+      winner: [tt21440780]
     best ensemble cast in a new scripted series:
       nominee: [tt22074164]
       winner: [tt22074164]
+    best feature:
+      nominee: [tt13238346, tt13651794, tt16252698, tt21192142, tt23561236, tt28639049]
+      winner: [tt13238346]
+    best first feature:
+      nominee: [tt11317110, tt11534720, tt12427158, tt18382328, tt22964884]
+      winner: [tt12427158]
+    best first screenplay:
+      nominee: [tt11317110, tt13651794, tt21156390, tt21232992, tt22964884]
+      winner: [tt13651794]
+    best international film:
+      nominee: [tt17009710, tt19623228, tt26315142, tt6315898, tt7160372]
+      winner: [tt17009710]
+    best lead performance:
+      nominee: [tt12427158, tt13238346, tt13651794, tt16252698, tt19864828, tt21192142, tt23561236, tt6337816, tt9048804]
+      winner: [tt23561236]
+    best lead performance in a new scripted series:
+      nominee: [tt13649510, tt14403178, tt14759574, tt14961048, tt15227418, tt17543592, tt17921714, tt18970320, tt3581920]
+      winner: [tt14403178]
     best new non-scripted or documentary series:
-      nominee: [tt6871344, tt21158388, tt24132878, tt23330464, tt28711468]
+      nominee: [tt21158388, tt23330464, tt24132878, tt28711468, tt6871344]
       winner: [tt6871344]
     best new scripted series:
-      nominee: [tt14403178, tt14488438, tt13649510, tt22074164, tt18970320]
+      nominee: [tt13649510, tt14403178, tt14488438, tt18970320, tt22074164]
       winner: [tt14403178]
+    best screenplay:
+      nominee: [tt13238346, tt14849194, tt17527468, tt23561236, tt9048804]
+      winner: [tt23561236]
+    best supporting performance:
+      nominee: [tt13651794, tt14849194, tt16252698, tt21232992, tt21867434, tt23561236, tt24146896, tt5198890]
+      winner: [tt14849194]
+    best supporting performance in a new scripted series:
+      nominee: [tt13623608, tt13649510, tt13911628, tt14961048, tt15677150, tt19050000, tt3581920, tt8559532]
+      winner: [tt3581920]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt8591526, tt15385142, tt24146896, tt20859464, tt12783826]
+      nominee: [tt12783826, tt15385142, tt20859464, tt24146896, tt8591526]
       winner: [tt8591526]
   robert altman award:
     robert altman award:
@@ -65,68 +137,68 @@
       winner: [tt13923216]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt27480956, tt15468586, tt24079694]
+      nominee: [tt15468586, tt24079694, tt27480956]
       winner: [tt27480956]
   someone to watch award:
     someone to watch award:
       nominee: [tt22170270, tt27722061, tt9048804]
       winner: [tt22170270]
-'2023': # https://www.imdb.com/event/ev0000349/2023/1/?ref_=ev_eh
+'2023': # https://www.imdb.com/event/ev0000349/2023/1/
   independent spirit award:
-    best feature:
-      nominee: [tt6710474, tt10168670, tt13892558, tt14444726, tt13669038]
+    best breakthrough performance:
+      nominee: [tt15257116, tt19770238, tt6710474, tt8174412, tt8434110]
       winner: [tt6710474]
-    best first feature:
-      nominee: [tt19770238, tt15255876, tt8434110, tt15257116, tt13495458]
-      winner: [tt19770238]
-    best lead performance:
-      nominee: [tt6710474, tt8129806, tt15255876, tt14444726, tt12691830, tt13495458, tt18925334, tt19770238, tt12655436, tt10168670]
-      winner: [tt6710474]
-    best lead performance in a new scripted series:
-      nominee: [tt14218830, tt11280740, tt13847690, tt8681148, tt12759100, tt10574236, tt11212198, tt11041332, tt15875168, tt12530128]
-      winner: [tt14218830]
-    best supporting performance:
-      nominee: [tt6710474, tt10192406, tt13658076, tt13495458, tt15257116, tt10168670, tt14444726, tt15255876, tt21833464]
-      winner: [tt6710474]
-    best supporting performance in a new scripted series:
-      nominee: [tt14452776, tt10574236, tt14440068, tt8226360, tt14218830, tt12759100, tt9319706, tt11280740]
-      winner: [tt14452776]
-    best director:
-      nominee: [tt6710474, tt8110652, tt8633464, tt13669038, tt14444726]
-      winner: [tt6710474]
-    best screenplay:
-      nominee: [tt6710474, tt8633464, tt11727866, tt14444726, tt13669038]
-      winner: [tt6710474]
-    best first screenplay:
-      nominee: [tt15255876, tt8110652, tt13650600, tt15218000, tt15257116]
-      winner: [tt15255876]
     best cinematography:
-      nominee: [tt14444726, tt11873472, tt18925334, tt19770238, tt8434110]
+      nominee: [tt11873472, tt14444726, tt18925334, tt19770238, tt8434110]
       winner: [tt14444726]
-    best international film:
-      nominee: [tt19719976, tt11992694, tt16377714, tt19719836, tt15376894]
-      winner: [tt19719976]
+    best director:
+      nominee: [tt13669038, tt14444726, tt6710474, tt8110652, tt8633464]
+      winner: [tt6710474]
     best documentary:
-      nominee: [tt21374850, tt16377920, tt16377862, tt11398276, tt11398388]
+      nominee: [tt11398276, tt11398388, tt16377862, tt16377920, tt21374850]
       winner: [tt21374850]
     best editing:
-      nominee: [tt6710474, tt19770238, tt15339456, tt13658076, tt14444726]
-      winner: [tt6710474]
-    best breakthrough performance:
-      nominee: [tt6710474, tt19770238, tt8174412, tt8434110, tt15257116]
+      nominee: [tt13658076, tt14444726, tt15339456, tt19770238, tt6710474]
       winner: [tt6710474]
     best ensemble cast in a new scripted series:
       nominee: [tt8888462]
       winner: [tt8888462]
+    best feature:
+      nominee: [tt10168670, tt13669038, tt13892558, tt14444726, tt6710474]
+      winner: [tt6710474]
+    best first feature:
+      nominee: [tt13495458, tt15255876, tt15257116, tt19770238, tt8434110]
+      winner: [tt19770238]
+    best first screenplay:
+      nominee: [tt13650600, tt15218000, tt15255876, tt15257116, tt8110652]
+      winner: [tt15255876]
+    best international film:
+      nominee: [tt11992694, tt15376894, tt16377714, tt19719836, tt19719976]
+      winner: [tt19719976]
+    best lead performance:
+      nominee: [tt10168670, tt12655436, tt12691830, tt13495458, tt14444726, tt15255876, tt18925334, tt19770238, tt6710474, tt8129806]
+      winner: [tt6710474]
+    best lead performance in a new scripted series:
+      nominee: [tt10574236, tt11041332, tt11212198, tt11280740, tt12530128, tt12759100, tt13847690, tt14218830, tt15875168, tt8681148]
+      winner: [tt14218830]
     best new non-scripted or documentary series:
-      nominee: [tt10802170, tt20852952, tt20782578, tt23022276, tt16378210]
+      nominee: [tt10802170, tt16378210, tt20782578, tt20852952, tt23022276]
       winner: [tt10802170]
     best new scripted series:
-      nominee: [tt14452776, tt8888462, tt11280740, tt10574236, tt13847690]
+      nominee: [tt10574236, tt11280740, tt13847690, tt14452776, tt8888462]
+      winner: [tt14452776]
+    best screenplay:
+      nominee: [tt11727866, tt13669038, tt14444726, tt6710474, tt8633464]
+      winner: [tt6710474]
+    best supporting performance:
+      nominee: [tt10168670, tt10192406, tt13495458, tt13658076, tt14444726, tt15255876, tt15257116, tt21833464, tt6710474]
+      winner: [tt6710474]
+    best supporting performance in a new scripted series:
+      nominee: [tt10574236, tt11280740, tt12759100, tt14218830, tt14440068, tt14452776, tt8226360, tt9319706]
       winner: [tt14452776]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt13658076, tt12691830, tt7172590, tt14895716, tt17048276]
+      nominee: [tt12691830, tt13658076, tt14895716, tt17048276, tt7172590]
       winner: [tt13658076]
   robert altman award:
     robert altman award:
@@ -134,71 +206,71 @@
       winner: [tt13669038]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt16358560, tt16378028, tt14965578]
+      nominee: [tt14965578, tt16358560, tt16378028]
       winner: [tt16358560]
   someone to watch award:
     someone to watch award:
       nominee: [tt10931784, tt12655436, tt7172590]
       winner: [tt10931784]
-'2022': # https://www.imdb.com/event/ev0000349/2022/1/?ref_=ev_eh
+'2022': # https://www.imdb.com/event/ev0000349/2022/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt8893974, tt14324296, tt11121664, tt10023286, tt5439812]
+      nominee: [tt10023286, tt11121664, tt14324296, tt5439812, tt8893974]
       winner: [tt8893974]
     best director:
-      nominee: [tt9100054, tt5439812, tt11131464, tt10986222, tt8550054]
+      nominee: [tt10986222, tt11131464, tt5439812, tt8550054, tt9100054]
       winner: [tt9100054]
     best documentary:
-      nominee: [tt11422728, tt14505430, tt8430054, tt13648230, tt14300912]
+      nominee: [tt11422728, tt13648230, tt14300912, tt14505430, tt8430054]
       winner: [tt11422728]
     best editing:
-      nominee: [tt5439812, tt14324296, tt8906722, tt11131464, tt10441822]
+      nominee: [tt10441822, tt11131464, tt14324296, tt5439812, tt8906722]
       winner: [tt5439812]
     best ensemble cast in a new scripted series:
       nominee: [tt13623580]
       winner: [tt13623580]
     best feature:
-      nominee: [tt9100054, tt14324296, tt10986222, tt11131464, tt5439812]
+      nominee: [tt10986222, tt11131464, tt14324296, tt5439812, tt9100054]
       winner: [tt9100054]
     best female lead:
-      nominee: [tt5439812, tt11304504, tt10121508, tt11131464, tt11285280]
+      nominee: [tt10121508, tt11131464, tt11285280, tt11304504, tt5439812]
       winner: [tt5439812]
     best female performance in a new scripted series:
-      nominee: [tt6704972, tt11097374, tt11058054, tt9064858, tt10846104]
+      nominee: [tt10846104, tt11058054, tt11097374, tt6704972, tt9064858]
       winner: [tt6704972]
     best first feature:
-      nominee: [tt14494586, tt6763778, tt3890456, tt10121508, tt11433048]
+      nominee: [tt10121508, tt11433048, tt14494586, tt3890456, tt6763778]
       winner: [tt14494586]
     best first screenplay:
-      nominee: [tt11003218, tt8998768, tt11389748, tt10121508, tt11433048]
+      nominee: [tt10121508, tt11003218, tt11389748, tt11433048, tt8998768]
       winner: [tt11003218]
     best international film:
-      nominee: [tt14039582, tt10262648, tt12618926, tt13710226, tt13204490, tt10366574]
+      nominee: [tt10262648, tt10366574, tt12618926, tt13204490, tt13710226, tt14039582]
       winner: [tt14039582]
     best male lead:
-      nominee: [tt13453006, tt13559026, tt10832274, tt8906722, tt11433048]
+      nominee: [tt10832274, tt11433048, tt13453006, tt13559026, tt8906722]
       winner: [tt13453006]
     best male performance in a new scripted series:
-      nominee: [tt10919420, tt9140342, tt11058054, tt13406094, tt9064858]
+      nominee: [tt10919420, tt11058054, tt13406094, tt9064858, tt9140342]
       winner: [tt10919420]
     best new non-scripted or documentary series:
-      nominee: [tt15781474, tt5822740, tt13622188, tt14535092, tt12837188]
+      nominee: [tt12837188, tt13622188, tt14535092, tt15781474, tt5822740]
       winner: [tt15781474]
     best new scripted series:
-      nominee: [tt13623580, tt11097374, tt9140342, tt6704972, tt10846104]
+      nominee: [tt10846104, tt11097374, tt13623580, tt6704972, tt9140342]
       winner: [tt13623580]
     best screenplay:
-      nominee: [tt9100054, tt10986222, tt10832274, tt11285280, tt5439812]
+      nominee: [tt10832274, tt10986222, tt11285280, tt5439812, tt9100054]
       winner: [tt9100054]
     best supporting female:
-      nominee: [tt8893974, tt8550054, tt13453006, tt9100054, tt11131464]
+      nominee: [tt11131464, tt13453006, tt8550054, tt8893974, tt9100054]
       winner: [tt8893974]
     best supporting male:
-      nominee: [tt10366460, tt3890456, tt11685322, tt11433048, tt5439812]
+      nominee: [tt10366460, tt11433048, tt11685322, tt3890456, tt5439812]
       winner: [tt10366460]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt11317142, tt13622118, tt13559026, tt11685322, tt7384402]
+      nominee: [tt11317142, tt11685322, tt13559026, tt13622118, tt7384402]
       winner: [tt11317142]
   robert altman award:
     robert altman award:
@@ -206,71 +278,71 @@
       winner: [tt11389748]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt13648216, tt10196480, tt13648160]
+      nominee: [tt10196480, tt13648160, tt13648216]
       winner: [tt13648216]
   someone to watch award:
     someone to watch award:
-      nominee: [tt11379584, tt11469196, tt11003218]
+      nominee: [tt11003218, tt11379584, tt11469196]
       winner: [tt11379584]
-'2021': # https://www.imdb.com/event/ev0000349/2021/1/?ref_=ev_eh
+'2021': # https://www.imdb.com/event/ev0000349/2021/1/
   independent spirit award:
-    best feature:
-      nominee: [tt9770150, tt9231040, tt10514222, tt10633456, tt7772582]
+    best cinematography:
+      nominee: [tt10008784, tt11614912, tt7772582, tt9000224, tt9770150]
       winner: [tt9770150]
-    best first feature:
-      nominee: [tt5363618, tt11388990, tt11394158, tt10451852, tt10642834]
-      winner: [tt5363618]
-    best female lead:
-      nominee: [tt9620292, tt9770150, tt9000224, tt11394158, tt7772582, tt10514222]
-      winner: [tt9620292]
-    best male lead:
-      nominee: [tt5363618, tt6571548, tt10514222, tt10008784, tt10633456]
-      winner: [tt5363618]
-    best supporting female:
-      nominee: [tt10633456, tt11394158, tt7772582, tt10279362]
-      winner: [tt10633456]
-    best supporting male:
-      nominee: [tt5363618, tt10451852, tt10514222, tt9231040]
-      winner: [tt5363618]
+    best director:
+      nominee: [tt10633456, tt7772582, tt9231040, tt9620292, tt9770150]
+      winner: [tt9770150]
+    best documentary:
+      nominee: [tt10706602, tt11394180, tt11394298, tt11416746, tt8923484]
+      winner: [tt8923484]
+    best editing:
+      nominee: [tt1051906, tt11388990, tt11568878, tt7772582, tt9770150]
+      winner: [tt9770150]
     best ensemble cast in a new scripted series:
       nominee: [tt11204260]
       winner: [tt11204260]
-    best cinematography:
-      nominee: [tt9770150, tt10008784, tt7772582, tt11614912, tt9000224]
+    best feature:
+      nominee: [tt10514222, tt10633456, tt7772582, tt9231040, tt9770150]
       winner: [tt9770150]
-    best director:
-      nominee: [tt9770150, tt7772582, tt9620292, tt9231040, tt10633456]
-      winner: [tt9770150]
-    best documentary:
-      nominee: [tt8923484, tt10706602, tt11394180, tt11394298, tt11416746]
-      winner: [tt8923484]
-    best editing:
-      nominee: [tt9770150, tt11388990, tt7772582, tt11568878, tt1051906]
-      winner: [tt9770150]
+    best female lead:
+      nominee: [tt10514222, tt11394158, tt7772582, tt9000224, tt9620292, tt9770150]
+      winner: [tt9620292]
     best female performance in a new scripted series:
-      nominee: [tt9815454, tt10062292, tt2235759, tt9848536, tt10417836]
+      nominee: [tt10062292, tt10417836, tt2235759, tt9815454, tt9848536]
       winner: [tt9815454]
+    best first feature:
+      nominee: [tt10451852, tt10642834, tt11388990, tt11394158, tt5363618]
+      winner: [tt5363618]
     best first screenplay:
-      nominee: [tt9484998, tt11540272, tt11394158, tt8855960, tt9000224]
+      nominee: [tt11394158, tt11540272, tt8855960, tt9000224, tt9484998]
       winner: [tt9484998]
     best international film:
-      nominee: [tt8633462, tt2762506, tt8132778, tt12564514, tt11423784]
+      nominee: [tt11423784, tt12564514, tt2762506, tt8132778, tt8633462]
       winner: [tt8633462]
+    best male lead:
+      nominee: [tt10008784, tt10514222, tt10633456, tt5363618, tt6571548]
+      winner: [tt5363618]
     best male performance in a new scripted series:
-      nominee: [tt9815454, tt8000674, tt9340526, tt8332438]
+      nominee: [tt8000674, tt8332438, tt9340526, tt9815454]
       winner: [tt9815454]
     best new non-scripted or documentary series:
-      nominee: [tt12754910, tt10720030, tt11469904, tt11457812, tt11285856]
+      nominee: [tt10720030, tt11285856, tt11457812, tt11469904, tt12754910]
       winner: [tt12754910]
     best new scripted series:
-      nominee: [tt11204260, tt10680614, tt8000674, tt3464896, tt9815454]
+      nominee: [tt10680614, tt11204260, tt3464896, tt8000674, tt9815454]
       winner: [tt11204260]
     best screenplay:
-      nominee: [tt9620292, tt8206668, tt10633456, tt7772582, tt9683478]
+      nominee: [tt10633456, tt7772582, tt8206668, tt9620292, tt9683478]
       winner: [tt9620292]
+    best supporting female:
+      nominee: [tt10279362, tt10633456, tt11394158, tt7772582]
+      winner: [tt10633456]
+    best supporting male:
+      nominee: [tt10451852, tt10514222, tt5363618, tt9231040]
+      winner: [tt5363618]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt11568878, tt10313748, tt8943224, tt9016016, tt10702148]
+      nominee: [tt10313748, tt10702148, tt11568878, tt8943224, tt9016016]
       winner: [tt11568878]
   robert altman award:
     robert altman award:
@@ -278,56 +350,56 @@
       winner: [tt10612922]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt3547238, tt12238708, tt11905922]
+      nominee: [tt11905922, tt12238708, tt3547238]
       winner: [tt3547238]
   someone to watch award:
     someone to watch award:
-      nominee: [tt11380884, tt10008784, tt8906722]
+      nominee: [tt10008784, tt11380884, tt8906722]
       winner: [tt11380884]
-'2020': # https://www.imdb.com/event/ev0000349/2020/1/?ref_=ev_eh
+'2020': # https://www.imdb.com/event/ev0000349/2020/1/
   independent spirit award:
-    best feature:
-      nominee: [tt8637428, tt5827916, tt5577494, tt7653254, tt5727208]
-      winner: [tt8637428]
-    best first feature:
-      nominee: [tt1489887, tt6705860, tt8743064, tt7441028, tt4353250, tt5952594]
-      winner: [tt1489887]
-    best female lead:
-      nominee: [tt7549996, tt5577494, tt7942742, tt9318280, tt9275046, tt6705860]
-      winner: [tt7549996]
-    best male lead:
-      nominee: [tt5727208, tt4169146, tt7616148, tt5952594, tt7984734]
-      winner: [tt5727208]
-    best supporting female:
-      nominee: [tt8637428, tt5503686, tt4169146, tt7616148, tt8652728]
-      winner: [tt8637428]
-    best supporting male:
-      nominee: [tt7984734, tt4353250, tt8151874, tt7358154]
+    best cinematography:
+      nominee: [tt5503686, tt7692966, tt7984734, tt8151874, tt8772262]
       winner: [tt7984734]
     best director:
-      nominee: [tt5727208, tt8151874, tt7616148, tt5503686, tt7984734]
+      nominee: [tt5503686, tt5727208, tt7616148, tt7984734, tt8151874]
       winner: [tt5727208]
-    best screenplay:
-      nominee: [tt7653254, tt5577494, tt8128188, tt7117594, tt5727208]
-      winner: [tt7653254]
-    best first screenplay:
-      nominee: [tt8743064, tt8299768, tt9318280, tt7422822, tt6803046]
-      winner: [tt8743064]
-    best cinematography:
-      nominee: [tt7984734, tt7692966, tt8151874, tt8772262, tt5503686]
-      winner: [tt7984734]
-    best international film:
-      nominee: [tt6751668, tt6390668, tt10199590, tt8613070, tt7761590, tt6920356]
-      winner: [tt6751668]
     best documentary:
-      nominee: [tt9351980, tt8760684, tt9617456, tt8991268, tt8106566]
+      nominee: [tt8106566, tt8760684, tt8991268, tt9351980, tt9617456]
       winner: [tt9351980]
     best editing:
-      nominee: [tt5727208, tt4169146, tt8484012, tt7984734, tt7692966]
+      nominee: [tt4169146, tt5727208, tt7692966, tt7984734, tt8484012]
       winner: [tt5727208]
+    best feature:
+      nominee: [tt5577494, tt5727208, tt5827916, tt7653254, tt8637428]
+      winner: [tt8637428]
+    best female lead:
+      nominee: [tt5577494, tt6705860, tt7549996, tt7942742, tt9275046, tt9318280]
+      winner: [tt7549996]
+    best first feature:
+      nominee: [tt1489887, tt4353250, tt5952594, tt6705860, tt7441028, tt8743064]
+      winner: [tt1489887]
+    best first screenplay:
+      nominee: [tt6803046, tt7422822, tt8299768, tt8743064, tt9318280]
+      winner: [tt8743064]
+    best international film:
+      nominee: [tt10199590, tt6390668, tt6751668, tt6920356, tt7761590, tt8613070]
+      winner: [tt6751668]
+    best male lead:
+      nominee: [tt4169146, tt5727208, tt5952594, tt7616148, tt7984734]
+      winner: [tt5727208]
+    best screenplay:
+      nominee: [tt5577494, tt5727208, tt7117594, tt7653254, tt8128188]
+      winner: [tt7653254]
+    best supporting female:
+      nominee: [tt4169146, tt5503686, tt7616148, tt8637428, tt8652728]
+      winner: [tt8637428]
+    best supporting male:
+      nominee: [tt4353250, tt7358154, tt7984734, tt8151874]
+      winner: [tt7984734]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt4169146, tt7358154, tt9275046, tt9133378, tt5176580]
+      nominee: [tt4169146, tt5176580, tt7358154, tt9133378, tt9275046]
       winner: [tt4169146]
   robert altman award:
     robert altman award:
@@ -335,56 +407,56 @@
       winner: [tt7653254]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt7476788, tt10011226, tt8119782, tt8099132]
+      nominee: [tt10011226, tt7476788, tt8099132, tt8119782]
       winner: [tt7476788]
   someone to watch award:
     someone to watch award:
-      nominee: [tt9133378, tt7692966, tt4353250]
+      nominee: [tt4353250, tt7692966, tt9133378]
       winner: [tt9133378]
-'2019': # https://www.imdb.com/event/ev0000349/2019/1/?ref_=ev_eh
+'2019': # https://www.imdb.com/event/ev0000349/2019/1/
   independent spirit award:
-    best feature:
-      nominee: [tt7125860, tt7014006, tt6053438, tt3892172, tt5742374]
-      winner: [tt7125860]
-    best first feature:
-      nominee: [tt5688932, tt7784604, tt4015500, tt7681824, tt5929754]
-      winner: [tt5688932]
-    best female lead:
-      nominee: [tt3750872, tt5929754, tt7014006, tt6101602, tt6859352, tt7784604]
-      winner: [tt3750872]
-    best male lead:
-      nominee: [tt6053438, tt8026554, tt7242142, tt5742374, tt7668870]
-      winner: [tt6053438]
-    best supporting female:
-      nominee: [tt7125860, tt6509058, tt5536610, tt3892172, tt6884380]
-      winner: [tt7125860]
-    best supporting male:
-      nominee: [tt4595882, tt7349662, tt7689906, tt7014006, tt7681824]
-      winner: [tt4595882]
-    best director:
-      nominee: [tt7125860, tt3892172, tt5742374, tt6053438, tt5536610]
-      winner: [tt7125860]
-    best screenplay:
-      nominee: [tt4595882, tt5437928, tt6053438, tt5536610, tt5688932]
-      winner: [tt4595882]
-    best first screenplay:
-      nominee: [tt7014006, tt6509058, tt5649108, tt4015500, tt4607722]
-      winner: [tt7014006]
     best cinematography:
-      nominee: [tt1034415, tt6101602, tt6998518, tt7681824, tt5929754]
+      nominee: [tt1034415, tt5929754, tt6101602, tt6998518, tt7681824]
       winner: [tt1034415]
-    best international film:
-      nominee: [tt6155172, tt7282468, tt6752992, tt8075192, tt5083738]
-      winner: [tt6155172]
+    best director:
+      nominee: [tt3892172, tt5536610, tt5742374, tt6053438, tt7125860]
+      winner: [tt7125860]
     best documentary:
-      nominee: [tt7681902, tt6634646, tt7476236, tt7519174, tt7689484, tt7472352]
+      nominee: [tt6634646, tt7472352, tt7476236, tt7519174, tt7681902, tt7689484]
       winner: [tt7681902]
     best editing:
-      nominee: [tt5742374, tt6212478, tt5613484, tt4015500, tt7681824]
+      nominee: [tt4015500, tt5613484, tt5742374, tt6212478, tt7681824]
       winner: [tt5742374]
+    best feature:
+      nominee: [tt3892172, tt5742374, tt6053438, tt7014006, tt7125860]
+      winner: [tt7125860]
+    best female lead:
+      nominee: [tt3750872, tt5929754, tt6101602, tt6859352, tt7014006, tt7784604]
+      winner: [tt3750872]
+    best first feature:
+      nominee: [tt4015500, tt5688932, tt5929754, tt7681824, tt7784604]
+      winner: [tt5688932]
+    best first screenplay:
+      nominee: [tt4015500, tt4607722, tt5649108, tt6509058, tt7014006]
+      winner: [tt7014006]
+    best international film:
+      nominee: [tt5083738, tt6155172, tt6752992, tt7282468, tt8075192]
+      winner: [tt6155172]
+    best male lead:
+      nominee: [tt5742374, tt6053438, tt7242142, tt7668870, tt8026554]
+      winner: [tt6053438]
+    best screenplay:
+      nominee: [tt4595882, tt5437928, tt5536610, tt5688932, tt6053438]
+      winner: [tt4595882]
+    best supporting female:
+      nominee: [tt3892172, tt5536610, tt6509058, tt6884380, tt7125860]
+      winner: [tt7125860]
+    best supporting male:
+      nominee: [tt4595882, tt7014006, tt7349662, tt7681824, tt7689906]
+      winner: [tt4595882]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt6144092, tt6884380, tt7690016, tt8026554, tt7738450]
+      nominee: [tt6144092, tt6884380, tt7690016, tt7738450, tt8026554]
       winner: [tt6144092]
   robert altman award:
     robert altman award:
@@ -392,56 +464,56 @@
       winner: [tt1034415]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt7476236, tt7689484, tt6634646]
+      nominee: [tt6634646, tt7476236, tt7689484]
       winner: [tt7476236]
   someone to watch award:
     someone to watch award:
-      nominee: [tt8026554, tt6506276, tt7681824]
+      nominee: [tt6506276, tt7681824, tt8026554]
       winner: [tt8026554]
-'2018': # https://www.imdb.com/event/ev0000349/2018/1/?ref_=ev_eh
+'2018': # https://www.imdb.com/event/ev0000349/2018/1/
   independent spirit award:
-    best feature:
-      nominee: [tt5052448, tt5726616, tt4925292, tt5649144, tt6217608]
-      winner: [tt5052448]
-    best first feature:
-      nominee: [tt5962210, tt5990474, tt6333086, tt6343058, tt6288250]
-      winner: [tt5962210]
-    best female lead:
-      nominee: [tt5027774, tt5580036, tt5891122, tt5929750, tt4925292, tt6343058]
-      winner: [tt5027774]
-    best male lead:
-      nominee: [tt5726616, tt5052448, tt6303866, tt3521126, tt4846232]
-      winner: [tt5726616]
-    best supporting female:
-      nominee: [tt5580036, tt5462602, tt4925292, tt4978710, tt4846232]
-      winner: [tt5580036]
-    best supporting male:
-      nominee: [tt5027774, tt5726616, tt5715874, tt4846232, tt3268340]
-      winner: [tt5027774]
-    best director:
-      nominee: [tt5052448, tt4846232, tt6217608, tt6802896, tt5726616, tt5649144]
-      winner: [tt5052448]
-    best screenplay:
-      nominee: [tt4925292, tt5929750, tt5052448, tt5770620, tt5027774]
-      winner: [tt4925292]
-    best first screenplay:
-      nominee: [tt5462602, tt5990474, tt4442604, tt5962210, tt3973012]
-      winner: [tt5462602]
     best cinematography:
-      nominee: [tt5726616, tt6303866, tt5990474, tt5715874, tt6217608]
+      nominee: [tt5715874, tt5726616, tt5990474, tt6217608, tt6303866]
       winner: [tt5726616]
-    best international film:
-      nominee: [tt5639354, tt6135348, tt6213284, tt4291600, tt6304162]
-      winner: [tt5639354]
+    best director:
+      nominee: [tt4846232, tt5052448, tt5649144, tt5726616, tt6217608, tt6802896]
+      winner: [tt5052448]
     best documentary:
-      nominee: [tt5598102, tt6333074, tt6333078, tt6149818, tt6509432]
+      nominee: [tt5598102, tt6149818, tt6333074, tt6333078, tt6509432]
       winner: [tt5598102]
     best editing:
-      nominee: [tt5580036, tt5726616, tt5052448, tt4846232, tt6217608]
+      nominee: [tt4846232, tt5052448, tt5580036, tt5726616, tt6217608]
       winner: [tt5580036]
+    best feature:
+      nominee: [tt4925292, tt5052448, tt5649144, tt5726616, tt6217608]
+      winner: [tt5052448]
+    best female lead:
+      nominee: [tt4925292, tt5027774, tt5580036, tt5891122, tt5929750, tt6343058]
+      winner: [tt5027774]
+    best first feature:
+      nominee: [tt5962210, tt5990474, tt6288250, tt6333086, tt6343058]
+      winner: [tt5962210]
+    best first screenplay:
+      nominee: [tt3973012, tt4442604, tt5462602, tt5962210, tt5990474]
+      winner: [tt5462602]
+    best international film:
+      nominee: [tt4291600, tt5639354, tt6135348, tt6213284, tt6304162]
+      winner: [tt5639354]
+    best male lead:
+      nominee: [tt3521126, tt4846232, tt5052448, tt5726616, tt6303866]
+      winner: [tt5726616]
+    best screenplay:
+      nominee: [tt4925292, tt5027774, tt5052448, tt5770620, tt5929750]
+      winner: [tt4925292]
+    best supporting female:
+      nominee: [tt4846232, tt4925292, tt4978710, tt5462602, tt5580036]
+      winner: [tt5580036]
+    best supporting male:
+      nominee: [tt3268340, tt4846232, tt5027774, tt5715874, tt5726616]
+      winner: [tt5027774]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt5891122, tt6265828, tt6266218, tt4866448, tt5039088]
+      nominee: [tt4866448, tt5039088, tt5891122, tt6265828, tt6266218]
       winner: [tt5891122]
   robert altman award:
     robert altman award:
@@ -453,52 +525,52 @@
       winner: [tt6149818]
   someone to watch award:
     someone to watch award:
-      nominee: [tt6057032, tt6266218, tt5112578]
+      nominee: [tt5112578, tt6057032, tt6266218]
       winner: [tt6057032]
-'2017': # https://www.imdb.com/event/ev0000349/2017/1/?ref_=ev_eh
+'2017': # https://www.imdb.com/event/ev0000349/2017/1/
   independent spirit award:
-    best feature:
-      nominee: [tt4975722, tt3721936, tt3850496, tt1619029, tt4034228]
-      winner: [tt4975722]
-    best first feature:
-      nominee: [tt4263482, tt4158876, tt4034354, tt2815902, tt4238858]
-      winner: [tt4263482]
-    best female lead:
-      nominee: [tt3716530, tt4385888, tt1619029, tt4669986, tt3721936]
-      winner: [tt3716530]
-    best male lead:
-      nominee: [tt4034228, tt3510304, tt4158876, tt3850496, tt3553976]
-      winner: [tt4034228]
-    best supporting female:
-      nominee: [tt4158876, tt3510304, tt4468634, tt4919484, tt3721936]
-      winner: [tt4158876]
-    best supporting male:
-      nominee: [tt2582782, tt3652862, tt4034228, tt2056771, tt3721936]
-      winner: [tt2582782]
-    best director:
-      nominee: [tt4975722, tt3721936, tt4669986, tt4468634, tt1619029]
-      winner: [tt4975722]
-    best screenplay:
-      nominee: [tt4975722, tt4385888, tt2582782, tt4919484, tt4034228]
-      winner: [tt4975722]
-    best first screenplay:
-      nominee: [tt4263482, tt5477566, tt4666726, tt4938050, tt4158876]
-      winner: [tt4263482]
     best cinematography:
-      nominee: [tt4975722, tt3510304, tt2815902, tt3721936, tt5225338]
+      nominee: [tt2815902, tt3510304, tt3721936, tt4975722, tt5225338]
       winner: [tt4975722]
-    best international film:
-      nominee: [tt4048272, tt5221584, tt3526706, tt4048050, tt4273292]
-      winner: [tt4048272]
+    best director:
+      nominee: [tt1619029, tt3721936, tt4468634, tt4669986, tt4975722]
+      winner: [tt4975722]
     best documentary:
-      nominee: [tt5275892, tt5895028, tt5375040, tt5804038, tt5278928]
+      nominee: [tt5275892, tt5278928, tt5375040, tt5804038, tt5895028]
       winner: [tt5275892]
     best editing:
-      nominee: [tt4975722, tt2582782, tt1619029, tt4034228, tt4034354]
+      nominee: [tt1619029, tt2582782, tt4034228, tt4034354, tt4975722]
       winner: [tt4975722]
+    best feature:
+      nominee: [tt1619029, tt3721936, tt3850496, tt4034228, tt4975722]
+      winner: [tt4975722]
+    best female lead:
+      nominee: [tt1619029, tt3716530, tt3721936, tt4385888, tt4669986]
+      winner: [tt3716530]
+    best first feature:
+      nominee: [tt2815902, tt4034354, tt4158876, tt4238858, tt4263482]
+      winner: [tt4263482]
+    best first screenplay:
+      nominee: [tt4158876, tt4263482, tt4666726, tt4938050, tt5477566]
+      winner: [tt4263482]
+    best international film:
+      nominee: [tt3526706, tt4048050, tt4048272, tt4273292, tt5221584]
+      winner: [tt4048272]
+    best male lead:
+      nominee: [tt3510304, tt3553976, tt3850496, tt4034228, tt4158876]
+      winner: [tt4034228]
+    best screenplay:
+      nominee: [tt2582782, tt4034228, tt4385888, tt4919484, tt4975722]
+      winner: [tt4975722]
+    best supporting female:
+      nominee: [tt3510304, tt3721936, tt4158876, tt4468634, tt4919484]
+      winner: [tt4158876]
+    best supporting male:
+      nominee: [tt2056771, tt2582782, tt3652862, tt3721936, tt4034228]
+      winner: [tt2582782]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt5254640, tt3510304, tt3717316, tt4305148, tt4210112]
+      nominee: [tt3510304, tt3717316, tt4210112, tt4305148, tt5254640]
       winner: [tt5254640]
   robert altman award:
     robert altman award:
@@ -510,52 +582,52 @@
       winner: [tt4079902]
   someone to watch award:
     someone to watch award:
-      nominee: [tt4238858, tt3503460, tt5254640, tt3973012]
+      nominee: [tt3503460, tt3973012, tt4238858, tt5254640]
       winner: [tt4238858]
-'2016': # https://www.imdb.com/event/ev0000349/2016/1/?ref_=ev_eh
+'2016': # https://www.imdb.com/event/ev0000349/2016/1/
   independent spirit award:
-    best feature:
-      nominee: [tt1895587, tt2401878, tt1365050, tt2402927, tt3824458]
-      winner: [tt1895587]
-    best first feature:
-      nominee: [tt3172532, tt3062414, tt4288636, tt3486542, tt3566788]
-      winner: [tt3172532]
-    best female lead:
-      nominee: [tt3170832, tt3172532, tt2402927, tt3824458]
-      winner: [tt3170832]
-    best male lead:
-      nominee: [tt1365050, tt2349144, tt4288636, tt3416744, tt3486542]
-      winner: [tt1365050]
-    best supporting female:
-      nominee: [tt3824458, tt4288636, tt2401878, tt1714843, tt3666210]
-      winner: [tt3824458]
-    best supporting male:
-      nominee: [tt1365050, tt3824412, tt2891174, tt0903657, tt2494362]
-      winner: [tt1365050]
-    best director:
-      nominee: [tt1895587, tt1365050, tt2401878, tt3235888, tt3824458, tt2402927]
-      winner: [tt1895587]
-    best screenplay:
-      nominee: [tt1895587, tt2401878, tt3416744, tt2402927, tt2494362]
-      winner: [tt1895587]
-    best first screenplay:
-      nominee: [tt3170832, tt2582496, tt3486542, tt3172532, tt3271120]
-      winner: [tt3170832]
     best cinematography:
-      nominee: [tt2402927, tt1365050, tt3566788, tt3235888, tt3529656]
+      nominee: [tt1365050, tt2402927, tt3235888, tt3529656, tt3566788]
       winner: [tt2402927]
-    best international film:
-      nominee: [tt3808342, tt1883180, tt4285496, tt3655522, tt3966404]
-      winner: [tt3808342]
+    best director:
+      nominee: [tt1365050, tt1895587, tt2401878, tt2402927, tt3235888, tt3824458]
+      winner: [tt1895587]
     best documentary:
-      nominee: [tt3521134, tt4370922, tt3518012, tt4935446, tt2545428, tt4082596]
+      nominee: [tt2545428, tt3518012, tt3521134, tt4082596, tt4370922, tt4935446]
       winner: [tt3521134]
     best editing:
-      nominee: [tt1895587, tt3062414, tt3687186, tt3235888, tt3170832]
+      nominee: [tt1895587, tt3062414, tt3170832, tt3235888, tt3687186]
       winner: [tt1895587]
+    best feature:
+      nominee: [tt1365050, tt1895587, tt2401878, tt2402927, tt3824458]
+      winner: [tt1895587]
+    best female lead:
+      nominee: [tt2402927, tt3170832, tt3172532, tt3824458]
+      winner: [tt3170832]
+    best first feature:
+      nominee: [tt3062414, tt3172532, tt3486542, tt3566788, tt4288636]
+      winner: [tt3172532]
+    best first screenplay:
+      nominee: [tt2582496, tt3170832, tt3172532, tt3271120, tt3486542]
+      winner: [tt3170832]
+    best international film:
+      nominee: [tt1883180, tt3655522, tt3808342, tt3966404, tt4285496]
+      winner: [tt3808342]
+    best male lead:
+      nominee: [tt1365050, tt2349144, tt3416744, tt3486542, tt4288636]
+      winner: [tt1365050]
+    best screenplay:
+      nominee: [tt1895587, tt2401878, tt2402927, tt2494362, tt3416744]
+      winner: [tt1895587]
+    best supporting female:
+      nominee: [tt1714843, tt2401878, tt3666210, tt3824458, tt4288636]
+      winner: [tt3824458]
+    best supporting male:
+      nominee: [tt0903657, tt1365050, tt2494362, tt2891174, tt3824412]
+      winner: [tt1365050]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt4266638, tt3090670, tt3894188, tt3687186, tt3922764]
+      nominee: [tt3090670, tt3687186, tt3894188, tt3922764, tt4266638]
       winner: [tt4266638]
   robert altman award:
     robert altman award:
@@ -567,48 +639,48 @@
       winner: [tt3246600]
   someone to watch award:
     someone to watch award:
-      nominee: [tt3863484, tt2946762, tt3566788]
+      nominee: [tt2946762, tt3566788, tt3863484]
       winner: [tt3863484]
-'2015': # https://www.imdb.com/event/ev0000349/2015/1/?ref_=ev_eh
+'2015': # https://www.imdb.com/event/ev0000349/2015/1/
   independent spirit award:
-    best feature:
-      nominee: [tt2562232, tt1065073, tt2639344, tt1020072, tt2582802]
-      winner: [tt2562232]
-    best first feature:
-      nominee: [tt2872718, tt2326554, tt2235108, tt2910274, tt3130776]
-      winner: [tt2872718]
-    best female lead:
-      nominee: [tt3316960, tt2910274, tt1951181, tt3263614, tt1714915]
-      winner: [tt3316960]
-    best male lead:
-      nominee: [tt2562232, tt2402085, tt1020072, tt2872718, tt2639344]
-      winner: [tt2562232]
-    best supporting female:
-      nominee: [tt1065073, tt2405372, tt1020072, tt2562232, tt2937898]
-      winner: [tt1065073]
-    best supporting male:
-      nominee: [tt2582802, tt2639344, tt2562232, tt1065073, tt2872718]
-      winner: [tt2582802]
-    best director:
-      nominee: [tt1065073, tt2562232, tt1020072, tt2582802, tt3263614]
-      winner: [tt1065073]
-    best screenplay:
-      nominee: [tt2872718, tt2937898, tt1126590, tt2639344, tt1714915]
-      winner: [tt2872718]
-    best first screenplay:
-      nominee: [tt2235108, tt3077108, tt3125220, tt3130776, tt2756032]
-      winner: [tt2235108]
     best cinematography:
-      nominee: [tt2562232, tt2326554, tt2328922, tt1020072, tt1951181]
+      nominee: [tt1020072, tt1951181, tt2326554, tt2328922, tt2562232]
       winner: [tt2562232]
-    best international film:
-      nominee: [tt2718492, tt2121382, tt2802154, tt3612616, tt2852432, tt1441395]
-      winner: [tt2718492]
+    best director:
+      nominee: [tt1020072, tt1065073, tt2562232, tt2582802, tt3263614]
+      winner: [tt1065073]
     best documentary:
-      nominee: [tt4044364, tt2920540, tt3263430, tt3674140, tt3455224]
+      nominee: [tt2920540, tt3263430, tt3455224, tt3674140, tt4044364]
       winner: [tt4044364]
     best editing:
-      nominee: [tt2582802, tt2937898, tt1065073, tt2872718, tt2980592]
+      nominee: [tt1065073, tt2582802, tt2872718, tt2937898, tt2980592]
+      winner: [tt2582802]
+    best feature:
+      nominee: [tt1020072, tt1065073, tt2562232, tt2582802, tt2639344]
+      winner: [tt2562232]
+    best female lead:
+      nominee: [tt1714915, tt1951181, tt2910274, tt3263614, tt3316960]
+      winner: [tt3316960]
+    best first feature:
+      nominee: [tt2235108, tt2326554, tt2872718, tt2910274, tt3130776]
+      winner: [tt2872718]
+    best first screenplay:
+      nominee: [tt2235108, tt2756032, tt3077108, tt3125220, tt3130776]
+      winner: [tt2235108]
+    best international film:
+      nominee: [tt1441395, tt2121382, tt2718492, tt2802154, tt2852432, tt3612616]
+      winner: [tt2718492]
+    best male lead:
+      nominee: [tt1020072, tt2402085, tt2562232, tt2639344, tt2872718]
+      winner: [tt2562232]
+    best screenplay:
+      nominee: [tt1126590, tt1714915, tt2639344, tt2872718, tt2937898]
+      winner: [tt2872718]
+    best supporting female:
+      nominee: [tt1020072, tt1065073, tt2405372, tt2562232, tt2937898]
+      winner: [tt1065073]
+    best supporting male:
+      nominee: [tt1065073, tt2562232, tt2582802, tt2639344, tt2872718]
       winner: [tt2582802]
   special distinction award:
     special distinction award:
@@ -616,7 +688,7 @@
       winner: [tt1100089]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt3283556, tt2359024, tt2328922, tt2287170, tt2407380]
+      nominee: [tt2287170, tt2328922, tt2359024, tt2407380, tt3283556]
       winner: [tt3283556]
   robert altman award:
     robert altman award:
@@ -624,56 +696,56 @@
       winner: [tt1791528]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt2732932, tt2379679, tt1096999, tt3593932]
+      nominee: [tt1096999, tt2379679, tt2732932, tt3593932]
       winner: [tt2732932]
   someone to watch award:
     someone to watch award:
-      nominee: [tt3666210, tt2326554, tt2635006]
+      nominee: [tt2326554, tt2635006, tt3666210]
       winner: [tt3666210]
-'2014': # https://www.imdb.com/event/ev0000349/2014/1/?ref_=ev_eh
+'2014': # https://www.imdb.com/event/ev0000349/2014/1/
   independent spirit award:
-    best feature:
-      nominee: [tt2024544, tt2017038, tt2347569, tt2042568, tt1821549]
-      winner: [tt2024544]
-    best first feature:
-      nominee: [tt2334649, tt2027064, tt2296697, tt2184331, tt2258858]
-      winner: [tt2334649]
-    best female lead:
-      nominee: [tt2334873, tt2370248, tt2332579, tt2209418, tt1714206]
-      winner: [tt2334873]
-    best male lead:
-      nominee: [tt0790636, tt1821549, tt2024544, tt2334649, tt2042568, tt2017038]
-      winner: [tt0790636]
-    best supporting female:
-      nominee: [tt2024544, tt1821549, tt2334649, tt2334873, tt2247432]
-      winner: [tt2024544]
-    best supporting male:
-      nominee: [tt0790636, tt2390361, tt2370248, tt2024544, tt1821549]
-      winner: [tt0790636]
-    best director:
-      nominee: [tt2024544, tt1821549, tt2017038, tt1935179, tt2084989]
-      winner: [tt2024544]
-    best screenplay:
-      nominee: [tt2024544, tt2209418, tt2334873, tt2390361, tt1714206]
-      winner: [tt2024544]
-    best first screenplay:
-      nominee: [tt1821549, tt2312890, tt2229499, tt2294677, tt2113075]
-      winner: [tt1821549]
     best cinematography:
-      nominee: [tt2024544, tt2017038, tt2007360, tt2042568, tt2101441]
+      nominee: [tt2007360, tt2017038, tt2024544, tt2042568, tt2101441]
       winner: [tt2024544]
-    best international film:
-      nominee: [tt2278871, tt2852400, tt2425486, tt2358891, tt2106476]
-      winner: [tt2278871]
+    best director:
+      nominee: [tt1821549, tt1935179, tt2017038, tt2024544, tt2084989]
+      winner: [tt2024544]
     best documentary:
-      nominee: [tt2396566, tt2430104, tt2179053, tt2375605, tt2486682]
+      nominee: [tt2179053, tt2375605, tt2396566, tt2430104, tt2486682]
       winner: [tt2396566]
     best editing:
-      nominee: [tt2370248, tt2347569, tt2268732, tt2184331, tt2084989]
+      nominee: [tt2084989, tt2184331, tt2268732, tt2347569, tt2370248]
       winner: [tt2370248]
+    best feature:
+      nominee: [tt1821549, tt2017038, tt2024544, tt2042568, tt2347569]
+      winner: [tt2024544]
+    best female lead:
+      nominee: [tt1714206, tt2209418, tt2332579, tt2334873, tt2370248]
+      winner: [tt2334873]
+    best first feature:
+      nominee: [tt2027064, tt2184331, tt2258858, tt2296697, tt2334649]
+      winner: [tt2334649]
+    best first screenplay:
+      nominee: [tt1821549, tt2113075, tt2229499, tt2294677, tt2312890]
+      winner: [tt1821549]
+    best international film:
+      nominee: [tt2106476, tt2278871, tt2358891, tt2425486, tt2852400]
+      winner: [tt2278871]
+    best male lead:
+      nominee: [tt0790636, tt1821549, tt2017038, tt2024544, tt2042568, tt2334649]
+      winner: [tt0790636]
+    best screenplay:
+      nominee: [tt1714206, tt2024544, tt2209418, tt2334873, tt2390361]
+      winner: [tt2024544]
+    best supporting female:
+      nominee: [tt1821549, tt2024544, tt2247432, tt2334649, tt2334873]
+      winner: [tt2024544]
+    best supporting male:
+      nominee: [tt0790636, tt1821549, tt2024544, tt2370248, tt2390361]
+      winner: [tt0790636]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt1798291, tt2007360, tt2332579, tt2268732, tt2397531]
+      nominee: [tt1798291, tt2007360, tt2268732, tt2332579, tt2397531]
       winner: [tt1798291]
   robert altman award:
     robert altman award:
@@ -687,47 +759,47 @@
     someone to watch award:
       nominee: [tt2217936, tt2430040, tt2971990]
       winner: [tt2217936]
-'2013': # https://www.imdb.com/event/ev0000349/2013/1/?ref_=ev_eh
+'2013': # https://www.imdb.com/event/ev0000349/2013/1/
   independent spirit award:
-    best feature:
-      nominee: [tt1045658, tt2125435, tt1704573, tt2011953, tt1748122]
+    best cinematography:
+      nominee: [tt1127886, tt1748122, tt1855199, tt2017038, tt2088967, tt2125435]
+      winner: [tt2125435]
+    best director:
+      nominee: [tt1045658, tt1695405, tt1748122, tt2011953, tt2125435]
       winner: [tt1045658]
-    best first feature:
-      nominee: [tt1659337, tt2219514, tt2139919, tt1862079, tt1748207]
-      winner: [tt1659337]
+    best documentary:
+      nominee: [tt1618399, tt2073029, tt2120152, tt2124803, tt2380247]
+      winner: [tt2120152]
+    best feature:
+      nominee: [tt1045658, tt1704573, tt1748122, tt2011953, tt2125435]
+      winner: [tt1045658]
     best female lead:
       nominee: [tt1045658, tt1211890, tt1677082, tt2063781, tt2125435]
       winner: [tt1045658]
+    best first feature:
+      nominee: [tt1659337, tt1748207, tt1862079, tt2139919, tt2219514]
+      winner: [tt1659337]
+    best first screenplay:
+      nominee: [tt1405365, tt1862079, tt1990314, tt2106739, tt2219514]
+      winner: [tt1862079]
+    best international film:
+      nominee: [tt1602620, tt1820488, tt1827487, tt2053425, tt2062969]
+      winner: [tt1602620]
     best male lead:
-      nominee: [tt1866249, tt1045658, tt1704573, tt1726669, tt2011953, tt0980999]
+      nominee: [tt0980999, tt1045658, tt1704573, tt1726669, tt1866249, tt2011953]
       winner: [tt1866249]
+    best screenplay:
+      nominee: [tt1045658, tt1748122, tt1839492, tt1931533, tt2011953]
+      winner: [tt1045658]
     best supporting female:
-      nominee: [tt1866249, tt1971352, tt1748207, tt1211890, tt1742336]
+      nominee: [tt1211890, tt1742336, tt1748207, tt1866249, tt1971352]
       winner: [tt1866249]
     best supporting male:
-      nominee: [tt1915581, tt1748122, tt1211890, tt1855199, tt1931533]
+      nominee: [tt1211890, tt1748122, tt1855199, tt1915581, tt1931533]
       winner: [tt1915581]
-    best director:
-      nominee: [tt1045658, tt2125435, tt2011953, tt1695405, tt1748122]
-      winner: [tt1045658]
-    best screenplay:
-      nominee: [tt1045658, tt2011953, tt1748122, tt1839492, tt1931533]
-      winner: [tt1045658]
-    best first screenplay:
-      nominee: [tt1862079, tt1405365, tt2219514, tt2106739, tt1990314]
-      winner: [tt1862079]
-    best cinematography:
-      nominee: [tt2125435, tt2017038, tt1855199, tt1127886, tt1748122, tt2088967]
-      winner: [tt2125435]
-    best international film:
-      nominee: [tt1602620, tt1827487, tt2053425, tt2062969, tt1820488]
-      winner: [tt1602620]
-    best documentary:
-      nominee: [tt2120152, tt2124803, tt2073029, tt2380247, tt1618399]
-      winner: [tt2120152]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt1211890, tt2062497, tt1978480, tt2035630, tt1734548]
+      nominee: [tt1211890, tt1734548, tt1978480, tt2035630, tt2062497]
       winner: [tt1211890]
   robert altman award:
     robert altman award:
@@ -735,57 +807,57 @@
       winner: [tt2035630]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt1618399, tt2332522, tt2085888]
+      nominee: [tt1618399, tt2085888, tt2332522]
       winner: [tt1618399]
   someone to watch award:
     someone to watch award:
-      nominee: [tt2139919, tt2139843, tt2072198]
+      nominee: [tt2072198, tt2139843, tt2139919]
       winner: [tt2139919]
   find your audience award:
     find your audience award:
       nominee: [tt2062497, tt2245195]
       winner: [tt2062497]
-'2012': # https://www.imdb.com/event/ev0000349/2012/1/?ref_=ev_eh
+'2012': # https://www.imdb.com/event/ev0000349/2012/1/
   independent spirit award:
+    best cinematography:
+      nominee: [tt1242599, tt1605783, tt1646981, tt1655442, tt1738366]
+      winner: [tt1655442]
+    best director:
+      nominee: [tt0780504, tt1033575, tt1532503, tt1655442, tt1675192]
+      winner: [tt1655442]
+    best documentary:
+      nominee: [tt1319744, tt1621444, tt1674131, tt1733679, tt1787837]
+      winner: [tt1319744]
     best feature:
-      nominee: [tt1655442, tt1306980, tt1532503, tt0780504, tt1675192, tt1033575]
+      nominee: [tt0780504, tt1033575, tt1306980, tt1532503, tt1655442, tt1675192]
       winner: [tt1655442]
-    best first feature:
-      nominee: [tt1615147, tt1549572, tt1845804, tt1441326, tt1621426]
-      winner: [tt1615147]
     best female lead:
-      nominee: [tt1655420, tt1233334, tt1441326, tt1198199, tt1621426]
+      nominee: [tt1198199, tt1233334, tt1441326, tt1621426, tt1655420]
       winner: [tt1655420]
+    best first feature:
+      nominee: [tt1441326, tt1549572, tt1615147, tt1621426, tt1845804]
+      winner: [tt1615147]
+    best first screenplay:
+      nominee: [tt1306980, tt1477837, tt1549572, tt1615147, tt1687281]
+      winner: [tt1306980]
+    best international film:
+      nominee: [tt1204340, tt1527186, tt1723811, tt1827512, tt1832382]
+      winner: [tt1832382]
     best male lead:
-      nominee: [tt1655442, tt1554091, tt1675192, tt0780504, tt1640548]
+      nominee: [tt0780504, tt1554091, tt1640548, tt1655442, tt1675192]
       winner: [tt1655442]
+    best screenplay:
+      nominee: [tt1033575, tt1445520, tt1532503, tt1606392, tt1655442]
+      winner: [tt1033575]
     best supporting female:
       nominee: [tt1033575, tt1306980, tt1525838, tt1602098, tt1675192]
       winner: [tt1033575]
     best supporting male:
-      nominee: [tt1532503, tt0780504, tt1605783, tt1477837, tt1441326]
+      nominee: [tt0780504, tt1441326, tt1477837, tt1532503, tt1605783]
       winner: [tt1532503]
-    best director:
-      nominee: [tt1655442, tt1033575, tt1675192, tt1532503, tt0780504]
-      winner: [tt1655442]
-    best screenplay:
-      nominee: [tt1033575, tt1532503, tt1445520, tt1655442, tt1606392]
-      winner: [tt1033575]
-    best first screenplay:
-      nominee: [tt1306980, tt1549572, tt1477837, tt1615147, tt1687281]
-      winner: [tt1306980]
-    best cinematography:
-      nominee: [tt1655442, tt1242599, tt1605783, tt1738366, tt1646981]
-      winner: [tt1655442]
-    best international film:
-      nominee: [tt1832382, tt1527186, tt1723811, tt1827512, tt1204340]
-      winner: [tt1832382]
-    best documentary:
-      nominee: [tt1319744, tt1674131, tt1621444, tt1733679, tt1787837]
-      winner: [tt1319744]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt1233334, tt1242599, tt1684628, tt1258201, tt1738366]
+      nominee: [tt1233334, tt1242599, tt1258201, tt1684628, tt1738366]
       winner: [tt1233334]
   robert altman award:
     robert altman award:
@@ -793,61 +865,61 @@
       winner: [tt1615147]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt1856109, tt1758576, tt1748043]
+      nominee: [tt1748043, tt1758576, tt1856109]
       winner: [tt1856109]
   producers award:
     producers award:
-      nominee: [tt1675192, tt1441326, tt1978480]
+      nominee: [tt1441326, tt1675192, tt1978480]
       winner: [tt1675192]
   someone to watch award:
     someone to watch award:
-      nominee: [tt1791687, tt1863323, tt1580021]
+      nominee: [tt1580021, tt1791687, tt1863323]
       winner: [tt1791687]
   find your audience award:
     find your audience award:
       nominee: [tt1444337]
       winner: [tt1444337]
-'2011': # https://www.imdb.com/event/ev0000349/2011/1/?ref_=ev_eh
+'2011': # https://www.imdb.com/event/ev0000349/2011/1/
   independent spirit award:
-    best feature:
-      nominee: [tt0947798, tt1542344, tt1234654, tt0842926, tt1399683]
-      winner: [tt0947798]
-    best first feature:
-      nominee: [tt1194263, tt1297928, tt0775543, tt1320244, tt1570989]
-      winner: [tt1194263]
-    best female lead:
-      nominee: [tt0947798, tt0842926, tt1234654, tt1399683, tt1120985, tt0935075]
-      winner: [tt0947798]
-    best male lead:
-      nominee: [tt1542344, tt0935075, tt1234654, tt1336617, tt1426362]
-      winner: [tt1542344]
-    best supporting female:
-      nominee: [tt1399683, tt0808526, tt1320244, tt1278379, tt1121977]
-      winner: [tt1399683]
-    best supporting male:
-      nominee: [tt1399683, tt1194263, tt1278379, tt0842926, tt1121977]
-      winner: [tt1399683]
-    best director:
-      nominee: [tt0947798, tt1542344, tt1399683, tt0935075, tt0842926]
-      winner: [tt0947798]
-    best screenplay:
-      nominee: [tt0842926, tt0808526, tt0878835, tt0935075, tt1399683]
-      winner: [tt0842926]
-    best first screenplay:
-      nominee: [tt1570989, tt1278379, tt1150947, tt1502714, tt1522218]
-      winner: [tt1570989]
     best cinematography:
-      nominee: [tt0947798, tt1234654, tt1334260, tt1570989, tt1399683]
+      nominee: [tt0947798, tt1234654, tt1334260, tt1399683, tt1570989]
+      winner: [tt0947798]
+    best director:
+      nominee: [tt0842926, tt0935075, tt0947798, tt1399683, tt1542344]
       winner: [tt0947798]
     best documentary:
-      nominee: [tt1587707, tt1391092, tt1559549, tt1517252, tt1611180]
+      nominee: [tt1391092, tt1517252, tt1559549, tt1587707, tt1611180]
       winner: [tt1587707]
+    best feature:
+      nominee: [tt0842926, tt0947798, tt1234654, tt1399683, tt1542344]
+      winner: [tt0947798]
+    best female lead:
+      nominee: [tt0842926, tt0935075, tt0947798, tt1120985, tt1234654, tt1399683]
+      winner: [tt0947798]
+    best first feature:
+      nominee: [tt0775543, tt1194263, tt1297928, tt1320244, tt1570989]
+      winner: [tt1194263]
+    best first screenplay:
+      nominee: [tt1150947, tt1278379, tt1502714, tt1522218, tt1570989]
+      winner: [tt1570989]
     best foreign film:
-      nominee: [tt1504320, tt0975684, tt1285246, tt1588337, tt1588895]
+      nominee: [tt0975684, tt1285246, tt1504320, tt1588337, tt1588895]
       winner: [tt1504320]
+    best male lead:
+      nominee: [tt0935075, tt1234654, tt1336617, tt1426362, tt1542344]
+      winner: [tt1542344]
+    best screenplay:
+      nominee: [tt0808526, tt0842926, tt0878835, tt0935075, tt1399683]
+      winner: [tt0842926]
+    best supporting female:
+      nominee: [tt0808526, tt1121977, tt1278379, tt1320244, tt1399683]
+      winner: [tt1399683]
+    best supporting male:
+      nominee: [tt0842926, tt1121977, tt1194263, tt1278379, tt1399683]
+      winner: [tt1399683]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt1426362, tt0390185, tt1436560, tt1522218, tt1294161]
+      nominee: [tt0390185, tt1294161, tt1426362, tt1436560, tt1522218]
       winner: [tt1426362]
   robert altman award:
     robert altman award:
@@ -855,61 +927,61 @@
       winner: [tt0878835]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt1391092, tt1566405, tt1517252]
+      nominee: [tt1391092, tt1517252, tt1566405]
       winner: [tt1391092]
   producers award:
     producers award:
-      nominee: [tt1518812, tt1291125, tt1174042]
+      nominee: [tt1174042, tt1291125, tt1518812]
       winner: [tt1518812]
   someone to watch award:
     someone to watch award:
-      nominee: [tt1608285, tt1513755, tt1521080]
+      nominee: [tt1513755, tt1521080, tt1608285]
       winner: [tt1608285]
   find your audience award:
     find your audience award:
       nominee: [tt1391092]
       winner: [tt1391092]
-'2010': # https://www.imdb.com/event/ev0000349/2010/1/?ref_=ev_eh
+'2010': # https://www.imdb.com/event/ev0000349/2010/1/
   independent spirit award:
+    best cinematography:
+      nominee: [tt1019452, tt1095217, tt1127715, tt1127877, tt1143155]
+      winner: [tt1019452]
+    best director:
+      nominee: [tt0824758, tt0929632, tt1019452, tt1103275, tt1127715]
+      winner: [tt0929632]
+    best documentary:
+      nominee: [tt0489342, tt1157605, tt1286537, tt1286821, tt1326831]
+      winner: [tt1157605]
     best feature:
-      nominee: [tt0929632, tt1022603, tt1190858, tt1127715, tt0824758]
+      nominee: [tt0824758, tt0929632, tt1022603, tt1127715, tt1190858]
+      winner: [tt0929632]
+    best female lead:
+      nominee: [tt0411323, tt0824758, tt0929632, tt1103275, tt1190858]
       winner: [tt0929632]
     best first feature:
-      nominee: [tt1263670, tt1315981, tt1217426, tt1179904, tt0790712]
+      nominee: [tt0790712, tt1179904, tt1217426, tt1263670, tt1315981]
       winner: [tt1263670]
-    best female lead:
-      nominee: [tt0929632, tt1103275, tt0824758, tt0411323, tt1190858]
+    best first screenplay:
+      nominee: [tt0929632, tt1127877, tt1190858, tt1263670, tt1315981]
       winner: [tt0929632]
+    best foreign film:
+      nominee: [tt0961066, tt1174732, tt1187044, tt1216496, tt1235166]
+      winner: [tt1174732]
     best male lead:
-      nominee: [tt1263670, tt1183921, tt1315981, tt1022603, tt1095442]
+      nominee: [tt1022603, tt1095442, tt1183921, tt1263670, tt1315981]
       winner: [tt1263670]
+    best screenplay:
+      nominee: [tt0790712, tt0824758, tt1022603, tt1091722, tt1183921]
+      winner: [tt1022603]
     best supporting female:
-      nominee: [tt0929632, tt1127877, tt1114680, tt1097643, tt0790712]
+      nominee: [tt0790712, tt0929632, tt1097643, tt1114680, tt1127877]
       winner: [tt0929632]
     best supporting male:
-      nominee: [tt0790712, tt1175506, tt0824758, tt1161418, tt1114680]
+      nominee: [tt0790712, tt0824758, tt1114680, tt1161418, tt1175506]
       winner: [tt0790712]
-    best director:
-      nominee: [tt0929632, tt1127715, tt1019452, tt1103275, tt0824758]
-      winner: [tt0929632]
-    best screenplay:
-      nominee: [tt1022603, tt1091722, tt0824758, tt0790712, tt1183921]
-      winner: [tt1022603]
-    best first screenplay:
-      nominee: [tt0929632, tt1315981, tt1190858, tt1127877, tt1263670]
-      winner: [tt0929632]
-    best cinematography:
-      nominee: [tt1019452, tt1095217, tt1127877, tt1127715, tt1143155]
-      winner: [tt1019452]
-    best documentary:
-      nominee: [tt1157605, tt1286537, tt1286821, tt1326831, tt0489342]
-      winner: [tt1157605]
-    best foreign film:
-      nominee: [tt1174732, tt1235166, tt0961066, tt1216496, tt1187044]
-      winner: [tt1174732]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt1334537, tt1228953, tt1189350, tt1143155, tt1270494]
+      nominee: [tt1143155, tt1189350, tt1228953, tt1270494, tt1334537]
       winner: [tt1334537]
   robert altman award:
     robert altman award:
@@ -917,57 +989,57 @@
       winner: [tt1019452]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt1337139, tt1339635, tt1333639]
+      nominee: [tt1333639, tt1337139, tt1339635]
       winner: [tt1337139]
   producers award:
     producers award:
-      nominee: [tt0770751, tt1339268, tt0902290]
-      winner: [tt0770751]
+      nominee: [tt0770751, tt0902290, tt1172994, tt1186248, tt1294161, tt1339268]
+      winner: [tt0770751, tt1294161]
   someone to watch award:
     someone to watch award:
-      nominee: [tt1217426, tt0963328, tt1270494]
+      nominee: [tt0963328, tt1217426, tt1270494]
       winner: [tt1217426]
-'2009': # https://www.imdb.com/event/ev0000349/2009/1/?ref_=ev_eh
+'2009': # https://www.imdb.com/event/ev0000349/2009/1/
   independent spirit award:
+    best cinematography:
+      nominee: [tt0990404, tt1013753, tt1125849, tt1133989, tt1153690]
+      winner: [tt1125849]
+    best director:
+      nominee: [tt0857191, tt0978759, tt0990404, tt1084950, tt1153690]
+      winner: [tt0857191]
+    best documentary:
+      nominee: [tt1093824, tt1114277, tt1155592, tt1157685, tt1157694]
+      winner: [tt1155592]
     best feature:
-      nominee: [tt1125849, tt1153690, tt0978759, tt1084950, tt1152850]
+      nominee: [tt0978759, tt1084950, tt1125849, tt1152850, tt1153690]
       winner: [tt1125849]
-    best first feature:
-      nominee: [tt0383028, tt1224366, tt0834938, tt1133989, tt0804529]
-      winner: [tt0383028]
     best female lead:
-      nominee: [tt0978759, tt1084950, tt1152850, tt0787523, tt1153690]
+      nominee: [tt0787523, tt0978759, tt1084950, tt1152850, tt1153690]
       winner: [tt0978759]
+    best first feature:
+      nominee: [tt0383028, tt0804529, tt0834938, tt1133989, tt1224366]
+      winner: [tt0383028]
+    best first screenplay:
+      nominee: [tt0978759, tt1013753, tt1082886, tt1084950, tt1153690]
+      winner: [tt1013753]
+    best foreign film:
+      nominee: [tt0487419, tt0841925, tt0929425, tt0986233, tt1068646]
+      winner: [tt1068646]
     best male lead:
-      nominee: [tt1125849, tt0497465, tt0887912, tt0857191, tt1013753]
+      nominee: [tt0497465, tt0857191, tt0887912, tt1013753, tt1125849]
       winner: [tt1125849]
+    best screenplay:
+      nominee: [tt0379976, tt0383028, tt0497465, tt0834938, tt0990413]
+      winner: [tt0497465]
     best supporting female:
-      nominee: [tt0497465, tt1084950, tt0978759, tt0828158]
+      nominee: [tt0497465, tt0828158, tt0978759, tt1084950]
       winner: [tt0497465]
     best supporting male:
-      nominee: [tt1013753, tt0887912, tt0978759, tt0857191, tt1153690]
+      nominee: [tt0857191, tt0887912, tt0978759, tt1013753, tt1153690]
       winner: [tt1013753]
-    best director:
-      nominee: [tt0857191, tt0978759, tt1084950, tt1153690, tt0990404]
-      winner: [tt0857191]
-    best screenplay:
-      nominee: [tt0497465, tt0834938, tt0379976, tt0990413, tt0383028]
-      winner: [tt0497465]
-    best first screenplay:
-      nominee: [tt1013753, tt1153690, tt0978759, tt1084950, tt1082886]
-      winner: [tt1013753]
-    best cinematography:
-      nominee: [tt1125849, tt1153690, tt0990404, tt1133989, tt1013753]
-      winner: [tt1125849]
-    best documentary:
-      nominee: [tt1155592, tt1093824, tt1157685, tt1157694, tt1114277]
-      winner: [tt1155592]
-    best foreign film:
-      nominee: [tt1068646, tt0929425, tt0986233, tt0841925, tt0487419]
-      winner: [tt1068646]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt0989000, tt1000769, tt0391483, tt0780607, tt0811128]
+      nominee: [tt0391483, tt0780607, tt0811128, tt0989000, tt1000769]
       winner: [tt0989000]
   robert altman award:
     robert altman award:
@@ -975,57 +1047,57 @@
       winner: [tt0383028]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt1157694, tt1157605, tt1246588]
+      nominee: [tt1157605, tt1157694, tt1246588]
       winner: [tt1157694]
   producers award:
     producers award:
-      nominee: [tt0978759, tt1095442, tt1143155]
-      winner: [tt0978759]
+      nominee: [tt0826558, tt0850674, tt0872236, tt0978759, tt1095442, tt1143155]
+      winner: [tt0826558, tt0978759]
   someone to watch award:
     someone to watch award:
-      nominee: [tt1183684, tt1133989, tt1172203]
+      nominee: [tt1133989, tt1172203, tt1183684]
       winner: [tt1183684]
-'2008': # https://www.imdb.com/event/ev0000349/2008/1/?ref_=ev_eh
+'2008': # https://www.imdb.com/event/ev0000349/2008/1/
   independent spirit award:
-    best feature:
-      nominee: [tt0467406, tt0829459, tt0368794, tt0842929, tt0401383]
-      winner: [tt0467406]
-    best first feature:
-      nominee: [tt0427470, tt0826547, tt0477078, tt0841044, tt0832971]
-      winner: [tt0427470]
-    best female lead:
-      nominee: [tt0467406, tt0829459, tt0772157, tt0480269, tt0808357]
-      winner: [tt0467406]
-    best male lead:
-      nominee: [tt0775529, tt0796368, tt0758784, tt1020936, tt0808357]
-      winner: [tt0775529]
-    best supporting female:
-      nominee: [tt0368794, tt0477078, tt0757361, tt0292963, tt0893331]
-      winner: [tt0368794]
-    best supporting male:
-      nominee: [tt0796368, tt0433416, tt0826547, tt0368794, tt0462504]
-      winner: [tt0796368]
-    best director:
-      nominee: [tt0401383, tt0842929, tt0467406, tt0775529, tt0368794]
-      winner: [tt0401383]
-    best screenplay:
-      nominee: [tt0775529, tt0758784, tt0401383, tt0473308, tt0756729]
-      winner: [tt0775529]
-    best first screenplay:
-      nominee: [tt0467406, tt0829459, tt0292963, tt0772157, tt0477078]
-      winner: [tt0467406]
     best cinematography:
-      nominee: [tt0401383, tt0808357, tt0775529, tt0832971, tt0481797]
+      nominee: [tt0401383, tt0481797, tt0775529, tt0808357, tt0832971]
+      winner: [tt0401383]
+    best director:
+      nominee: [tt0368794, tt0401383, tt0467406, tt0775529, tt0842929]
       winner: [tt0401383]
     best documentary:
-      nominee: [tt0790706, tt0841119, tt0832903, tt0925259, tt0841149]
+      nominee: [tt0790706, tt0832903, tt0841119, tt0841149, tt0925259]
       winner: [tt0790706]
+    best feature:
+      nominee: [tt0368794, tt0401383, tt0467406, tt0829459, tt0842929]
+      winner: [tt0467406]
+    best female lead:
+      nominee: [tt0467406, tt0480269, tt0772157, tt0808357, tt0829459]
+      winner: [tt0467406]
+    best first feature:
+      nominee: [tt0427470, tt0477078, tt0826547, tt0832971, tt0841044]
+      winner: [tt0427470]
+    best first screenplay:
+      nominee: [tt0292963, tt0467406, tt0477078, tt0772157, tt0829459]
+      winner: [tt0467406]
     best foreign film:
-      nominee: [tt0907657, tt1032846, tt0459880, tt0808417, tt1032856]
+      nominee: [tt0459880, tt0808417, tt0907657, tt1032846, tt1032856]
       winner: [tt0907657]
+    best male lead:
+      nominee: [tt0758784, tt0775529, tt0796368, tt0808357, tt1020936]
+      winner: [tt0775529]
+    best screenplay:
+      nominee: [tt0401383, tt0473308, tt0756729, tt0758784, tt0775529]
+      winner: [tt0775529]
+    best supporting female:
+      nominee: [tt0292963, tt0368794, tt0477078, tt0757361, tt0893331]
+      winner: [tt0368794]
+    best supporting male:
+      nominee: [tt0368794, tt0433416, tt0462504, tt0796368, tt0826547]
+      winner: [tt0796368]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt1020936, tt0971162, tt0914382, tt0952682, tt0911024]
+      nominee: [tt0911024, tt0914382, tt0952682, tt0971162, tt1020936]
       winner: [tt1020936]
   robert altman award:
     robert altman award:
@@ -1033,407 +1105,407 @@
       winner: [tt0368794]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt0912596, tt0847817, tt0762130]
+      nominee: [tt0762130, tt0847817, tt0912596]
       winner: [tt0912596]
   producers award:
     producers award:
-      nominee: [tt0842929, tt0478126, tt0991167]
-      winner: [tt0842929]
+      nominee: [tt0383965, tt0451176, tt0468526, tt0478126, tt0842929, tt0991167]
+      winner: [tt0468526, tt0842929]
   someone to watch award:
     someone to watch award:
-      nominee: [tt0990404, tt0970935, tt1031947]
+      nominee: [tt0970935, tt0990404, tt1031947]
       winner: [tt0990404]
-'2007': # https://www.imdb.com/event/ev0000349/2007/1/?ref_=ev_eh
+'2007': # https://www.imdb.com/event/ev0000349/2007/1/
   independent spirit award:
-    best feature:
-      nominee: [tt0449059, tt0416471, tt0468489, tt0457430, tt0783238]
+    best cinematography:
+      nominee: [tt0430768, tt0432260, tt0439182, tt0457430, tt0464105]
+      winner: [tt0457430]
+    best director:
+      nominee: [tt0420087, tt0449059, tt0454792, tt0468489, tt0783238]
       winner: [tt0449059]
-    best first feature:
-      nominee: [tt0428038, tt0499455, tt0464105, tt0436607, tt0477139]
-      winner: [tt0428038]
+    best documentary:
+      nominee: [tt0446055, tt0468094, tt0492472, tt0791268, tt4425258]
+      winner: [tt0468094]
+    best feature:
+      nominee: [tt0416471, tt0449059, tt0457430, tt0468489, tt0783238]
+      winner: [tt0449059]
     best female lead:
-      nominee: [tt0468489, tt0470765, tt0428038, tt0382357, tt0425600]
+      nominee: [tt0382357, tt0425600, tt0428038, tt0468489, tt0470765]
       winner: [tt0468489]
+    best first feature:
+      nominee: [tt0428038, tt0436607, tt0464105, tt0477139, tt0499455]
+      winner: [tt0428038]
+    best first screenplay:
+      nominee: [tt0435623, tt0449059, tt0468489, tt0473488, tt0477139]
+      winner: [tt0449059]
+    best foreign film:
+      nominee: [tt0405094, tt0444182, tt0479354, tt0479506, tt0809407]
+      winner: [tt0405094]
     best male lead:
-      nominee: [tt0468489, tt0427944, tt0464105, tt0446755, tt0416471]
+      nominee: [tt0416471, tt0427944, tt0446755, tt0464105, tt0468489]
       winner: [tt0468489]
+    best screenplay:
+      nominee: [tt0425600, tt0427944, tt0436331, tt0443543, tt0446755]
+      winner: [tt0427944]
     best supporting female:
-      nominee: [tt0436331, tt0483812, tt0416471, tt0783238, tt0473488]
+      nominee: [tt0416471, tt0436331, tt0473488, tt0483812, tt0783238]
       winner: [tt0436331]
     best supporting male:
-      nominee: [tt0449059, tt0473488, tt0420609, tt0439833]
+      nominee: [tt0420609, tt0439833, tt0449059, tt0473488]
       winner: [tt0449059]
-    best director:
-      nominee: [tt0449059, tt0783238, tt0420087, tt0468489, tt0454792]
-      winner: [tt0449059]
-    best screenplay:
-      nominee: [tt0427944, tt0436331, tt0425600, tt0443543, tt0446755]
-      winner: [tt0427944]
-    best first screenplay:
-      nominee: [tt0449059, tt0473488, tt0435623, tt0468489, tt0477139]
-      winner: [tt0449059]
-    best cinematography:
-      nominee: [tt0457430, tt0432260, tt0439182, tt0464105, tt0430768]
-      winner: [tt0457430]
-    best documentary:
-      nominee: [tt0468094, tt0492472, tt4425258, tt0446055, tt0791268]
-      winner: [tt0468094]
-    best foreign film:
-      nominee: [tt0405094, tt0809407, tt0479354, tt0444182, tt0479506]
-      winner: [tt0405094]
   special distinction award:
     special distinction award:
       nominee: [tt0979899]
       winner: [tt0979899]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt0451176, tt0417385, tt0758738, tt0439182, tt0468526]
+      nominee: [tt0417385, tt0439182, tt0451176, tt0468526, tt0758738]
       winner: [tt0451176]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt0795174, tt0790769, tt0814047]
+      nominee: [tt0790769, tt0795174, tt0814047]
       winner: [tt0795174]
   producers award:
     producers award:
-      nominee: [tt0367027, tt0468489, tt0844325]
-      winner: [tt0367027]
+      nominee: [tt0367027, tt0376827, tt0408106, tt0468489, tt0499603, tt0844325]
+      winner: [tt0367027, tt0376827]
   someone to watch award:
     someone to watch award:
-      nominee: [tt0499455, tt0784977, tt0492463]
+      nominee: [tt0492463, tt0499455, tt0784977]
       winner: [tt0499455]
-'2006': # https://www.imdb.com/event/ev0000349/2006/1/?ref_=ev_eh
+'2006': # https://www.imdb.com/event/ev0000349/2006/1/
   independent spirit award:
-    best feature:
-      nominee: [tt0388795, tt0379725, tt0433383, tt0367089, tt0419294]
+    best cinematography:
+      nominee: [tt0379725, tt0403217, tt0419294, tt0420291, tt0433383]
+      winner: [tt0433383]
+    best director:
+      nominee: [tt0367089, tt0370986, tt0388795, tt0420015, tt0433383]
       winner: [tt0388795]
-    best first feature:
-      nominee: [tt0375679, tt0407936, tt0415978, tt0318761, tt0407265]
-      winner: [tt0375679]
+    best documentary:
+      nominee: [tt0427312, tt0436728, tt0439810, tt0469589, tt1016268]
+      winner: [tt1016268]
+    best feature:
+      nominee: [tt0367089, tt0379725, tt0388795, tt0419294, tt0433383]
+      winner: [tt0388795]
     best female lead:
-      nominee: [tt0407265, tt0417096, tt0395543, tt0367089, tt0407936]
+      nominee: [tt0367089, tt0395543, tt0407265, tt0407936, tt0417096]
       winner: [tt0407265]
+    best first feature:
+      nominee: [tt0318761, tt0375679, tt0407265, tt0407936, tt0415978]
+      winner: [tt0375679]
+    best first screenplay:
+      nominee: [tt0273108, tt0292513, tt0407265, tt0415978, tt0418773]
+      winner: [tt0407265]
+    best foreign film:
+      nominee: [tt0347048, tt0407246, tt0420260, tt0445620, tt0456149]
+      winner: [tt0445620]
     best male lead:
-      nominee: [tt0379725, tt0433383, tt0388795, tt0367089, tt0410097]
+      nominee: [tt0367089, tt0379725, tt0388795, tt0410097, tt0433383]
+      winner: [tt0379725]
+    best screenplay:
+      nominee: [tt0367089, tt0379725, tt0414344, tt0419294, tt0420015]
       winner: [tt0379725]
     best supporting female:
-      nominee: [tt0418773, tt0407095, tt0361693, tt0388795, tt0420015]
+      nominee: [tt0361693, tt0388795, tt0407095, tt0418773, tt0420015]
       winner: [tt0418773]
     best supporting male:
-      nominee: [tt0375679, tt0419294, tt0414344, tt0412019, tt0367089]
+      nominee: [tt0367089, tt0375679, tt0412019, tt0414344, tt0419294]
       winner: [tt0375679]
-    best director:
-      nominee: [tt0388795, tt0433383, tt0370986, tt0367089, tt0420015]
-      winner: [tt0388795]
-    best screenplay:
-      nominee: [tt0379725, tt0420015, tt0367089, tt0419294, tt0414344]
-      winner: [tt0379725]
-    best first screenplay:
-      nominee: [tt0407265, tt0292513, tt0418773, tt0415978, tt0273108]
-      winner: [tt0407265]
-    best cinematography:
-      nominee: [tt0433383, tt0379725, tt0420291, tt0403217, tt0419294]
-      winner: [tt0433383]
-    best documentary:
-      nominee: [tt1016268, tt0427312, tt0439810, tt0436728, tt0469589]
-      winner: [tt1016268]
-    best foreign film:
-      nominee: [tt0445620, tt0407246, tt0347048, tt0456149, tt0420260]
-      winner: [tt0445620]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt0455929, tt0393109, tt0466857, tt0417096, tt0436689]
+      nominee: [tt0393109, tt0417096, tt0436689, tt0455929, tt0466857]
       winner: [tt0455929]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt0452659, tt0492714, tt0436728, tt0470949]
+      nominee: [tt0436728, tt0452659, tt0470949, tt0492714]
       winner: [tt0452659]
   producers award:
     producers award:
-      nominee: [tt0379725, tt0393109, tt0418773]
-      winner: [tt0379725]
+      nominee: [tt0265343, tt0362004, tt0379725, tt0393109, tt0418773, tt0435623]
+      winner: [tt0265343, tt0379725]
   someone to watch award:
     someone to watch award:
-      nominee: [tt0428303, tt0383965, tt0436689]
+      nominee: [tt0383965, tt0428303, tt0436689]
       winner: [tt0428303]
-'2005': # https://www.imdb.com/event/ev0000349/2005/1/?ref_=ev_eh
+'2005': # https://www.imdb.com/event/ev0000349/2005/1/
   independent spirit award:
-    best feature:
-      nominee: [tt0375063, tt0367790, tt0362269, tt0390221, tt0390384]
-      winner: [tt0375063]
-    best first feature:
-      nominee: [tt0333766, tt0306597, tt0374900, tt0373283, tt0361127]
-      winner: [tt0333766]
-    best female lead:
-      nominee: [tt0390221, tt0389235, tt0399901, tt0367587, tt0363579]
-      winner: [tt0390221]
-    best male lead:
-      nominee: [tt0375063, tt0388367, tt0348593, tt0361127, tt0362269]
-      winner: [tt0375063]
-    best supporting female:
-      nominee: [tt0375063, tt0379217, tt0399901, tt0397613, tt0390221]
-      winner: [tt0375063]
-    best supporting male:
-      nominee: [tt0375063, tt0367587, tt0374900, tt0362269, tt0306597]
-      winner: [tt0375063]
+    best cinematography:
+      nominee: [tt0318462, tt0338133, tt0361309, tt0373283, tt0388367]
+      winner: [tt0318462]
+    best debut performance:
+      nominee: [tt0306597, tt0318462, tt0361127, tt0390384, tt0397613]
+      winner: [tt0318462]
     best director:
-      nominee: [tt0375063, tt0390221, tt0367790, tt0390384, tt0318462]
+      nominee: [tt0318462, tt0367790, tt0375063, tt0390221, tt0390384]
+      winner: [tt0375063]
+    best documentary:
+      nominee: [tt0372806, tt0387412, tt0388835, tt0390538, tt0398103]
+      winner: [tt0387412]
+    best feature:
+      nominee: [tt0362269, tt0367790, tt0375063, tt0390221, tt0390384]
+      winner: [tt0375063]
+    best female lead:
+      nominee: [tt0363579, tt0367587, tt0389235, tt0390221, tt0399901]
+      winner: [tt0390221]
+    best first feature:
+      nominee: [tt0306597, tt0333766, tt0361127, tt0373283, tt0374900]
+      winner: [tt0333766]
+    best first screenplay:
+      nominee: [tt0306597, tt0333766, tt0390221, tt0390384, tt0397613]
+      winner: [tt0390221]
+    best foreign film:
+      nominee: [tt0275491, tt0320193, tt0365190, tt0369702, tt0419279]
+      winner: [tt0369702]
+    best male lead:
+      nominee: [tt0348593, tt0361127, tt0362269, tt0375063, tt0388367]
       winner: [tt0375063]
     best screenplay:
-      nominee: [tt0375063, tt0367790, tt0381681, tt0362269, tt0348593]
+      nominee: [tt0348593, tt0362269, tt0367790, tt0375063, tt0381681]
       winner: [tt0375063]
-    best first screenplay:
-      nominee: [tt0390221, tt0306597, tt0333766, tt0390384, tt0397613]
-      winner: [tt0390221]
-    best cinematography:
-      nominee: [tt0318462, tt0338133, tt0388367, tt0373283, tt0361309]
-      winner: [tt0318462]
-    best documentary:
-      nominee: [tt0387412, tt0372806, tt0388835, tt0398103, tt0390538]
-      winner: [tt0387412]
-    best debut performance:
-      nominee: [tt0318462, tt0306597, tt0390384, tt0361127, tt0397613]
-      winner: [tt0318462]
-    best foreign film:
-      nominee: [tt0369702, tt0275491, tt0320193, tt0365190, tt0419279]
-      winner: [tt0369702]
+    best supporting female:
+      nominee: [tt0375063, tt0379217, tt0390221, tt0397613, tt0399901]
+      winner: [tt0375063]
+    best supporting male:
+      nominee: [tt0306597, tt0362269, tt0367587, tt0374900, tt0375063]
+      winner: [tt0375063]
   special distinction award:
     special distinction award:
       nominee: [tt0377091]
       winner: [tt0377091]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt0377091, tt0363579, tt0389235, tt0397613, tt0391513]
+      nominee: [tt0363579, tt0377091, tt0389235, tt0391513, tt0397613]
       winner: [tt0377091]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt0388789, tt0388835, tt0391024, tt0388935]
+      nominee: [tt0388789, tt0388835, tt0388935, tt0391024]
       winner: [tt0388789]
   producers award:
     producers award:
-      nominee: [tt0279113, tt0374900, tt0368089]
-      winner: [tt0279113]
+      nominee: [tt0212974, tt0279113, tt0368089, tt0374900, tt0403598, tt0415978, tt0436607]
+      winner: [tt0279113, tt0415978, tt0436607]
   someone to watch award:
     someone to watch award:
-      nominee: [tt0421960, tt0389908, tt0401831]
+      nominee: [tt0389908, tt0401831, tt0421960]
       winner: [tt0421960]
-'2004': # https://www.imdb.com/event/ev0000349/2004/1/?ref_=ev_eh
+'2004': # https://www.imdb.com/event/ev0000349/2004/1/
   independent spirit award:
-    best feature:
-      nominee: [tt0335266, tt0305206, tt0298845, tt0316188, tt0323944]
-      winner: [tt0335266]
-    best first feature:
-      nominee: [tt0340855, tt0337585, tt0315983, tt0342916, tt0328538]
-      winner: [tt0340855]
-    best female lead:
-      nominee: [tt0340855, tt0290145, tt0368411, tt0298845, tt0299458]
-      winner: [tt0340855]
-    best male lead:
-      nominee: [tt0335266, tt0315983, tt0324013, tt0305206, tt0340377]
-      winner: [tt0335266]
-    best supporting female:
-      nominee: [tt0315983, tt0298408, tt0314630, tt0311648, tt0298845]
-      winner: [tt0315983]
-    best supporting male:
-      nominee: [tt0298845, tt0298408, tt0305206, tt0323944, tt0324013]
+    best cinematography:
+      nominee: [tt0298845, tt0322659, tt0323944, tt0342916, tt0363589]
       winner: [tt0298845]
+    best debut performance:
+      nominee: [tt0315775, tt0316188, tt0328538, tt0342167]
+      winner: [tt0328538]
     best director:
-      nominee: [tt0335266, tt0305206, tt0363589, tt0298845, tt0316188]
+      nominee: [tt0298845, tt0305206, tt0316188, tt0335266, tt0363589]
+      winner: [tt0335266]
+    best documentary:
+      nominee: [tt0230512, tt0317910, tt0334029, tt0358647, tt0373175]
+      winner: [tt0317910]
+    best feature:
+      nominee: [tt0298845, tt0305206, tt0316188, tt0323944, tt0335266]
+      winner: [tt0335266]
+    best female lead:
+      nominee: [tt0290145, tt0298845, tt0299458, tt0340855, tt0368411]
+      winner: [tt0340855]
+    best first feature:
+      nominee: [tt0315983, tt0328538, tt0337585, tt0340855, tt0342916]
+      winner: [tt0340855]
+    best first screenplay:
+      nominee: [tt0290145, tt0316188, tt0328538, tt0340377, tt0340855]
+      winner: [tt0340377]
+    best foreign film:
+      nominee: [tt0286244, tt0298228, tt0300140, tt0317248, tt0318411]
+      winner: [tt0298228]
+    best male lead:
+      nominee: [tt0305206, tt0315983, tt0324013, tt0335266, tt0340377]
       winner: [tt0335266]
     best screenplay:
-      nominee: [tt0335266, tt0310281, tt0305206, tt0311648, tt0323944]
+      nominee: [tt0305206, tt0310281, tt0311648, tt0323944, tt0335266]
       winner: [tt0335266]
-    best first screenplay:
-      nominee: [tt0340377, tt0290145, tt0340855, tt0316188, tt0328538]
-      winner: [tt0340377]
-    best cinematography:
-      nominee: [tt0298845, tt0363589, tt0322659, tt0342916, tt0323944]
+    best supporting female:
+      nominee: [tt0298408, tt0298845, tt0311648, tt0314630, tt0315983]
+      winner: [tt0315983]
+    best supporting male:
+      nominee: [tt0298408, tt0298845, tt0305206, tt0323944, tt0324013]
       winner: [tt0298845]
-    best documentary:
-      nominee: [tt0317910, tt0230512, tt0373175, tt0334029, tt0358647]
-      winner: [tt0317910]
-    best debut performance:
-      nominee: [tt0328538, tt0342167, tt0315775, tt0316188]
-      winner: [tt0328538]
-    best foreign film:
-      nominee: [tt0298228, tt0317248, tt0300140, tt0318411, tt0286244]
-      winner: [tt0298228]
   special distinction award:
     special distinction award:
       nominee: [tt0315733]
       winner: [tt0315733]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt0340377, tt0315775, tt0280477, tt0311648, tt0368411]
+      nominee: [tt0280477, tt0311648, tt0315775, tt0340377, tt0368411]
       winner: [tt0340377]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt0383475, tt0359281, tt0373175, tt0342956]
+      nominee: [tt0342956, tt0359281, tt0373175, tt0383475]
       winner: [tt0383475]
   producers award:
     producers award:
-      nominee: [tt0271020, tt0303816, tt0271537]
-      winner: [tt0271020]
+      nominee: [tt0220343, tt0271020, tt0271537, tt0303816, tt0340161, tt0340377]
+      winner: [tt0271020, tt0340377]
   someone to watch award:
     someone to watch award:
-      nominee: [tt0327753, tt0378289, tt0365960]
+      nominee: [tt0327753, tt0365960, tt0378289]
       winner: [tt0327753]
-'2003': # https://www.imdb.com/event/ev0000349/2003/1/?ref_=ev_eh
+'2003': # https://www.imdb.com/event/ev0000349/2003/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0297884, tt0302674, tt0308411, tt0272207, tt0295238]
+      nominee: [tt0272207, tt0295238, tt0297884, tt0302674, tt0308411]
       winner: [tt0297884]
     best debut performance:
-      nominee: [tt0259446, tt0285728, tt0258273, tt0296166, tt0212604]
+      nominee: [tt0212604, tt0258273, tt0259446, tt0285728, tt0296166]
       winner: [tt0259446]
     best director:
-      nominee: [tt0297884, tt0238321, tt0302674, tt0272207, tt0258273]
+      nominee: [tt0238321, tt0258273, tt0272207, tt0297884, tt0302674]
       winner: [tt0297884]
     best documentary:
-      nominee: [tt0310793, tt0293088, tt0303348, tt0334416, tt0303321]
+      nominee: [tt0293088, tt0303321, tt0303348, tt0310793, tt0334416]
       winner: [tt0310793]
     best feature:
-      nominee: [tt0297884, tt0258273, tt0274812, tt0279113, tt0212604]
+      nominee: [tt0212604, tt0258273, tt0274812, tt0279113, tt0297884]
       winner: [tt0297884]
     best female lead:
-      nominee: [tt0297884, tt0258273, tt0295238, tt0274812, tt0279113]
+      nominee: [tt0258273, tt0274812, tt0279113, tt0295238, tt0297884]
       winner: [tt0297884]
     best first feature:
-      nominee: [tt0238924, tt0308411, tt0298050, tt0259484, tt0299117]
+      nominee: [tt0238924, tt0259484, tt0298050, tt0299117, tt0308411]
       winner: [tt0238924]
     best first screenplay:
-      nominee: [tt0274812, tt0290664, tt0280760, tt0308411, tt0264761]
+      nominee: [tt0264761, tt0274812, tt0280760, tt0290664, tt0308411]
       winner: [tt0274812]
     best foreign film:
-      nominee: [tt0245574, tt0285441, tt0280491, tt0254686, tt0279065]
+      nominee: [tt0245574, tt0254686, tt0279065, tt0280491, tt0285441]
       winner: [tt0245574]
     best male lead:
-      nominee: [tt0168786, tt0285728, tt0238321, tt0299117, tt0284494]
+      nominee: [tt0168786, tt0238321, tt0284494, tt0285728, tt0299117]
       winner: [tt0168786]
     best screenplay:
-      nominee: [tt0279113, tt0268690, tt0258273, tt0299117, tt0212604]
+      nominee: [tt0212604, tt0258273, tt0268690, tt0279113, tt0299117]
       winner: [tt0279113]
     best supporting female:
-      nominee: [tt0258273, tt0168786, tt0284478, tt0290664, tt0212604]
+      nominee: [tt0168786, tt0212604, tt0258273, tt0284478, tt0290664]
       winner: [tt0258273]
     best supporting male:
-      nominee: [tt0297884, tt0268690, tt0238321, tt0272207, tt0279113]
+      nominee: [tt0238321, tt0268690, tt0272207, tt0279113, tt0297884]
       winner: [tt0297884]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt0295238, tt0284478, tt0285728, tt0238321, tt0266971]
+      nominee: [tt0238321, tt0266971, tt0284478, tt0285728, tt0295238]
       winner: [tt0295238]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt0329321, tt0334405, tt0324080, tt0326306]
+      nominee: [tt0324080, tt0326306, tt0329321, tt0334405]
       winner: [tt0329321]
   producers award:
     producers award:
-      nominee: [tt0296166, tt0264761, tt0298050]
-      winner: [tt0296166]
+      nominee: [tt0113025, tt0258223, tt0264761, tt0296166, tt0298050, tt0342234]
+      winner: [tt0258223, tt0296166]
   someone to watch award:
     someone to watch award:
-      nominee: [tt0303374, tt0298050, tt0283387]
+      nominee: [tt0283387, tt0298050, tt0303374]
       winner: [tt0303374]
-'2002': # https://www.imdb.com/event/ev0000349/2002/1/?ref_=ev_eh
+'2002': # https://www.imdb.com/event/ev0000349/2002/1/
   independent spirit award:
-    best feature:
-      nominee: [tt0209144, tt0243017, tt0248845, tt0245501, tt0242587]
+    best cinematography:
+      nominee: [tt0166924, tt0209144, tt0243759, tt0248845, tt0250323]
+      winner: [tt0166924]
+    best debut performance:
+      nominee: [tt0242587, tt0258223, tt0275182, tt0276607, tt0283429]
+      winner: [tt0242587]
+    best director:
+      nominee: [tt0209144, tt0242587, tt0243017, tt0248845, tt0258223]
       winner: [tt0209144]
-    best first feature:
-      nominee: [tt0247425, tt0247199, tt0254099, tt0246578, tt0162346]
-      winner: [tt0247425]
+    best documentary:
+      nominee: [tt0143861, tt0270971, tt0274622, tt0275309, tt0282864]
+      winner: [tt0275309]
+    best feature:
+      nominee: [tt0209144, tt0242587, tt0243017, tt0245501, tt0248845]
+      winner: [tt0209144]
     best female lead:
-      nominee: [tt0247425, tt0246037, tt0245501, tt0240402, tt0250323]
+      nominee: [tt0240402, tt0245501, tt0246037, tt0247425, tt0250323]
       winner: [tt0247425]
+    best first feature:
+      nominee: [tt0162346, tt0246578, tt0247199, tt0247425, tt0254099]
+      winner: [tt0247425]
+    best first screenplay:
+      nominee: [tt0162346, tt0242587, tt0246578, tt0248845, tt0254099]
+      winner: [tt0162346]
+    best foreign film:
+      nominee: [tt0203119, tt0203166, tt0211915, tt0245712, tt0246765]
+      winner: [tt0211915]
     best male lead:
-      nominee: [tt0247425, tt0242587, tt0246578, tt0248845, tt0247199]
+      nominee: [tt0242587, tt0246578, tt0247199, tt0247425, tt0248845]
       winner: [tt0247425]
+    best screenplay:
+      nominee: [tt0209144, tt0243017, tt0247199, tt0247425, tt0285742]
+      winner: [tt0209144]
     best supporting female:
-      nominee: [tt0209144, tt0258223, tt0247199, tt0182000, tt0275719]
+      nominee: [tt0182000, tt0209144, tt0247199, tt0258223, tt0275719]
       winner: [tt0209144]
     best supporting male:
-      nominee: [tt0162346, tt0242587, tt0245501, tt0261755, tt0254099]
+      nominee: [tt0162346, tt0242587, tt0245501, tt0254099, tt0261755]
       winner: [tt0162346]
-    best director:
-      nominee: [tt0209144, tt0258223, tt0248845, tt0242587, tt0243017]
-      winner: [tt0209144]
-    best screenplay:
-      nominee: [tt0209144, tt0247199, tt0285742, tt0243017, tt0247425]
-      winner: [tt0209144]
-    best first screenplay:
-      nominee: [tt0162346, tt0254099, tt0248845, tt0246578, tt0242587]
-      winner: [tt0162346]
-    best cinematography:
-      nominee: [tt0166924, tt0248845, tt0250323, tt0243759, tt0209144]
-      winner: [tt0166924]
-    best documentary:
-      nominee: [tt0275309, tt0143861, tt0282864, tt0270971, tt0274622]
-      winner: [tt0275309]
-    best debut performance:
-      nominee: [tt0242587, tt0275182, tt0276607, tt0283429, tt0258223]
-      winner: [tt0242587]
-    best foreign film:
-      nominee: [tt0211915, tt0245712, tt0203119, tt0203166, tt0246765]
-      winner: [tt0211915]
   john cassavetes award:
     john cassavetes award:
-      nominee: [tt0261755, tt0275182, tt0283429, tt0160710, tt0276607]
+      nominee: [tt0160710, tt0261755, tt0275182, tt0276607, tt0283429]
       winner: [tt0261755]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt0267563, tt0264476, tt0282864, tt0288114, tt0278102]
+      nominee: [tt0264476, tt0267563, tt0278102, tt0282864, tt0288114]
       winner: [tt0267563]
   producers award:
     producers award:
-      nominee: [tt0283469, tt0275182, tt0168912, tt0181868]
-      winner: [tt0283469]
+      nominee: [tt0147111, tt0168449, tt0168912, tt0181868, tt0242587, tt0245356, tt0275182, tt0283469]
+      winner: [tt0242587, tt0283469]
   someone to watch award:
     someone to watch award:
-      nominee: [tt0276050, tt0212292, tt0246037, tt0120352]
+      nominee: [tt0120352, tt0212292, tt0246037, tt0276050]
       winner: [tt0276050]
-'2001': # https://www.imdb.com/event/ev0000349/2001/1/?ref_=ev_eh
+'2001': # https://www.imdb.com/event/ev0000349/2001/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0180093, tt0247196, tt0262432, tt0171359, tt0189998]
+      nominee: [tt0171359, tt0180093, tt0189998, tt0247196, tt0262432]
       winner: [tt0180093]
     best debut performance:
-      nominee: [tt0210075, tt0200530, tt0262432, tt0210299, tt0203230]
+      nominee: [tt0200530, tt0203230, tt0210075, tt0210299, tt0262432]
       winner: [tt0210075]
     best director:
-      nominee: [tt0190332, tt0218839, tt0180093, tt0247196, tt0200530]
+      nominee: [tt0180093, tt0190332, tt0200530, tt0218839, tt0247196]
       winner: [tt0190332]
     best documentary:
-      nominee: [tt0235327, tt0236447, tt0236576, tt0240912, tt0233687]
+      nominee: [tt0233687, tt0235327, tt0236447, tt0236576, tt0240912]
       winner: [tt0235327]
     best feature:
-      nominee: [tt0190332, tt0247196, tt0262432, tt0165798, tt0180093]
+      nominee: [tt0165798, tt0180093, tt0190332, tt0247196, tt0262432]
       winner: [tt0190332]
     best feature - under $500,000:
-      nominee: [tt0200530, tt0242337, tt0228277, tt0212974, tt0234407]
+      nominee: [tt0200530, tt0212974, tt0228277, tt0234407, tt0242337]
       winner: [tt0200530]
     best female lead:
-      nominee: [tt0180093, tt0199725, tt0208874, tt0202641, tt0203230]
+      nominee: [tt0180093, tt0199725, tt0202641, tt0203230, tt0208874]
       winner: [tt0180093]
     best first feature:
-      nominee: [tt0203230, tt0181984, tt0210075, tt0199725, tt0199129]
+      nominee: [tt0181984, tt0199129, tt0199725, tt0203230, tt0210075]
       winner: [tt0203230]
     best first screenplay:
-      nominee: [tt0199725, tt0181984, tt0262432, tt0199129, tt0170691]
+      nominee: [tt0170691, tt0181984, tt0199129, tt0199725, tt0262432]
       winner: [tt0199725]
     best foreign film:
-      nominee: [tt0168629, tt0259072, tt0118694, tt0169302, tt0141974]
+      nominee: [tt0118694, tt0141974, tt0168629, tt0169302, tt0259072]
       winner: [tt0168629]
     best male lead:
-      nominee: [tt0247196, tt0186253, tt0152176, tt0199129, tt0203230]
+      nominee: [tt0152176, tt0186253, tt0199129, tt0203230, tt0247196]
       winner: [tt0247196]
     best screenplay:
-      nominee: [tt0203230, tt0200530, tt0234137, tt0202641, tt0127349]
+      nominee: [tt0127349, tt0200530, tt0202641, tt0203230, tt0234137]
       winner: [tt0203230]
     best supporting female:
-      nominee: [tt0190332, tt0200530, tt0183659, tt0180093, tt0210299]
+      nominee: [tt0180093, tt0183659, tt0190332, tt0200530, tt0210299]
       winner: [tt0190332]
     best supporting male:
-      nominee: [tt0189998, tt0208874, tt0219699, tt0199129, tt0170691]
+      nominee: [tt0170691, tt0189998, tt0199129, tt0208874, tt0219699]
       winner: [tt0189998]
   truer than fiction award:
     truer than fiction award:
@@ -1441,128 +1513,128 @@
       winner: [tt0206187]
   producers award:
     producers award:
-      nominee: [tt0236008, tt0181288, tt0119569, tt0249757]
-      winner: [tt0236008]
+      nominee: [tt0119569, tt0119746, tt0156096, tt0181288, tt0234407, tt0236008, tt0249757]
+      winner: [tt0156096, tt0236008]
   someone to watch award:
     someone to watch award:
-      nominee: [tt0228277, tt0242337, tt0160616]
+      nominee: [tt0160616, tt0228277, tt0242337]
       winner: [tt0228277]
-'2000': # https://www.imdb.com/event/ev0000349/2000/1/?ref_=ev_eh
+'2000': # https://www.imdb.com/event/ev0000349/2000/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0138874, tt0181618, tt0192194, tt0168589, tt0162830]
+      nominee: [tt0138874, tt0162830, tt0168589, tt0181618, tt0192194]
       winner: [tt0138874]
     best debut performance:
-      nominee: [tt0161023, tt0181517, tt0138414, tt0126886, tt0173390]
+      nominee: [tt0126886, tt0138414, tt0161023, tt0173390, tt0181517]
       winner: [tt0161023]
     best director:
-      nominee: [tt0126886, tt0166896, tt0139239, tt0192194, tt0165854]
+      nominee: [tt0126886, tt0139239, tt0165854, tt0166896, tt0192194]
       winner: [tt0126886]
     best feature:
-      nominee: [tt0126886, tt0126250, tt0173390, tt0165854, tt0166896]
+      nominee: [tt0126250, tt0126886, tt0165854, tt0166896, tt0173390]
       winner: [tt0126886]
     best female lead:
-      nominee: [tt0171804, tt0120613, tt0126886, tt0161023, tt0163889]
+      nominee: [tt0120613, tt0126886, tt0161023, tt0163889, tt0171804]
       winner: [tt0171804]
     best first feature - over $500,000:
-      nominee: [tt0120601, tt0171804, tt0138874, tt0162830, tt0115005]
+      nominee: [tt0115005, tt0120601, tt0138874, tt0162830, tt0171804]
       winner: [tt0120601]
     best first feature - under $500,000:
-      nominee: [tt0185937, tt0223027, tt0181618, tt0168589, tt0181868]
+      nominee: [tt0168589, tt0181618, tt0181868, tt0185937, tt0223027]
       winner: [tt0185937]
     best first screenplay:
-      nominee: [tt0120601, tt0171804, tt0126250, tt0168449, tt0166896]
+      nominee: [tt0120601, tt0126250, tt0166896, tt0168449, tt0171804]
       winner: [tt0120601]
     best foreign film:
-      nominee: [tt0130827, tt0185125, tt0119743, tt0200071, tt0151568]
+      nominee: [tt0119743, tt0130827, tt0151568, tt0185125, tt0200071]
       winner: [tt0130827]
     best male lead:
-      nominee: [tt0166896, tt0120601, tt0164085, tt0193837, tt0165854]
+      nominee: [tt0120601, tt0164085, tt0165854, tt0166896, tt0193837]
       winner: [tt0166896]
     best screenplay:
-      nominee: [tt0126886, tt0120655, tt0160338, tt0133189, tt0165854]
+      nominee: [tt0120655, tt0126886, tt0133189, tt0160338, tt0165854]
       winner: [tt0126886]
     best supporting female:
-      nominee: [tt0171804, tt0139239, tt0160338, tt0181618, tt0164085]
+      nominee: [tt0139239, tt0160338, tt0164085, tt0171804, tt0181618]
       winner: [tt0171804]
     best supporting male:
-      nominee: [tt0162360, tt0126250, tt0168449, tt0168501, tt0165854]
+      nominee: [tt0126250, tt0162360, tt0165854, tt0168449, tt0168501]
       winner: [tt0162360]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt0239716, tt0181287, tt0181733, tt0241051]
+      nominee: [tt0181287, tt0181733, tt0239716, tt0241051]
       winner: [tt0239716]
   producers award:
     producers award:
-      nominee: [tt0142393, tt0231212, tt0171804, tt0168589]
+      nominee: [tt0142393, tt0150941, tt0168589, tt0171804, tt0231212]
       winner: [tt0142393]
   someone to watch award:
     someone to watch award:
-      nominee: [tt0181517, tt0171340, tt0181602, tt0169333]
+      nominee: [tt0169333, tt0171340, tt0181517, tt0181602]
       winner: [tt0181517]
-'1999': # https://www.imdb.com/event/ev0000349/1999/1/?ref_=ev_eh
+'1999': # https://www.imdb.com/event/ev0000349/1999/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0120879, tt0118564, tt0158493, tt0139362, tt0138704]
+      nominee: [tt0118564, tt0120879, tt0138704, tt0139362, tt0158493]
       winner: [tt0120879]
     best debut performance:
-      nominee: [tt0120321, tt0120835, tt0158792, tt0139615]
+      nominee: [tt0120321, tt0120835, tt0139615, tt0158792]
       winner: [tt0120321]
     best director:
-      nominee: [tt0128445, tt0150143, tt0118564, tt0120879, tt0147612]
+      nominee: [tt0118564, tt0120879, tt0128445, tt0147612, tt0150143]
       winner: [tt0128445]
     best feature:
-      nominee: [tt0120684, tt0120835, tt0118564, tt0150143, tt0120879]
+      nominee: [tt0118564, tt0120684, tt0120835, tt0120879, tt0150143]
       winner: [tt0120684]
     best female lead:
-      nominee: [tt0139362, tt0150143, tt0142231, tt0119780, tt0120777]
+      nominee: [tt0119780, tt0120777, tt0139362, tt0142231, tt0150143]
       winner: [tt0139362]
     best first feature:
-      nominee: [tt0120777, tt0118789, tt0139362, tt0138704, tt0120831]
+      nominee: [tt0118789, tt0120777, tt0120831, tt0138704, tt0139362]
       winner: [tt0120777]
     best first screenplay:
-      nominee: [tt0138704, tt0139362, tt0119780, tt0120831, tt0120321]
+      nominee: [tt0119780, tt0120321, tt0120831, tt0138704, tt0139362]
       winner: [tt0138704]
     best foreign film:
-      nominee: [tt0154420, tt0140888, tt0119250, tt0120408, tt0120706]
+      nominee: [tt0119250, tt0120408, tt0120706, tt0140888, tt0154420]
       winner: [tt0154420]
     best male lead:
-      nominee: [tt0120684, tt0118564, tt0135166, tt0147612, tt0119336]
+      nominee: [tt0118564, tt0119336, tt0120684, tt0135166, tt0147612]
       winner: [tt0120684]
     best screenplay:
-      nominee: [tt0120777, tt0118564, tt0135166, tt0120684, tt0120176]
+      nominee: [tt0118564, tt0120176, tt0120684, tt0120777, tt0135166]
       winner: [tt0120777]
     best supporting female:
-      nominee: [tt0120684, tt0139362, tt0126802, tt0120777, tt0120875]
+      nominee: [tt0120684, tt0120777, tt0120875, tt0126802, tt0139362]
       winner: [tt0120684]
     best supporting male:
-      nominee: [tt0128445, tt0118564, tt0135166, tt0147612, tt0120321]
+      nominee: [tt0118564, tt0120321, tt0128445, tt0135166, tt0147612]
       winner: [tt0128445]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt0181786, tt0150290, tt0183024, tt0154893, tt0155004]
+      nominee: [tt0150290, tt0154893, tt0155004, tt0181786, tt0183024]
       winner: [tt0181786]
   producers award:
     producers award:
-      nominee: [tt0139362, tt0118640, tt0119338, tt0112887]
-      winner: [tt0139362]
+      nominee: [tt0112887, tt0116070, tt0118640, tt0119338, tt0119809, tt0127302, tt0139362, tt0156096]
+      winner: [tt0127302, tt0139362]
   someone to watch award:
     someone to watch award:
-      nominee: [tt0125551, tt0118882, tt0142735, tt0117675]
+      nominee: [tt0117675, tt0118882, tt0125551, tt0142735]
       winner: [tt0125551]
-'1998': # https://www.imdb.com/event/ev0000349/1998/1/?ref_=ev_eh
+'1998': # https://www.imdb.com/event/ev0000349/1998/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0116743, tt0113241, tt0119256, tt0120244, tt0122994]
+      nominee: [tt0113241, tt0116743, tt0119256, tt0120244, tt0122994]
       winner: [tt0116743]
     best debut performance:
-      nominee: [tt0119361, tt0109266, tt0117724, tt0120197]
+      nominee: [tt0109266, tt0117724, tt0119361, tt0120197]
       winner: [tt0119361]
     best director:
-      nominee: [tt0118632, tt0113241, tt0120357, tt0120402, tt0119062]
+      nominee: [tt0113241, tt0118632, tt0119062, tt0120357, tt0120402]
       winner: [tt0118632]
     best feature:
-      nominee: [tt0118632, tt0118842, tt0119581, tt0120402, tt0118111]
+      nominee: [tt0118111, tt0118632, tt0118842, tt0119581, tt0120402]
       winner: [tt0118632]
     best female lead:
       nominee: [tt0118566, tt0118586, tt0119361, tt0119581, tt0120244]
@@ -1571,26 +1643,26 @@
       nominee: [tt0119080, tt0119256, tt0119361, tt0120197, tt0122994]
       winner: [tt0119080]
     best first screenplay:
-      nominee: [tt0119361, tt0118901, tt0119256, tt0120197, tt0122994]
+      nominee: [tt0118901, tt0119256, tt0119361, tt0120197, tt0122994]
       winner: [tt0119361]
     best foreign film:
-      nominee: [tt0120255, tt0118845, tt0112546, tt0117221, tt0114787]
+      nominee: [tt0112546, tt0114787, tt0117221, tt0118845, tt0120255]
       winner: [tt0120255]
     best male lead:
-      nominee: [tt0118632, tt0115738, tt0119256, tt0120402, tt0118111]
+      nominee: [tt0115738, tt0118111, tt0118632, tt0119256, tt0120402]
       winner: [tt0118632]
     best screenplay:
-      nominee: [tt0118842, tt0118632, tt0120357, tt0120402, tt0118111]
+      nominee: [tt0118111, tt0118632, tt0118842, tt0120357, tt0120402]
       winner: [tt0118842]
     best supporting female:
-      nominee: [tt0119080, tt0119581, tt0118632, tt0120402]
+      nominee: [tt0118632, tt0119080, tt0119581, tt0120402]
       winner: [tt0119080]
     best supporting male:
-      nominee: [tt0118842, tt0119256, tt0120197, tt0120238, tt0119746]
+      nominee: [tt0118842, tt0119256, tt0119746, tt0120197, tt0120238]
       winner: [tt0118842]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt0119107, tt0122728, tt0126249, tt0119104, tt0120126]
+      nominee: [tt0119104, tt0119107, tt0120126, tt0122728, tt0126249]
       winner: [tt0119107, tt0122728]
   producers award:
     producers award:
@@ -1598,130 +1670,130 @@
       winner: [tt0113241]
   someone to watch award:
     someone to watch award:
-      nominee: [tt0119264, tt0116261, tt0119581]
+      nominee: [tt0116261, tt0119264, tt0119581]
       winner: [tt0119264]
-'1997': # https://www.imdb.com/event/ev0000349/1997/1/?ref_=ev_eh
+'1997': # https://www.imdb.com/event/ev0000349/1997/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0116282, tt0115736, tt0115925, tt0112817, tt0116378]
+      nominee: [tt0112817, tt0115736, tt0115925, tt0116282, tt0116378]
       winner: [tt0116282]
     best debut performance:
       nominee: [tt0114906, tt0115632, tt0115633, tt0115847]
       winner: [tt0114906]
     best director:
-      nominee: [tt0116282, tt0116378, tt0116324, tt0115847, tt0114906]
+      nominee: [tt0114906, tt0115847, tt0116282, tt0116324, tt0116378]
       winner: [tt0116282]
     best feature:
-      nominee: [tt0116282, tt0112817, tt0116905, tt0116378, tt0114906]
+      nominee: [tt0112817, tt0114906, tt0116282, tt0116378, tt0116905]
       winner: [tt0116282]
     best female lead:
-      nominee: [tt0116282, tt0115847, tt0116985, tt0118163, tt0118113]
+      nominee: [tt0115847, tt0116282, tt0116985, tt0118113, tt0118163]
       winner: [tt0116282]
     best first feature:
-      nominee: [tt0117666, tt0115678, tt0116594, tt0116985, tt0117958]
+      nominee: [tt0115678, tt0116594, tt0116985, tt0117666, tt0117958]
       winner: [tt0117666]
     best first screenplay:
-      nominee: [tt0115678, tt0116414, tt0116985, tt0118163, tt0117958]
+      nominee: [tt0115678, tt0116414, tt0116985, tt0117958, tt0118163]
       winner: [tt0115678]
     best foreign film:
-      nominee: [tt0117589, tt0115751, tt0109424, tt0110299, tt0117951]
+      nominee: [tt0109424, tt0110299, tt0115751, tt0117589, tt0117951]
       winner: [tt0117589]
     best male lead:
-      nominee: [tt0116282, tt0115678, tt0116905, tt0116378]
+      nominee: [tt0115678, tt0116282, tt0116378, tt0116905]
       winner: [tt0116282]
     best screenplay:
-      nominee: [tt0116282, tt0112817, tt0116324, tt0116905, tt0116378]
+      nominee: [tt0112817, tt0116282, tt0116324, tt0116378, tt0116905]
       winner: [tt0116282]
     best supporting female:
-      nominee: [tt0116905, tt0116324, tt0116418, tt0116985, tt0117603]
+      nominee: [tt0116324, tt0116418, tt0116905, tt0116985, tt0117603]
       winner: [tt0116905]
     best supporting male:
-      nominee: [tt0115632, tt0112817, tt0116324, tt0118113, tt0114906]
+      nominee: [tt0112817, tt0114906, tt0115632, tt0116324, tt0118113]
       winner: [tt0115632]
   truer than fiction award:
     truer than fiction award:
-      nominee: [tt0118147, tt0094416, tt0116913, tt0117293, tt0112651]
+      nominee: [tt0094416, tt0112651, tt0116913, tt0117293, tt0118147]
       winner: [tt0118147]
   someone to watch award:
     someone to watch award:
-      nominee: [tt0113241, tt0112345, tt0113535]
+      nominee: [tt0112345, tt0113241, tt0113535]
       winner: [tt0113241]
-'1996': # https://www.imdb.com/event/ev0000349/1996/1/?ref_=ev_eh
+'1996': # https://www.imdb.com/event/ev0000349/1996/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0113627, tt0110365, tt0110620, tt0114788, tt0114814]
+      nominee: [tt0110365, tt0110620, tt0113627, tt0114788, tt0114814]
       winner: [tt0113627]
     best debut performance:
-      nominee: [tt0113540, tt0113967, tt0110986, tt0110998, tt0112887]
+      nominee: [tt0110986, tt0110998, tt0112887, tt0113540, tt0113967]
       winner: [tt0113540]
     best director:
-      nominee: [tt0113627, tt0111112, tt0110620, tt0114323, tt0113158]
+      nominee: [tt0110620, tt0111112, tt0113158, tt0113627, tt0114323]
       winner: [tt0113627]
     best feature:
-      nominee: [tt0113627, tt0113677, tt0114323, tt0112288, tt0111112]
+      nominee: [tt0111112, tt0112288, tt0113627, tt0113677, tt0114323]
       winner: [tt0113627]
     best female lead:
-      nominee: [tt0113627, tt0113158, tt0110620, tt0114323, tt0112288]
+      nominee: [tt0110620, tt0112288, tt0113158, tt0113627, tt0114323]
       winner: [tt0113627]
     best first feature:
-      nominee: [tt0112585, tt0113540, tt0110365, tt0114129, tt0110998]
+      nominee: [tt0110365, tt0110998, tt0112585, tt0113540, tt0114129]
       winner: [tt0112585]
     best first screenplay:
-      nominee: [tt0114478, tt0113540, tt0110365, tt0110876, tt0110998]
+      nominee: [tt0110365, tt0110876, tt0110998, tt0113540, tt0114478]
       winner: [tt0114478]
     best foreign film:
-      nominee: [tt0110882, tt0109759, tt0058604, tt0112682, tt0111845]
+      nominee: [tt0058604, tt0109759, tt0110882, tt0111845, tt0112682]
       winner: [tt0110882]
     best male lead:
-      nominee: [tt0112818, tt0113627, tt0110365, tt0113896, tt0114594]
+      nominee: [tt0110365, tt0112818, tt0113627, tt0113896, tt0114594]
       winner: [tt0112818]
     best screenplay:
-      nominee: [tt0114814, tt0113627, tt0113677, tt0114323, tt0111112]
+      nominee: [tt0111112, tt0113627, tt0113677, tt0114323, tt0114814]
       winner: [tt0114814]
     best supporting female:
-      nominee: [tt0113158, tt0112818, tt0113540, tt0110365, tt0113896]
+      nominee: [tt0110365, tt0112818, tt0113158, tt0113540, tt0113896]
       winner: [tt0113158]
     best supporting male:
-      nominee: [tt0114814, tt0113158, tt0113677, tt0114478, tt0112744]
+      nominee: [tt0112744, tt0113158, tt0113677, tt0114478, tt0114814]
       winner: [tt0114814]
   someone to watch award:
     someone to watch award:
-      nominee: [tt0115925, tt0112393, tt0116085, tt0109855, tt0110998]
+      nominee: [tt0109855, tt0110998, tt0112393, tt0115925, tt0116085]
       winner: [tt0115925]
-'1995': # https://www.imdb.com/event/ev0000349/1995/1/?ref_=ev_eh
+'1995': # https://www.imdb.com/event/ev0000349/1995/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0109219, tt0111797, tt0110091, tt0108260, tt0109226]
+      nominee: [tt0108260, tt0109219, tt0109226, tt0110091, tt0111797]
       winner: [tt0109219]
     best debut performance:
-      nominee: [tt0109842, tt0109445, tt0109855, tt0110395, tt0111252]
+      nominee: [tt0109445, tt0109842, tt0109855, tt0110395, tt0111252]
       winner: [tt0109842]
     best director:
-      nominee: [tt0110912, tt0110588, tt0111797, tt0105226, tt0109579]
+      nominee: [tt0105226, tt0109579, tt0110588, tt0110912, tt0111797]
       winner: [tt0110912]
     best feature:
-      nominee: [tt0110912, tt0109348, tt0111797, tt0110588, tt0111686]
+      nominee: [tt0109348, tt0110588, tt0110912, tt0111686, tt0111797]
       winner: [tt0110912]
     best female lead:
-      nominee: [tt0110308, tt0111797, tt0110091, tt0110588, tt0111689]
+      nominee: [tt0110091, tt0110308, tt0110588, tt0111689, tt0111797]
       winner: [tt0110308]
     best first feature:
-      nominee: [tt0111252, tt0106579, tt0109445, tt0110091, tt0108260]
+      nominee: [tt0106579, tt0108260, tt0109445, tt0110091, tt0111252]
       winner: [tt0111252]
     best first screenplay:
-      nominee: [tt0111252, tt0109293, tt0109445, tt0109855, tt0111689]
+      nominee: [tt0109293, tt0109445, tt0109855, tt0111252, tt0111689]
       winner: [tt0111252]
     best foreign film:
-      nominee: [tt0111495, tt0110296, tt0107358, tt0106473, tt0108328]
+      nominee: [tt0106473, tt0107358, tt0108328, tt0110296, tt0111495]
       winner: [tt0111495]
     best male lead:
-      nominee: [tt0110912, tt0111797, tt0110091, tt0110588, tt0110722]
+      nominee: [tt0110091, tt0110588, tt0110722, tt0110912, tt0111797]
       winner: [tt0110912]
     best screenplay:
-      nominee: [tt0110912, tt0109348, tt0111797, tt0110588, tt0105226]
+      nominee: [tt0105226, tt0109348, tt0110588, tt0110912, tt0111797]
       winner: [tt0110912]
     best supporting female:
-      nominee: [tt0109348, tt0109913, tt0111252, tt0109226, tt0111590]
+      nominee: [tt0109226, tt0109348, tt0109913, tt0111252, tt0111590]
       winner: [tt0109348]
     best supporting male:
       nominee: [tt0109348, tt0109785, tt0109842, tt0110912, tt0111590]
@@ -1734,187 +1806,187 @@
     someone to watch award:
       nominee: [tt0106579]
       winner: [tt0106579]
-'1994': # https://www.imdb.com/event/ev0000349/1994/1/?ref_=ev_eh
+'1994': # https://www.imdb.com/event/ev0000349/1994/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0107554, tt0103670, tt0103936, tt0104201, tt0108000]
+      nominee: [tt0103670, tt0103936, tt0104201, tt0107554, tt0108000]
       winner: [tt0107554]
     best director:
-      nominee: [tt0108122, tt0107156, tt0104783, tt0104815, tt0108000]
+      nominee: [tt0104783, tt0104815, tt0107156, tt0108000, tt0108122]
       winner: [tt0108122]
     best feature:
-      nominee: [tt0108122, tt0104201, tt0107616, tt0108000, tt0107156]
+      nominee: [tt0104201, tt0107156, tt0107616, tt0108000, tt0108122]
       winner: [tt0108122]
     best female lead:
-      nominee: [tt0108000, tt0104575, tt0107616, tt0106350, tt0107156]
+      nominee: [tt0104575, tt0106350, tt0107156, tt0107616, tt0108000]
       winner: [tt0108000]
     best first feature:
-      nominee: [tt0104815, tt0103670, tt0106590, tt0104783, tt0107554]
+      nominee: [tt0103670, tt0104783, tt0104815, tt0106590, tt0107554]
       winner: [tt0104815]
     best foreign film:
-      nominee: [tt0107822, tt0103994, tt0107653, tt0107756, tt0105197]
+      nominee: [tt0103994, tt0105197, tt0107653, tt0107756, tt0107822]
       winner: [tt0107822]
     best male lead:
-      nominee: [tt0103670, tt0104201, tt0107152, tt0107554, tt0107156]
+      nominee: [tt0103670, tt0104201, tt0107152, tt0107156, tt0107554]
       winner: [tt0103670]
     best screenplay:
-      nominee: [tt0108122, tt0106590, tt0107152, tt0108000, tt0107156]
+      nominee: [tt0106590, tt0107152, tt0107156, tt0108000, tt0108122]
       winner: [tt0108122]
     best supporting female:
-      nominee: [tt0107152, tt0103670, tt0104201, tt0108122, tt0107156]
+      nominee: [tt0103670, tt0104201, tt0107152, tt0107156, tt0108122]
       winner: [tt0107152]
     best supporting male:
-      nominee: [tt0108410, tt0103670, tt0107220, tt0108000, tt0106350]
+      nominee: [tt0103670, tt0106350, tt0107220, tt0108000, tt0108410]
       winner: [tt0108410]
-'1993': # https://www.imdb.com/event/ev0000349/1993/1/?ref_=ev_eh
+'1993': # https://www.imdb.com/event/ev0000349/1993/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0102536, tt0099014, tt0104693, tt0102307, tt0105508]
+      nominee: [tt0099014, tt0102307, tt0102536, tt0104693, tt0105508]
       winner: [tt0102536]
     best director:
       nominee: [tt0102592, tt0103759, tt0104321, tt0105236, tt0105508]
       winner: [tt0102592]
     best feature:
-      nominee: [tt0105151, tt0103759, tt0104321, tt0102456, tt0102592]
+      nominee: [tt0102456, tt0102592, tt0103759, tt0104321, tt0105151]
       winner: [tt0105151]
     best female lead:
-      nominee: [tt0104321, tt0104567, tt0104693, tt0102592, tt0105665]
+      nominee: [tt0102592, tt0104321, tt0104567, tt0104693, tt0105665]
       winner: [tt0104321]
     best first feature:
-      nominee: [tt0105789, tt0104693, tt0104954, tt0105236, tt0105508]
+      nominee: [tt0104693, tt0104954, tt0105236, tt0105508, tt0105789]
       winner: [tt0105789]
     best foreign film:
-      nominee: [tt0104036, tt0103176, tt0101658, tt0104454, tt0101640]
+      nominee: [tt0101640, tt0101658, tt0103176, tt0104036, tt0104454]
       winner: [tt0104036]
     best male lead:
       nominee: [tt0103759, tt0104073, tt0104693, tt0105508, tt0105885]
       winner: [tt0103759]
     best original score:
-      nominee: [tt0105665, tt0099014, tt0102592, tt0105654, tt0105885]
+      nominee: [tt0099014, tt0102592, tt0105654, tt0105665, tt0105885]
       winner: [tt0105665]
     best screenplay:
-      nominee: [tt0105789, tt0102443, tt0104321, tt0102307, tt0102592]
+      nominee: [tt0102307, tt0102443, tt0102592, tt0104321, tt0105789]
       winner: [tt0105789]
     best supporting female:
-      nominee: [tt0105107, tt0104321, tt0102174, tt0105156, tt0105411]
+      nominee: [tt0102174, tt0104321, tt0105107, tt0105156, tt0105411]
       winner: [tt0105107]
     best supporting male:
-      nominee: [tt0105236, tt0104073, tt0105107, tt0105789]
+      nominee: [tt0104073, tt0105107, tt0105236, tt0105789]
       winner: [tt0105236]
   special distinction award:
     special distinction:
       nominee: [tt0104448]
       winner: [tt0104448]
-'1992': # https://www.imdb.com/event/ev0000349/1992/1/?ref_=ev_eh
+'1992': # https://www.imdb.com/event/ev0000349/1992/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0102181, tt0102048, tt0102494, tt0105109, tt0102753]
+      nominee: [tt0102048, tt0102181, tt0102494, tt0102753, tt0105109]
       winner: [tt0102181]
     best director:
-      nominee: [tt0102753, tt0102494, tt0101998, tt0102943, tt0102687]
+      nominee: [tt0101998, tt0102494, tt0102687, tt0102753, tt0102943]
       winner: [tt0102753]
     best feature:
-      nominee: [tt0102753, tt0101588, tt0101998, tt0102048, tt0102494]
+      nominee: [tt0101588, tt0101998, tt0102048, tt0102494, tt0102753]
       winner: [tt0102753]
     best female lead:
-      nominee: [tt0102103, tt0101510, tt0102757, tt0102864, tt0103143]
+      nominee: [tt0101510, tt0102103, tt0102757, tt0102864, tt0103143]
       winner: [tt0102103]
     best film music:
-      nominee: [tt0102494, tt0100122, tt0101998, tt0102221, tt0102989]
+      nominee: [tt0100122, tt0101998, tt0102221, tt0102494, tt0102989]
       winner: [tt0102494]
     best first feature:
-      nominee: [tt0102989, tt0101561, tt0102687, tt0102943, tt0102757]
+      nominee: [tt0101561, tt0102687, tt0102757, tt0102943, tt0102989]
       winner: [tt0102989]
     best foreign film:
       nominee: [tt0099040, tt0100024, tt0100476, tt0100757, tt0101765]
       winner: [tt0099040]
     best male lead:
-      nominee: [tt0102494, tt0101998, tt0105109, tt0102753, tt0100519]
+      nominee: [tt0100519, tt0101998, tt0102494, tt0102753, tt0105109]
       winner: [tt0102494]
     best screenplay:
-      nominee: [tt0102494, tt0101998, tt0102181, tt0100151, tt0102757]
+      nominee: [tt0100151, tt0101998, tt0102181, tt0102494, tt0102757]
       winner: [tt0102494]
     best supporting female:
-      nominee: [tt0102753, tt0101510, tt0101998, tt0102103, tt0105109]
+      nominee: [tt0101510, tt0101998, tt0102103, tt0102753, tt0105109]
       winner: [tt0102753]
     best supporting male:
-      nominee: [tt0101588, tt0102048, tt0105109, tt0102741, tt0102989]
+      nominee: [tt0101588, tt0102048, tt0102741, tt0102989, tt0105109]
       winner: [tt0101588]
-'1991': # https://www.imdb.com/event/ev0000349/1991/1/?ref_=ev_eh
+'1991': # https://www.imdb.com/event/ev0000349/1991/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0100935, tt0099800, tt0099939, tt0100023, tt0064820]
+      nominee: [tt0064820, tt0099800, tt0099939, tt0100023, tt0100935]
       winner: [tt0100935]
     best director:
-      nominee: [tt0100791, tt0100436, tt0099763, tt0064820, tt0099800]
+      nominee: [tt0064820, tt0099763, tt0099800, tt0100436, tt0100791]
       winner: [tt0100791]
     best feature:
-      nominee: [tt0099703, tt0099763, tt0100436, tt0064820, tt0100791]
+      nominee: [tt0064820, tt0099703, tt0099763, tt0100436, tt0100791]
       winner: [tt0099703]
     best female lead:
-      nominee: [tt0099703, tt0099095, tt0100142, tt0100200, tt0100791]
+      nominee: [tt0099095, tt0099703, tt0100142, tt0100200, tt0100791]
       winner: [tt0099703]
     best first feature:
-      nominee: [tt0100142, tt0099800, tt0097752, tt0100230, tt0096321]
+      nominee: [tt0096321, tt0097752, tt0099800, tt0100142, tt0100230]
       winner: [tt0100142]
     best foreign film:
-      nominee: [tt0098725, tt0096908, tt0097694, tt0101003, tt0097108]
+      nominee: [tt0096908, tt0097108, tt0097694, tt0098725, tt0101003]
       winner: [tt0098725]
     best male lead:
-      nominee: [tt0100791, tt0099763, tt0099800, tt0100436, tt0064820]
+      nominee: [tt0064820, tt0099763, tt0099800, tt0100436, tt0100791]
       winner: [tt0100791]
     best screenplay:
-      nominee: [tt0100791, tt0099763, tt0100142, tt0100436, tt0064820]
+      nominee: [tt0064820, tt0099763, tt0100142, tt0100436, tt0100791]
       winner: [tt0100791]
     best supporting female:
-      nominee: [tt0100791, tt0099763, tt0099800]
+      nominee: [tt0099763, tt0099800, tt0100791]
       winner: [tt0100791]
     best supporting male:
-      nominee: [tt0100049, tt0099763, tt0099800, tt0064820, tt0100935]
+      nominee: [tt0064820, tt0099763, tt0099800, tt0100049, tt0100935]
       winner: [tt0100049]
   special distinction award:
     special distinction award:
       nominee: [tt0099348]
       winner: [tt0099348]
-'1990': # https://www.imdb.com/event/ev0000349/1990/1/?ref_=ev_eh
+'1990': # https://www.imdb.com/event/ev0000349/1990/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0097240, tt0097257, tt0097940, tt0098112, tt0096220]
+      nominee: [tt0096220, tt0097240, tt0097257, tt0097940, tt0098112]
       winner: [tt0097240]
     best director:
-      nominee: [tt0098724, tt0098325, tt0097240, tt0097940, tt0098528]
+      nominee: [tt0097240, tt0097940, tt0098325, tt0098528, tt0098724]
       winner: [tt0098724]
     best feature:
-      nominee: [tt0098724, tt0097240, tt0093165, tt0097940, tt0098528]
+      nominee: [tt0093165, tt0097240, tt0097940, tt0098528, tt0098724]
       winner: [tt0098724]
     best female lead:
-      nominee: [tt0098724, tt0097240, tt0097493, tt0097940, tt0098528]
+      nominee: [tt0097240, tt0097493, tt0097940, tt0098528, tt0098724]
       winner: [tt0098724]
     best first feature:
-      nominee: [tt0097493, tt0096744, tt0098112, tt0098325, tt0096220]
+      nominee: [tt0096220, tt0096744, tt0097493, tt0098112, tt0098325]
       winner: [tt0097493]
     best foreign film:
-      nominee: [tt0097937, tt0095037, tt0095276, tt0095302, tt0093258]
+      nominee: [tt0093258, tt0095037, tt0095276, tt0095302, tt0097937]
       winner: [tt0097937]
     best male lead:
-      nominee: [tt0097240, tt0098068, tt0098724, tt0098325, tt0098577]
+      nominee: [tt0097240, tt0098068, tt0098325, tt0098577, tt0098724]
       winner: [tt0097240]
     best screenplay:
-      nominee: [tt0097240, tt0096744, tt0097493, tt0097889, tt0097940]
+      nominee: [tt0096744, tt0097240, tt0097493, tt0097889, tt0097940]
       winner: [tt0097240]
     best supporting female:
-      nominee: [tt0098724, tt0097240, tt0097889, tt0098261, tt0098300]
+      nominee: [tt0097240, tt0097889, tt0098261, tt0098300, tt0098724]
       winner: [tt0098724]
     best supporting male:
       nominee: [tt0097240, tt0097940, tt0098112, tt0098300]
       winner: [tt0097240]
-'1989': # https://www.imdb.com/event/ev0000349/1989/1/?ref_=ev_eh
+'1989': # https://www.imdb.com/event/ev0000349/1989/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0096332, tt0095835, tt0094027, tt0096219, tt0095649]
+      nominee: [tt0094027, tt0095649, tt0095835, tt0096219, tt0096332]
       winner: [tt0096332]
     best director:
-      nominee: [tt0094027, tt0095835, tt0096257, tt0095270, tt0096219]
+      nominee: [tt0094027, tt0095270, tt0095835, tt0096219, tt0096257]
       winner: [tt0094027]
     best feature:
       nominee: [tt0094027, tt0095270, tt0095835, tt0096257, tt0096289]
@@ -1923,103 +1995,103 @@
       nominee: [tt0093029, tt0095270, tt0095690, tt0095916, tt0096424]
       winner: [tt0093029]
     best first feature:
-      nominee: [tt0095690, tt0090766, tt0094869, tt0095903, tt0096424]
+      nominee: [tt0090766, tt0094869, tt0095690, tt0095903, tt0096424]
       winner: [tt0095690]
     best foreign film:
-      nominee: [tt0093191, tt0096464, tt0095801, tt0093354, tt0094349]
+      nominee: [tt0093191, tt0093354, tt0094349, tt0095801, tt0096464]
       winner: [tt0093191]
     best male lead:
-      nominee: [tt0094027, tt0095835, tt0096219, tt0094783, tt0096289]
+      nominee: [tt0094027, tt0094783, tt0095835, tt0096219, tt0096289]
       winner: [tt0094027]
     best screenplay:
-      nominee: [tt0094027, tt0093029, tt0095270, tt0095835, tt0095649]
+      nominee: [tt0093029, tt0094027, tt0095270, tt0095649, tt0095835]
       winner: [tt0094027]
     best supporting female:
       nominee: [tt0094027, tt0095270, tt0095903, tt0096424]
       winner: [tt0094027]
     best supporting male:
-      nominee: [tt0094027, tt0093029, tt0095270, tt0096156, tt0095649]
+      nominee: [tt0093029, tt0094027, tt0095270, tt0095649, tt0096156]
       winner: [tt0094027]
-'1988': # https://www.imdb.com/event/ev0000349/1988/1/?ref_=ev_eh
+'1988': # https://www.imdb.com/event/ev0000349/1988/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0093509, tt0092618, tt0093986, tt0092843, tt0094169]
+      nominee: [tt0092618, tt0092843, tt0093509, tt0093986, tt0094169]
       winner: [tt0093509]
     best director:
-      nominee: [tt0092843, tt0092654, tt0093509, tt0094089, tt0091860]
+      nominee: [tt0091860, tt0092654, tt0092843, tt0093509, tt0094089]
       winner: [tt0092843]
     best feature:
-      nominee: [tt0091860, tt0093509, tt0094089, tt0092654, tt0092843, tt0094169]
+      nominee: [tt0091860, tt0092654, tt0092843, tt0093509, tt0094089, tt0094169]
       winner: [tt0091860]
     best female lead:
-      nominee: [tt0092569, tt0093093, tt0094315, tt0094169, tt0092238]
+      nominee: [tt0092238, tt0092569, tt0093093, tt0094169, tt0094315]
       winner: [tt0092569]
     best first feature:
-      nominee: [tt0092890, tt0092569, tt0093200, tt0093969, tt0094286]
+      nominee: [tt0092569, tt0092890, tt0093200, tt0093969, tt0094286]
       winner: [tt0092890]
     best foreign film:
-      nominee: [tt0089606, tt0092593, tt0093209, tt0093776, tt0092048]
+      nominee: [tt0089606, tt0092048, tt0092593, tt0093209, tt0093776]
       winner: [tt0089606]
     best male lead:
-      nominee: [tt0092654, tt0092618, tt0092641, tt0094089, tt0094035]
+      nominee: [tt0092618, tt0092641, tt0092654, tt0094035, tt0094089]
       winner: [tt0092654]
     best screenplay:
-      nominee: [tt0091860, tt0092569, tt0093509, tt0094089, tt0092843]
+      nominee: [tt0091860, tt0092569, tt0092843, tt0093509, tt0094089]
       winner: [tt0091860]
     best supporting female:
-      nominee: [tt0092843, tt0093964, tt0094056, tt0093093, tt0094315]
+      nominee: [tt0092843, tt0093093, tt0093964, tt0094056, tt0094315]
       winner: [tt0092843]
     best supporting male:
-      nominee: [tt0094056, tt0093509, tt0094315, tt0094169]
+      nominee: [tt0093509, tt0094056, tt0094169, tt0094315]
       winner: [tt0094056]
-'1987': # https://www.imdb.com/event/ev0000349/1987/1/?ref_=ev_eh
+'1987': # https://www.imdb.com/event/ev0000349/1987/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0091763, tt0090756, tt0090967, tt0091886, tt0092117]
+      nominee: [tt0090756, tt0090967, tt0091763, tt0091886, tt0092117]
       winner: [tt0091763]
     best director:
-      nominee: [tt0091763, tt0090756, tt0090967, tt0091886, tt0092005]
+      nominee: [tt0090756, tt0090967, tt0091763, tt0091886, tt0092005]
       winner: [tt0091763]
     best feature:
-      nominee: [tt0091763, tt0090756, tt0090967, tt0091676, tt0091886, tt0092005]
+      nominee: [tt0090756, tt0090967, tt0091676, tt0091763, tt0091886, tt0092005]
       winner: [tt0091763]
     best female lead:
-      nominee: [tt0090756, tt0089015, tt0091886, tt0091939]
+      nominee: [tt0089015, tt0090756, tt0091886, tt0091939]
       winner: [tt0090756]
     best first feature:
-      nominee: [tt0091939, tt0090710, tt0091217, tt0091151, tt0092117]
+      nominee: [tt0090710, tt0091151, tt0091217, tt0091939, tt0092117]
       winner: [tt0091939]
     best male lead:
-      nominee: [tt0091886, tt0090756, tt0090967, tt0091613, tt0091763]
+      nominee: [tt0090756, tt0090967, tt0091613, tt0091763, tt0091886]
       winner: [tt0091886]
     best screenplay:
-      nominee: [tt0091763, tt0090756, tt0091886, tt0092005, tt0091151]
+      nominee: [tt0090756, tt0091151, tt0091763, tt0091886, tt0092005]
       winner: [tt0091763]
   special distinction award:
     special distinction award:
-      nominee: [tt0091867, tt0088650, tt0089656, tt0091538, tt0091578]
+      nominee: [tt0088650, tt0089656, tt0091538, tt0091578, tt0091867]
       winner: [tt0091867]
-'1986': # https://www.imdb.com/event/ev0000349/1986/1/?ref_=ev_eh
+'1986': # https://www.imdb.com/event/ev0000349/1986/1/
   independent spirit award:
     best cinematography:
-      nominee: [tt0090209, tt0088680, tt0086979, tt0087150]
+      nominee: [tt0086979, tt0087150, tt0088680, tt0090209]
       winner: [tt0090209]
     best director:
       nominee: [tt0086979, tt0088680, tt0090037, tt0090203]
       winner: [tt0086979, tt0088680]
     best feature:
-      nominee: [tt0088680, tt0086979, tt0090037, tt0090203]
+      nominee: [tt0086979, tt0088680, tt0090037, tt0090203]
       winner: [tt0088680]
     best female lead:
-      nominee: [tt0090203, tt0088680, tt0090037, tt0090209]
+      nominee: [tt0088680, tt0090037, tt0090203, tt0090209]
       winner: [tt0090203]
     best male lead:
-      nominee: [tt0086979, tt0088968, tt0090037, tt0088404]
+      nominee: [tt0086979, tt0088404, tt0088968, tt0090037]
       winner: [tt0086979]
     best screenplay:
-      nominee: [tt0090203, tt0088680, tt0086979, tt0090037]
+      nominee: [tt0086979, tt0088680, tt0090037, tt0090203]
       winner: [tt0090203]
   special distinction award:
     special distinction award:
-      nominee: [tt0089424, tt0089052, tt0089881, tt0087414]
+      nominee: [tt0087414, tt0089052, tt0089424, tt0089881]
       winner: [tt0089424]

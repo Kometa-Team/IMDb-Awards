@@ -46,12 +46,14 @@ if args["clean"]:
     valid.data = YAML.inline({})
     valid.data.fa.set_block_style()
 
-def _request(url, xpath=None, extra=None):
+def _request(url, xpath=None, extra=None, page_props=False):
     sleep_time = 0 if args["no-sleep"] else random.randint(2, 6)
     logger.info(f"{f'{extra} ' if extra else ''}URL: {url}{f' [Sleep: {sleep_time}]' if sleep_time else ''}")
     response = html.fromstring(requests.get(url, headers=header).content)
     if sleep_time:
         time.sleep(sleep_time)
+    if page_props:
+        return json.loads(response.xpath("//script[@id='__NEXT_DATA__']/text()")[0])["props"]["pageProps"]
     return response.xpath(xpath) if xpath else response
 
 titles = {}
@@ -61,11 +63,11 @@ for i, event_id in enumerate(original_event_ids, 1):
     event_yaml.data = YAML.inline({})
     event_yaml.data.fa.set_block_style()
     event_years = []
-    response_data = _request(f"{event_url}/{event_id}", extra=f"[Event {i}/{total_ids}]")
-    titles[event_id] = response_data.xpath("//div[@class='event-header__title']/h1/text()")[0]
-    for event_year in response_data.xpath("//div[@class='event-history-widget']//a/@href"):
-        parts = event_year.split("/")
-        event_years.append(f"{parts[3]}{f'-{parts[4]}' if parts[4] != '1' else ''}")
+    json_data = _request(f"{event_url}/{event_id}", extra=f"[Event {i}/{total_ids}]", page_props=True)
+    titles[event_id] = json_data["eventName"]
+    for year_data in json_data["historyEventEditions"]:
+        extra = '' if year_data["instanceWithinYear"] == 1 else f"-{year_data['instanceWithinYear']}"
+        event_years.append(f"{year_data['year']}{extra}")
     total_years = len(event_years)
     if event_id not in valid:
         valid[event_id] = YAML.inline({"years": YAML.inline([]), "awards": YAML.inline([]), "categories": YAML.inline([])})
@@ -78,29 +80,32 @@ for i, event_id in enumerate(original_event_ids, 1):
     first = True
     for j, event_year in enumerate(event_years, 1):
         event_year = str(event_year)
-        event_year_url = f"{event_url}/{event_id}/{f'{event_year}/1' if '-' not in event_year else event_year.replace('-', '/')}/?ref_=ev_eh"
+        event_year_url = f"{event_url}/{event_id}/{f'{event_year}/1' if '-' not in event_year else event_year.replace('-', '/')}/"
         if first or args["clean"] or event_year not in old_data:
-            obj = None
-            for text in _request(event_year_url, xpath="//div[@class='article']/script/text()", extra=f"[Event {i}/{total_ids}] [Year {j}/{total_years}]")[0].split("\n"):
-                if text.strip().startswith("IMDbReactWidgets.NomineesWidget.push"):
-                    jsonline = text.strip()
-                    obj = json.loads(jsonline[jsonline.find('{'):-3])
-            if obj is None:
-                continue
             event_data = {}
-            for award in obj["nomineesWidgetModel"]["eventEditionSummary"]["awards"]:
-                award_name = award["awardName"].lower()
+            for award in _request(event_year_url, extra=f"[Event {i}/{total_ids}] [Year {j}/{total_years}]", page_props=True)["edition"]["awards"]:
+                award_name = award["text"].lower()
                 award_data = {}
-                for cat in award["categories"]:
-                    cat_name = cat["categoryName"].lower() if cat["categoryName"] else award_name
+                for cat in award["nominationCategories"]["edges"]:
+                    cat_name = award_name if cat["node"]["category"] is None else cat["node"]["category"]["text"].lower()
                     nominees = []
                     winners = []
-                    for nom in cat["nominations"]:
-                        imdb_id = next((n["const"] for n in nom["primaryNominees"] + nom["secondaryNominees"] if n["const"].startswith("tt")), None)
-                        if imdb_id:
-                            nominees.append(imdb_id)
-                            if nom["isWinner"]:
-                                winners.append(imdb_id)
+                    for nom in cat["node"]["nominations"]["edges"]:
+                        if "awardTitles" in nom["node"]["awardedEntities"]:
+                            prop = "awardTitles"
+                        elif "secondaryAwardTitles" in nom["node"]["awardedEntities"] and nom["node"]["awardedEntities"]["secondaryAwardTitles"]:
+                            prop = "secondaryAwardTitles"
+                        else:
+                            prop = None
+                        if prop:
+                            for award_title in nom["node"]["awardedEntities"][prop]:
+                                imdb_id = award_title["title"]["id"]
+                                if imdb_id:
+                                    nominees.append(imdb_id)
+                                    if nom["node"]["isWinner"]:
+                                        winners.append(imdb_id)
+                    nominees.sort()
+                    winners.sort()
                     if nominees or winners:
                         if cat_name not in award_data:
                             award_data[cat_name] = {"nominee": YAML.inline([]), "winner": YAML.inline([])}
@@ -113,7 +118,7 @@ for i, event_id in enumerate(original_event_ids, 1):
                         if cat_name not in valid[event_id]["categories"]:
                             valid[event_id]["categories"].append(cat_name)
                 if award_data:
-                    event_data[award_name] = award_data
+                    event_data[award_name] = dict(sorted(award_data.items()))
                     if award_name not in valid[event_id]["awards"]:
                         valid[event_id]["awards"].append(award_name)
             first = False

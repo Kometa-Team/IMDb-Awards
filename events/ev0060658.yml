@@ -1,81 +1,81 @@
 # Bollywood Film Journalist Awards
-'2024':  # https://www.imdb.com/event/ev0060658/2024/1/?ref_=ev_eh
+'2024':  # https://www.imdb.com/event/ev0060658/2024/1/
   popular award:
     best actor:
-      nominee: [tt23849204, tt21998526, tt23864864, tt24485052, tt13751694, tt15354916, tt10786774]
+      nominee: [tt10786774, tt13751694, tt15354916, tt21998526, tt23849204, tt23864864, tt24485052]
       winner: [tt23849204]
     best actress:
-      nominee: [tt14993250, tt24268454, tt15434074, tt14914988, tt14295590, tt15944428, tt18413766, tt21998526, tt8672856, tt22531848]
+      nominee: [tt14295590, tt14914988, tt14993250, tt15434074, tt15944428, tt18413766, tt21998526, tt22531848, tt24268454, tt8672856]
       winner: [tt14993250]
     best director:
-      nominee: [tt23849204, tt15732324, tt15434074, tt15354916, tt23864864, tt14993250, tt10786774, tt13751694, tt15832148]
+      nominee: [tt10786774, tt13751694, tt14993250, tt15354916, tt15434074, tt15732324, tt15832148, tt23849204, tt23864864]
       winner: [tt23849204]
     best female debut:
-      nominee: [tt15979666, tt29301456, tt3679040, tt24485052]
+      nominee: [tt15979666, tt24485052, tt29301456, tt3679040]
       winner: [tt15979666]
     best film:
-      nominee: [tt23849204, tt13751694, tt15354916, tt23864864, tt15732324, tt14993250, tt10786774, tt24485052]
+      nominee: [tt10786774, tt13751694, tt14993250, tt15354916, tt15732324, tt23849204, tt23864864, tt24485052]
       winner: [tt23849204]
     best male debut:
-      nominee: [tt15979666, tt15732324]
+      nominee: [tt15732324, tt15979666]
       winner: [tt15979666]
     best supporting actor:
-      nominee: [tt15428134, tt15944428, tt15434074, tt23849204, tt13751694, tt13801462, tt15441054, tt23864864, tt15732324, tt12887208, tt15832148, tt14993250]
+      nominee: [tt12887208, tt13751694, tt13801462, tt14993250, tt15428134, tt15434074, tt15441054, tt15732324, tt15832148, tt15944428, tt23849204, tt23864864]
       winner: [tt15428134]
     best supporting actress:
-      nominee: [tt14993250, tt15354916, tt10786774, tt15281704, tt28282716, tt15302222, tt13751694]
+      nominee: [tt10786774, tt13751694, tt14993250, tt15281704, tt15302222, tt15354916, tt28282716]
       winner: [tt14993250]
-'2023': # https://www.imdb.com/event/ev0060658/2023/1/?ref_=ev_eh
+'2023': # https://www.imdb.com/event/ev0060658/2023/1/
   popular award:
     best actor:
-      nominee: [tt13131350, tt10028196, tt15501640, tt14438964, tt15309708, tt14479746, tt10811166, tt15600222, tt15654262, tt6455162, tt15145764, tt9263550, tt15257644, tt14042066, tt14253018, tt11934846, tt10233718, tt18568902, tt14099334, tt16077702, tt14152140]
+      nominee: [tt10028196, tt10233718, tt10811166, tt11934846, tt13131350, tt14042066, tt14099334, tt14152140, tt14253018, tt14438964, tt14479746, tt15145764, tt15257644, tt15309708, tt15501640, tt15600222, tt15654262, tt16077702, tt18568902, tt6455162, tt9263550]
       winner: [tt13131350]
     best actress:
-      nominee: [tt10083340, tt6277462, tt14152140, tt10733228, tt15257644, tt10028196, tt14099334, tt10233718, tt6455162, tt14428598, tt15361028]
+      nominee: [tt10028196, tt10083340, tt10233718, tt10733228, tt14099334, tt14152140, tt14428598, tt15257644, tt15361028, tt6277462, tt6455162]
       winner: [tt10083340]
     best director:
-      nominee: [tt10083340, tt15501640, tt6455162, tt14428598, tt13131350, tt14152140, tt9263550, tt14253018, tt10733228, tt15309708]
+      nominee: [tt10083340, tt10733228, tt13131350, tt14152140, tt14253018, tt14428598, tt15309708, tt15501640, tt6455162, tt9263550]
       winner: [tt10083340]
     best female debut:
-      nominee: [tt9637132, tt13919802, tt10644708, tt14438964, tt13449624]
+      nominee: [tt10644708, tt13449624, tt13919802, tt14438964, tt9637132]
       winner: [tt9637132]
     best film:
-      nominee: [tt10083340, tt11934846, tt6455162, tt6277462, tt14152140, tt15501640, tt10733228, tt14438964, tt14253018, tt9263550, tt10811166]
+      nominee: [tt10083340, tt10733228, tt10811166, tt11934846, tt14152140, tt14253018, tt14438964, tt15501640, tt6277462, tt6455162, tt9263550]
       winner: [tt10083340]
     best male debut:
-      nominee: [tt10083340, tt14099334, tt9054970, tt4435072, tt9851854, tt14428598]
+      nominee: [tt10083340, tt14099334, tt14428598, tt4435072, tt9054970, tt9851854]
       winner: [tt10083340]
     best supporting actor:
-      nominee: [tt13449624, tt8983228, tt15309708, tt10811166, tt11934846, tt15600222, tt10233718, tt10733228, tt15964308, tt14253018, tt10083340, tt15128068, tt10919304]
+      nominee: [tt10083340, tt10233718, tt10733228, tt10811166, tt10919304, tt11934846, tt13449624, tt14253018, tt15128068, tt15309708, tt15600222, tt15964308, tt8983228]
       winner: [tt13449624]
     best supporting actress:
-      nominee: [tt14152140, tt10733228, tt14438964, tt8907992, tt14253018, tt10028196, tt6277462, tt15128068, tt15361028, tt15654262, tt11934846, tt6455162, tt15501640]
+      nominee: [tt10028196, tt10733228, tt11934846, tt14152140, tt14253018, tt14438964, tt15128068, tt15361028, tt15501640, tt15654262, tt6277462, tt6455162, tt8907992]
       winner: [tt14152140]
-'2022': # https://www.imdb.com/event/ev0060658/2022/1/?ref_=ev_eh
+'2022': # https://www.imdb.com/event/ev0060658/2022/1/
   popular award:
     best actor:
-      nominee: [tt7518786, tt10280296, tt6571548, tt10295212, tt10196464]
-      winner: [tt7518786, tt10280296]
+      nominee: [tt10196464, tt10280296, tt10295212, tt6571548, tt7518786]
+      winner: [tt10280296, tt7518786]
     best actress:
-      nominee: [tt10895576, tt11102314, tt10152736, tt10196464, tt14091818, tt9176086, tt13529034, tt11142762, tt10895556, tt12861850, tt10741542]
+      nominee: [tt10152736, tt10196464, tt10741542, tt10895556, tt10895576, tt11102314, tt11142762, tt12861850, tt13529034, tt14091818, tt9176086]
       winner: [tt10895576]
     best director:
-      nominee: [tt10280296, tt10741542, tt9176086, tt12779208, tt7518786, tt6571548, tt11102314, tt10196464, tt10295212]
+      nominee: [tt10196464, tt10280296, tt10295212, tt10741542, tt11102314, tt12779208, tt6571548, tt7518786, tt9176086]
       winner: [tt10280296]
     best female debut:
       nominee: [tt10569922, tt10761694]
       winner: [tt10569922]
     best film:
-      nominee: [tt7518786, tt10895576, tt9389998, tt10196464, tt10280296, tt10741542, tt10295212, tt6571548, tt11102314]
+      nominee: [tt10196464, tt10280296, tt10295212, tt10741542, tt10895576, tt11102314, tt6571548, tt7518786, tt9389998]
       winner: [tt7518786]
     best male debut:
       nominee: [tt10761694, tt6571548]
       winner: [tt10761694]
     best supporting actor:
-      nominee: [tt10895576, tt10895556, tt10152736, tt11142762, tt10309902, tt7518786, tt6571548, tt10741542, tt10196464]
+      nominee: [tt10152736, tt10196464, tt10309902, tt10741542, tt10895556, tt10895576, tt11142762, tt6571548, tt7518786]
       winner: [tt10895576]
     best supporting actress:
-      nominee: [tt10895576, tt11260832, tt10196464, tt11213600, tt10895556, tt11102314]
+      nominee: [tt10196464, tt10895556, tt10895576, tt11102314, tt11213600, tt11260832]
       winner: [tt10895576]
   critics choice award:
     best actor:
@@ -90,7 +90,7 @@
     best film:
       nominee: [tt10295212]
       winner: [tt10295212]
-'2021': # https://www.imdb.com/event/ev0060658/2021/1/?ref_=ev_eh
+'2021': # https://www.imdb.com/event/ev0060658/2021/1/
   popular award:
     best actor:
       nominee: [tt10309906]
@@ -116,7 +116,7 @@
     best supporting actress:
       nominee: [tt10309906]
       winner: [tt10309906]
-'2020': # https://www.imdb.com/event/ev0060658/2020/1/?ref_=ev_eh
+'2020': # https://www.imdb.com/event/ev0060658/2020/1/
   popular award:
     best actor:
       nominee: [tt2395469]
@@ -142,39 +142,39 @@
     best supporting actress:
       nominee: [tt8902990]
       winner: [tt8902990]
-'2019': # https://www.imdb.com/event/ev0060658/2019/1/?ref_=ev_eh
+'2019': # https://www.imdb.com/event/ev0060658/2019/1/
   popular award:
     best actor:
-      nominee: [tt6452574, tt5935704, tt8324474, tt6580564, tt8011276, tt7725596, tt8108198, tt6972140, tt2302416, tt6923462, tt6978268, tt8108202, tt8239946, tt7147540, tt7700730, tt5474036]
-      winner: [tt6452574, tt5935704]
+      nominee: [tt2302416, tt5474036, tt5935704, tt6452574, tt6580564, tt6923462, tt6972140, tt6978268, tt7147540, tt7700730, tt7725596, tt8011276, tt8108198, tt8108202, tt8239946, tt8324474]
+      winner: [tt5935704, tt6452574]
     best actress:
-      nominee: [tt7098658, tt5935704, tt6588966, tt3823392, tt7725596, tt5474036, tt7690638, tt8108198]
-      winner: [tt7098658, tt5935704, tt6588966]
+      nominee: [tt3823392, tt5474036, tt5935704, tt6588966, tt7098658, tt7690638, tt7725596, tt8108198]
+      winner: [tt5935704, tt6588966, tt7098658]
     best director:
-      nominee: [tt7098658, tt8108198, tt8108202, tt7725596, tt8239946, tt7618184, tt7180544, tt2302416, tt6978268, tt6923462, tt6452574, tt5935704, tt7700730]
+      nominee: [tt2302416, tt5935704, tt6452574, tt6923462, tt6978268, tt7098658, tt7180544, tt7618184, tt7700730, tt7725596, tt8108198, tt8108202, tt8239946]
       winner: [tt7098658, tt8108198]
     best female debut:
-      nominee: [tt7027278, tt8396128, tt7638344, tt8011276, tt3823392, tt7700730, tt7212726]
+      nominee: [tt3823392, tt7027278, tt7212726, tt7638344, tt7700730, tt8011276, tt8396128]
       winner: [tt7027278, tt8396128]
     best film:
-      nominee: [tt7725596, tt6580564, tt8108198, tt2302416, tt6923462, tt7618184, tt7700730, tt6978268, tt7218518, tt5935704, tt7098658, tt7180544, tt8239946]
+      nominee: [tt2302416, tt5935704, tt6580564, tt6923462, tt6978268, tt7098658, tt7180544, tt7218518, tt7618184, tt7700730, tt7725596, tt8108198, tt8239946]
       winner: [tt7725596]
     best male debut:
-      nominee: [tt7638344, tt7722258, tt3224288, tt8011276, tt7820846]
+      nominee: [tt3224288, tt7638344, tt7722258, tt7820846, tt8011276]
       winner: [tt7638344, tt7722258]
     best supporting actor:
-      nominee: [tt7725596, tt8108202, tt6452574, tt7180544, tt6527426, tt8324474, tt6588966, tt6129302, tt8136908, tt2302416, tt4949324, tt7618184, tt6747420, tt5935704, tt8011276, tt7098658]
-      winner: [tt7725596, tt8108202, tt6452574]
+      nominee: [tt2302416, tt4949324, tt5935704, tt6129302, tt6452574, tt6527426, tt6588966, tt6747420, tt7098658, tt7180544, tt7618184, tt7725596, tt8011276, tt8108202, tt8136908, tt8324474]
+      winner: [tt6452574, tt7725596, tt8108202]
     best supporting actress:
-      nominee: [tt7725596, tt5935704, tt8239946, tt6972140, tt7618184, tt7363076, tt8108198, tt3823392, tt8396128, tt2302416]
+      nominee: [tt2302416, tt3823392, tt5935704, tt6972140, tt7363076, tt7618184, tt7725596, tt8108198, tt8239946, tt8396128]
       winner: [tt7725596]
   special award:
     debutant- producer:
       nominee: [tt7690638]
       winner: [tt7690638]
     rising star of the year:
-      nominee: [tt8426854, tt7581902]
-      winner: [tt8426854, tt7581902]
+      nominee: [tt7581902, tt8426854]
+      winner: [tt7581902, tt8426854]
   short film award:
     best actor:
       nominee: [tt4232066]
@@ -185,59 +185,59 @@
     best film:
       nominee: [tt4232066]
       winner: [tt4232066]
-'2018': # https://www.imdb.com/event/ev0060658/2018/1/?ref_=ev_eh
+'2018': # https://www.imdb.com/event/ev0060658/2018/1/
   popular award:
     best actor:
-      nominee: [tt6206564, tt5785170, tt7399470, tt5764096, tt4699202, tt6484982, tt6967980, tt4129428, tt5956100]
+      nominee: [tt4129428, tt4699202, tt5764096, tt5785170, tt5956100, tt6206564, tt6484982, tt6967980, tt7399470]
       winner: [tt6206564]
     best actress:
-      nominee: [tt6791730, tt5785170, tt4909752, tt4129428, tt6967980, tt6143422, tt6108090]
-      winner: [tt6791730]
+      nominee: [tt4129428, tt4909752, tt5690142, tt5785170, tt6108090, tt6143422, tt6791730, tt6967980]
+      winner: [tt5690142, tt6791730]
     best director:
-      nominee: [tt5918074, tt5785170, tt6967980, tt4807830, tt5956100, tt6484982, tt5764096, tt5997928, tt6206564]
-      winner: [tt5918074, tt5785170]
+      nominee: [tt4807830, tt5764096, tt5785170, tt5918074, tt5956100, tt5997928, tt6206564, tt6484982, tt6967980]
+      winner: [tt5785170, tt5918074]
     best female debut:
-      nominee: [tt5764096, tt7399470, tt6926486, tt5690142, tt5617172, tt3405236]
+      nominee: [tt3405236, tt5617172, tt5690142, tt5764096, tt6926486, tt7399470]
       winner: [tt5764096, tt7399470]
     best film:
-      nominee: [tt5785170, tt5918074, tt6926486, tt6143422, tt5997928, tt4129428, tt4807830, tt6484982, tt6997642, tt6967980, tt5956100]
+      nominee: [tt4129428, tt4807830, tt5785170, tt5918074, tt5956100, tt5997928, tt6143422, tt6484982, tt6926486, tt6967980, tt6997642]
       winner: [tt5785170]
     best male debut:
-      nominee: [tt6080746, tt6108090, tt5775220, tt5617172]
+      nominee: [tt5617172, tt5775220, tt6080746, tt6108090]
       winner: [tt6080746, tt6108090]
     best supporting actor:
-      nominee: [tt6791730, tt6967980, tt6108090, tt5997928, tt6170954, tt5690142, tt6058394, tt6484982, tt5982852, tt4807830, tt5474042, tt5918074]
+      nominee: [tt4807830, tt5474042, tt5690142, tt5918074, tt5982852, tt5997928, tt6058394, tt6108090, tt6170954, tt6484982, tt6791730, tt6967980]
       winner: [tt6791730, tt6967980]
     best supporting actress:
-      nominee: [tt4807830, tt6971752, tt6108090, tt5997928, tt6967980, tt5918074]
+      nominee: [tt4807830, tt5918074, tt5997928, tt6108090, tt6967980, tt6971752]
       winner: [tt4807830, tt6971752]
   short film award:
     animated short film:
       nominee: [tt5823554]
       winner: [tt5823554]
-'2017': # https://www.imdb.com/event/ev0060658/2017/1/?ref_=ev_eh
+'2017': # https://www.imdb.com/event/ev0060658/2017/1/
   popular award:
     best actor:
-      nominee: [tt5121000, tt5074352, tt4387040, tt5165344, tt5571734, tt5662932, tt4559006, tt4832640, tt4169250]
+      nominee: [tt4169250, tt4387040, tt4559006, tt4832640, tt5074352, tt5121000, tt5165344, tt5571734, tt5662932]
       winner: [tt5121000]
     best actress:
-      nominee: [tt4434004, tt5946128, tt4559006, tt4832640, tt5571734, tt5743656, tt5286444, tt5005684, tt5477608]
+      nominee: [tt4434004, tt4559006, tt4832640, tt5005684, tt5286444, tt5477608, tt5571734, tt5743656, tt5946128]
       winner: [tt4434004]
     best director:
-      nominee: [tt5074352, tt4434004, tt4832640, tt5571734, tt5662932, tt5005684, tt5121000, tt4559006, tt4169250, tt5286444, tt4900716]
+      nominee: [tt4169250, tt4434004, tt4559006, tt4832640, tt4900716, tt5005684, tt5074352, tt5121000, tt5286444, tt5571734, tt5662932]
       winner: [tt5074352]
     best female debut:
-      nominee: [tt5074352, tt5310090, tt4169250, tt5662932]
+      nominee: [tt4169250, tt5074352, tt5310090, tt5662932]
       winner: [tt5074352]
     best film:
-      nominee: [tt5074352, tt4559006, tt5121000, tt4900716, tt4169250, tt5286444, tt5005684, tt5571734, tt4832640, tt4434004]
+      nominee: [tt4169250, tt4434004, tt4559006, tt4832640, tt4900716, tt5005684, tt5074352, tt5121000, tt5286444, tt5571734]
       winner: [tt5074352]
     best male debut:
-      nominee: [tt4434004, tt5074352, tt4940456, tt5286444, tt5255710]
+      nominee: [tt4434004, tt4940456, tt5074352, tt5255710, tt5286444]
       winner: [tt4434004]
     best supporting actor:
-      nominee: [tt4900716, tt5074352, tt0315642, tt4434004, tt4814290, tt5005684, tt5121000, tt5662932]
+      nominee: [tt0315642, tt4434004, tt4814290, tt4900716, tt5005684, tt5074352, tt5121000, tt5662932]
       winner: [tt4900716]
     best supporting actress:
-      nominee: [tt5286444, tt4900716, tt5662932, tt4169250, tt5074352, tt5571734, tt4559006, tt3043252, tt4600778, tt4399594]
+      nominee: [tt3043252, tt4169250, tt4399594, tt4559006, tt4600778, tt4900716, tt5074352, tt5286444, tt5571734, tt5662932]
       winner: [tt5286444]
