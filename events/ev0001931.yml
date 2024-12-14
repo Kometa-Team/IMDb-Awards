@@ -7,11 +7,20 @@
     best actor - popular:
       nominee: [tt27727527, tt28500661, tt30705321, tt7112704]
       winner: []
+    best actor in a comic role:
+      nominee: [tt13853152, tt1708446, tt5154982]
+      winner: []
+    best actor in a supporting role (drama):
+      nominee: [tt13085534, tt20872936, tt27727527, tt31548582, tt7112704]
+      winner: []
     best actress - drama:
       nominee: [tt11867666, tt20872936, tt30987255, tt31548582, tt32502265]
       winner: []
     best actress - popular:
       nominee: [tt11867666, tt15138496, tt28500661, tt30224310, tt7112704]
+      winner: []
+    best actress in a comic role:
+      nominee: [tt13853152, tt1708446, tt19396408, tt5154982]
       winner: []
   ott award:
     best actress - drama (ott):
