@@ -1,5 +1,10 @@
 # Sundance Film Festival
-'2024':  # https://www.imdb.com/event/ev0000631/2024/1/
+'2025':  # https://www.imdb.com/event/ev0000631/2025/1/
+  grand jury prize:
+    world cinema - dramatic:
+      nominee: [tt9853664]
+      winner: []
+'2024': # https://www.imdb.com/event/ev0000631/2024/1/
   grand jury prize:
     documentary:
       nominee: [tt12336480, tt30134880, tt30291991, tt30294282, tt30319555, tt30319823, tt30319825, tt30319830, tt30319854, tt30319916]
