@@ -3488,7 +3488,7 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
   - special effects # 1 Event: 2022
   - star plus hottest pair # 3 Events: 2011-2012, 2014
 ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
-  years: ['2024', '2023', '2020', '2019', '2018', '2017', '2016', '2014', '2013', '2012', '2011', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999', '1998']
+  years: ['2025', '2024', '2023', '2020', '2019', '2018', '2017', '2016', '2014', '2013', '2012', '2011', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999', '1998']
   awards:  # Award Options: Zee Cine Awards
   - critics choice award # 10 Events: 2005-2017
   - entertainer of the year # 1 Event: 2007
@@ -3497,7 +3497,7 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - special award # 11 Events: 1998-2001, 2013-2014, 2018-2024
   - technical award # 18 Events: 2000, 2002-2016, 2018-2024
   - viewers' choice award # 6 Events: 2017-2024
-  - zee cine award # 13 Events: 1998-1999, 2001, 2003-2005, 2007, 2011-2012, 2016-2017, 2023-2024
+  - zee cine award # 14 Events: 1998-1999, 2001, 2003-2005, 2007, 2011-2012, 2016-2017, 2023-2025
   - zee premiere choice award # 2 Events: 2001, 2012
   categories: # Category Options: Zee Cine Awards
   - best action # 10 Events: 2003-2005, 2014-2016, 2018-2024
@@ -3561,7 +3561,7 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best playback singer (female) # 4 Events: 2004-2005, 2007, 2014
   - best playback singer (male) # 4 Events: 2004-2005, 2007, 2014
   - best playback singer - female # 11 Events: 1998-2001, 2008, 2012, 2016-2017, 2020-2024
-  - best playback singer - male # 7 Events: 1998-1999, 2008, 2016, 2020-2024
+  - best playback singer - male # 8 Events: 1998-1999, 2008, 2016, 2020-2025
   - best playback singer female # 2 Events: 2000, 2002
   - best playback singer male # 2 Events: 2000, 2002
   - best post-production # 1 Event: 2018
