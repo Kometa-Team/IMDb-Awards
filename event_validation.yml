@@ -4131,35 +4131,35 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   - worst visual effects # 2 Events: 1987-1988
   - worst written film grossing over $100 million # 1 Event: 1997
 ev0000598: # Screen Actors Guild Awards (https://www.imdb.com/event/ev0000598)
-  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
-    '2000', '1999', '1998', '1997', '1996', '1995']
+  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
+    '2001', '2000', '1999', '1998', '1997', '1996', '1995']
   awards:  # Award Options: Screen Actors Guild Awards
-  - actor # 30 Events: 1995-2024
+  - actor # 31 Events: 1995-2025
   categories: # Category Options: Screen Actors Guild Awards
   - outstanding action performance by a stunt ensemble in a comedy or drama series # 6 Events: 2017-2022
-  - outstanding action performance by a stunt ensemble in a motion picture # 12 Events: 2013-2024
-  - outstanding action performance by a stunt ensemble in a television series # 7 Events: 2012-2016, 2023-2024
+  - outstanding action performance by a stunt ensemble in a motion picture # 13 Events: 2013-2025
+  - outstanding action performance by a stunt ensemble in a television series # 8 Events: 2012-2016, 2023-2025
   - outstanding performance by a cast # 4 Events: 1996-1999
-  - outstanding performance by a cast in a motion picture # 21 Events: 2004-2024
+  - outstanding performance by a cast in a motion picture # 22 Events: 2004-2025
   - outstanding performance by a cast in a theatrical motion picture # 1 Event: 2000
-  - outstanding performance by a female actor in a comedy series # 30 Events: 1995-2024
-  - outstanding performance by a female actor in a drama series # 30 Events: 1995-2024
-  - outstanding performance by a female actor in a leading role # 30 Events: 1995-2024
-  - outstanding performance by a female actor in a supporting role # 30 Events: 1995-2024
-  - outstanding performance by a female actor in a television movie or limited series # 8 Events: 2017-2024
+  - outstanding performance by a female actor in a comedy series # 31 Events: 1995-2025
+  - outstanding performance by a female actor in a drama series # 31 Events: 1995-2025
+  - outstanding performance by a female actor in a leading role # 31 Events: 1995-2025
+  - outstanding performance by a female actor in a supporting role # 31 Events: 1995-2025
+  - outstanding performance by a female actor in a television movie or limited series # 9 Events: 2017-2025
   - outstanding performance by a female actor in a television movie or miniseries # 17 Events: 2000-2016
   - outstanding performance by a female actor in a tv movie or miniseries # 5 Events: 1995-1999
-  - outstanding performance by a male actor in a comedy series # 30 Events: 1995-2024
-  - outstanding performance by a male actor in a drama series # 30 Events: 1995-2024
-  - outstanding performance by a male actor in a leading role # 30 Events: 1995-2024
-  - outstanding performance by a male actor in a supporting role # 30 Events: 1995-2024
-  - outstanding performance by a male actor in a television movie or limited series # 8 Events: 2017-2024
+  - outstanding performance by a male actor in a comedy series # 31 Events: 1995-2025
+  - outstanding performance by a male actor in a drama series # 31 Events: 1995-2025
+  - outstanding performance by a male actor in a leading role # 31 Events: 1995-2025
+  - outstanding performance by a male actor in a supporting role # 31 Events: 1995-2025
+  - outstanding performance by a male actor in a television movie or limited series # 9 Events: 2017-2025
   - outstanding performance by a male actor in a television movie or miniseries # 17 Events: 2000-2016
   - outstanding performance by a male actor in a tv movie or miniseries # 5 Events: 1995-1999
   - outstanding performance by a stunt ensemble in a motion picture # 6 Events: 2007-2012
   - outstanding performance by a stunt ensemble in a television series # 6 Events: 2007-2012
-  - outstanding performance by an ensemble in a comedy series # 30 Events: 1995-2024
-  - outstanding performance by an ensemble in a drama series # 30 Events: 1995-2024
+  - outstanding performance by an ensemble in a comedy series # 31 Events: 1995-2025
+  - outstanding performance by an ensemble in a drama series # 31 Events: 1995-2025
   - outstanding performance by the cast of a theatrical motion picture # 3 Events: 2001-2003
 ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
