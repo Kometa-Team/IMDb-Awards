@@ -1,5 +1,6 @@
 # BAFTA Awards
-'2024':  # https://www.imdb.com/event/ev0000123/2024/1/
+'2025': {}  # https://www.imdb.com/event/ev0000123/2025/1/
+'2024': # https://www.imdb.com/event/ev0000123/2024/1/
   bafta film award:
     best achievement in special visual effects:
       nominee: [tt11858890, tt13287846, tt14230458, tt6791350, tt9603212]
