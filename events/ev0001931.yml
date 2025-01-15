@@ -3,38 +3,72 @@
   indian television academy award:
     best actor - drama:
       nominee: [tt13853152, tt20872936, tt29535793, tt31548582, tt7112704]
-      winner: []
+      winner: [tt29535793]
     best actor - popular:
       nominee: [tt27727527, tt28500661, tt30705321, tt7112704]
-      winner: []
+      winner: [tt7112704]
     best actor in a comic role:
       nominee: [tt13853152, tt1708446, tt5154982]
-      winner: []
+      winner: [tt5154982]
+    best actor in a negative role:
+      nominee: [tt30145246]
+      winner: [tt30145246]
+    best actor in a supporting role (comedy):
+      nominee: [tt13853152]
+      winner: [tt13853152]
     best actor in a supporting role (drama):
       nominee: [tt13085534, tt20872936, tt27727527, tt31548582, tt7112704]
-      winner: []
+      winner: [tt31548582]
     best actress - drama:
       nominee: [tt11867666, tt20872936, tt30987255, tt31548582, tt32502265]
-      winner: []
+      winner: [tt31548582]
     best actress - popular:
       nominee: [tt11867666, tt15138496, tt28500661, tt30224310, tt7112704]
-      winner: []
+      winner: [tt7112704]
     best actress in a comic role:
       nominee: [tt13853152, tt1708446, tt19396408, tt5154982]
-      winner: []
+      winner: [tt5154982]
+    best actress in a supporting role (comedy):
+      nominee: [tt13853152]
+      winner: [tt13853152]
+    best actress in a supporting role (drama):
+      nominee: [tt20872936]
+      winner: [tt20872936]
+    best anchor - reality (dance/music):
+      nominee: [tt4197638]
+      winner: [tt4197638]
+    best anchor - reality (game/quiz):
+      nominee: [tt0250875]
+      winner: [tt0250875]
+    best director - drama:
+      nominee: [tt32792734]
+      winner: [tt32792734]
+    best serial - drama:
+      nominee: [tt31548582]
+      winner: [tt31548582]
+  technical award:
+    best costume designer:
+      nominee: [tt30145246]
+      winner: [tt30145246]
+    best music composer:
+      nominee: [tt30145246]
+      winner: [tt30145246]
+    best singer:
+      nominee: [tt30145246]
+      winner: [tt30145246]
   ott award:
     best actor in an original film:
       nominee: [tt15748830, tt26225118, tt26658272, tt4501268]
-      winner: []
+      winner: [tt15748830]
     best actress - drama (ott):
       nominee: [tt12714854, tt15204292, tt6473300, tt9432978]
-      winner: []
+      winner: [tt12714854]
     best actress - popular (ott):
       nominee: [tt15204292]
       winner: []
     best actress in an original film:
       nominee: [tt15434074, tt15748830, tt26225118, tt26658272, tt4501268]
-      winner: []
+      winner: [tt26225118]
 '2023': # https://www.imdb.com/event/ev0001931/2023/1/
   indian television academy award:
     best actor - drama:
