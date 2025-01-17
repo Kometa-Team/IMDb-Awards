@@ -10,6 +10,9 @@
     best actor in a comic role:
       nominee: [tt13853152, tt1708446, tt5154982]
       winner: [tt5154982]
+    best actor in a comic role (popular):
+      nominee: [tt5154982]
+      winner: [tt5154982]
     best actor in a negative role:
       nominee: [tt30145246]
       winner: [tt30145246]
@@ -28,6 +31,9 @@
     best actress in a comic role:
       nominee: [tt13853152, tt1708446, tt19396408, tt5154982]
       winner: [tt5154982]
+    best actress in a comic role (popular):
+      nominee: [tt1708446]
+      winner: [tt1708446]
     best actress in a negative role:
       nominee: [tt27757045]
       winner: [tt27757045]
@@ -61,6 +67,9 @@
     best serial - comedy:
       nominee: [tt13853152]
       winner: [tt13853152]
+    best serial - comedy (popular):
+      nominee: [tt5154982]
+      winner: [tt5154982]
     best serial - drama:
       nominee: [tt31548582]
       winner: [tt31548582]
@@ -68,6 +77,12 @@
       nominee: [tt11867666]
       winner: [tt11867666]
   ott award:
+    best actor - drama (ott):
+      nominee: [tt16296870]
+      winner: [tt16296870]
+    best actor - popular (ott):
+      nominee: [tt12004706]
+      winner: [tt12004706]
     best actor in an original film:
       nominee: [tt15748830, tt26225118, tt26658272, tt4501268]
       winner: [tt15748830]
@@ -76,32 +91,44 @@
       winner: [tt12714854]
     best actress - popular (ott):
       nominee: [tt15204292]
-      winner: []
+      winner: [tt15204292]
     best actress in an original film:
       nominee: [tt15434074, tt15748830, tt26225118, tt26658272, tt4501268]
       winner: [tt26225118]
+    best director - drama (ott):
+      nominee: [tt12714854]
+      winner: [tt12714854]
+    best web series - comedy:
+      nominee: [tt12004706]
+      winner: [tt12004706]
+    best web series - drama:
+      nominee: [tt28681409]
+      winner: [tt28681409]
+    best web series - popular:
+      nominee: [tt16296870]
+      winner: [tt16296870]
   technical award (tv):
     best costume design:
       nominee: [tt30145246]
       winner: [tt30145246]
-    best dialogue:
-      nominee: [tt31548582]
-      winner: [tt31548582]
     best dialogue - comedy:
       nominee: [tt13853152]
       winner: [tt13853152]
+    best dialogue - drama:
+      nominee: [tt31548582]
+      winner: [tt31548582]
     best music composer:
       nominee: [tt30145246]
       winner: [tt30145246]
     best singer:
       nominee: [tt30145246]
       winner: [tt30145246]
+    best story:
+      nominee: [tt31548582]
+      winner: [tt31548582]
     best teleplay:
       nominee: [tt31548582]
       winner: [tt31548582]
-    best writer:
-      nominee: [tt27757045]
-      winner: [tt27757045]
 '2023': # https://www.imdb.com/event/ev0001931/2023/1/
   indian television academy award:
     best actor - drama:
