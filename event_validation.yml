@@ -5273,7 +5273,7 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - special award # 8 Events: 2008, 2012-2013, 2015, 2018-2021
   - technical award # 18 Events: 2002, 2004-2014, 2016-2019, 2021-2022
   - technical award (tv) # 2 Events: 2023-2024
-  - technical award (web) # 1 Event: 2023
+  - technical award (web) # 2 Events: 2023-2024
   categories: # Category Options: Indian Television Academy Awards, India
   - best actor # 1 Event: 1988
   - best actor - drama # 23 Events: 2001-2019, 2021-2024
@@ -5291,7 +5291,7 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best actor in a supporting role - web series # 2 Events: 2018-2019
   - best actor in an original film # 3 Events: 2021, 2023-2024
   - best actor of the year # 1 Event: 2021
-  - 'best actor: comedy (ott)' # 2 Events: 2022-2023
+  - 'best actor: comedy (ott)' # 3 Events: 2022-2024
   - 'best actor: original film (ott)' # 1 Event: 2022
   - best actress - drama # 23 Events: 2001-2002, 2004-2024
   - best actress - drama (ott) # 4 Events: 2021-2024
@@ -5306,21 +5306,25 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best actress in a supporting role (comedy) # 2 Events: 2023-2024
   - best actress in a supporting role (drama) # 2 Events: 2023-2024
   - best actress in an original film # 3 Events: 2021, 2023-2024
-  - 'best actress: comedy (ott)' # 2 Events: 2022-2023
+  - 'best actress: comedy (ott)' # 3 Events: 2022-2024
   - 'best actress: original film (ott)' # 1 Event: 2022
   - best anchor # 2 Events: 2003, 2015
   - best anchor - game/quiz show # 11 Events: 2001, 2003-2006, 2008-2010, 2013, 2022-2023
   - best anchor - music & film based show # 6 Events: 2003, 2010, 2012, 2014, 2016-2017
   - best anchor - music/dance based show # 3 Events: 2006, 2011, 2023
+  - best anchor - news/current affairs (english) # 1 Event: 2024
+  - best anchor - news/current affairs (hindi) # 1 Event: 2024
   - best anchor - news/current affairs show # 2 Events: 2001, 2005
   - best anchor - reality (dance/music) # 1 Event: 2024
   - best anchor - reality (game/quiz) # 1 Event: 2024
+  - best anchor - reality series (ott) # 1 Event: 2024
   - best anchor - reality tv # 1 Event: 2021
   - best anchor - talk chat show - news (english) # 1 Event: 2024
   - best anchor - talk chat show - news (hindi) # 1 Event: 2024
   - best anchor - talk/chat show # 1 Event: 2010
   - best anchor- talk chat show # 1 Event: 2021
   - best art direction # 8 Events: 2002, 2005-2008, 2010, 2012-2013
+  - best art direction (ott) # 1 Event: 2024
   - best art direction - fiction # 2 Events: 2009, 2018
   - best art direction - non fiction # 1 Event: 2018
   - best audiography # 2 Events: 2004-2005
@@ -5331,6 +5335,7 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best cinematography # 1 Event: 2016
   - best cookery show # 2 Events: 2001, 2005
   - best costume design # 2 Events: 2023-2024
+  - best costume design (ott) # 1 Event: 2024
   - best costume designer # 8 Events: 2004, 2006-2008, 2011-2012, 2018, 2022
   - best costume designer - ott # 1 Event: 2022
   - best costumes # 5 Events: 2002, 2005, 2013-2014, 2017
@@ -5340,8 +5345,9 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best dialogue (drama) # 3 Events: 2017, 2021-2022
   - best dialogue (ott) # 1 Event: 2021
   - best dialogue - comedy # 1 Event: 2024
+  - best dialogue - comedy (ott) # 1 Event: 2024
   - best dialogue - drama # 2 Events: 2018, 2024
-  - best dialogue - drama (ott) # 1 Event: 2023
+  - best dialogue - drama (ott) # 2 Events: 2023-2024
   - best dialogue - ott # 1 Event: 2022
   - best dialogue - sitcom comedy # 1 Event: 2018
   - best dialogues # 8 Events: 2005, 2007-2010, 2013, 2016, 2018
@@ -5351,19 +5357,21 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best direction - reality show # 1 Event: 2023
   - 'best direction: comedy (ott)' # 1 Event: 2023
   - best director - comedy # 9 Events: 2001-2003, 2005, 2017, 2019, 2021-2022, 2024
-  - best director - comedy (ott) # 1 Event: 2022
+  - best director - comedy (ott) # 2 Events: 2022, 2024
   - best director - drama # 13 Events: 2001-2005, 2007-2008, 2017-2019, 2021-2022, 2024
   - best director - drama (ott) # 2 Events: 2022, 2024
-  - best director - original film # 2 Events: 2021-2022
+  - best director - original film # 3 Events: 2021-2022, 2024
   - best director - sitcom comedy # 1 Event: 2018
   - best director - thriller # 1 Event: 2018
   - best director - web series # 2 Events: 2017, 2019
   - best director drama - jury # 1 Event: 2018
   - best documentary # 1 Event: 2023
   - best documentary (ott) # 1 Event: 2023
-  - best dop - ott # 1 Event: 2023
+  - best dop # 1 Event: 2024
+  - best dop - ott # 2 Events: 2023-2024
   - best editing # 2 Events: 2011, 2013
   - best editing (ott) # 1 Event: 2022
+  - best editor (ott) # 1 Event: 2024
   - best game quiz show # 1 Event: 2001
   - best game/quiz show # 2 Events: 2005, 2008
   - best historical serial # 2 Events: 2019, 2021
@@ -5379,13 +5387,15 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best music composer # 2 Events: 2023-2024
   - best mytho/fantasy serial # 1 Event: 2021
   - best mythological show # 1 Event: 2019
+  - best news/current affairs show (hindi) # 1 Event: 2024
   - best onscreen couple # 1 Event: 2019
-  - best original film - ott # 4 Events: 2020-2023
+  - best original film - ott # 5 Events: 2020-2024
   - best performance by an actor in a negative role (ott) # 1 Event: 2022
   - best popular show # 1 Event: 2020
+  - best reality series (ott) # 1 Event: 2024
   - best reality show # 9 Events: 2007-2008, 2013-2018, 2021
-  - best reality show (dance/music) # 2 Events: 2021, 2023
-  - best reality show (game/quiz) # 3 Events: 2013, 2022-2023
+  - best reality show (dance/music) # 3 Events: 2021, 2023-2024
+  - best reality show (game/quiz) # 4 Events: 2013, 2022-2024
   - best screenplay - ott # 1 Event: 2023
   - best serial # 1 Event: 2015
   - best serial - comedy # 15 Events: 2001, 2003, 2005, 2007, 2010-2011, 2013-2017, 2019, 2021-2022, 2024
@@ -5400,7 +5410,9 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - 'best serial: comedy' # 1 Event: 2023
   - best show - music & film based show # 4 Events: 2005, 2008-2010
   - best singer # 12 Events: 2006-2007, 2010, 2012-2014, 2016-2019, 2023-2024
+  - best singer (ott) # 1 Event: 2024
   - best story # 4 Events: 2017, 2022-2024
+  - best story (ott) # 1 Event: 2024
   - best story - ott # 2 Events: 2021-2022
   - best story ott # 1 Event: 2023
   - best supporting actor - drama (ott) # 2 Events: 2021-2022
@@ -5415,7 +5427,7 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best title music # 3 Events: 2008, 2012, 2014
   - best vfx (ott) # 1 Event: 2022
   - best videography # 2 Events: 2004, 2008
-  - best visual effects # 11 Events: 2004-2005, 2010-2011, 2013, 2017-2019, 2021-2023
+  - best visual effects # 12 Events: 2004-2005, 2010-2011, 2013, 2017-2019, 2021-2024
   - best web series # 2 Events: 2017-2018
   - best web series - comedy # 3 Events: 2022-2024
   - best web series - drama # 4 Events: 2021-2024

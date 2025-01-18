@@ -11,13 +11,13 @@
       nominee: [tt13853152, tt1708446, tt5154982]
       winner: [tt5154982]
     best actor in a comic role (popular):
-      nominee: [tt5154982]
+      nominee: [tt1708446, tt5154982, tt9877848]
       winner: [tt5154982]
     best actor in a negative role:
-      nominee: [tt30145246]
+      nominee: [tt11867666, tt19396408, tt20872936, tt30145246, tt34230220]
       winner: [tt30145246]
     best actor in a supporting role (comedy):
-      nominee: [tt13853152]
+      nominee: [tt13853152, tt1708446, tt32502265]
       winner: [tt13853152]
     best actor in a supporting role (drama):
       nominee: [tt13085534, tt20872936, tt27727527, tt31548582, tt7112704]
@@ -32,17 +32,23 @@
       nominee: [tt13853152, tt1708446, tt19396408, tt5154982]
       winner: [tt5154982]
     best actress in a comic role (popular):
-      nominee: [tt1708446]
+      nominee: [tt1708446, tt5154982, tt9877848]
       winner: [tt1708446]
     best actress in a negative role:
-      nominee: [tt27757045]
+      nominee: [tt27757045, tt27988910, tt29535793, tt30705321, tt31548582]
       winner: [tt27757045]
     best actress in a supporting role (comedy):
-      nominee: [tt13853152]
+      nominee: [tt13853152, tt5154982, tt9877848]
       winner: [tt13853152]
     best actress in a supporting role (drama):
-      nominee: [tt20872936]
+      nominee: [tt13085534, tt15234990, tt20872936, tt7112704]
       winner: [tt20872936]
+    best anchor - news/current affairs (english):
+      nominee: [tt35450286]
+      winner: [tt35450286]
+    best anchor - news/current affairs (hindi):
+      nominee: [tt35449688]
+      winner: [tt35449688]
     best anchor - reality (dance/music):
       nominee: [tt4197638]
       winner: [tt4197638]
@@ -64,48 +70,78 @@
     best director - drama:
       nominee: [tt32792734]
       winner: [tt32792734]
+    best news/current affairs show (hindi):
+      nominee: [tt35449688]
+      winner: [tt35449688]
+    best reality show (dance/music):
+      nominee: [tt0486068, tt10370866, tt10787082, tt4197638, tt8451332]
+      winner: [tt4197638]
+    best reality show (game/quiz):
+      nominee: [tt0250875]
+      winner: [tt0250875]
     best serial - comedy:
       nominee: [tt13853152]
       winner: [tt13853152]
     best serial - comedy (popular):
-      nominee: [tt5154982]
+      nominee: [tt1708446, tt32809315, tt5154982, tt9877848]
       winner: [tt5154982]
     best serial - drama:
-      nominee: [tt31548582]
+      nominee: [tt11867666, tt30705321, tt31548582, tt32378269, tt32502265]
       winner: [tt31548582]
     best serial - popular:
-      nominee: [tt11867666]
+      nominee: [tt11867666, tt27993208, tt28500661, tt29768969, tt7112704]
       winner: [tt11867666]
   ott award:
     best actor - drama (ott):
-      nominee: [tt16296870]
+      nominee: [tt16296870, tt19868466, tt28681409, tt28804856]
       winner: [tt16296870]
     best actor - popular (ott):
-      nominee: [tt12004706]
+      nominee: [tt12004706, tt16296870, tt30003786, tt30836099]
       winner: [tt12004706]
     best actor in an original film:
       nominee: [tt15748830, tt26225118, tt26658272, tt4501268]
       winner: [tt15748830]
+    'best actor: comedy (ott)':
+      nominee: [tt12004706, tt22297290, tt31183656, tt6328940, tt8595766]
+      winner: [tt12004706]
     best actress - drama (ott):
       nominee: [tt12714854, tt15204292, tt6473300, tt9432978]
       winner: [tt12714854]
     best actress - popular (ott):
-      nominee: [tt15204292]
+      nominee: [tt15204292, tt30460964, tt31240024, tt9432978]
       winner: [tt15204292]
     best actress in an original film:
       nominee: [tt15434074, tt15748830, tt26225118, tt26658272, tt4501268]
       winner: [tt26225118]
+    'best actress: comedy (ott)':
+      nominee: [tt12004706, tt22297290, tt4156586, tt6328940, tt8595766]
+      winner: [tt12004706, tt6328940]
+    best anchor - reality series (ott):
+      nominee: [tt30003786]
+      winner: [tt30003786]
+    best director - comedy (ott):
+      nominee: [tt12004706]
+      winner: [tt12004706]
     best director - drama (ott):
       nominee: [tt12714854]
       winner: [tt12714854]
+    best director - original film:
+      nominee: [tt15433600, tt15434074, tt15748830, tt26658272, tt4501268]
+      winner: [tt15748830]
+    best original film - ott:
+      nominee: [tt15434074, tt15748830, tt26225118, tt26658272, tt28024755]
+      winner: [tt15748830]
+    best reality series (ott):
+      nominee: [tt21186282, tt29418391, tt31898045, tt7822166]
+      winner: [tt7822166]
     best web series - comedy:
-      nominee: [tt12004706]
+      nominee: [tt11407524, tt12004706, tt30003786, tt31862849, tt6328940]
       winner: [tt12004706]
     best web series - drama:
-      nominee: [tt28681409]
+      nominee: [tt12392496, tt12714854, tt16296870, tt28681409, tt28804856]
       winner: [tt28681409]
     best web series - popular:
-      nominee: [tt16296870]
+      nominee: [tt10530900, tt12004706, tt15204292, tt16296870, tt30836099, tt31240024]
       winner: [tt16296870]
   technical award (tv):
     best costume design:
@@ -117,6 +153,9 @@
     best dialogue - drama:
       nominee: [tt31548582]
       winner: [tt31548582]
+    best dop:
+      nominee: [tt27727527]
+      winner: [tt27727527]
     best music composer:
       nominee: [tt30145246]
       winner: [tt30145246]
@@ -129,6 +168,34 @@
     best teleplay:
       nominee: [tt31548582]
       winner: [tt31548582]
+    best visual effects:
+      nominee: [tt27719227]
+      winner: [tt27719227]
+  technical award (web):
+    best art direction (ott):
+      nominee: [tt15204292]
+      winner: [tt15204292]
+    best costume design (ott):
+      nominee: [tt15204292]
+      winner: [tt15204292]
+    best dialogue - comedy (ott):
+      nominee: [tt12004706]
+      winner: [tt12004706]
+    best dialogue - drama (ott):
+      nominee: [tt28804856]
+      winner: [tt28804856]
+    best dop - ott:
+      nominee: [tt15204292]
+      winner: [tt15204292]
+    best editor (ott):
+      nominee: [tt15204292]
+      winner: [tt15204292]
+    best singer (ott):
+      nominee: [tt12004706]
+      winner: [tt12004706]
+    best story (ott):
+      nominee: [tt12004706]
+      winner: [tt12004706]
 '2023': # https://www.imdb.com/event/ev0001931/2023/1/
   indian television academy award:
     best actor - drama:
