@@ -1,5 +1,9 @@
 # Berlin International Film Festival
-'2025': {}  # https://www.imdb.com/event/ev0000091/2025/1/
+'2025':  # https://www.imdb.com/event/ev0000091/2025/1/
+  panorama audience award:
+    best film:
+      nominee: [tt34713196]
+      winner: []
 '2024': # https://www.imdb.com/event/ev0000091/2024/1/
   golden berlin bear:
     best film:
