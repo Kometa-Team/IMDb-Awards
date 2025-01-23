@@ -2,7 +2,7 @@ name: Update-IMDb-Awards-Clean
 
 on:
   schedule:
-    - cron: '0 12 1 * *'
+    - cron: '0 17 1 * *'
   workflow_dispatch:
 
 jobs:
