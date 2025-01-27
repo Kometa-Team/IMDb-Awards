@@ -307,7 +307,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - reader jury of the "tagesspiegel" # 10 Events: 2008-2016, 2019
   - reader jury of the "zitty" # 8 Events: 1983-1990
   - score competition # 1 Event: 2014
-  - silver berlin bear # 73 Events: 1951-1969, 1971-2024
+  - silver berlin bear # 74 Events: 1951-1969, 1971-2025
   - silver berlin bear - honorable mention # 5 Events: 1985-1986, 2004-2005, 2012
   - silver plaque # 1 Event: 1951
   - small bronze plaque # 2 Events: 1955-1956
@@ -414,7 +414,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - best musical # 1 Event: 1951
   - best original screenplay of a foreign language film # 1 Event: 2015
   - best producer # 1 Event: 2021
-  - best screenplay # 16 Events: 1971, 2008-2014, 2017-2024
+  - best screenplay # 17 Events: 1971, 2008-2014, 2017-2025
   - best screenplay of a short film # 1 Event: 1982
   - best script # 3 Events: 2014-2016
   - best short # 3 Events: 2005, 2009, 2015
@@ -4085,12 +4085,12 @@ ev0000530: # People's Choice Awards, USA (https://www.imdb.com/event/ev0000530)
   - the show of the year # 1 Event: 2024
   - the tv performance of the year # 1 Event: 2024
 ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
-  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
-    '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981']
+  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
+    '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981']
   awards:  # Award Options: Razzie Awards
   - barry l. bumstead award # 4 Events: 2016-2019
   - governor's award # 1 Event: 2004
-  - razzie award # 44 Events: 1981-2024
+  - razzie award # 45 Events: 1981-2025
   - redeemer award # 5 Events: 2017, 2019-2020, 2022-2023
   categories: # Category Options: Razzie Awards
   - barry l. bumstead award # 4 Events: 2016-2019
@@ -4101,11 +4101,11 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   - worst 'comedy' of our first 25 years # 1 Event: 2005
   - worst 'drama' of our first 25 years # 1 Event: 2005
   - worst 'musical' of our first 25 years # 1 Event: 2005
-  - worst actor # 44 Events: 1981-2024
+  - worst actor # 45 Events: 1981-2025
   - worst actor of the decade # 1 Event: 2010
-  - worst actress # 44 Events: 1981-2024
+  - worst actress # 45 Events: 1981-2025
   - worst actress of the decade # 1 Event: 2010
-  - worst director # 44 Events: 1981-2024
+  - worst director # 45 Events: 1981-2025
   - worst ensemble # 1 Event: 2012
   - worst excuse for a horror movie # 1 Event: 2008
   - worst excuse for an actual movie (all concept/no content!) # 1 Event: 2004
@@ -4115,21 +4115,21 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   - worst new star # 17 Events: 1982-1989, 1991-1999
   - worst original song # 21 Events: 1981-2000, 2003
   - worst performance by bruce willis in a 2021 movie # 1 Event: 2022
-  - worst picture # 44 Events: 1981-2024
+  - worst picture # 45 Events: 1981-2025
   - worst picture of the decade # 3 Events: 1990, 2000, 2010
   - worst prequel or sequel # 2 Events: 2007-2008
   - worst prequel, remake, rip-off or sequel # 7 Events: 2009, 2011-2013, 2017, 2020, 2024
   - worst reckless disregard for human life and public property # 2 Events: 1998, 2020
   - worst remake or rip-off # 2 Events: 2007-2008
   - worst remake or sequel # 10 Events: 1995-1996, 1998-1999, 2001-2006
-  - worst remake, rip-off or sequel # 9 Events: 2010, 2014-2016, 2018-2019, 2021-2023
-  - worst screen combo # 9 Events: 2014-2021, 2023
+  - worst remake, rip-off or sequel # 10 Events: 2010, 2014-2016, 2018-2019, 2021-2023, 2025
+  - worst screen combo # 10 Events: 2014-2021, 2023, 2025
   - worst screen couple # 20 Events: 1995-2010, 2012-2013, 2022, 2024
   - worst screen couple/worst screen ensemble # 1 Event: 2011
   - worst screen ensemble # 1 Event: 2013
-  - worst screenplay # 44 Events: 1981-2024
-  - worst supporting actor # 44 Events: 1981-2024
-  - worst supporting actress # 44 Events: 1981-2024
+  - worst screenplay # 45 Events: 1981-2025
+  - worst supporting actor # 45 Events: 1981-2025
+  - worst supporting actress # 45 Events: 1981-2025
   - worst visual effects # 2 Events: 1987-1988
   - worst written film grossing over $100 million # 1 Event: 1997
 ev0000598: # Screen Actors Guild Awards (https://www.imdb.com/event/ev0000598)
@@ -4168,7 +4168,7 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
     '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1982']
   awards:  # Award Options: Sundance Film Festival
   - "\"delta's fly-in movies\" film contest winner" # 1 Event: 2007
-  - alfred p. sloan feature film prize # 22 Events: 2003-2024
+  - alfred p. sloan feature film prize # 23 Events: 2003-2025
   - amazon studios fiction producers award # 1 Event: 2024
   - amazon studios nonfiction producers award # 1 Event: 2024
   - audience award # 36 Events: 1989-2024
@@ -4220,7 +4220,7 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - "\"delta's fly-in movies\" film contest winner" # 1 Event: 2007
   - achievement in acting # 1 Event: 2019
   - acting # 6 Events: 2019-2024
-  - alfred p. sloan feature film prize # 22 Events: 2003-2024
+  - alfred p. sloan feature film prize # 23 Events: 2003-2025
   - amazon studios fiction producers award # 1 Event: 2024
   - amazon studios nonfiction producers award # 1 Event: 2024
   - animation # 16 Events: 2002-2004, 2012-2024
