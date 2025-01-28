@@ -5,7 +5,7 @@
       nominee: [tt17538632, tt18382850, tt24022322, tt26757241, tt28171985, tt30810787, tt31079597, tt31566788, tt31710990, tt31869782, tt32120173, tt32263401, tt32536315, tt35340614, tt35492581, tt35499025, tt35499036, tt35499146, tt35500283]
       winner: []
     best short film:
-      nominee: [tt32813852, tt34901437, tt35405670, tt35405685, tt35405716, tt35405779, tt35405862, tt35407267, tt35407344, tt35407863]
+      nominee: [tt32813852, tt32897780, tt34901437, tt35315349, tt35380390, tt35405670, tt35405685, tt35405716, tt35405741, tt35405779, tt35405817, tt35405862, tt35407055, tt35407267, tt35407344, tt35407473, tt35407591, tt35407612, tt35407863]
       winner: []
   silver berlin bear:
     best screenplay:
@@ -15,12 +15,28 @@
     best film:
       nominee: [tt34713196]
       winner: []
+    documentary film:
+      nominee: [tt34965506]
+      winner: []
+    feature film:
+      nominee: [tt30441926, tt34250044, tt34966919]
+      winner: []
   crystal bear:
     generation 14plus - best film:
-      nominee: [tt33575372]
+      nominee: [tt32263650, tt32358436, tt33575372, tt35051064, tt35449355]
+      winner: []
+    generation 14plus - best short film:
+      nominee: [tt28703727, tt30495767, tt33086973, tt35050803, tt35050898, tt35305469, tt35449051]
       winner: []
     generation kplus - best film:
       nominee: [tt26446095]
+      winner: []
+    generation kplus - best short film:
+      nominee: [tt12429712, tt35442758, tt35444072, tt35444084]
+      winner: []
+  perspectives award:
+    best first feature:
+      nominee: [tt31807192]
       winner: []
 '2024': # https://www.imdb.com/event/ev0000091/2024/1/
   golden berlin bear:
