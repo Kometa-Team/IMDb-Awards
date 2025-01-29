@@ -1664,63 +1664,66 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - young cinema award # 2 Events: 1979, 1981
   - young critics award # 5 Events: 2007-2011
 ev0000157: # César Awards, France (https://www.imdb.com/event/ev0000157)
-  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
-    '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977', '1976']
+  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
+    '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977',
+    '1976']
   awards:  # Award Options: César Awards, France
-  - césar # 49 Events: 1976-2024
+  - césar # 50 Events: 1976-2025
   - césar des césars # 1 Event: 1995
   - césar du public # 3 Events: 2018-2020
   - honorary césar # 1 Event: 1986
   categories: # Category Options: César Awards, France
-  - best actor (meilleur acteur) # 49 Events: 1976-2024
-  - best actress (meilleure actrice) # 49 Events: 1976-2024
+  - best actor (meilleur acteur) # 50 Events: 1976-2025
+  - best actress (meilleure actrice) # 50 Events: 1976-2025
   - best adapted screenplay (meilleure adaptation et dialogues) # 1 Event: 1983
-  - best adapted screenplay (meilleure adaptation) # 21 Events: 1984-1985, 2006-2024
-  - best animated film (meilleur film d'animation) # 14 Events: 2011-2024
-  - best animated short film (meilleur court métrage d'animation) # 6 Events: 2014, 2016-2017, 2021, 2023-2024
+  - best adapted screenplay (meilleure adaptation) # 22 Events: 1984-1985, 2006-2025
+  - best animated film (meilleur film d'animation) # 15 Events: 2011-2025
+  - best animated short film (meilleur court métrage d'animation) # 7 Events: 2014, 2016-2017, 2021, 2023-2025
   - best animated short film (meilleur film de court métrage d'animation) # 1 Event: 2022
   - best cinematography (meilleure photo) # 4 Events: 2014-2017
-  - best cinematography (meilleure photographie) # 45 Events: 1976-2013, 2018-2024
-  - best costume design (meilleurs costumes) # 40 Events: 1985-2024
+  - best cinematography (meilleure photographie) # 46 Events: 1976-2013, 2018-2025
+  - best costume design (meilleurs costumes) # 41 Events: 1985-2025
   - best director (meilleur réalisateur) # 46 Events: 1976-2021
   - best director (meilleur réalisation) # 1 Event: 2023
-  - best director (meilleure réalisation) # 2 Events: 2022, 2024
-  - best documentary film (meilleur film documentaire) # 18 Events: 2007-2024
+  - best director (meilleure réalisation) # 3 Events: 2022, 2024-2025
+  - best documentary film (meilleur film documentaire) # 19 Events: 2007-2025
   - best documentary film (meilleur film à caractère documentaire) # 1 Event: 1995
-  - best documentary short film (meilleur film de court métrage documentaire) # 3 Events: 2022-2024
-  - best editing (meilleur montage) # 49 Events: 1976-2024
+  - best documentary short film (meilleur film de court métrage documentaire) # 4 Events: 2022-2025
+  - best editing (meilleur montage) # 50 Events: 1976-2025
   - best european union film (meilleur film de l'union européenne) # 3 Events: 2003-2005
+  - best female revelation (meilleure révélation féminine) # 1 Event: 2025
   - best fiction short film (meilleur film de court métrage de fiction) # 1 Event: 2022
-  - best film (meilleur film) # 49 Events: 1976-2024
+  - best film (meilleur film) # 50 Events: 1976-2025
   - best film of the european community (meilleur film de l'europe communautaire) # 1 Event: 1989
-  - best first film (meilleur premier film) # 20 Events: 2005-2024
+  - best first film (meilleur premier film) # 21 Events: 2005-2025
   - best first work (meilleure première oeuvre) # 20 Events: 1982-2001
   - best first work of fiction (meilleure première oeuvre de fiction) # 3 Events: 2002-2004
-  - best foreign film (meilleur film étranger) # 49 Events: 1976-2024
+  - best foreign film (meilleur film étranger) # 50 Events: 1976-2025
   - best french language film (meilleur film francophone) # 3 Events: 1984-1986
+  - best male revelation (meilleure révélation masculine) # 1 Event: 2025
   - best music (meilleure musique) # 27 Events: 1976-2001, 2020
   - best music written for a film (meilleure musique écrite pour un film) # 10 Events: 2002-2011
-  - best original music (meilleure musique originale) # 12 Events: 2012-2019, 2021-2024
+  - best original music (meilleure musique originale) # 13 Events: 2012-2019, 2021-2025
   - best original screenplay (meilleur scénario original et dialogues) # 3 Events: 1983-1985
-  - best original screenplay (meilleur scénario original) # 19 Events: 2006-2024
+  - best original screenplay (meilleur scénario original) # 20 Events: 2006-2025
   - best poster (meilleure affiche) # 5 Events: 1986-1990
   - best producer (meilleur producteur) # 2 Events: 1996-1997
-  - best production design (meilleurs décors) # 49 Events: 1976-2024
+  - best production design (meilleurs décors) # 50 Events: 1976-2025
   - best screenplay, original or adaptation (meilleur scénario, dialogue ou adaptation) # 6 Events: 1976-1977, 1979-1982
   - best screenplay, original or adaptation (meilleur scénario, original ou adaptation) # 20 Events: 1986-2005
   - best short film (meilleur court métrage) # 2 Events: 2010, 2017
   - best short film (meilleur court-métrage) # 23 Events: 1985, 1992-2009, 2017-2020
-  - best short film (meilleur film de court métrage de fiction) # 2 Events: 2023-2024
+  - best short film (meilleur film de court métrage de fiction) # 3 Events: 2023-2025
   - best short film (meilleur film de court métrage) # 7 Events: 2011-2014, 2016-2017, 2021
   - best short film (meilleur film de court-métrage) # 1 Event: 2015
   - best short film - animation (meilleur court-métrage d'animation) # 16 Events: 1977-1986, 1988-1990, 2018-2020
   - best short film - documentary (meilleur court-métrage documentaire) # 14 Events: 1977-1986, 1988-1991
   - best short film - fiction (meilleur court-métrage de fiction) # 15 Events: 1977-1991
-  - best sound (meilleur son) # 49 Events: 1976-2024
+  - best sound (meilleur son) # 50 Events: 1976-2025
   - best sreenplay, original or adaptation (meilleur scénario, dialogue ou adaptation) # 1 Event: 1978
-  - best supporting actor (meilleur acteur dans un second rôle) # 49 Events: 1976-2024
-  - best supporting actress (meilleure actrice dans un second rôle) # 49 Events: 1976-2024
-  - best visual effects (meilleurs effets visuels) # 3 Events: 2022-2024
+  - best supporting actor (meilleur acteur dans un second rôle) # 50 Events: 1976-2025
+  - best supporting actress (meilleure actrice dans un second rôle) # 50 Events: 1976-2025
+  - best visual effects (meilleurs effets visuels) # 4 Events: 2022-2025
   - césar des césars # 1 Event: 1995
   - césar du public # 3 Events: 2018-2020
   - honorary césar # 1 Event: 1986
