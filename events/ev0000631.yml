@@ -3,16 +3,49 @@
   grand jury prize:
     documentary:
       nominee: [tt26784676, tt28718656, tt33322301, tt34565168, tt34962891, tt34963034, tt34963731, tt34963732, tt34963797, tt34963844]
-      winner: []
+      winner: [tt34963731]
     dramatic:
       nominee: [tt13650578, tt27550504, tt27827635, tt28618542, tt29253299, tt31122579, tt31322753, tt32843349, tt33998099, tt34880924]
-      winner: []
+      winner: [tt31122579]
     world cinema - documentary:
       nominee: [tt10196414, tt21104356, tt34909040, tt34964205, tt34964219, tt34965172, tt34965481, tt34965506, tt34965515, tt34965625]
-      winner: []
+      winner: [tt10196414]
     world cinema - dramatic:
       nominee: [tt13289160, tt15460036, tt29310002, tt31066723, tt31140176, tt31392191, tt32367116, tt32605679, tt34964187, tt9853664]
-      winner: []
+      winner: [tt29310002]
+  directing award:
+    u.s. documentary:
+      nominee: [tt34962891]
+      winner: [tt34962891]
+    u.s. dramatic:
+      nominee: [tt27827635]
+      winner: [tt27827635]
+    world cinema, documentary:
+      nominee: [tt34964205]
+      winner: [tt34964205]
+    world cinema, dramatic:
+      nominee: [tt32367116]
+      winner: [tt32367116]
+  waldo salt screenwriting award:
+    u.s. dramatic:
+      nominee: [tt32843349]
+      winner: [tt32843349]
+  audience award:
+    next:
+      nominee: [tt21349688]
+      winner: [tt21349688]
+    u.s. documentary:
+      nominee: [tt34963034]
+      winner: [tt34963034]
+    u.s. dramatic:
+      nominee: [tt31322753]
+      winner: [tt31322753]
+    world cinema - documentary:
+      nominee: [tt34965625]
+      winner: [tt34965625]
+    world cinema - dramatic:
+      nominee: [tt34964187]
+      winner: [tt34964187]
   alfred p. sloan feature film prize:
     alfred p. sloan feature film prize:
       nominee: [tt31193771]
@@ -20,11 +53,64 @@
   short film grand jury prize:
     best short film:
       nominee: [tt14176748, tt27730375, tt28713718, tt30816249, tt31024223, tt31037397, tt31548153, tt31937601, tt31995855, tt32215973, tt32494012, tt32499941, tt32559910, tt32852151, tt32896558, tt33014334, tt33087322, tt33092232, tt33202250, tt33317127, tt33423159, tt34244844, tt34674511, tt34696740, tt34719395, tt34875273, tt35002936, tt35047945, tt35048460, tt35050166, tt35050390, tt35050508, tt35050536, tt35050565, tt35050636, tt35050670, tt35051271, tt35051289, tt35051308, tt35051320, tt35051330, tt35051335, tt35051351, tt35051372, tt35051383, tt35051387, tt35051402, tt35051404, tt35051417, tt35051422, tt35051430, tt35051434, tt35051436, tt35051445, tt35051462, tt35051470, tt35051482]
-      winner: []
+      winner: [tt33014334]
+  short film jury award:
+    animation:
+      nominee: [tt35051462]
+      winner: [tt35051462]
+    international fiction:
+      nominee: [tt35002936]
+      winner: [tt35002936]
+    non-fiction:
+      nominee: [tt35051434]
+      winner: [tt35051434]
+    u.s. fiction:
+      nominee: [tt35050636]
+      winner: [tt35050636]
+  world cinema dramatic special jury award:
+    creative vision:
+      nominee: [tt34964187]
+      winner: [tt34964187]
+    writing:
+      nominee: [tt31066723]
+      winner: [tt31066723]
+  short film special jury award:
+    directing:
+      nominee: [tt34719395]
+      winner: [tt34719395]
   next innovator award:
     next innovator award:
       nominee: [tt17497960, tt21349688, tt29544916, tt32808757, tt33365660, tt33430448, tt33562917, tt34965959]
-      winner: []
+      winner: [tt34965959]
+  u.s. dramatic special jury award:
+    acting:
+      nominee: [tt31322753]
+      winner: [tt31322753]
+    ensemble:
+      nominee: [tt27550504]
+      winner: [tt27550504]
+  world cinema documentary special jury award:
+    freedom of expression:
+      nominee: [tt34964219]
+      winner: [tt34964219]
+    world cinema documentary special jury award:
+      nominee: [tt34965515]
+      winner: [tt34965515]
+  u.s. documentary special jury award:
+    archival storytelling:
+      nominee: [tt34963797]
+      winner: [tt34963797]
+    u.s. documentary special jury award:
+      nominee: [tt28718656]
+      winner: [tt28718656]
+  jonathan oppenheim editing award:
+    u.s. documentary:
+      nominee: [tt34963034]
+      winner: [tt34963034]
+  next special jury award presented by adobe:
+    next special jury award presented by adobe:
+      nominee: [tt33562917]
+      winner: [tt33562917]
 '2024': # https://www.imdb.com/event/ev0000631/2024/1/
   grand jury prize:
     documentary:

@@ -1,5 +1,10 @@
 # Awards of the International Indian Film Academy
-'2024':  # https://www.imdb.com/event/ev0000361/2024/1/
+'2025':  # https://www.imdb.com/event/ev0000361/2025/1/
+  iifa award:
+    best picture:
+      nominee: [tt21626284, tt26932223, tt27510174, tt27744786, tt28259207, tt30970235]
+      winner: []
+'2024': # https://www.imdb.com/event/ev0000361/2024/1/
   iifa award:
     best actor in a leading role:
       nominee: [tt10786774, tt13751694, tt14993250, tt15354916, tt15441054, tt23849204]

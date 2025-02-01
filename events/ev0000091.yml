@@ -34,9 +34,16 @@
     generation kplus - best short film:
       nominee: [tt12429712, tt35442758, tt35444072, tt35444084]
       winner: []
+  teddy:
+    best documentary/essay film:
+      nominee: [tt18235498, tt34542628, tt35494617]
+      winner: []
+    best feature film:
+      nominee: [tt27750778, tt28834646, tt32240190, tt32879673, tt34250044, tt34966919, tt35050890, tt35051064, tt35051106, tt35453155, tt35489613, tt35494658, tt35503491, tt35504279]
+      winner: []
   perspectives award:
     best first feature:
-      nominee: [tt31807192]
+      nominee: [tt17497960, tt26414209, tt28834646, tt30142288, tt31807192, tt33562917, tt35341698, tt35484319, tt35489613, tt35503482, tt35503491, tt35504279, tt35504309, tt35504398]
       winner: []
 '2024': # https://www.imdb.com/event/ev0000091/2024/1/
   golden berlin bear:
