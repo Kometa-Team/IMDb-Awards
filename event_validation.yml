@@ -169,7 +169,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - berlinale documentary award # 5 Events: 2020-2024
   - berlinale documentary award - special mention # 2 Events: 2020, 2024
   - berlinale series award # 1 Event: 2023
-  - berlinale talent campus # 1 Event: 2013
+  - berlinale talent campus # 2 Events: 2011, 2013
   - berlinale talents doc station development grant # 1 Event: 2015
   - berliner morgenpost readers' jury award # 2 Events: 2023-2024
   - best debut film # 8 Events: 1996, 2006-2011, 2013
@@ -549,6 +549,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - ocic promotional award # 1 Event: 1984
   - ocic promotional award - honorable mention # 1 Event: 1985
   - otto domnick film award # 1 Event: 1985
+  - out of competition # 1 Event: 2011
   - outstanding artistic achievement # 13 Events: 1992-1994, 2000-2006, 2010-2012
   - outstanding artistic contribution # 17 Events: 1997, 1999, 2007-2009, 2013-2024
   - outstanding single achievement # 18 Events: 1978-1979, 1981-1983, 1985, 1987-1992, 1994-1999
@@ -879,7 +880,6 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best news or outside broadcast coverage # 5 Events: 1986-1989, 1991
   - best news/actuality coverage # 2 Events: 1993-1994
   - best online multiplayer # 2 Events: 2005, 2012
-  - best original  television music # 2 Events: 1983, 1985
   - best original film score # 4 Events: 1990-1993
   - best original music # 9 Events: 2004-2005, 2011-2017
   - best original programme/series # 1 Event: 1978
@@ -2365,7 +2365,6 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding host for a reality or reality competition program # 1 Event: 2024
   - outstanding host for a reality or reality-competition program # 13 Events: 2008-2010, 2012-2021
   - outstanding hosted nonfiction series or special # 5 Events: 2020-2024
-  - outstanding individual  - informational programming # 1 Event: 1991
   - outstanding individual - informational programming # 1 Event: 1991
   - outstanding individual achievement - animated programming # 3 Events: 1981-1983
   - outstanding individual achievement - animation program # 2 Events: 1979-1980
@@ -2969,26 +2968,14 @@ ev0000245: # Filmfare Awards (https://www.imdb.com/event/ev0000245)
   - special mention # 1 Event: 2009
   - technical award # 28 Events: 1955, 1970, 1979, 1984, 1993-1996, 2001, 2003, 2006-2011, 2013-2024
   categories: # Category Options: Filmfare Awards
-  - best    film # 1 Event: 1998
-  - best   director # 1 Event: 1998
-  - best   film # 10 Events: 1992-1993, 2002, 2010-2013, 2015, 2017, 2020
-  - best  actor # 11 Events: 1992-1993, 1998, 2002, 2010-2013, 2015, 2017, 2020
-  - best  actress # 11 Events: 1992-1993, 1998, 2002, 2010-2013, 2015, 2017, 2020
-  - best  debut actor # 1 Event: 2020
-  - best  debut actress # 1 Event: 2020
-  - best  debut director # 1 Event: 2020
-  - best  director # 10 Events: 1992-1993, 2002, 2010-2013, 2015, 2017, 2020
-  - best  film # 2 Events: 2002, 2011
-  - best  supporting actor # 7 Events: 1993, 1998, 2010-2012, 2015, 2017
-  - best  supporting actress # 7 Events: 1993, 1998, 2010-2012, 2015, 2017
   - best action # 31 Events: 1993-1996, 1998-2024
-  - best actor # 64 Events: 1954-1991, 1994-1997, 1999-2009, 2011, 2013-2024
+  - best actor # 69 Events: 1954-2024
   - best actor - critics # 13 Events: 1998-2001, 2003-2010, 2012
   - best actor in a comic role # 1 Event: 2002
   - best actor in a negative role # 1 Event: 2002
   - best actor in a short film # 6 Events: 2017-2022
   - best actor in a villainous role # 1 Event: 2005
-  - best actress # 64 Events: 1954-1991, 1994-1997, 1999-2009, 2011, 2013-2024
+  - best actress # 69 Events: 1954-2024
   - best actress - critics # 14 Events: 1998-2001, 2003-2012
   - best actress in a short film # 5 Events: 2017-2021
   - best art direction # 15 Events: 1977, 1982, 1984, 1991-1992, 1994-1995, 1998-1999, 2002-2006, 2009
@@ -3009,16 +2996,16 @@ ev0000245: # Filmfare Awards (https://www.imdb.com/event/ev0000245)
   - best costume design # 19 Events: 1996, 2007-2024
   - best debut actor # 26 Events: 1990, 1993, 1996-2004, 2006, 2008-2009, 2011-2017, 2019-2020, 2022-2024
   - best debut actor (male/female) # 5 Events: 1989, 1992, 1994-1995, 2005
-  - best debut actress # 29 Events: 1990, 1992-1994, 1996-2004, 2006-2009, 2011-2017, 2019, 2021-2024
-  - best debut director # 15 Events: 1990, 2010-2019, 2021-2024
+  - best debut actress # 30 Events: 1990, 1992-1994, 1996-2004, 2006-2009, 2011-2017, 2019-2024
+  - best debut director # 16 Events: 1990, 2010-2024
   - best dialogue # 40 Events: 1959, 1962, 1967, 1972, 1978-1980, 1984-1985, 1993-1996, 1998-2024
   - best dialogue writer # 16 Events: 1960, 1964-1966, 1969-1970, 1973-1976, 1981, 1986-1992
-  - best director # 58 Events: 1954-1991, 1994-1997, 1999-2001, 2003-2009, 2014, 2016, 2018-2019, 2021-2024
+  - best director # 69 Events: 1954-2024
   - best director in a short film # 1 Event: 2017
   - best documentary - critics # 1 Event: 1997
   - best editing # 32 Events: 1979, 1982, 1984, 1993, 1995-1996, 1998-2006, 2008-2024
   - best editor # 25 Events: 1956-1959, 1962-1965, 1967, 1969-1970, 1972, 1974, 1976, 1978, 1980-1983, 1985-1992
-  - best film # 62 Events: 1954-1991, 1994-1997, 1999-2001, 2003-2009, 2013-2024
+  - best film # 69 Events: 1954-2024
   - best film - critics # 37 Events: 1971-1982, 1984-2001, 2003-2010, 2012
   - best lyricist # 51 Events: 1959-1960, 1962-2003, 2005, 2010-2015, 2018-2019
   - best lyrics # 11 Events: 2004, 2006-2009, 2016, 2020-2024
@@ -3052,8 +3039,8 @@ ev0000245: # Filmfare Awards (https://www.imdb.com/event/ev0000245)
   - best special effects # 8 Events: 2008-2010, 2012, 2014, 2016-2017, 2019
   - best story # 55 Events: 1955-1959, 1962-1967, 1969-1972, 1975-1979, 1981-1982, 1984-1986, 1990, 1992, 1994, 1996, 1998-2019, 2021-2024
   - best story writer # 7 Events: 1959-1960, 1974, 1986-1989, 1991, 1997
-  - best supporting actor # 60 Events: 1955-1960, 1962-1992, 1994-1997, 1999-2009, 2013-2014, 2016, 2018-2024
-  - best supporting actress # 60 Events: 1955-1960, 1962-1992, 1994-1997, 1999-2009, 2013-2014, 2016, 2018-2024
+  - best supporting actor # 67 Events: 1955-1960, 1962-2024
+  - best supporting actress # 67 Events: 1955-1960, 1962-2024
   - best trendsetter of the year # 2 Events: 2013-2014
   - best vfx # 5 Events: 2020-2024
   - best villain/villainess # 1 Event: 2001
@@ -3414,19 +3401,14 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
   - special award # 10 Events: 2000, 2006-2008, 2011-2012, 2014-2015, 2019, 2023
   - technical award # 11 Events: 2009, 2013, 2015-2024
   categories: # Category Options: Awards of the International Indian Film Academy
-  - best   film # 2 Events: 2010, 2019
-  - best   picture # 1 Event: 2002
-  - best  actor in a leading role # 3 Events: 2010, 2015, 2019
-  - best  actress in a leading role # 2 Events: 2010, 2019
-  - best  director # 2 Events: 2010, 2019
   - best action # 14 Events: 2003, 2005-2017
-  - best actor in a leading role # 20 Events: 2000-2009, 2011-2018, 2020, 2024
+  - best actor in a leading role # 22 Events: 2000-2020, 2024
   - best actor in a leading role - female # 2 Events: 2022-2023
   - best actor in a leading role - male # 2 Events: 2022-2023
   - best actor in a supporting role # 18 Events: 2001-2002, 2004-2019
   - best actor in a supporting role - female # 2 Events: 2022-2023
   - best actor in a supporting role - male # 2 Events: 2022-2023
-  - best actress in a leading role # 20 Events: 2000-2009, 2011-2018, 2020, 2024
+  - best actress in a leading role # 22 Events: 2000-2020, 2024
   - best actress in a supporting role # 18 Events: 2001-2002, 2004-2019
   - best adaptation # 1 Event: 2007
   - best art direction # 11 Events: 2000-2003, 2005-2011
@@ -3442,10 +3424,10 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
   - best debut director # 2 Events: 2005, 2013
   - best dialogue # 21 Events: 2000-2012, 2014-2017, 2019-2022, 2024
   - best dialogues # 3 Events: 2013, 2018, 2023
-  - best director # 22 Events: 2000-2009, 2011-2018, 2020-2024
+  - best director # 24 Events: 2000-2024
   - best editing # 24 Events: 2000-2024
   - best female debut # 3 Events: 2001, 2006, 2014
-  - best film # 7 Events: 2000, 2009, 2011, 2015-2018
+  - best film # 9 Events: 2000, 2009-2011, 2015-2019
   - best lyricist # 12 Events: 2000-2001, 2004-2005, 2007-2012, 2014, 2019
   - best lyrics # 7 Events: 2002, 2006, 2018, 2020-2024
   - best make up # 2 Events: 2000, 2003
@@ -3495,7 +3477,7 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
   - special effects # 1 Event: 2022
   - star plus hottest pair # 3 Events: 2011-2012, 2014
 ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
-  years: ['2025', '2024', '2023', '2020', '2019', '2018', '2017', '2016', '2014', '2013', '2012', '2011', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999', '1998']
+  years: ['2024', '2023', '2020', '2019', '2018', '2017', '2016', '2014', '2013', '2012', '2011', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999', '1998']
   awards:  # Award Options: Zee Cine Awards
   - critics choice award # 10 Events: 2005-2017
   - entertainer of the year # 1 Event: 2007
@@ -3638,18 +3620,10 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - 3rd best feature film in hindi # 1 Event: 1964
   - actor # 1 Event: 2011
   - all india certificate of merit (feature film) # 1 Event: 1958
-  - best   feature film # 1 Event: 2017
-  - best  actor # 3 Events: 2017-2019
-  - best  actress # 3 Events: 2017-2019
-  - best  director # 1 Event: 2017
-  - best  feature film # 1 Event: 2019
-  - best  popular film providing wholesome entertainment # 2 Events: 2017, 2019
-  - best  supporting actor # 3 Events: 2017-2019
-  - best  supporting actress # 3 Events: 2017-2019
   - best action # 1 Event: 2018
-  - best actor # 53 Events: 1967-1968, 1970-2016, 2020-2024
+  - best actor # 56 Events: 1967-1968, 1970-2024
   - best actor in a supporting role # 1 Event: 1986
-  - best actress # 53 Events: 1968-2016, 2020-2024
+  - best actress # 56 Events: 1968-2024
   - best actress in a supporting role # 1 Event: 1989
   - best animated film # 3 Events: 1995-1996, 2008
   - best animation film # 6 Events: 1998, 2010, 2013, 2017, 2023-2024
@@ -3686,7 +3660,7 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best debut film of a director - non feature # 1 Event: 2015
   - best debut non-feature film of a director # 4 Events: 2020-2024
   - best direction # 20 Events: 1970, 1974-1975, 1980-1981, 1984, 1986, 1994, 1997, 2001-2004, 2007, 2010-2012, 2014-2015, 2020
-  - best director # 24 Events: 1968-1969, 1971-1972, 1976-1977, 1982, 1987, 1991-1992, 1995, 2000-2001, 2005-2006, 2008-2009, 2011, 2016, 2018-2019, 2022-2024
+  - best director # 25 Events: 1968-1969, 1971-1972, 1976-1977, 1982, 1987, 1991-1992, 1995, 2000-2001, 2005-2006, 2008-2009, 2011, 2016-2019, 2022-2024
   - best director in non-feature film # 6 Events: 2014, 2017-2018, 2022-2024
   - best documentary # 1 Event: 2024
   - best documentary film # 2 Events: 1962, 1973
@@ -3703,14 +3677,13 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best exploration / adventure film (including sports) # 1 Event: 2019
   - best exploration film # 2 Events: 2022-2023
   - best exploration/adventure film # 2 Events: 2004, 2020
-  - best feature film # 49 Events: 1954-1957, 1960-1963, 1965, 1967, 1969-1974, 1977, 1982-1984, 1987-1988, 1990-1995, 1997, 1999-2000, 2002-2004, 2006-2010, 2012-2016, 2018, 2020-2024
-  - best feature film in  gujarati # 1 Event: 2023
+  - best feature film # 51 Events: 1954-1957, 1960-1963, 1965, 1967, 1969-1974, 1977, 1982-1984, 1987-1988, 1990-1995, 1997, 1999-2000, 2002-2004, 2006-2010, 2012-2024
   - best feature film in assamese # 29 Events: 1956, 1964, 1970, 1972, 1976, 1983, 1986, 1992-1997, 2000, 2003, 2005, 2009-2011, 2013-2014, 2016-2024
   - best feature film in bengali # 43 Events: 1956, 1960-1962, 1967, 1969, 1972-1975, 1979, 1981-1984, 1987-1988, 1990, 1993, 1998-2007, 2009-2011, 2013-2024
   - best feature film in chhattisgarhi # 1 Event: 2019
   - best feature film in dimasa # 1 Event: 2022
   - best feature film in english # 5 Events: 2003, 2006, 2008, 2010, 2013
-  - best feature film in gujarati # 3 Events: 2013, 2017-2018
+  - best feature film in gujarati # 4 Events: 2013, 2017-2018, 2023
   - best feature film in haryanvi # 2 Events: 2015, 2022
   - best feature film in hindi # 42 Events: 1961-1964, 1970-1971, 1973, 1976-1978, 1983-1985, 1987-1989, 1992-1997, 1999-2000, 2002-2003, 2005-2007, 2009-2011, 2013, 2015-2024
   - best feature film in kannada # 9 Events: 1977, 2008, 2013-2014, 2016, 2020-2024
@@ -3781,7 +3754,7 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best performance # 1 Event: 1991
   - best playback singer (female) # 32 Events: 1971, 1973, 1975-1976, 1978, 1982-1983, 1987-1988, 1991, 1993-1994, 1996-1999, 2001, 2003, 2005-2006, 2008-2009, 2011-2012, 2014-2016, 2018-2020, 2023-2024
   - best playback singer (male) # 39 Events: 1968, 1971, 1973, 1975-1978, 1980, 1982-1984, 1987-1989, 1992, 1994-1999, 2001-2009, 2014-2020, 2023-2024
-  - best popular film providing wholesome entertainment # 34 Events: 1975, 1980, 1987-1991, 1994-1996, 1998-2016, 2018, 2020-2024
+  - best popular film providing wholesome entertainment # 36 Events: 1975, 1980, 1987-1991, 1994-1996, 1998-2024
   - best production design # 8 Events: 2015, 2017-2024
   - best promotional film # 4 Events: 2003, 2009, 2013, 2023
   - best punjabi film # 1 Event: 2024
@@ -3809,8 +3782,8 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best stunt # 1 Event: 2019
   - best stunt choreography # 2 Events: 2017, 2022
   - best stunt direction # 2 Events: 2023-2024
-  - best supporting actor # 31 Events: 1987-1990, 1993-2000, 2002-2016, 2020-2024
-  - best supporting actress # 31 Events: 1985, 1987-1988, 1990, 1992-1995, 1997-2000, 2002-2016, 2020-2024
+  - best supporting actor # 34 Events: 1987-1990, 1993-2000, 2002-2024
+  - best supporting actress # 34 Events: 1985, 1987-1988, 1990, 1992-1995, 1997-2000, 2002-2024
   - best tiwa film # 1 Event: 2024
   - best tulu film # 1 Event: 2022
   - certificate of merit # 2 Events: 1954, 1956
@@ -4704,7 +4677,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - nazareno taddei award - special mention # 1 Event: 2012
   - netpac award # 5 Events: 2000-2001, 2005, 2023-2024
   - netpac award - special mention # 1 Event: 2000
-  - new cinema award # 12 Events: 1956-1959, 1961-1962, 1964-1966, 1981, 1988, 2002
+  - new cinema award # 15 Events: 1956-1967, 1981, 1988, 2002
   - new cinema award - special mention # 1 Event: 1988
   - nuovoimaie award # 1 Event: 2016
   - nuovoimaie talent award # 6 Events: 2015, 2018, 2021-2024
@@ -4893,7 +4866,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - best experimental film # 1 Event: 1966
   - best feature # 1 Event: 2000
   - best feature film # 3 Events: 1946, 2009, 2011
-  - best film # 57 Events: 1955-1959, 1961-1962, 1964-1966, 1968, 1979-2024
+  - best film # 60 Events: 1955-1968, 1979-2024
   - best film (international film critics week) # 9 Events: 1991, 2012-2019
   - best film (venice days) # 17 Events: 2004-2019, 2022
   - best film - il cerchio non è rotondo award # 2 Events: 2011-2012
@@ -5151,7 +5124,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - nazareno taddei award - special mention # 1 Event: 2012
   - netpac award # 5 Events: 2000-2001, 2005, 2023-2024
   - netpac award - special mention # 1 Event: 2000
-  - new cinema award # 3 Events: 1966, 1981, 1988
+  - new cinema award # 2 Events: 1981, 1988
   - new cinema award - special mention # 1 Event: 1988
   - ocic award # 40 Events: 1949-1957, 1959-1967, 1971, 1980-1985, 1987-2001
   - ocic award - honorable mention # 19 Events: 1954-1956, 1966, 1980-1982, 1984-1985, 1987, 1989-1992, 1994-1997, 2000
@@ -5442,7 +5415,6 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best web series - comedy # 3 Events: 2022-2024
   - best web series - drama # 4 Events: 2021-2024
   - best web series - popular # 2 Events: 2023-2024
-  - best writer # No Events Found
   - bollywood entertainer of the year # 1 Event: 2018
   - comedy genius # 1 Event: 2019
   - film with social impact # 1 Event: 2021

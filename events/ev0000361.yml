@@ -301,21 +301,15 @@
       winner: [tt7430722]
 '2019': # https://www.imdb.com/event/ev0000361/2019/1/
   popular award:
-    best   film:
-      nominee: [tt5935704, tt6452574, tt7098658, tt7725596, tt8108198]
-      winner: [tt7098658]
-    best  actor in a leading role:
+    best actor in a leading role:
       nominee: [tt5935704, tt6452574, tt7098658, tt8108198, tt8108202]
       winner: [tt5935704]
-    best  actress in a leading role:
-      nominee: [tt5935704, tt6588966, tt7098658, tt7725596, tt8108198]
-      winner: [tt7098658]
-    best  director:
-      nominee: [tt5935704, tt6452574, tt7098658, tt7725596, tt8108198]
-      winner: [tt8108198]
     best actor in a supporting role:
       nominee: [tt5935704, tt6452574, tt7431594, tt7618184, tt8108202]
       winner: [tt6452574]
+    best actress in a leading role:
+      nominee: [tt5935704, tt6588966, tt7098658, tt7725596, tt8108198]
+      winner: [tt7098658]
     best actress in a supporting role:
       nominee: [tt5842616, tt5935704, tt7618184, tt7725596, tt8108198]
       winner: [tt5935704]
@@ -325,6 +319,12 @@
     best debut actress:
       nominee: [tt7027278]
       winner: [tt7027278]
+    best director:
+      nominee: [tt5935704, tt6452574, tt7098658, tt7725596, tt8108198]
+      winner: [tt8108198]
+    best film:
+      nominee: [tt5935704, tt6452574, tt7098658, tt7725596, tt8108198]
+      winner: [tt7098658]
     best music director:
       nominee: [tt5474036, tt5935704, tt7098658, tt7581902, tt8108198]
       winner: [tt7581902]
@@ -591,12 +591,9 @@
       winner: [tt3735246]
 '2015': # https://www.imdb.com/event/ev0000361/2015/1/
   popular award:
-    best  actor in a leading role:
-      nominee: [tt3390572]
-      winner: [tt3390572]
     best actor in a leading role:
-      nominee: [tt2338151, tt2372678, tt2461132, tt2905838, tt2980794]
-      winner: []
+      nominee: [tt2338151, tt2372678, tt2461132, tt2905838, tt2980794, tt3390572]
+      winner: [tt3390572]
     best actor in a supporting role:
       nominee: [tt2372222, tt2372678, tt3142688, tt3175038, tt3390572]
       winner: [tt3175038]
@@ -1030,21 +1027,15 @@
       winner: [tt1610452]
 '2010': # https://www.imdb.com/event/ev0000361/2010/1/
   popular award:
-    best   film:
-      nominee: [tt1084972, tt1187043, tt1274295, tt1327035, tt1532957]
-      winner: [tt1187043]
-    best  actor in a leading role:
+    best actor in a leading role:
       nominee: [tt1084972, tt1187043, tt1274295, tt1275863, tt1324059, tt1532957]
       winner: [tt1532957]
-    best  actress in a leading role:
-      nominee: [tt1187043, tt1274295, tt1275863, tt1327035, tt1532957]
-      winner: [tt1187043, tt1532957]
-    best  director:
-      nominee: [tt1187043, tt1274295, tt1275863, tt1324059, tt1327035, tt1532957]
-      winner: [tt1187043]
     best actor in a supporting role:
       nominee: [tt1187043, tt1261047, tt1275863, tt1328634, tt1532957]
       winner: [tt1187043]
+    best actress in a leading role:
+      nominee: [tt1187043, tt1274295, tt1275863, tt1327035, tt1532957]
+      winner: [tt1187043, tt1532957]
     best actress in a supporting role:
       nominee: [tt1043451, tt1185442, tt1324059, tt1327035, tt1532957]
       winner: [tt1043451]
@@ -1057,6 +1048,12 @@
     best debut actress:
       nominee: [tt1227762, tt1327035]
       winner: [tt1227762, tt1327035]
+    best director:
+      nominee: [tt1187043, tt1274295, tt1275863, tt1324059, tt1327035, tt1532957]
+      winner: [tt1187043]
+    best film:
+      nominee: [tt1084972, tt1187043, tt1274295, tt1327035, tt1532957]
+      winner: [tt1187043]
     best lyricist:
       nominee: [tt1043451, tt1187043, tt1274295, tt1275863, tt1327035]
       winner: [tt1187043]
@@ -1728,9 +1725,6 @@
       winner: [tt0294662]
 '2002': # https://www.imdb.com/event/ev0000361/2002/1/
   popular award:
-    best   picture:
-      nominee: [tt0169102, tt0248126, tt0267363, tt0284137, tt0292490]
-      winner: [tt0169102]
     best actor in a leading role:
       nominee: [tt0169102, tt0248126, tt0284137, tt0289845, tt0292490]
       winner: [tt0169102]
@@ -1765,7 +1759,7 @@
       nominee: [tt0169102, tt0267363, tt0278291, tt0284137, tt0289845]
       winner: [tt0278291]
     best picture:
-      nominee: [tt0169102]
+      nominee: [tt0169102, tt0248126, tt0267363, tt0284137, tt0292490]
       winner: [tt0169102]
     best playback singer - female:
       nominee: [tt0169102, tt0248126, tt0255713, tt0292490]

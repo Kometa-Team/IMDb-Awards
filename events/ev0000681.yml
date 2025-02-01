@@ -7745,6 +7745,16 @@
     best first work:
       nominee: [tt0060653]
       winner: [tt0060653]
+  new cinema award:
+    best actor:
+      nominee: [tt0061146]
+      winner: [tt0061146]
+    best actress:
+      nominee: [tt2829400]
+      winner: [tt2829400]
+    best film:
+      nominee: [tt0061395]
+      winner: [tt0061395]
   best short film:
     documentary:
       nominee: [tt0469507]
@@ -7792,10 +7802,13 @@
       nominee: [tt0059585]
       winner: [tt0059585]
   new cinema award:
+    best actor:
+      nominee: [tt0060390]
+      winner: [tt0060390]
     best actress:
       nominee: [tt0060063]
       winner: [tt0060063]
-    new cinema award:
+    best film:
       nominee: [tt0060138]
       winner: [tt0060138]
   san giorgio prize:
@@ -8075,6 +8088,16 @@
     best first work:
       nominee: [tt0057202, tt0057551, tt0057566, tt0057942, tt0135793, tt0167886, tt0207784, tt0209364, tt0217523]
       winner: [tt0057202, tt0057551]
+  new cinema award:
+    best actor:
+      nominee: [tt0056868]
+      winner: [tt0056868]
+    best actress:
+      nominee: [tt0057551]
+      winner: [tt0057551]
+    best film:
+      nominee: [tt0057286]
+      winner: [tt0057286]
   best short film:
     golden lion:
       nominee: [tt0056677]
@@ -8270,6 +8293,16 @@
     best first work:
       nominee: [tt0054039]
       winner: [tt0054039]
+  new cinema award:
+    best actor:
+      nominee: [tt0054412]
+      winner: [tt0054412]
+    best actress:
+      nominee: [tt0054248]
+      winner: [tt0054248]
+    best film:
+      nominee: [tt0054248]
+      winner: [tt0054248]
   san giorgio prize:
     san giorgio prize:
       nominee: [tt0053114]

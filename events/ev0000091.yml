@@ -1084,7 +1084,7 @@
 '2019': # https://www.imdb.com/event/ev0000091/2019/1/
   golden berlin bear:
     best film:
-      nominee: [tt6515910, tt6704898, tt6828390, tt7016254, tt7319496, tt7670212, tt7760890, tt7902124, tt8054608, tt8095860, tt8535968, tt8740778, tt9068100, tt9418878, tt9581076, tt9581172]
+      nominee: [tt6515910, tt6704898, tt6828390, tt7016254, tt7319496, tt7670212, tt7760890, tt7902124, tt8054608, tt8095860, tt8535968, tt8740778, tt8959680, tt9068100, tt9418878, tt9581076, tt9581172]
       winner: [tt7016254]
     best short film:
       nominee: [tt10045280, tt10084950, tt10167480, tt10249396, tt10254638, tt10265080, tt10301380, tt10342690, tt10446100, tt10472194, tt6599276, tt8150654, tt8150744, tt9302096, tt9325464, tt9675006, tt9746928, tt9769192, tt9856552, tt9857490, tt9886436, tt9902408, tt9902526, tt9902912]
@@ -3061,6 +3061,10 @@
   special prize of the generation 14plus international jury:
     best short film suitable for young people:
       nominee: [tt9169166]
+      winner: []
+  berlinale talent campus:
+    out of competition:
+      nominee: [tt2005183]
       winner: []
   generation prize:
     best film:

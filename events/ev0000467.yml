@@ -280,15 +280,15 @@
       nominee: [tt10300570, tt10534500, tt20118774, tt22696258]
       winner: [tt10300570, tt10534500, tt20118774, tt22696258]
   regional award:
-    best feature film in  gujarati:
-      nominee: [tt9681686]
-      winner: [tt9681686]
     best feature film in assamese:
       nominee: [tt22696258]
       winner: [tt22696258]
     best feature film in bengali:
       nominee: [tt15341464]
       winner: [tt15341464]
+    best feature film in gujarati:
+      nominee: [tt9681686]
+      winner: [tt9681686]
     best feature film in hindi:
       nominee: [tt10280296]
       winner: [tt10280296]
@@ -720,31 +720,25 @@
       winner: [tt10436314]
 '2019': # https://www.imdb.com/event/ev0000467/2019/1/
   golden lotus award:
-    best  feature film:
-      nominee: [tt10469118]
-      winner: [tt10469118]
-    best  popular film providing wholesome entertainment:
-      nominee: [tt7725596]
-      winner: [tt7725596]
     best children's film:
       nominee: [tt8602654]
       winner: [tt8602654]
     best director:
       nominee: [tt8291224]
       winner: [tt8291224]
-  silver lotus award:
-    best  actor:
-      nominee: [tt8108198, tt8291224]
-      winner: [tt8108198, tt8291224]
-    best  actress:
-      nominee: [tt7465992]
-      winner: [tt7465992]
-    best  supporting actor:
-      nominee: [tt6782838]
-      winner: [tt6782838]
-    best  supporting actress:
+    best feature film:
+      nominee: [tt10469118]
+      winner: [tt10469118]
+    best popular film providing wholesome entertainment:
       nominee: [tt7725596]
       winner: [tt7725596]
+  silver lotus award:
+    best actor:
+      nominee: [tt8108198, tt8291224]
+      winner: [tt8108198, tt8291224]
+    best actress:
+      nominee: [tt7465992]
+      winner: [tt7465992]
     best audiography (re-recordist of the final mixed track):
       nominee: [tt7392212]
       winner: [tt7392212]
@@ -793,6 +787,12 @@
     best stunt:
       nominee: [tt7838252]
       winner: [tt7838252]
+    best supporting actor:
+      nominee: [tt6782838]
+      winner: [tt6782838]
+    best supporting actress:
+      nominee: [tt7725596]
+      winner: [tt7725596]
   special mention:
     special jury award (non-feature film):
       nominee: [tt9568798]
@@ -897,21 +897,15 @@
       nominee: [tt4849438]
       winner: [tt4849438]
   silver lotus award:
-    best  actor:
-      nominee: [tt7808072]
-      winner: [tt7808072]
-    best  actress:
-      nominee: [tt5690142]
-      winner: [tt5690142]
-    best  supporting actor:
-      nominee: [tt5906392]
-      winner: [tt5906392]
-    best  supporting actress:
-      nominee: [tt6467738]
-      winner: [tt6467738]
     best action:
       nominee: [tt4849438]
       winner: [tt4849438]
+    best actor:
+      nominee: [tt7808072]
+      winner: [tt7808072]
+    best actress:
+      nominee: [tt5690142]
+      winner: [tt5690142]
     best audiography (location sound recordist):
       nominee: [tt7297966]
       winner: [tt7297966]
@@ -969,6 +963,12 @@
     best special effects:
       nominee: [tt4849438]
       winner: [tt4849438]
+    best supporting actor:
+      nominee: [tt5906392]
+      winner: [tt5906392]
+    best supporting actress:
+      nominee: [tt6467738]
+      winner: [tt6467738]
   special mention:
     certificate of merit for female actor:
       nominee: [tt6315524]
@@ -1029,34 +1029,28 @@
       winner: [tt8066304]
 '2017': # https://www.imdb.com/event/ev0000467/2017/1/
   golden lotus award:
-    best   feature film:
-      nominee: [tt6272504]
-      winner: [tt6272504]
-    best  director:
-      nominee: [tt6120548]
-      winner: [tt6120548]
-    best  popular film providing wholesome entertainment:
-      nominee: [tt6417204]
-      winner: [tt6417204]
     best animation film:
       nominee: [tt1479690]
       winner: [tt1479690]
+    best director:
+      nominee: [tt6120548]
+      winner: [tt6120548]
     best director in non-feature film:
       nominee: [tt6765584]
       winner: [tt6765584]
+    best feature film:
+      nominee: [tt6272504]
+      winner: [tt6272504]
+    best popular film providing wholesome entertainment:
+      nominee: [tt6417204]
+      winner: [tt6417204]
   silver lotus award:
-    best  actor:
+    best actor:
       nominee: [tt5165344]
       winner: [tt5165344]
-    best  actress:
+    best actress:
       nominee: [tt6615708]
       winner: [tt6615708]
-    best  supporting actor:
-      nominee: [tt8076224]
-      winner: [tt8076224]
-    best  supporting actress:
-      nominee: [tt5074352]
-      winner: [tt5074352]
     best audiography:
       nominee: [tt5461134]
       winner: [tt5461134]
@@ -1105,6 +1099,12 @@
     best stunt choreography:
       nominee: [tt5297256]
       winner: [tt5297256]
+    best supporting actor:
+      nominee: [tt8076224]
+      winner: [tt8076224]
+    best supporting actress:
+      nominee: [tt5074352]
+      winner: [tt5074352]
   special mention:
     best film:
       nominee: [tt5997928, tt6143422]
