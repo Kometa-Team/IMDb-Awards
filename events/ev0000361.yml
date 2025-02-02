@@ -1,8 +1,35 @@
 # Awards of the International Indian Film Academy
 '2025':  # https://www.imdb.com/event/ev0000361/2025/1/
   iifa award:
+    best actor in a leading role:
+      nominee: [tt10869778, tt21626284, tt23790740, tt26932223, tt27866861]
+      winner: []
+    best actress in a leading role:
+      nominee: [tt15392282, tt21626284, tt26733317, tt27510174, tt30970235]
+      winner: []
+    best director:
+      nominee: [tt13818368, tt21626284, tt26932223, tt27510174, tt28259207, tt30970235]
+      winner: []
+    best music direction:
+      nominee: [tt10869778, tt21626284, tt26932223, tt27510174]
+      winner: []
+    best performance in a negative role:
+      nominee: [tt10869778, tt11976134, tt26733317, tt27744786, tt28259207]
+      winner: []
     best picture:
       nominee: [tt21626284, tt26932223, tt27510174, tt27744786, tt28259207, tt30970235]
+      winner: []
+    best playback singer - female:
+      nominee: [tt0995031, tt13818368, tt21626284, tt27510174, tt28259207]
+      winner: []
+    best playback singer - male:
+      nominee: [tt21383812, tt21626284, tt24517830, tt27459160, tt30970235]
+      winner: []
+    best supporting actor:
+      nominee: [tt21626284, tt26733317, tt26932223, tt27056012, tt27510174]
+      winner: []
+    best supporting actress:
+      nominee: [tt21626284, tt23790740, tt26932223, tt27744786, tt30970235]
       winner: []
 '2024': # https://www.imdb.com/event/ev0000361/2024/1/
   iifa award:

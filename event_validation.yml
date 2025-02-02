@@ -3402,13 +3402,13 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
   - technical award # 11 Events: 2009, 2013, 2015-2024
   categories: # Category Options: Awards of the International Indian Film Academy
   - best action # 14 Events: 2003, 2005-2017
-  - best actor in a leading role # 22 Events: 2000-2020, 2024
+  - best actor in a leading role # 23 Events: 2000-2020, 2024-2025
   - best actor in a leading role - female # 2 Events: 2022-2023
   - best actor in a leading role - male # 2 Events: 2022-2023
   - best actor in a supporting role # 18 Events: 2001-2002, 2004-2019
   - best actor in a supporting role - female # 2 Events: 2022-2023
   - best actor in a supporting role - male # 2 Events: 2022-2023
-  - best actress in a leading role # 22 Events: 2000-2020, 2024
+  - best actress in a leading role # 23 Events: 2000-2020, 2024-2025
   - best actress in a supporting role # 18 Events: 2001-2002, 2004-2019
   - best adaptation # 1 Event: 2007
   - best art direction # 11 Events: 2000-2003, 2005-2011
@@ -3424,7 +3424,7 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
   - best debut director # 2 Events: 2005, 2013
   - best dialogue # 21 Events: 2000-2012, 2014-2017, 2019-2022, 2024
   - best dialogues # 3 Events: 2013, 2018, 2023
-  - best director # 24 Events: 2000-2024
+  - best director # 25 Events: 2000-2025
   - best editing # 24 Events: 2000-2024
   - best female debut # 3 Events: 2001, 2006, 2014
   - best film # 9 Events: 2000, 2009-2011, 2015-2019
@@ -3434,14 +3434,14 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
   - best make-up # 2 Events: 2002, 2014
   - best makeup # 13 Events: 2004-2013, 2015-2017
   - best male debut # 3 Events: 2001, 2006, 2014
-  - best music direction # 5 Events: 2002, 2020-2024
+  - best music direction # 6 Events: 2002, 2020-2025
   - best music director # 18 Events: 2000-2001, 2004-2019
   - best performance by an actor in a negative role # 12 Events: 2000-2002, 2004-2005, 2007-2008, 2010-2013, 2017
   - best performance in a comic role # 5 Events: 2006, 2008-2009, 2014, 2016
-  - best performance in a negative role # 7 Events: 2005-2006, 2008-2009, 2014, 2016, 2024
+  - best performance in a negative role # 8 Events: 2005-2006, 2008-2009, 2014, 2016, 2024-2025
   - best picture # 16 Events: 2001-2008, 2012-2014, 2020-2025
-  - best playback singer - female # 23 Events: 2000-2002, 2004-2024
-  - best playback singer - male # 23 Events: 2000-2002, 2004-2024
+  - best playback singer - female # 24 Events: 2000-2002, 2004-2025
+  - best playback singer - male # 24 Events: 2000-2002, 2004-2025
   - best production design # 5 Events: 2012-2015, 2017
   - best regional film # 1 Event: 2015
   - best screenplay # 22 Events: 2000, 2002-2012, 2014-2024
@@ -3456,8 +3456,8 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
   - best story # 19 Events: 2000-2002, 2004-2014, 2016-2020
   - best story - adapted # 3 Events: 2022-2024
   - best story - original # 3 Events: 2022-2024
-  - best supporting actor # 4 Events: 2000, 2003, 2020, 2024
-  - best supporting actress # 4 Events: 2000, 2003, 2020, 2024
+  - best supporting actor # 5 Events: 2000, 2003, 2020, 2024-2025
+  - best supporting actress # 5 Events: 2000, 2003, 2020, 2024-2025
   - creative person of the year # 1 Event: 2007
   - debut director of the year # 1 Event: 2024
   - debutant of the year # 1 Event: 2024
