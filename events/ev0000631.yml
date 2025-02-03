@@ -75,6 +75,9 @@
       nominee: [tt31066723]
       winner: [tt31066723]
   short film special jury award:
+    animation directing:
+      nominee: [tt35051470]
+      winner: [tt35051470]
     directing:
       nominee: [tt34719395]
       winner: [tt34719395]
@@ -103,6 +106,10 @@
     u.s. documentary special jury award:
       nominee: [tt28718656]
       winner: [tt28718656]
+  festival favorite award:
+    festival favorite award:
+      nominee: [tt34966013]
+      winner: [tt34966013]
   jonathan oppenheim editing award:
     u.s. documentary:
       nominee: [tt34963034]
