@@ -3,124 +3,127 @@
   critics choice award:
     best acting ensemble:
       nominee: [tt1262426, tt20215234, tt20221436, tt27657135, tt28479262, tt28607951]
-      winner: []
+      winner: [tt20215234]
     best actor:
       nominee: [tt11563598, tt20215234, tt24176060, tt28015403, tt28479262, tt8999762]
-      winner: []
+      winner: [tt8999762]
     best actor in a comedy series:
       nominee: [tt11691774, tt20782190, tt21433690, tt26933824, tt7908628]
-      winner: []
+      winner: [tt26933824]
     best actor in a drama series:
       nominee: [tt1190634, tt17491088, tt24053860, tt2788316, tt31433814, tt5645432]
-      winner: []
+      winner: [tt2788316]
     best actor in a limited series or movie made for television:
       nominee: [tt11016042, tt13649112, tt15435876, tt16294384, tt1984119, tt8230448]
-      winner: []
+      winner: [tt15435876]
     best actress:
       nominee: [tt11891850, tt1262426, tt17526714, tt20221436, tt22893404, tt28607951]
-      winner: []
+      winner: [tt17526714]
     best actress in a comedy series:
       nominee: [tt11815682, tt12759100, tt14218830, tt26933824, tt7908628, tt8888540]
-      winner: []
+      winner: [tt11815682]
     best actress in a drama series:
       nominee: [tt17491088, tt26591147, tt2788316, tt27995113, tt3006802, tt9071808]
-      winner: []
+      winner: [tt26591147]
     best actress in a limited series or movie made for television:
       nominee: [tt14260566, tt15435876, tt16294384, tt1984119, tt2356777, tt5012320]
-      winner: []
+      winner: [tt15435876]
     best adapted screenplay:
       nominee: [tt1262426, tt15239678, tt20215234, tt20221436, tt23055660, tt28479262]
-      winner: []
+      winner: [tt20215234]
     best animated feature:
       nominee: [tt17163970, tt22022452, tt23770030, tt29623480, tt4772188]
-      winner: []
+      winner: [tt29623480]
     best animated series:
       nominee: [tt0096697, tt14681596, tt1561755, tt16026746, tt6741278, tt7678620]
-      winner: []
+      winner: [tt16026746]
     best cinematography:
       nominee: [tt1262426, tt15239678, tt20215234, tt23055660, tt5040012, tt8999762]
-      winner: []
+      winner: [tt5040012]
     best comedy movie:
       nominee: [tt18559464, tt20215968, tt21823606, tt23778968, tt27657135, tt6263850]
-      winner: []
+      winner: [tt21823606, tt6263850]
     best comedy series:
       nominee: [tt11691774, tt11815682, tt12759100, tt14218830, tt20782190, tt21433690, tt26933824, tt7908628]
-      winner: []
+      winner: [tt11815682]
+    best comedy special:
+      nominee: [tt29964571, tt31039503, tt32149504, tt33335530, tt33350315, tt34530166]
+      winner: [tt33350315]
     best costume design:
       nominee: [tt1262426, tt15239678, tt20215234, tt22893404, tt5040012, tt9218128]
-      winner: []
+      winner: [tt1262426]
     best director:
       nominee: [tt1262426, tt15239678, tt17526714, tt20215234, tt20221436, tt23055660, tt28607951, tt8999762]
-      winner: []
+      winner: [tt1262426]
     best drama series:
       nominee: [tt17491088, tt24053860, tt2788316, tt3960394, tt5645432, tt5875444, tt7671070, tt9055008]
-      winner: []
+      winner: [tt2788316]
     best editing:
       nominee: [tt15239678, tt16426418, tt20215234, tt28082769, tt28607951, tt8999762]
-      winner: []
+      winner: [tt16426418]
     best foreign language film:
       nominee: [tt14961016, tt20221436, tt27367464, tt32086077, tt32178949, tt4772188]
-      winner: []
+      winner: [tt20221436]
     best foreign language series:
       nominee: [tt10919420, tt13024830, tt13567344, tt15441160, tt27111295, tt33295051, tt7278862, tt8888462]
-      winner: []
+      winner: [tt10919420]
     best hair & makeup:
       nominee: [tt1262426, tt15239678, tt17526714, tt2049403, tt21097228, tt5040012]
-      winner: []
+      winner: [tt17526714]
     best limited series:
       nominee: [tt11016042, tt13649112, tt15435876, tt16294384, tt2356777, tt2640044, tt27867155, tt9114512]
-      winner: []
+      winner: [tt13649112]
     best movie made for television:
       nominee: [tt11301886, tt14260566, tt14577874, tt19853698, tt32880932, tt5012320]
-      winner: []
+      winner: [tt11301886]
     best original screenplay:
       nominee: [tt16426418, tt17526714, tt21823606, tt28082769, tt28607951, tt8999762]
-      winner: []
+      winner: [tt17526714]
     best picture:
       nominee: [tt11563598, tt1262426, tt15239678, tt17526714, tt20215234, tt20221436, tt23055660, tt28479262, tt28607951, tt8999762]
-      winner: []
+      winner: [tt28607951]
     best production design:
       nominee: [tt1262426, tt15239678, tt20215234, tt5040012, tt8999762, tt9218128]
-      winner: []
+      winner: [tt1262426]
     best score:
       nominee: [tt15239678, tt16426418, tt20215234, tt20221436, tt29623480, tt8999762]
-      winner: []
+      winner: [tt16426418]
     best song:
       nominee: [tt16426418, tt20221436, tt29623480, tt30321133, tt31193791]
-      winner: []
+      winner: [tt20221436]
     best supporting actor:
       nominee: [tt11563598, tt21823606, tt28479262, tt28607951, tt8999762, tt9218128]
-      winner: []
+      winner: [tt21823606]
     best supporting actor in a comedy series:
       nominee: [tt11379026, tt11815682, tt14218830, tt15677150, tt7908628]
-      winner: []
+      winner: [tt15677150]
     best supporting actor in a drama series:
       nominee: [tt2788316, tt3960394, tt5645432, tt9055008, tt9071808]
-      winner: []
+      winner: [tt2788316]
     best supporting actor in a limited series or movie made for television:
       nominee: [tt11514868, tt14404618, tt1984119, tt21375036, tt5673782, tt9114512]
-      winner: []
+      winner: [tt11514868]
     best supporting actress:
       nominee: [tt1262426, tt15507512, tt17526714, tt20215234, tt20221436, tt23055660]
-      winner: []
+      winner: [tt20221436]
     best supporting actress in a comedy series:
       nominee: [tt11815682, tt14218830, tt14452776, tt15571732, tt20782190, tt6226232]
-      winner: []
+      winner: [tt11815682]
     best supporting actress in a drama series:
       nominee: [tt13111078, tt15469618, tt17491088, tt26591147, tt2788316, tt8888462]
-      winner: []
+      winner: [tt2788316]
     best supporting actress in a limited series or movie made for television:
       nominee: [tt10732048, tt11016042, tt13649112, tt15435876, tt16294384, tt2356777]
-      winner: []
+      winner: [tt13649112]
     best talk show:
       nominee: [tt0115147, tt0924651, tt32053847, tt3697842, tt6556992, tt9022950]
-      winner: []
+      winner: [tt32053847]
     best visual effects:
       nominee: [tt11389872, tt1262426, tt14260836, tt15239678, tt17526714, tt9218128]
-      winner: []
+      winner: [tt15239678]
     best young actor/actress:
       nominee: [tt12037194, tt15939198, tt18559464, tt27489557, tt28366692, tt30319503]
-      winner: []
+      winner: [tt18559464]
 '2024': # https://www.imdb.com/event/ev0000133/2024/1/
   critics choice award:
     best acting ensemble:
