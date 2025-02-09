@@ -1,5 +1,19 @@
 # Iconic Gold Awards
-'2024':  # https://www.imdb.com/event/ev0057191/2024/1/
+'2025':  # https://www.imdb.com/event/ev0057191/2025/1/
+  iconic:
+    best film:
+      nominee: [tt26932223]
+      winner: [tt26932223]
+    breakout star of the year - female:
+      nominee: [tt21626284]
+      winner: [tt21626284]
+    impactful performer of the year - web series:
+      nominee: [tt28106741]
+      winner: [tt28106741]
+    most popular tv actor of the year:
+      nominee: [tt23846868]
+      winner: [tt23846868]
+'2024': # https://www.imdb.com/event/ev0057191/2024/1/
   iconic:
     best actor of the year:
       nominee: [tt15944428]

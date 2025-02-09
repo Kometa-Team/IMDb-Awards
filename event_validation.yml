@@ -5723,9 +5723,9 @@ ev0036701: # Critics’ Choice Shorts and Series Awards, India (https://www.imdb
   - best writing # 4 Events: 2021-2024
   - best writing in a short film # 3 Events: 2021-2022, 2024
 ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
-  years: ['2024', '2023', '2022', '2021']
+  years: ['2025', '2024', '2023', '2022', '2021']
   awards:  # Award Options: Iconic Gold Awards
-  - iconic # 4 Events: 2021-2024
+  - iconic # 5 Events: 2021-2025
   categories: # Category Options: Iconic Gold Awards
   - best actor in a negative role # 1 Event: 2023
   - best actor of the year # 3 Events: 2022-2024
@@ -5750,6 +5750,7 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   - best director - critics choice # 1 Event: 2024
   - best director of the year # 2 Events: 2022, 2024
   - best director of the year - ott # 1 Event: 2024
+  - best film # 1 Event: 2025
   - best film - people choice # 1 Event: 2023
   - best film of the year # 3 Events: 2022-2024
   - best film of the year - ott # 1 Event: 2024
@@ -5762,6 +5763,7 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   - best tv actress of the year # 3 Events: 2021, 2023-2024
   - best web series of the year # 1 Event: 2023
   - blockbuster movie of the year # 1 Event: 2024
+  - breakout star of the year - female # 1 Event: 2025
   - casting director of the year # 1 Event: 2022
   - comedy serial of the year # 1 Event: 2021
   - debut actor of the year # 1 Event: 2022
@@ -5770,11 +5772,13 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   - debut tv actress of the year # 1 Event: 2022
   - fearless perfomance of the year # 1 Event: 2022
   - game changer movie of the year # 1 Event: 2024
+  - impactful performer of the year - web series # 1 Event: 2025
   - millennial star on rise # 1 Event: 2023
   - most impactful actress # 1 Event: 2023
   - most liked tv actress of the year # 1 Event: 2022
   - most liked web series of the year # 1 Event: 2023
   - most popular contestant of the year # 1 Event: 2023
+  - most popular tv actor of the year # 1 Event: 2025
   - most promising tv actor of the year # 1 Event: 2021
   - outstanding achievement in indian cinema # 1 Event: 2023
   - powerpack perfomance of the year # 1 Event: 2022
