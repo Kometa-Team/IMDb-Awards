@@ -31,6 +31,10 @@
     best supporting actress:
       nominee: [tt21626284, tt23790740, tt26932223, tt27744786, tt30970235]
       winner: []
+  iffa digital film award:
+    best actress in a leading role:
+      nominee: [tt12736014, tt18277182, tt26225118, tt26658272, tt28075881]
+      winner: []
 '2024': # https://www.imdb.com/event/ev0000361/2024/1/
   iifa award:
     best actor in a leading role:

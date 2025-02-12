@@ -3393,6 +3393,7 @@ ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.c
     '2000']
   awards:  # Award Options: Awards of the International Indian Film Academy
   - award for technical excellence # 13 Events: 2000-2008, 2010-2012, 2014
+  - iffa digital film award # 1 Event: 2025
   - iifa award # 4 Events: 2022-2025
   - iifa golden decade honour # 1 Event: 2009
   - international indian film academy award # 2 Events: 2017-2018
