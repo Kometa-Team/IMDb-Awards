@@ -5728,6 +5728,8 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   awards:  # Award Options: Iconic Gold Awards
   - iconic # 5 Events: 2021-2025
   categories: # Category Options: Iconic Gold Awards
+  - best actor - critics # 1 Event: 2025
+  - best actor - ott # 1 Event: 2025
   - best actor in a negative role # 1 Event: 2023
   - best actor of the year # 3 Events: 2022-2024
   - best actor of the year - critics choice # 2 Events: 2022, 2024
@@ -5735,6 +5737,7 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   - best actor of the year - ott # 1 Event: 2024
   - best actor of the year - popular choice # 1 Event: 2024
   - best actor of the year - web series # 1 Event: 2024
+  - best actress - critics # 1 Event: 2025
   - best actress in a negative role # 2 Events: 2021, 2023
   - best actress in a web film # 1 Event: 2021
   - best actress of the year # 3 Events: 2022-2024
@@ -5742,7 +5745,10 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   - best actress of the year - ott # 1 Event: 2024
   - best actress of the year - popular choice # 1 Event: 2024
   - best actress of the year - web series # 1 Event: 2024
+  - best actress popular - ott # 1 Event: 2025
+  - best comedy web series # 1 Event: 2025
   - best debut actor # 1 Event: 2023
+  - best debut actor - ott # 1 Event: 2025
   - best debut actor of the year - web series # 1 Event: 2024
   - best debut actress # 1 Event: 2023
   - best debut actress of the year # 1 Event: 2024
@@ -5752,16 +5758,24 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   - best director of the year # 2 Events: 2022, 2024
   - best director of the year - ott # 1 Event: 2024
   - best film # 1 Event: 2025
+  - best film - ott # 1 Event: 2025
   - best film - people choice # 1 Event: 2023
   - best film of the year # 3 Events: 2022-2024
-  - best film of the year - ott # 1 Event: 2024
+  - best film of the year - ott # 2 Events: 2024-2025
   - best film of the year - people's choice # 1 Event: 2024
+  - best performance by an actor in a negative role # 1 Event: 2025
+  - best performance by an actress in a negative role - web # 1 Event: 2025
+  - best song of the year - non filmy # 1 Event: 2025
+  - best supporting actor # 1 Event: 2025
   - best supporting actor of the year # 3 Events: 2022-2024
   - best supporting actor of the year - web series # 1 Event: 2024
+  - best supporting actress # 1 Event: 2025
   - best supporting actress of the year # 3 Events: 2022-2024
   - best supporting actress of the year - web series # 1 Event: 2024
   - best tv actor of the year # 2 Events: 2023-2024
   - best tv actress of the year # 3 Events: 2021, 2023-2024
+  - best web series # 1 Event: 2025
+  - best web series - critics # 1 Event: 2025
   - best web series of the year # 1 Event: 2023
   - blockbuster movie of the year # 1 Event: 2024
   - breakout star of the year - female # 1 Event: 2025
@@ -5776,13 +5790,19 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   - impactful performer of the year - web series # 1 Event: 2025
   - millennial star on rise # 1 Event: 2023
   - most impactful actress # 1 Event: 2023
+  - most influential personality television - female # 1 Event: 2025
+  - most influential personality television - male # 1 Event: 2025
   - most liked tv actress of the year # 1 Event: 2022
   - most liked web series of the year # 1 Event: 2023
   - most popular contestant of the year # 1 Event: 2023
   - most popular tv actor of the year # 1 Event: 2025
+  - most popular tv actress of the year # 1 Event: 2025
   - most promising tv actor of the year # 1 Event: 2021
+  - most song - non filmy # 1 Event: 2025
+  - most supporting actor - comedy web series # 1 Event: 2025
+  - most supporting actress - comedy web series # 1 Event: 2025
   - outstanding achievement in indian cinema # 1 Event: 2023
-  - powerpack perfomance of the year # 1 Event: 2022
+  - powerpack perfomance of the year # 2 Events: 2022, 2025
   - powerpack perfomance of the year - critics choice # 1 Event: 2022
   - powerpack performance comedy # 1 Event: 2023
   - powerpack performance of the year - female # 2 Events: 2023-2024
