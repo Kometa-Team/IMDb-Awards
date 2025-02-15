@@ -2,47 +2,77 @@
 '2025':  # https://www.imdb.com/event/ev0057191/2025/1/
   iconic:
     best actor - critics:
-      nominee: [tt31522415]
-      winner: [tt31522415]
+      nominee: [tt27470893]
+      winner: [tt27470893]
     best actor - ott:
       nominee: [tt28435822]
       winner: [tt28435822]
+    best actor critics - ott:
+      nominee: [tt31522415]
+      winner: [tt31522415]
     best actress - critics:
       nominee: [tt28221135]
       winner: [tt28221135]
     best actress popular - ott:
       nominee: [tt4501268]
       winner: [tt4501268]
+    best actress popular - web:
+      nominee: [tt9814458]
+      winner: [tt9814458]
+    best choreographer:
+      nominee: [tt27510174]
+      winner: [tt27510174]
     best comedy web series:
       nominee: [tt12004706]
       winner: [tt12004706]
     best debut actor - ott:
       nominee: [tt28075881]
       winner: [tt28075881]
+    best director - comedy:
+      nominee: [tt29330913]
+      winner: [tt29330913]
     best film:
       nominee: [tt26932223]
       winner: [tt26932223]
-    best film - ott:
-      nominee: [tt28075881]
-      winner: [tt28075881]
     best film of the year - ott:
       nominee: [tt28075881]
       winner: [tt28075881]
+    best lyricist:
+      nominee: [tt21626284]
+      winner: [tt21626284]
     best performance by an actor in a negative role:
       nominee: [tt26225118]
       winner: [tt26225118]
     best performance by an actress in a negative role - web:
       nominee: [tt17494264]
       winner: [tt17494264]
+    best song - non filmy:
+      nominee: [tt31827879]
+      winner: [tt31827879]
     best song of the year - non filmy:
       nominee: [tt31827879]
       winner: [tt31827879]
     best supporting actor:
+      nominee: [tt23790740]
+      winner: [tt23790740]
+    best supporting actor - comedy:
       nominee: [tt27056012]
       winner: [tt27056012]
+    best supporting actor - comedy web series:
+      nominee: [tt12004706]
+      winner: [tt12004706]
+    best supporting actor - web:
+      nominee: [tt12392496, tt24364990, tt28106741]
+      winner: [tt12392496, tt24364990, tt28106741]
     best supporting actress:
       nominee: [tt30889755]
       winner: [tt30889755]
+    best supporting actress - comedy web series:
+      nominee: [tt12004706]
+      winner: [tt12004706]
+    best supporting actress - web:
+      nominee: [tt32832648]
+      winner: [tt32832648]
     best web series:
       nominee: [tt27111295]
       winner: [tt27111295]
@@ -52,9 +82,6 @@
     breakout star of the year - female:
       nominee: [tt21626284]
       winner: [tt21626284]
-    impactful performer of the year - web series:
-      nominee: [tt28106741]
-      winner: [tt28106741]
     most influential personality television - female:
       nominee: [tt11867666]
       winner: [tt11867666]
@@ -67,18 +94,12 @@
     most popular tv actress of the year:
       nominee: [tt33310372]
       winner: [tt33310372]
-    most song - non filmy:
-      nominee: [tt31827879]
-      winner: [tt31827879]
-    most supporting actor - comedy web series:
-      nominee: [tt12004706]
-      winner: [tt12004706]
-    most supporting actress - comedy web series:
-      nominee: [tt12004706]
-      winner: [tt12004706]
     powerpack perfomance of the year:
       nominee: [tt27510174, tt28153480]
       winner: [tt27510174, tt28153480]
+    powerpack performance of the year - female:
+      nominee: [tt28106741]
+      winner: [tt28106741]
 '2024': # https://www.imdb.com/event/ev0057191/2024/1/
   iconic:
     best actor of the year:
