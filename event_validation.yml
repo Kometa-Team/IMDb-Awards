@@ -3388,13 +3388,14 @@ ev0000349: # Film Independent Spirit Awards (https://www.imdb.com/event/ev000034
   - special distinction # 1 Event: 1993
   - special distinction award # 8 Events: 1986-1987, 1991, 1995, 2004-2005, 2007, 2015
   - truer than fiction award # 29 Events: 1997-2025
-ev0000361: # Awards of the International Indian Film Academy (https://www.imdb.com/event/ev0000361)
+ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www.imdb.com/event/ev0000361)
   years: ['2025', '2024', '2023', '2022', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
     '2000']
   awards:  # Award Options: Awards of the International Indian Film Academy
   - award for technical excellence # 13 Events: 2000-2008, 2010-2012, 2014
-  - iffa digital film award # 1 Event: 2025
+  - iffa digital film award # No Events Found
   - iifa award # 4 Events: 2022-2025
+  - iifa digital award # 1 Event: 2025
   - iifa golden decade honour # 1 Event: 2009
   - international indian film academy award # 2 Events: 2017-2018
   - popular award # 20 Events: 2000-2017, 2019-2020
