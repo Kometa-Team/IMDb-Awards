@@ -32,8 +32,56 @@
       nominee: [tt21626284, tt23790740, tt26932223, tt27744786, tt30970235]
       winner: []
   iifa digital award:
-    best actress in a leading role:
+    best actor in a leading role, series:
+      nominee: [tt12004706, tt20319332, tt22297290, tt27111295, tt28106741, tt31183656]
+      winner: []
+    best actress in a leading role, series:
+      nominee: [tt12004706, tt14420552, tt21908964, tt22297290, tt9814458]
+      winner: []
+    best director:
+      nominee: [tt18277182, tt21626774, tt26658272, tt27930683, tt4501268]
+      winner: []
+    best director, series:
+      nominee: [tt12004706, tt15204292, tt22297290, tt28106741, tt9432978]
+      winner: []
+    best docu series/docu film:
+      nominee: [tt14866598, tt22297698, tt26259966, tt27139868, tt31069611]
+      winner: []
+    best film:
+      nominee: [tt21626774, tt26225118, tt26658272, tt27930683, tt4501268]
+      winner: []
+    best performance in a leading role - female:
       nominee: [tt12736014, tt18277182, tt26225118, tt26658272, tt28075881]
+      winner: []
+    best performance in a leading role - male:
+      nominee: [tt21626774, tt26658272, tt27028399, tt27930683, tt32607174]
+      winner: []
+    best performance in a supporting role - female:
+      nominee: [tt15260176, tt22480126, tt27028399, tt4501268]
+      winner: []
+    best performance in a supporting role - male:
+      nominee: [tt19864942, tt21626774, tt26225118, tt27028399, tt4501268]
+      winner: []
+    best reality or non scripted series:
+      nominee: [tt13452100, tt15087662, tt27561741, tt30003786, tt31898045]
+      winner: []
+    best series:
+      nominee: [tt10530900, tt12004706, tt15204292, tt28106741, tt31183656, tt9432978]
+      winner: []
+    best story (original):
+      nominee: [tt18277182, tt26658272, tt27930683, tt28075881, tt4501268]
+      winner: []
+    best story (original), series:
+      nominee: [tt12004706, tt15204292, tt31183656, tt6473300, tt9432978]
+      winner: []
+    best supporting actor, series:
+      nominee: [tt12004706, tt27111295, tt28102595]
+      winner: []
+    best supporting actress, series:
+      nominee: [tt12004706, tt14420552, tt15204292, tt9814458]
+      winner: []
+    best title track:
+      nominee: [tt12004706, tt12719250, tt15204292, tt26658272, tt9814458]
       winner: []
 '2024': # https://www.imdb.com/event/ev0000361/2024/1/
   iifa award:

@@ -3407,10 +3407,12 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - best actor in a leading role # 23 Events: 2000-2020, 2024-2025
   - best actor in a leading role - female # 2 Events: 2022-2023
   - best actor in a leading role - male # 2 Events: 2022-2023
+  - best actor in a leading role, series # 1 Event: 2025
   - best actor in a supporting role # 18 Events: 2001-2002, 2004-2019
   - best actor in a supporting role - female # 2 Events: 2022-2023
   - best actor in a supporting role - male # 2 Events: 2022-2023
   - best actress in a leading role # 23 Events: 2000-2020, 2024-2025
+  - best actress in a leading role, series # 1 Event: 2025
   - best actress in a supporting role # 18 Events: 2001-2002, 2004-2019
   - best adaptation # 1 Event: 2007
   - best art direction # 11 Events: 2000-2003, 2005-2011
@@ -3427,9 +3429,11 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - best dialogue # 21 Events: 2000-2012, 2014-2017, 2019-2022, 2024
   - best dialogues # 3 Events: 2013, 2018, 2023
   - best director # 25 Events: 2000-2025
+  - best director, series # 1 Event: 2025
+  - best docu series/docu film # 1 Event: 2025
   - best editing # 24 Events: 2000-2024
   - best female debut # 3 Events: 2001, 2006, 2014
-  - best film # 9 Events: 2000, 2009-2011, 2015-2019
+  - best film # 10 Events: 2000, 2009-2011, 2015-2019, 2025
   - best lyricist # 12 Events: 2000-2001, 2004-2005, 2007-2012, 2014, 2019
   - best lyrics # 7 Events: 2002, 2006, 2018, 2020-2024
   - best make up # 2 Events: 2000, 2003
@@ -3440,13 +3444,19 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - best music director # 18 Events: 2000-2001, 2004-2019
   - best performance by an actor in a negative role # 12 Events: 2000-2002, 2004-2005, 2007-2008, 2010-2013, 2017
   - best performance in a comic role # 5 Events: 2006, 2008-2009, 2014, 2016
+  - best performance in a leading role - female # 1 Event: 2025
+  - best performance in a leading role - male # 1 Event: 2025
   - best performance in a negative role # 8 Events: 2005-2006, 2008-2009, 2014, 2016, 2024-2025
+  - best performance in a supporting role - female # 1 Event: 2025
+  - best performance in a supporting role - male # 1 Event: 2025
   - best picture # 16 Events: 2001-2008, 2012-2014, 2020-2025
   - best playback singer - female # 24 Events: 2000-2002, 2004-2025
   - best playback singer - male # 24 Events: 2000-2002, 2004-2025
   - best production design # 5 Events: 2012-2015, 2017
+  - best reality or non scripted series # 1 Event: 2025
   - best regional film # 1 Event: 2015
   - best screenplay # 22 Events: 2000, 2002-2012, 2014-2024
+  - best series # 1 Event: 2025
   - best song recording # 10 Events: 2000-2005, 2007, 2011-2012, 2014
   - best sound design # 8 Events: 2013-2014, 2017, 2019-2024
   - best sound mixing # 9 Events: 2012-2014, 2017, 2019-2024
@@ -3456,10 +3466,15 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - best special effects (visual) # 5 Events: 2000, 2002-2003, 2012, 2014
   - best special effects (visuals) # 2 Events: 2023-2024
   - best story # 19 Events: 2000-2002, 2004-2014, 2016-2020
+  - best story (original) # 1 Event: 2025
+  - best story (original), series # 1 Event: 2025
   - best story - adapted # 3 Events: 2022-2024
   - best story - original # 3 Events: 2022-2024
   - best supporting actor # 5 Events: 2000, 2003, 2020, 2024-2025
+  - best supporting actor, series # 1 Event: 2025
   - best supporting actress # 5 Events: 2000, 2003, 2020, 2024-2025
+  - best supporting actress, series # 1 Event: 2025
+  - best title track # 1 Event: 2025
   - creative person of the year # 1 Event: 2007
   - debut director of the year # 1 Event: 2024
   - debutant of the year # 1 Event: 2024
