@@ -3407,12 +3407,12 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - best actor in a leading role # 23 Events: 2000-2020, 2024-2025
   - best actor in a leading role - female # 2 Events: 2022-2023
   - best actor in a leading role - male # 2 Events: 2022-2023
-  - best actor in a leading role, series # 1 Event: 2025
+  - best actor in a leading role, series # No Events Found
   - best actor in a supporting role # 18 Events: 2001-2002, 2004-2019
   - best actor in a supporting role - female # 2 Events: 2022-2023
   - best actor in a supporting role - male # 2 Events: 2022-2023
   - best actress in a leading role # 23 Events: 2000-2020, 2024-2025
-  - best actress in a leading role, series # 1 Event: 2025
+  - best actress in a leading role, series # No Events Found
   - best actress in a supporting role # 18 Events: 2001-2002, 2004-2019
   - best adaptation # 1 Event: 2007
   - best art direction # 11 Events: 2000-2003, 2005-2011
@@ -3446,9 +3446,13 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - best performance in a comic role # 5 Events: 2006, 2008-2009, 2014, 2016
   - best performance in a leading role - female # 1 Event: 2025
   - best performance in a leading role - male # 1 Event: 2025
+  - best performance in a leading role series - female # 1 Event: 2025
+  - best performance in a leading role series - male # 1 Event: 2025
   - best performance in a negative role # 8 Events: 2005-2006, 2008-2009, 2014, 2016, 2024-2025
   - best performance in a supporting role - female # 1 Event: 2025
   - best performance in a supporting role - male # 1 Event: 2025
+  - best performance in a supporting role series - female # 1 Event: 2025
+  - best performance in a supporting role series - male # 1 Event: 2025
   - best picture # 16 Events: 2001-2008, 2012-2014, 2020-2025
   - best playback singer - female # 24 Events: 2000-2002, 2004-2025
   - best playback singer - male # 24 Events: 2000-2002, 2004-2025
@@ -3471,9 +3475,9 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - best story - adapted # 3 Events: 2022-2024
   - best story - original # 3 Events: 2022-2024
   - best supporting actor # 5 Events: 2000, 2003, 2020, 2024-2025
-  - best supporting actor, series # 1 Event: 2025
+  - best supporting actor, series # No Events Found
   - best supporting actress # 5 Events: 2000, 2003, 2020, 2024-2025
-  - best supporting actress, series # 1 Event: 2025
+  - best supporting actress, series # No Events Found
   - best title track # 1 Event: 2025
   - creative person of the year # 1 Event: 2007
   - debut director of the year # 1 Event: 2024
