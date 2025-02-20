@@ -5750,6 +5750,7 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   categories: # Category Options: Iconic Gold Awards
   - best actor - critics # 1 Event: 2025
   - best actor - ott # 1 Event: 2025
+  - best actor - popular # 1 Event: 2025
   - best actor critics - ott # 1 Event: 2025
   - best actor in a negative role # 1 Event: 2023
   - best actor of the year # 3 Events: 2022-2024
@@ -5758,7 +5759,10 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   - best actor of the year - ott # 1 Event: 2024
   - best actor of the year - popular choice # 1 Event: 2024
   - best actor of the year - web series # 1 Event: 2024
+  - best actress # 1 Event: 2025
   - best actress - critics # 1 Event: 2025
+  - best actress - ott # 1 Event: 2025
+  - best actress - web series # 1 Event: 2025
   - best actress in a negative role # 2 Events: 2021, 2023
   - best actress in a web film # 1 Event: 2021
   - best actress of the year # 3 Events: 2022-2024
@@ -5770,17 +5774,19 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   - best actress popular - web # 1 Event: 2025
   - best choreographer # 1 Event: 2025
   - best comedy web series # 1 Event: 2025
-  - best debut actor # 1 Event: 2023
+  - best debut actor # 2 Events: 2023, 2025
   - best debut actor - ott # 1 Event: 2025
   - best debut actor of the year - web series # 1 Event: 2024
-  - best debut actress # 1 Event: 2023
+  - best debut actress # 2 Events: 2023, 2025
   - best debut actress of the year # 1 Event: 2024
   - best debut director of the year # 1 Event: 2024
+  - best director # 1 Event: 2025
   - best director - comedy # 2 Events: 2024-2025
   - best director - critics choice # 1 Event: 2024
   - best director of the year # 2 Events: 2022, 2024
   - best director of the year - ott # 1 Event: 2024
   - best film # 1 Event: 2025
+  - best film - critics # 1 Event: 2025
   - best film - ott # No Events Found
   - best film - people choice # 1 Event: 2023
   - best film of the year # 3 Events: 2022-2024
@@ -5789,8 +5795,10 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   - best lyricist # 1 Event: 2025
   - best performance by an actor in a negative role # 1 Event: 2025
   - best performance by an actress in a negative role - web # 1 Event: 2025
+  - best singer - female # 1 Event: 2025
+  - best singer - male # 1 Event: 2025
   - best song - non filmy # 1 Event: 2025
-  - best song of the year - non filmy # 1 Event: 2025
+  - best song of the year - non filmy # No Events Found
   - best supporting actor # 1 Event: 2025
   - best supporting actor - comedy # 1 Event: 2025
   - best supporting actor - comedy web series # 1 Event: 2025
@@ -5807,8 +5815,10 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   - best web series # 1 Event: 2025
   - best web series - critics # 1 Event: 2025
   - best web series of the year # 1 Event: 2023
+  - best writer # 1 Event: 2025
   - blockbuster movie of the year # 1 Event: 2024
   - breakout star of the year - female # 1 Event: 2025
+  - breakout star of the year - male # 1 Event: 2025
   - casting director of the year # 1 Event: 2022
   - comedy serial of the year # 1 Event: 2021
   - debut actor of the year # 1 Event: 2022
