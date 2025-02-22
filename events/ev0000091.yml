@@ -16,31 +16,67 @@
       nominee: [tt34713196]
       winner: []
     documentary film:
-      nominee: [tt34965506]
-      winner: []
+      nominee: [tt12402876, tt34965506, tt35050975]
+      winner: [tt35050975]
     feature film:
-      nominee: [tt30441926, tt34250044, tt34966919]
-      winner: []
+      nominee: [tt26923797, tt29781139, tt33308903]
+      winner: [tt26923797]
   crystal bear:
     generation 14plus - best film:
-      nominee: [tt32263650, tt32358436, tt33575372, tt35051064, tt35449355]
-      winner: []
+      nominee: [tt31711171, tt32263650, tt32358436, tt33575372, tt35051064, tt35449355]
+      winner: [tt31711171]
     generation 14plus - best short film:
       nominee: [tt28703727, tt30495767, tt33086973, tt35050803, tt35050898, tt35305469, tt35449051]
-      winner: []
+      winner: [tt35305469]
     generation kplus - best film:
       nominee: [tt26446095, tt28549378, tt35444105]
       winner: []
     generation kplus - best short film:
       nominee: [tt12429712, tt35442758, tt35444072, tt35444084]
       winner: []
+  crystal bear - special mention:
+    best film:
+      nominee: [tt35443123]
+      winner: [tt35443123]
+    short film:
+      nominee: [tt35442411]
+      winner: [tt35442411]
   teddy:
     best documentary/essay film:
-      nominee: [tt18235498, tt34542628, tt35494617]
-      winner: []
+      nominee: [tt18235498, tt34542628, tt35494617, tt35589929]
+      winner: [tt35589929]
     best feature film:
       nominee: [tt27750778, tt28834646, tt29781139, tt31116299, tt32240190, tt32765596, tt32879673, tt34250044, tt34966919, tt35050890, tt35051064, tt35051106, tt35340614, tt35453155, tt35489613, tt35494658, tt35503491, tt35504279]
-      winner: []
+      winner: [tt29781139]
+    best short film:
+      nominee: [tt35407055]
+      winner: [tt35407055]
+    jury award:
+      nominee: [tt35494706]
+      winner: [tt35494706]
+  label europa cinemas:
+    label europa cinemas:
+      nominee: [tt30129207]
+      winner: [tt30129207]
+  amnesty international film prize:
+    amnesty international film prize:
+      nominee: [tt35050975]
+      winner: [tt35050975]
+  special mention of the generation 14plus international jury:
+    best film:
+      nominee: [tt35051039]
+      winner: [tt35051039]
+    best short film:
+      nominee: [tt35050803]
+      winner: [tt35050803]
+  grand prix of the generation 14plus international jury:
+    best film:
+      nominee: [tt32263650]
+      winner: [tt32263650]
+  special prize of the generation 14plus international jury:
+    best short film:
+      nominee: [tt35050898]
+      winner: [tt35050898]
   berlinale - efm:
     berlinale efm (screening):
       nominee: [tt33508311]
