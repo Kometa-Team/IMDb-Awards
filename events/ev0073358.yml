@@ -1,5 +1,10 @@
 # International Iconic Awards
-'2024':  # https://www.imdb.com/event/ev0073358/2024/1/
+'2025':  # https://www.imdb.com/event/ev0073358/2025/1/
+  iconic award -telugu:
+    best actress in a series:
+      nominee: [tt19868374]
+      winner: []
+'2024': # https://www.imdb.com/event/ev0073358/2024/1/
   iconic award:
     actor of the year:
       nominee: [tt13818368]
