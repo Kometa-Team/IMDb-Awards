@@ -3,49 +3,49 @@
   actor:
     outstanding action performance by a stunt ensemble in a motion picture:
       nominee: [tt1262426, tt15239678, tt1684562, tt6263850, tt9218128]
-      winner: []
+      winner: [tt1684562]
     outstanding action performance by a stunt ensemble in a television series:
       nominee: [tt11198330, tt1190634, tt12637874, tt15435876, tt2788316]
-      winner: []
+      winner: [tt2788316]
     outstanding performance by a cast in a motion picture:
       nominee: [tt11563598, tt1262426, tt20215234, tt20221436, tt28607951]
-      winner: []
+      winner: [tt20215234]
     outstanding performance by a female actor in a comedy series:
       nominee: [tt11815682, tt14218830, tt14452776, tt26933824]
-      winner: []
+      winner: [tt11815682]
     outstanding performance by a female actor in a drama series:
       nominee: [tt17491088, tt26591147, tt2788316, tt8740790]
-      winner: []
+      winner: [tt2788316]
     outstanding performance by a female actor in a leading role:
       nominee: [tt1262426, tt17526714, tt20221436, tt28607951, tt31193791]
-      winner: []
+      winner: [tt17526714]
     outstanding performance by a female actor in a supporting role:
       nominee: [tt11563598, tt1262426, tt15507512, tt20221436, tt31193791]
-      winner: []
+      winner: [tt20221436]
     outstanding performance by a female actor in a television movie or limited series:
       nominee: [tt13649112, tt14260566, tt15435876, tt16294384, tt1640719, tt2356777]
-      winner: []
+      winner: [tt13649112]
     outstanding performance by a male actor in a comedy series:
       nominee: [tt11691774, tt14452776, tt15677150, tt26670955, tt26933824]
-      winner: []
+      winner: [tt11691774]
     outstanding performance by a male actor in a drama series:
       nominee: [tt24053860, tt2788316, tt5645432, tt5875444]
-      winner: []
+      winner: [tt2788316]
     outstanding performance by a male actor in a leading role:
       nominee: [tt11563598, tt20215234, tt24176060, tt28479262, tt8999762]
-      winner: []
+      winner: [tt11563598]
     outstanding performance by a male actor in a supporting role:
       nominee: [tt11563598, tt1262426, tt21823606, tt28607951, tt8368368]
-      winner: []
+      winner: [tt21823606]
     outstanding performance by a male actor in a television movie or limited series:
       nominee: [tt11016042, tt13207736, tt13649112, tt15435876, tt16294384]
-      winner: []
+      winner: [tt15435876]
     outstanding performance by an ensemble in a comedy series:
       nominee: [tt11691774, tt11815682, tt14218830, tt14452776, tt15677150]
-      winner: []
+      winner: [tt11691774]
     outstanding performance by an ensemble in a drama series:
       nominee: [tt17491088, tt24053860, tt2788316, tt5875444, tt8740790]
-      winner: []
+      winner: [tt2788316]
 '2024': # https://www.imdb.com/event/ev0000598/2024/1/
   actor:
     outstanding action performance by a stunt ensemble in a motion picture:
