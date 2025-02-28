@@ -1,6 +1,12 @@
 # International Iconic Awards
 '2025':  # https://www.imdb.com/event/ev0073358/2025/1/
   iconic award -telugu:
+    best actor:
+      nominee: [tt11821912, tt12735488, tt14564000, tt15433956, tt16539454, tt27540542]
+      winner: []
+    best actress:
+      nominee: [tt12735488, tt14564000, tt15433956, tt16539454, tt27540542]
+      winner: []
     best actress in a series:
       nominee: [tt19868374]
       winner: []
