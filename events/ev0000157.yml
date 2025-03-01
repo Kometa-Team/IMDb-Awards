@@ -3,76 +3,76 @@
   césar:
     best actor (meilleur acteur):
       nominee: [tt26446278, tt26743414, tt27490099, tt27811096, tt30327451]
-      winner: []
+      winner: [tt27811096]
     best actress (meilleure actrice):
       nominee: [tt19121072, tt20221436, tt27490099, tt29482291]
-      winner: []
+      winner: [tt19121072]
     best adapted screenplay (meilleure adaptation):
       nominee: [tt10462154, tt20221436, tt26446278]
-      winner: []
+      winner: [tt20221436]
     best animated film (meilleur film d'animation):
       nominee: [tt10462154, tt10695672, tt4772188]
-      winner: []
+      winner: [tt4772188]
     best animated short film (meilleur court métrage d'animation):
       nominee: [tt28356173, tt30970587, tt31579612]
-      winner: []
+      winner: [tt28356173]
     best cinematography (meilleure photographie):
       nominee: [tt20221436, tt26446278, tt27490099, tt32085997, tt32086046]
-      winner: []
+      winner: [tt20221436]
     best costume design (meilleurs costumes):
       nominee: [tt20221436, tt26446278, tt26743414, tt27490099, tt33298403]
-      winner: []
+      winner: [tt26446278]
     best director (meilleure réalisation):
       nominee: [tt20221436, tt26446278, tt27490099, tt32085997, tt32086046]
-      winner: []
+      winner: [tt20221436]
     best documentary film (meilleur film documentaire):
       nominee: [tt22857256, tt27760132, tt28359245, tt31015216, tt31551124, tt32019423]
-      winner: []
+      winner: [tt28359245]
     best documentary short film (meilleur film de court métrage documentaire):
       nominee: [tt27158671, tt29432480, tt32146402]
-      winner: []
+      winner: [tt32146402]
     best editing (meilleur montage):
       nominee: [tt20221436, tt26446278, tt27490099, tt30327451, tt32086046]
-      winner: []
+      winner: [tt32086046]
     best female revelation (meilleure révélation féminine):
       nominee: [tt27490099, tt28319139, tt28636876, tt32086034, tt33298252]
-      winner: []
+      winner: [tt32086034]
     best film (meilleur film):
       nominee: [tt20221436, tt26446278, tt30327451, tt32085997, tt32086046]
-      winner: []
+      winner: [tt20221436]
     best first film (meilleur premier film):
       nominee: [tt28319139, tt30135174, tt30795948, tt32086032, tt32086034]
-      winner: []
+      winner: [tt32086034]
     best foreign film (meilleur film étranger):
       nominee: [tt17526714, tt28607951, tt32178949, tt7160372, tt8368368]
-      winner: []
+      winner: [tt7160372]
     best male revelation (meilleure révélation masculine):
       nominee: [tt27490099, tt30135174, tt30327451, tt32085997, tt32086046]
-      winner: []
+      winner: [tt32086046]
     best original music (meilleure musique originale):
       nominee: [tt10462154, tt20221436, tt26446278, tt27490099, tt32086034]
-      winner: []
+      winner: [tt20221436]
     best original screenplay (meilleur scénario original):
       nominee: [tt19121072, tt30327451, tt32085997, tt32086034, tt32086046]
-      winner: []
+      winner: [tt32086046]
     best production design (meilleurs décors):
       nominee: [tt20221436, tt26446278, tt26743414, tt27490099, tt33298403]
-      winner: []
-    best short film (meilleur film de court métrage de fiction):
+      winner: [tt26446278]
+    best short fiction film (meilleur film de court métrage de fiction):
       nominee: [tt20519854, tt29432470, tt32623852, tt34382199]
-      winner: []
+      winner: [tt20519854]
     best sound (meilleur son):
       nominee: [tt20221436, tt26446278, tt27490099, tt30327451, tt32086046]
-      winner: []
+      winner: [tt20221436]
     best supporting actor (meilleur acteur dans un second rôle):
       nominee: [tt26446278, tt27490099, tt32085997]
-      winner: []
+      winner: [tt27490099]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt26446278, tt27490099, tt30327451, tt32085997, tt32086046]
-      winner: []
+      winner: [tt32086046]
     best visual effects (meilleurs effets visuels):
       nominee: [tt14407336, tt20221436, tt26446278, tt26743414]
-      winner: []
+      winner: [tt20221436]
 '2024': # https://www.imdb.com/event/ev0000157/2024/1/
   césar:
     best actor (meilleur acteur):
