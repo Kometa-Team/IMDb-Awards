@@ -3,31 +3,31 @@
   razzie award:
     worst actor:
       nominee: [tt11315808, tt14914430, tt1609486, tt1723808, tt2396431]
-      winner: []
+      winner: [tt14914430]
     worst actress:
       nominee: [tt11057302, tt11315808, tt14856980, tt15009428, tt4978420]
-      winner: []
+      winner: [tt11057302]
     worst director:
       nominee: [tt10128846, tt11057302, tt11315808, tt14914430, tt4978420]
-      winner: []
+      winner: [tt10128846]
     worst picture:
       nominee: [tt10128846, tt11057302, tt11315808, tt1723808, tt4978420]
-      winner: []
+      winner: [tt11057302]
     worst remake, rip-off or sequel:
       nominee: [tt11315808, tt13186482, tt1340094, tt23137904, tt8790086]
-      winner: []
+      winner: [tt11315808]
     worst screen combo:
       nominee: [tt10128846, tt11315808, tt14914430, tt1723808, tt4978420]
       winner: []
     worst screenplay:
       nominee: [tt10128846, tt11057302, tt11315808, tt1723808, tt8790086]
-      winner: []
+      winner: [tt11057302]
     worst supporting actor:
       nominee: [tt10128846, tt11057302, tt1723808, tt31956123, tt32001482, tt4978420]
-      winner: []
+      winner: [tt10128846, tt1723808, tt31956123, tt32001482]
     worst supporting actress:
       nominee: [tt11057302, tt1340094, tt14914430, tt15009428, tt1723808, tt8790086]
-      winner: []
+      winner: [tt14914430]
 '2024': # https://www.imdb.com/event/ev0000558/2024/1/
   razzie award:
     worst actor:
