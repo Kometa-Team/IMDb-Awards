@@ -3,73 +3,73 @@
   oscar:
     best achievement in cinematography:
       nominee: [tt15239678, tt20221436, tt22893404, tt5040012, tt8999762]
-      winner: []
+      winner: [tt8999762]
     best achievement in costume design:
       nominee: [tt11563598, tt1262426, tt20215234, tt5040012, tt9218128]
-      winner: []
+      winner: [tt1262426]
     best achievement in directing:
       nominee: [tt11563598, tt17526714, tt20221436, tt28607951, tt8999762]
-      winner: []
+      winner: [tt28607951]
     best achievement in film editing:
       nominee: [tt1262426, tt20215234, tt20221436, tt28607951, tt8999762]
-      winner: []
+      winner: [tt28607951]
     best achievement in makeup and hairstyling:
       nominee: [tt1262426, tt17526714, tt20221436, tt21097228, tt5040012]
-      winner: []
+      winner: [tt17526714]
     best achievement in music written for motion pictures (original score):
       nominee: [tt1262426, tt20215234, tt20221436, tt29623480, tt8999762]
-      winner: []
+      winner: [tt8999762]
     best achievement in music written for motion pictures (original song):
       nominee: [tt20221436, tt20316978, tt24458622, tt28479262]
-      winner: []
+      winner: [tt20221436]
     best achievement in production design:
       nominee: [tt1262426, tt15239678, tt20215234, tt5040012, tt8999762]
-      winner: []
+      winner: [tt1262426]
     best achievement in visual effects:
       nominee: [tt11389872, tt1262426, tt14260836, tt15239678, tt18412256]
-      winner: []
+      winner: [tt15239678]
     best adapted screenplay:
       nominee: [tt11563598, tt20215234, tt20221436, tt23055660, tt28479262]
-      winner: []
+      winner: [tt20215234]
     best animated feature film:
       nominee: [tt17163970, tt22022452, tt23770030, tt29623480, tt4772188]
-      winner: []
+      winner: [tt4772188]
     best animated short film:
       nominee: [tt28356173, tt28768679, tt28768883, tt30835281, tt31888603]
-      winner: []
+      winner: [tt28768883]
     best documentary feature:
       nominee: [tt14452174, tt30227076, tt30294282, tt30319854, tt30953759]
-      winner: []
+      winner: [tt30953759]
     best documentary short film:
       nominee: [tt27990245, tt29497240, tt31556921, tt32280470, tt33385063]
-      winner: []
+      winner: [tt29497240]
     best international feature film:
       nominee: [tt10236164, tt14961016, tt20221436, tt32178949, tt4772188]
-      winner: []
+      winner: [tt14961016]
     best live action short film:
       nominee: [tt15802124, tt19837932, tt20519854, tt27654431, tt27655666]
-      winner: []
+      winner: [tt19837932]
     best motion picture of the year:
       nominee: [tt11563598, tt1262426, tt14961016, tt15239678, tt17526714, tt20215234, tt20221436, tt23055660, tt28607951, tt8999762]
-      winner: []
+      winner: [tt28607951]
     best original screenplay:
       nominee: [tt17526714, tt21823606, tt28082769, tt28607951, tt8999762]
-      winner: []
+      winner: [tt28607951]
     best performance by an actor in a leading role:
       nominee: [tt11563598, tt20215234, tt28479262, tt8368368, tt8999762]
-      winner: []
+      winner: [tt8999762]
     best performance by an actor in a supporting role:
       nominee: [tt11563598, tt21823606, tt28607951, tt8368368, tt8999762]
-      winner: []
+      winner: [tt21823606]
     best performance by an actress in a leading role:
       nominee: [tt1262426, tt14961016, tt17526714, tt20221436, tt28607951]
-      winner: []
+      winner: [tt28607951]
     best performance by an actress in a supporting role:
       nominee: [tt11563598, tt1262426, tt20215234, tt20221436, tt8999762]
-      winner: []
+      winner: [tt20221436]
     best sound:
       nominee: [tt11563598, tt1262426, tt15239678, tt20221436, tt29623480]
-      winner: []
+      winner: [tt15239678]
 '2024': # https://www.imdb.com/event/ev0000003/2024/1/
   oscar:
     best achievement in cinematography:
