@@ -13,6 +13,12 @@
     best actor critics - ott:
       nominee: [tt31522415]
       winner: [tt31522415]
+    best actor critics choice - web:
+      nominee: [tt28106741]
+      winner: [tt28106741]
+    best actor popular - web:
+      nominee: [tt22297290]
+      winner: [tt22297290]
     best actress:
       nominee: [tt27459160]
       winner: [tt27459160]
@@ -25,6 +31,9 @@
     best actress - web series:
       nominee: [tt27111295]
       winner: [tt27111295]
+    best actress in a negative role:
+      nominee: [tt17494264]
+      winner: [tt17494264]
     best actress popular - ott:
       nominee: [tt4501268]
       winner: [tt4501268]
@@ -52,6 +61,9 @@
     best director - comedy:
       nominee: [tt29330913]
       winner: [tt29330913]
+    best director comedy - web:
+      nominee: [tt21908964]
+      winner: [tt21908964]
     best film:
       nominee: [tt26932223]
       winner: [tt26932223]
@@ -121,18 +133,30 @@
     most influential personality television - male:
       nominee: [tt1281973]
       winner: [tt1281973]
+    most popular comedy tv show:
+      nominee: [tt32766495]
+      winner: [tt32766495]
     most popular tv actor of the year:
       nominee: [tt23846868]
       winner: [tt23846868]
     most popular tv actress of the year:
       nominee: [tt33310372]
       winner: [tt33310372]
+    outstanding bollywood - south industry singer:
+      nominee: [tt16539454]
+      winner: [tt16539454]
     powerpack perfomance of the year:
       nominee: [tt27510174, tt28153480]
       winner: [tt27510174, tt28153480]
+    powerpack performance female - web:
+      nominee: [tt28106741]
+      winner: [tt28106741]
     powerpack performance of the year - female:
       nominee: [tt28106741]
       winner: [tt28106741]
+    rising star - male:
+      nominee: [tt26659814]
+      winner: [tt26659814]
 '2024': # https://www.imdb.com/event/ev0057191/2024/1/
   iconic:
     best actor of the year:

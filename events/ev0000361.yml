@@ -3,86 +3,119 @@
   iifa award:
     best actor in a leading role:
       nominee: [tt10869778, tt21626284, tt23790740, tt26932223, tt27866861]
-      winner: []
+      winner: [tt26932223]
     best actress in a leading role:
       nominee: [tt15392282, tt21626284, tt26733317, tt27510174, tt30970235]
-      winner: []
+      winner: [tt21626284]
+    best choreography:
+      nominee: [tt24517830]
+      winner: [tt24517830]
+    best cinematography:
+      nominee: [tt28259207]
+      winner: [tt28259207]
+    best debut (female):
+      nominee: [tt21626284]
+      winner: [tt21626284]
+    best debut (male):
+      nominee: [tt28259207]
+      winner: [tt28259207]
+    best dialogues:
+      nominee: [tt30970235]
+      winner: [tt30970235]
     best director:
       nominee: [tt13818368, tt21626284, tt26932223, tt27510174, tt28259207, tt30970235]
-      winner: []
+      winner: [tt21626284]
+    best editing:
+      nominee: [tt21626284]
+      winner: [tt21626284]
+    best lyrics:
+      nominee: [tt21626284]
+      winner: [tt21626284]
+    best music design:
+      nominee: [tt28259207]
+      winner: [tt28259207]
     best music direction:
       nominee: [tt10869778, tt21626284, tt26932223, tt27459160, tt27510174]
-      winner: []
+      winner: [tt21626284]
     best performance in a negative role:
       nominee: [tt10869778, tt11976134, tt26733317, tt27744786, tt28259207]
-      winner: []
+      winner: [tt28259207]
     best picture:
       nominee: [tt21626284, tt26932223, tt27510174, tt27744786, tt28259207, tt30970235]
-      winner: []
+      winner: [tt21626284]
     best playback singer - female:
       nominee: [tt13818368, tt21626284, tt26932223, tt27510174, tt28259207]
-      winner: []
+      winner: [tt26932223]
     best playback singer - male:
       nominee: [tt21383812, tt21626284, tt24517830, tt27459160, tt30970235]
-      winner: []
+      winner: [tt30970235]
+    best special effects:
+      nominee: [tt26932223]
+      winner: [tt26932223]
+    best story - adapted:
+      nominee: [tt15392282]
+      winner: [tt15392282]
     best supporting actor:
       nominee: [tt21626284, tt26733317, tt26932223, tt27056012, tt27510174]
-      winner: []
+      winner: [tt21626284]
     best supporting actress:
       nominee: [tt21626284, tt23790740, tt26932223, tt27744786, tt30970235]
-      winner: []
+      winner: [tt27744786]
+    debut director of the year:
+      nominee: [tt26745657]
+      winner: [tt26745657]
   iifa digital award:
     best director:
       nominee: [tt18277182, tt21626774, tt26658272, tt27930683, tt4501268]
-      winner: []
+      winner: [tt26658272]
     best director, series:
       nominee: [tt12004706, tt15204292, tt22297290, tt28106741, tt9432978]
-      winner: []
+      winner: [tt12004706]
     best docu series/docu film:
       nominee: [tt14866598, tt22297698, tt26259966, tt27139868, tt31069611]
-      winner: []
+      winner: [tt27139868]
     best film:
       nominee: [tt21626774, tt26225118, tt26658272, tt27930683, tt4501268]
-      winner: []
+      winner: [tt26658272]
     best performance in a leading role - female:
       nominee: [tt12736014, tt18277182, tt26225118, tt26658272, tt28075881]
-      winner: []
+      winner: [tt28075881]
     best performance in a leading role - male:
       nominee: [tt21626774, tt26658272, tt27028399, tt27930683, tt32607174]
-      winner: []
+      winner: [tt21626774]
     best performance in a leading role series - female:
       nominee: [tt12004706, tt14420552, tt21908964, tt22297290, tt9814458]
-      winner: []
+      winner: [tt9814458]
     best performance in a leading role series - male:
       nominee: [tt12004706, tt20319332, tt22297290, tt27111295, tt28106741, tt31183656]
-      winner: []
+      winner: [tt12004706]
     best performance in a supporting role - female:
       nominee: [tt15260176, tt22480126, tt27028399, tt4501268]
-      winner: []
+      winner: [tt22480126]
     best performance in a supporting role - male:
       nominee: [tt19864942, tt21626774, tt26225118, tt27028399, tt4501268]
-      winner: []
+      winner: [tt21626774]
     best performance in a supporting role series - female:
       nominee: [tt12004706, tt14420552, tt15204292, tt9814458]
-      winner: []
+      winner: [tt15204292]
     best performance in a supporting role series - male:
       nominee: [tt12004706, tt27111295, tt28102595]
-      winner: []
+      winner: [tt12004706]
     best reality or non scripted series:
       nominee: [tt13452100, tt15087662, tt27561741, tt30003786, tt31898045]
-      winner: []
+      winner: [tt13452100]
     best series:
       nominee: [tt10530900, tt12004706, tt15204292, tt28106741, tt31183656, tt9432978]
-      winner: []
+      winner: [tt12004706]
     best story (original):
       nominee: [tt18277182, tt26658272, tt27930683, tt28075881, tt4501268]
-      winner: []
+      winner: [tt28075881]
     best story (original), series:
       nominee: [tt12004706, tt15204292, tt31183656, tt6473300, tt9432978]
-      winner: []
+      winner: [tt9432978]
     best title track:
       nominee: [tt12004706, tt12719250, tt15204292, tt26658272, tt9814458]
-      winner: []
+      winner: [tt12719250]
 '2024': # https://www.imdb.com/event/ev0000361/2024/1/
   iifa award:
     best actor in a leading role:
