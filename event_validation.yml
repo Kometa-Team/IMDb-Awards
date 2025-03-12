@@ -3411,7 +3411,7 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - popular award # 20 Events: 2000-2017, 2019-2020
   - producer guild award # 1 Event: 2008
   - special award # 10 Events: 2000, 2006-2008, 2011-2012, 2014-2015, 2019, 2023
-  - technical award # 11 Events: 2009, 2013, 2015-2024
+  - technical award # 12 Events: 2009, 2013, 2015-2025
   categories: # Category Options: Awards of the International Indian Film Academy
   - best action # 14 Events: 2003, 2005-2017
   - best actor in a leading role # 23 Events: 2000-2020, 2024-2025
@@ -3434,11 +3434,11 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - best costume designer # 5 Events: 2000, 2002-2003, 2006, 2011
   - best debut (female) # 1 Event: 2025
   - best debut (male) # 1 Event: 2025
-  - best debut actor # 15 Events: 2002, 2004, 2007-2013, 2015-2017, 2019, 2022-2023
+  - best debut actor # 16 Events: 2002, 2004, 2007-2013, 2015-2017, 2019, 2022-2023, 2025
   - best debut actor (male/female) # 1 Event: 2005
-  - best debut actress # 16 Events: 2002-2004, 2007-2013, 2015-2017, 2019, 2022-2023
-  - best debut director # 2 Events: 2005, 2013
-  - best dialogue # 21 Events: 2000-2012, 2014-2017, 2019-2022, 2024
+  - best debut actress # 17 Events: 2002-2004, 2007-2013, 2015-2017, 2019, 2022-2023, 2025
+  - best debut director # 3 Events: 2005, 2013, 2025
+  - best dialogue # 22 Events: 2000-2012, 2014-2017, 2019-2022, 2024-2025
   - best dialogues # 4 Events: 2013, 2018, 2023, 2025
   - best director # 25 Events: 2000-2025
   - best director, series # 1 Event: 2025
@@ -3472,10 +3472,10 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - best production design # 5 Events: 2012-2015, 2017
   - best reality or non scripted series # 1 Event: 2025
   - best regional film # 1 Event: 2015
-  - best screenplay # 22 Events: 2000, 2002-2012, 2014-2024
+  - best screenplay # 23 Events: 2000, 2002-2012, 2014-2025
   - best series # 1 Event: 2025
   - best song recording # 10 Events: 2000-2005, 2007, 2011-2012, 2014
-  - best sound design # 8 Events: 2013-2014, 2017, 2019-2024
+  - best sound design # 9 Events: 2013-2014, 2017, 2019-2025
   - best sound mixing # 9 Events: 2012-2014, 2017, 2019-2024
   - best sound re-recording # 11 Events: 2000-2008, 2010-2011
   - best sound recording # 14 Events: 2000-2013
@@ -3486,7 +3486,7 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - best story (original) # 1 Event: 2025
   - best story (original), series # 1 Event: 2025
   - best story - adapted # 4 Events: 2022-2025
-  - best story - original # 3 Events: 2022-2024
+  - best story - original # 4 Events: 2022-2025
   - best story in popular category (original) # 1 Event: 2025
   - best supporting actor # 5 Events: 2000, 2003, 2020, 2024-2025
   - best supporting actor, series # No Events Found

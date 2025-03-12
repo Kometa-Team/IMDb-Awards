@@ -19,6 +19,15 @@
     best debut (male):
       nominee: [tt28259207]
       winner: [tt28259207]
+    best debut actor:
+      nominee: [tt28259207]
+      winner: [tt28259207]
+    best debut actress:
+      nominee: [tt21626284]
+      winner: [tt21626284]
+    best debut director:
+      nominee: [tt26745657]
+      winner: [tt26745657]
     best dialogues:
       nominee: [tt30970235]
       winner: [tt30970235]
@@ -55,6 +64,9 @@
     best story - adapted:
       nominee: [tt15392282]
       winner: [tt15392282]
+    best story - original:
+      nominee: [tt21626284]
+      winner: [tt21626284]
     best story in popular category (original):
       nominee: [tt21626284]
       winner: [tt21626284]
@@ -67,6 +79,28 @@
     debut director of the year:
       nominee: [tt26745657]
       winner: [tt26745657]
+  technical award:
+    best choreography:
+      nominee: [tt24517830]
+      winner: [tt24517830]
+    best cinematography:
+      nominee: [tt28259207]
+      winner: [tt28259207]
+    best dialogue:
+      nominee: [tt30970235]
+      winner: [tt30970235]
+    best editing:
+      nominee: [tt21626284]
+      winner: [tt21626284]
+    best screenplay:
+      nominee: [tt21626284]
+      winner: [tt21626284]
+    best sound design:
+      nominee: [tt28259207]
+      winner: [tt28259207]
+    best special effects:
+      nominee: [tt26932223]
+      winner: [tt26932223]
   iifa digital award:
     best director:
       nominee: [tt18277182, tt21626774, tt26658272, tt27930683, tt4501268]
