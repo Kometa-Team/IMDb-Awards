@@ -7,7 +7,7 @@
   iff award:
     best actor:
       nominee: [tt10786774, tt14993250, tt15354916, tt15428134, tt21626284, tt22818604, tt23849204, tt26658272, tt26660021, tt27470893, tt28541110]
-      winner: []
+      winner: [tt27470893]
     best actress:
       nominee: [tt14993250, tt18277182, tt21361340, tt21626284, tt22818604, tt27032419, tt29301456, tt29451582, tt32537777]
       winner: []
