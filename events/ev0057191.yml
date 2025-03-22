@@ -23,8 +23,8 @@
       nominee: [tt27459160]
       winner: [tt27459160]
     best actress - critics:
-      nominee: [tt28221135]
-      winner: [tt28221135]
+      nominee: [tt28221135, tt32308617]
+      winner: [tt28221135, tt32308617]
     best actress - ott:
       nominee: [tt28075881]
       winner: [tt28075881]
@@ -130,6 +130,9 @@
     breakout star of the year - male:
       nominee: [tt27995594]
       winner: [tt27995594]
+    fresh face in bollywood:
+      nominee: [tt27056012]
+      winner: [tt27056012]
     most influential personality television - female:
       nominee: [tt11867666]
       winner: [tt11867666]
@@ -157,6 +160,9 @@
     powerpack performance of the year - female:
       nominee: [tt28106741]
       winner: [tt28106741]
+    rising star - female:
+      nominee: [tt29120307]
+      winner: [tt29120307]
     rising star - male:
       nominee: [tt26659814]
       winner: [tt26659814]
