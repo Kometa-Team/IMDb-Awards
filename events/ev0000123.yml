@@ -76,6 +76,58 @@
     outstanding debut by a british writer, director, or producer:
       nominee: [tt20729172, tt27367464, tt30444418, tt32060445, tt9214772]
       winner: [tt27367464]
+  bafta games award:
+    artistic achievement:
+      nominee: [tt12969320, tt16386018, tt27917048, tt28060137, tt32200024, tt32501467]
+      winner: []
+    audio achievement:
+      nominee: [tt16386018, tt27671044, tt27916646, tt28054906, tt28060137, tt32501467]
+      winner: []
+    best animation:
+      nominee: [tt16386018, tt30334760, tt32421375, tt32501467, tt32501530, tt32632231]
+      winner: []
+    best british game:
+      nominee: [tt16386018, tt28060137, tt30786083, tt32421375, tt32632231, tt33255564]
+      winner: []
+    best debut game:
+      nominee: [tt21990830, tt27671044, tt30624820, tt31242194, tt31521616, tt32632231]
+      winner: []
+    best evolving game:
+      nominee: [tt0433664, tt11261148, tt1737166, tt21030326, tt3819090, tt4780496]
+      winner: []
+    best family game:
+      nominee: [tt21990830, tt27554360, tt27917050, tt32421375, tt32441214, tt32501467]
+      winner: []
+    best game:
+      nominee: [tt12969320, tt27916646, tt31521616, tt32379265, tt32501467, tt32632231]
+      winner: []
+    best multiplayer:
+      nominee: [tt22051736, tt27916646, tt30334760, tt32421375, tt32441214, tt32501530]
+      winner: []
+    best music:
+      nominee: [tt12969320, tt16386018, tt21066342, tt27916646, tt28054906, tt32501467]
+      winner: []
+    best narrative:
+      nominee: [tt12969320, tt16386018, tt21066342, tt27510763, tt28060137, tt6724294]
+      winner: []
+    game beyond entertainment:
+      nominee: [tt16386018, tt30624820, tt32160893, tt32480146, tt34180572]
+      winner: []
+    game design:
+      nominee: [tt27671044, tt27916646, tt31521616, tt32379265, tt32501467, tt34971211]
+      winner: []
+    new intellectual property:
+      nominee: [tt12969320, tt27671044, tt28060137, tt31521616, tt32632231, tt6724294]
+      winner: []
+    performer in a leading role:
+      nominee: [tt16386018, tt22892938, tt28054906, tt28060137, tt32277412, tt32501530]
+      winner: []
+    performer in a supporting role:
+      nominee: [tt16386018, tt28060137, tt32632231]
+      winner: []
+    technical achievement:
+      nominee: [tt12969320, tt16386018, tt30334760, tt32501467, tt32501530]
+      winner: []
   p&o cruises memorable moment:
     p&o cruises memorable moment:
       nominee: [tt0411027, tt0908454, tt15557874, tt21906238, tt27867155, tt8740790]
