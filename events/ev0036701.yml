@@ -3,22 +3,25 @@
   series award:
     best actor:
       nominee: [tt14160712, tt27411674, tt30819853, tt30824640, tt31183656]
-      winner: []
+      winner: [tt30819853]
     best actress:
       nominee: [tt15722548, tt22297290, tt24364990, tt30819853, tt32792567]
-      winner: []
+      winner: [tt24364990]
     best director:
       nominee: [tt15722548, tt22297290, tt24364990, tt28102595, tt30819853]
-      winner: []
+      winner: [tt24364990]
     best series:
       nominee: [tt15722548, tt22297290, tt24364990, tt28102595, tt30819853]
-      winner: []
+      winner: [tt24364990]
     best supporting actor:
       nominee: [tt12004706, tt24364990, tt28102595, tt32258354, tt9814458]
-      winner: []
+      winner: [tt24364990]
     best supporting actress:
       nominee: [tt24364990, tt30819853, tt31183656, tt33320881, tt9814458]
-      winner: []
+      winner: [tt24364990]
+    best writing:
+      nominee: [tt24364990]
+      winner: [tt24364990]
 '2024': # https://www.imdb.com/event/ev0036701/2024/1/
   series award:
     best actor:

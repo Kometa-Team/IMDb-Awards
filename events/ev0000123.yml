@@ -76,6 +76,64 @@
     outstanding debut by a british writer, director, or producer:
       nominee: [tt20729172, tt27367464, tt30444418, tt32060445, tt9214772]
       winner: [tt27367464]
+  bafta tv award:
+    current affairs:
+      nominee: [tt31410442, tt32595456, tt34001166, tt35726387]
+      winner: []
+    daytime:
+      nominee: [tt0217211, tt13368492, tt32544262, tt7316998]
+      winner: []
+    drama series:
+      nominee: [tt13994572, tt14466018, tt16283758, tt35931358]
+      winner: []
+    entertainment craft team:
+      nominee: [tt0411027, tt23743442, tt4934214]
+      winner: []
+    entertainment performance:
+      nominee: [tt0324692, tt0924651, tt14254752, tt15557874, tt26687060, tt9663964]
+      winner: []
+    factual series:
+      nominee: [tt22797582, tt31106703, tt36351855, tt8583604]
+      winner: []
+    international:
+      nominee: [tt18228732, tt2356777, tt23845296, tt2788316, tt31122777, tt31410930]
+      winner: []
+    leading actor:
+      nominee: [tt11899030, tt13649112, tt16493232, tt21906238, tt27867155, tt5875444]
+      winner: []
+    leading actress:
+      nominee: [tt16493232, tt21279806, tt26738706, tt27867155, tt31122777, tt7671070]
+      winner: []
+    news coverage:
+      nominee: [tt0239164, tt0262152]
+      winner: []
+    reality:
+      nominee: [tt0443370, tt15557874, tt26675358, tt28615598]
+      winner: []
+    scripted comedy:
+      nominee: [tt12106710, tt27846061, tt28510783, tt9174582]
+      winner: []
+    short form programme:
+      nominee: [tt31389354, tt31540576, tt33368507, tt36351715]
+      winner: []
+    single documentary:
+      nominee: [tt28089851, tt29142525, tt31908384, tt34192088]
+      winner: []
+    soap:
+      nominee: [tt0053494, tt0088512, tt0096555]
+      winner: []
+    specialist factual:
+      nominee: [tt30844092, tt31189897, tt33049440, tt33360799]
+      winner: []
+    sports coverage:
+      nominee: [tt12752438, tt32551602, tt3770700]
+      winner: []
+    supporting actor:
+      nominee: [tt16283824, tt16493232, tt28501949, tt35931358, tt5875444]
+      winner: []
+    supporting actress:
+      nominee: [tt13649112, tt13994572, tt20453286, tt21906238, tt31122777]
+      winner: []
   bafta games award:
     artistic achievement:
       nominee: [tt12969320, tt16386018, tt27917048, tt28060137, tt32200024, tt32501467]
