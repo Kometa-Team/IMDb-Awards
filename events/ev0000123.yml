@@ -77,6 +77,12 @@
       nominee: [tt20729172, tt27367464, tt30444418, tt32060445, tt9214772]
       winner: [tt27367464]
   bafta tv award:
+    children’s non-scripted award:
+      nominee: [tt11608566, tt26930503, tt28020282, tt4401960]
+      winner: []
+    children’s scripted award:
+      nominee: [tt1400819, tt29248214, tt29818188, tt9113476]
+      winner: []
     current affairs:
       nominee: [tt31410442, tt32595456, tt34001166, tt35726387]
       winner: []
@@ -87,10 +93,13 @@
       nominee: [tt13994572, tt14466018, tt16283758, tt35931358]
       winner: []
     entertainment craft team:
-      nominee: [tt0411027, tt23743442, tt4934214]
+      nominee: [tt0411027, tt23743442, tt35258525, tt4934214]
       winner: []
     entertainment performance:
       nominee: [tt0324692, tt0924651, tt14254752, tt15557874, tt26687060, tt9663964]
+      winner: []
+    factual entertainment:
+      nominee: [tt28060907, tt28338483, tt9909248]
       winner: []
     factual series:
       nominee: [tt22797582, tt31106703, tt36351855, tt8583604]
@@ -103,6 +112,9 @@
       winner: []
     leading actress:
       nominee: [tt16493232, tt21279806, tt26738706, tt27867155, tt31122777, tt7671070]
+      winner: []
+    limited drama:
+      nominee: [tt13649112, tt16283804, tt21084712, tt27867155]
       winner: []
     news coverage:
       nominee: [tt0239164, tt0262152]
