@@ -1,6 +1,9 @@
 # German Film Awards
 '2025':  # https://www.imdb.com/event/ev0000280/2025/1/
   film award in gold:
+    best editing:
+      nominee: [tt28082769]
+      winner: []
     outstanding feature film (bester spielfilm):
       nominee: [tt20414360, tt20420646, tt26252716, tt27796126, tt28082769, tt32178949]
       winner: []

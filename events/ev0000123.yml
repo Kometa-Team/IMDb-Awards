@@ -96,7 +96,7 @@
       nominee: [tt0411027, tt15557874, tt35258525, tt4934214]
       winner: []
     entertainment performance:
-      nominee: [tt0324692, tt0924651, tt14254752, tt15557874, tt26687060, tt9663964]
+      nominee: [tt0324692, tt0924651, tt14254752, tt23743442, tt26687060, tt9663964]
       winner: []
     factual entertainment:
       nominee: [tt28060907, tt28338483, tt9909248]
@@ -120,7 +120,7 @@
       nominee: [tt0239164, tt0262152]
       winner: []
     reality:
-      nominee: [tt0443370, tt15557874, tt26675358, tt28615598]
+      nominee: [tt0443370, tt23743442, tt26675358, tt28615598]
       winner: []
     scripted comedy:
       nominee: [tt12106710, tt27846061, tt28510783, tt9174582]
@@ -200,7 +200,7 @@
       winner: []
   p&o cruises memorable moment:
     p&o cruises memorable moment:
-      nominee: [tt0411027, tt0908454, tt15557874, tt21906238, tt27867155, tt8740790]
+      nominee: [tt0411027, tt0908454, tt21906238, tt23743442, tt27867155, tt8740790]
       winner: []
 '2024': # https://www.imdb.com/event/ev0000123/2024/1/
   bafta film award:

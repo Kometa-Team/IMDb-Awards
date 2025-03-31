@@ -18,6 +18,10 @@
     best canadian feature film:
       nominee: [tt29634258]
       winner: [tt29634258]
+  international critics' award:
+    best actress:
+      nominee: [tt33292146]
+      winner: [tt33292146]
   netpac award:
     netpac award:
       nominee: [tt14093994, tt22208340, tt32238611]
@@ -45,6 +49,10 @@
     tiff variety artisan award:
       nominee: [tt20221436]
       winner: [tt20221436]
+  jury prize:
+    best director:
+      nominee: [tt33292146]
+      winner: [tt33292146]
   best canadian discovery award:
     best canadian discovery award:
       nominee: [tt31691389]
