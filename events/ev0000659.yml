@@ -82,7 +82,7 @@
       winner: [tt7130916]
   discovery award:
     best film:
-      nominee: [tt28534120]
+      nominee: [tt15495540, tt28534120]
       winner: []
   best canadian feature film:
     best canadian feature film:
@@ -993,6 +993,10 @@
     rbc emerging filmmaker award - fan favorite:
       nominee: [tt1954971]
       winner: [tt1954971]
+  canadian documentary:
+    best canadian documentary:
+      nominee: [tt2015508]
+      winner: [tt2015508]
 '2010': # https://www.imdb.com/event/ev0000659/2010/1/
   people's choice award:
     documentary:

@@ -1152,6 +1152,10 @@
     best actress:
       nominee: [tt11161474]
       winner: [tt11161474]
+  best first work:
+    best first work:
+      nominee: [tt5797186]
+      winner: []
   marcello mastroianni award:
     best young actor or actress:
       nominee: [tt11767722]
@@ -1227,6 +1231,14 @@
     younger's in movie:
       nominee: [tt8166320]
       winner: [tt8166320]
+  best director:
+    venice horizons award:
+      nominee: [tt5797186]
+      winner: []
+  best first film:
+    best first film:
+      nominee: [tt5797186]
+      winner: []
   leoncino d'oro agiscuola award:
     leoncino d'oro agiscuola award:
       nominee: [tt12474056]

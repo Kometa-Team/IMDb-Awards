@@ -168,9 +168,39 @@
       winner: [tt12392504]
 '2020': # https://www.imdb.com/event/ev0073358/2020/1/
   iconic award:
+    best actor - comedy series:
+      nominee: [tt5154982, tt7401524]
+      winner: [tt5154982, tt7401524]
+    best actor in a leading role (web series):
+      nominee: [tt10042222, tt11912196, tt9544034]
+      winner: [tt9544034]
     best actress:
       nominee: [tt10230426, tt6903440, tt6988116, tt9052870, tt9614460]
       winner: [tt6903440]
+    best actress - comedy series:
+      nominee: [tt5154982, tt9877848]
+      winner: [tt5154982, tt9877848]
+    best actress - television:
+      nominee: [tt7112704]
+      winner: [tt7112704]
+    best actress in a leading role (web series):
+      nominee: [tt10042058, tt10449366, tt11536424, tt11905720, tt8006806]
+      winner: [tt10042058]
     best actress in a web series:
+      nominee: [tt11912196]
+      winner: [tt11912196]
+    best child artist:
+      nominee: [tt9877848]
+      winner: [tt9877848]
+    best jodi:
+      nominee: [tt7112704]
+      winner: [tt7112704]
+    legendary actor - comedy:
+      nominee: [tt1708446]
+      winner: [tt1708446]
+    legendary actress - comedy:
+      nominee: [tt9877848]
+      winner: [tt9877848]
+    popular face of india:
       nominee: [tt11912196]
       winner: [tt11912196]

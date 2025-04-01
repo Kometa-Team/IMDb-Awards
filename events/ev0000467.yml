@@ -3653,6 +3653,10 @@
     special mention:
       nominee: [tt0345177]
       winner: [tt0345177]
+  national film award:
+    best actress in a supporting role:
+      nominee: [tt0155487]
+      winner: [tt0155487]
   special jury award:
     best performance:
       nominee: [tt0099652]
@@ -3714,6 +3718,9 @@
     best malayalam film:
       nominee: [tt0097851]
       winner: [tt0097851]
+    best producton design:
+      nominee: [tt0230597]
+      winner: [tt0230597]
     special jury award:
       nominee: [tt0308450]
       winner: [tt0308450]

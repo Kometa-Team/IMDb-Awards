@@ -655,7 +655,7 @@
       nominee: [tt15469618, tt15792042, tt1830379, tt8681148]
       winner: [tt8681148]
     scripted comedy:
-      nominee: [tt11379026, tt13683866, tt15792042, tt7120662]
+      nominee: [tt13683866, tt15792042, tt7120662, tt8594324]
       winner: [tt7120662]
     short form programme:
       nominee: [tt20124924, tt22694742, tt27090173, tt27204592]
@@ -2223,6 +2223,9 @@
       nominee: [tt1596363, tt1663202, tt2402927, tt3659388, tt3682448]
       winner: [tt1663202]
   bafta tv award:
+    best comedy and comedy entertainment programme:
+      nominee: [tt0780206]
+      winner: []
     best current affairs:
       nominee: [tt1043090, tt4736576]
       winner: []
@@ -2280,6 +2283,9 @@
     best single drama:
       nominee: [tt3568218, tt4073696, tt4135218, tt4459770]
       winner: [tt4459770]
+    'best sound: fiction':
+      nominee: [tt3556920]
+      winner: [tt3556920]
     best specialist factual:
       nominee: [tt4693234, tt5123004]
       winner: [tt5123004]
