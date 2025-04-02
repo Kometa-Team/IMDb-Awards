@@ -1,8 +1,23 @@
 # German Film Awards
 '2025':  # https://www.imdb.com/event/ev0000280/2025/1/
   film award in gold:
+    best direction (beste regie):
+      nominee: [tt20420646, tt28082769, tt32178949]
+      winner: []
     best editing:
       nominee: [tt28082769]
+      winner: []
+    best performance by an actor in a leading role (beste darstellerische leistung - männliche hauptrolle):
+      nominee: [tt27796126, tt32178949, tt33294838]
+      winner: []
+    best performance by an actor in a supporting role (beste darstellerische leistung - männliche nebenrolle):
+      nominee: [tt20414360, tt20420646, tt31036505]
+      winner: []
+    best performance by an actress in a leading role (beste darstellerische leistung - weibliche hauptrolle):
+      nominee: [tt20414360, tt20420646, tt26252716]
+      winner: []
+    best performance by an actress in a supporting role (beste darstellerische leistung - weibliche nebenrolle):
+      nominee: [tt21243734, tt28082769, tt32178949]
       winner: []
     outstanding feature film (bester spielfilm):
       nominee: [tt20414360, tt20420646, tt26252716, tt27796126, tt28082769, tt32178949]
