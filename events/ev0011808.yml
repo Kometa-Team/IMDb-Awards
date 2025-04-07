@@ -2,11 +2,11 @@
 '2024':  # https://www.imdb.com/event/ev0011808/2024/1/
   best short film:
     best short film:
-      nominee: [tt26786392, tt30836390, tt31639673, tt32461304]
-      winner: []
+      nominee: [tt26439350, tt26786392, tt30836390, tt31639673, tt32461304]
+      winner: [tt26439350]
     special mention:
       nominee: [tt36292483]
-      winner: []
+      winner: [tt36292483]
   iff award:
     best actor:
       nominee: [tt10786774, tt14993250, tt15354916, tt15428134, tt21626284, tt22818604, tt23849204, tt26658272, tt26660021, tt27470893, tt28541110]

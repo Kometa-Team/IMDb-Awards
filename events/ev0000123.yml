@@ -83,11 +83,17 @@
     children’s scripted award:
       nominee: [tt1400819, tt29248214, tt29818188, tt9113476]
       winner: []
+    costume design:
+      nominee: [tt16283824, tt26246248, tt27995113, tt9022422]
+      winner: []
     current affairs:
       nominee: [tt31410442, tt32595456, tt34001166, tt35726387]
       winner: []
     daytime:
       nominee: [tt0217211, tt13368492, tt32544262, tt7316998]
+      winner: []
+    director, fiction:
+      nominee: [tt10846104, tt13649112, tt16283804, tt3556920]
       winner: []
     drama series:
       nominee: [tt13994572, tt14466018, tt16283758, tt3556920]
@@ -119,6 +125,9 @@
     news coverage:
       nominee: [tt0239164, tt0262152]
       winner: []
+    photography & lighting, fiction:
+      nominee: [tt11218290, tt16283824, tt2788316, tt31122777]
+      winner: []
     reality:
       nominee: [tt0443370, tt23743442, tt26675358, tt28615598]
       winner: []
@@ -145,6 +154,9 @@
       winner: []
     supporting actress:
       nominee: [tt13649112, tt13994572, tt20453286, tt21906238, tt31122777]
+      winner: []
+    writer, drama:
+      nominee: [tt13649112, tt16283804, tt27867155, tt7671070]
       winner: []
   bafta games award:
     artistic achievement:
