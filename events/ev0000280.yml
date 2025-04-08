@@ -1,11 +1,26 @@
 # German Film Awards
 '2025':  # https://www.imdb.com/event/ev0000280/2025/1/
   film award in gold:
+    best cinematography (beste kamera/bildgestaltung):
+      nominee: [tt26252716, tt28082769, tt33294838]
+      winner: []
+    best costume design (bestes kostümbild):
+      nominee: [tt20420646, tt33294838, tt6176336]
+      winner: []
     best direction (beste regie):
       nominee: [tt20420646, tt28082769, tt32178949]
       winner: []
+    best documentary (bester dokumentarfilm):
+      nominee: [tt28494712, tt32249940, tt32844188]
+      winner: []
     best editing (bester schnitt):
       nominee: [tt20414360, tt28082769, tt32178949]
+      winner: []
+    best film score (beste filmmusik):
+      nominee: [tt27796126, tt28082769, tt30195482]
+      winner: []
+    best makeup (bestes maskenbild):
+      nominee: [tt20420646, tt28082769, tt6176336]
       winner: []
     best performance by an actor in a leading role (beste darstellerische leistung - männliche hauptrolle):
       nominee: [tt27796126, tt32178949, tt33294838]
@@ -19,12 +34,28 @@
     best performance by an actress in a supporting role (beste darstellerische leistung - weibliche nebenrolle):
       nominee: [tt21243734, tt28082769, tt32178949]
       winner: []
+    best production design (bestes szenenbild):
+      nominee: [tt28082769, tt33294838, tt6176336]
+      winner: []
+    best screenplay (bestes drehbuch):
+      nominee: [tt20420646, tt28082769, tt32178949]
+      winner: []
     best sound (beste tongestaltung):
       nominee: [tt27796126, tt28082769, tt31116299]
+      winner: []
+    best visual effects (beste visuelle effekte):
+      nominee: [tt30398905, tt31116299, tt6176336]
+      winner: []
+    outstanding children or youth film (bester kinder- und jugendfilm):
+      nominee: [tt22529620, tt30398905]
       winner: []
     outstanding feature film (bester spielfilm):
       nominee: [tt20414360, tt20420646, tt26252716, tt27796126, tt28082769, tt32178949]
       winner: []
+  audience award:
+    highest grossing film of the year:
+      nominee: [tt32241578]
+      winner: [tt32241578]
 '2024': # https://www.imdb.com/event/ev0000280/2024/1/
   film award in gold:
     best cinematography (beste kamera/bildgestaltung):
