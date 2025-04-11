@@ -1083,7 +1083,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - live event # 4 Events: 2020-2023
   - live event coverage # 1 Event: 2024
   - lloyds bank people's vote for the most popular film # 1 Event: 1994
-  - make up & hair design # 3 Events: 2022-2024
+  - make up & hair design # 4 Events: 2022-2025
   - male performance in a comedy programme # 5 Events: 2020-2024
   - mini-series # 4 Events: 2020-2023
   - most original programme/series # 2 Events: 1978-1979
@@ -1103,7 +1103,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - online learning # 1 Event: 2004
   - original music # 5 Events: 2017-2020, 2022
   - original music, factual # 2 Events: 2023-2024
-  - original music, fiction # 2 Events: 2023-2024
+  - original music, fiction # 3 Events: 2023-2025
   - original score # 5 Events: 2021-2025
   - originality # 2 Events: 1999, 2005
   - outstanding british film of the year # 9 Events: 2017-2025
@@ -1130,7 +1130,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - richard dimbleby award # 1 Event: 1973
   - richard dimbleby award for the best presenter (factual, features and news) # 3 Events: 2000-2002
   - schools drama # 1 Event: 1997
-  - scripted casting # 3 Events: 2022-2024
+  - scripted casting # 4 Events: 2022-2025
   - scripted comedy # 6 Events: 2020-2025
   - shell international award # 7 Events: 1970-1971, 1976, 1978, 1980, 1982, 1984
   - short form programme # 7 Events: 2018, 2020-2025
@@ -4104,12 +4104,12 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   - barry l. bumstead award # 4 Events: 2016-2019
   - governor's award # 1 Event: 2004
   - razzie award # 45 Events: 1981-2025
-  - redeemer award # 5 Events: 2017, 2019-2020, 2022-2023
+  - redeemer award # 6 Events: 2017, 2019-2020, 2022-2023, 2025
   categories: # Category Options: Razzie Awards
   - barry l. bumstead award # 4 Events: 2016-2019
   - governor's award # 1 Event: 2004
   - most flatulent teen-targeted movie # 1 Event: 2003
-  - redeemer award # 5 Events: 2017, 2019-2020, 2022-2023
+  - redeemer award # 6 Events: 2017, 2019-2020, 2022-2023, 2025
   - so rotten you loved it # 1 Event: 2018
   - worst 'comedy' of our first 25 years # 1 Event: 2005
   - worst 'drama' of our first 25 years # 1 Event: 2005

@@ -122,14 +122,23 @@
     limited drama:
       nominee: [tt13649112, tt16283804, tt21084712, tt27867155]
       winner: []
+    make up & hair design:
+      nominee: [tt21906238, tt23541316, tt26246248, tt8740790]
+      winner: []
     news coverage:
       nominee: [tt0239164, tt0262152]
+      winner: []
+    original music, fiction:
+      nominee: [tt15469618, tt21906238, tt26738706, tt5875444]
       winner: []
     photography & lighting, fiction:
       nominee: [tt11218290, tt16283824, tt2788316, tt31122777]
       winner: []
     reality:
       nominee: [tt0443370, tt23743442, tt26675358, tt28615598]
+      winner: []
+    scripted casting:
+      nominee: [tt16283758, tt21084712, tt21906238, tt27867155]
       winner: []
     scripted comedy:
       nominee: [tt12106710, tt27846061, tt28510783, tt9174582]
@@ -161,55 +170,55 @@
   bafta games award:
     artistic achievement:
       nominee: [tt12969320, tt16386018, tt27917048, tt28060137, tt32200024, tt32501467]
-      winner: []
+      winner: [tt27917048]
     audio achievement:
       nominee: [tt16386018, tt27671044, tt27916646, tt28054906, tt28060137, tt32501467]
-      winner: []
+      winner: [tt32501467]
     best animation:
       nominee: [tt16386018, tt30334760, tt32421375, tt32501467, tt32501530, tt32632231]
-      winner: []
+      winner: [tt32501467]
     best british game:
       nominee: [tt16386018, tt28060137, tt30786083, tt32421375, tt32632231, tt33255564]
-      winner: []
+      winner: [tt32632231]
     best debut game:
       nominee: [tt21990830, tt27671044, tt30624820, tt31242194, tt31521616, tt32632231]
-      winner: []
+      winner: [tt31521616]
     best evolving game:
       nominee: [tt0433664, tt11261148, tt1737166, tt21030326, tt3819090, tt4780496]
-      winner: []
+      winner: [tt21030326]
     best family game:
       nominee: [tt21990830, tt27554360, tt27917050, tt32421375, tt32441214, tt32501467]
-      winner: []
+      winner: [tt32501467]
     best game:
       nominee: [tt12969320, tt27916646, tt31521616, tt32379265, tt32501467, tt32632231]
-      winner: []
+      winner: [tt32501467]
     best multiplayer:
       nominee: [tt22051736, tt27916646, tt30334760, tt32421375, tt32441214, tt32501530]
-      winner: []
+      winner: [tt27916646]
     best music:
       nominee: [tt12969320, tt16386018, tt21066342, tt27916646, tt28054906, tt32501467]
-      winner: []
+      winner: [tt27916646]
     best narrative:
       nominee: [tt12969320, tt16386018, tt21066342, tt27510763, tt28060137, tt6724294]
-      winner: []
+      winner: [tt6724294]
     game beyond entertainment:
       nominee: [tt16386018, tt30624820, tt32160893, tt32480146, tt34180572]
-      winner: []
+      winner: [tt30624820]
     game design:
       nominee: [tt27671044, tt27916646, tt31521616, tt32379265, tt32501467, tt34971211]
-      winner: []
+      winner: [tt32501467]
     new intellectual property:
       nominee: [tt12969320, tt27671044, tt28060137, tt31521616, tt32632231, tt6724294]
-      winner: []
+      winner: [tt28060137]
     performer in a leading role:
       nominee: [tt16386018, tt22892938, tt28054906, tt28060137, tt32277412, tt32501530]
-      winner: []
+      winner: [tt28060137]
     performer in a supporting role:
       nominee: [tt16386018, tt28060137, tt32632231]
-      winner: []
+      winner: [tt28060137]
     technical achievement:
       nominee: [tt12969320, tt16386018, tt30334760, tt32501467, tt32501530]
-      winner: []
+      winner: [tt16386018]
   p&o cruises memorable moment:
     p&o cruises memorable moment:
       nominee: [tt0411027, tt0908454, tt21906238, tt23743442, tt27867155, tt8740790]
