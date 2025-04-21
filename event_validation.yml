@@ -5653,7 +5653,7 @@ ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
   years: ['2024', '2023', '2022', '2021', '2020']
   awards:  # Award Options: Filmfare OTT Awards
   - critics choice award # 5 Events: 2020-2024
-  - filmfare award # 1 Event: 2022
+  - filmfare award # 2 Events: 2022, 2024
   - popular award # 5 Events: 2020-2024
   - short film award # 1 Event: 2023
   - technical award # 5 Events: 2020-2024
@@ -5701,6 +5701,7 @@ ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
   - best film # 1 Event: 2024
   - best film, web original # 1 Event: 2024
   - best music album # 1 Event: 2024
+  - best non fiction series # 1 Event: 2024
   - best nonfiction original, series/special # 5 Events: 2020-2024
   - best original screenplay (series) # 2 Events: 2023-2024
   - best original screenplay (web original film) # 2 Events: 2023-2024
@@ -5749,7 +5750,7 @@ ev0036701: # Critics’ Choice Shorts and Series Awards, India (https://www.imdb
   - best actress # 5 Events: 2021-2025
   - best actress in a short film # 5 Events: 2021-2025
   - best cinematographer # 1 Event: 2019
-  - best cinematography in a short film # 2 Events: 2021, 2024
+  - best cinematography in a short film # 3 Events: 2021, 2024-2025
   - best director # 3 Events: 2019, 2024-2025
   - best director in a short film # 3 Events: 2021-2022, 2024
   - best film fiction # 1 Event: 2019
