@@ -1011,6 +1011,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - carl foreman award for the most promising newcomer # 11 Events: 1999-2009
   - certificate of merit # 1 Event: 1954
   - children's # 1 Event: 1998
+  - children’s craft team award # 1 Event: 2025
   - children’s non-scripted award # 1 Event: 2025
   - children’s scripted award # 1 Event: 2025
   - comedy # 1 Event: 1998
@@ -1021,20 +1022,20 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - current affairs # 10 Events: 2009-2010, 2014, 2016, 2020-2025
   - david lean award for direction # 20 Events: 1994-2007, 2014-2019
   - daytime # 5 Events: 2021-2025
-  - director, factual # 3 Events: 2022-2024
+  - director, factual # 4 Events: 2022-2025
   - director, fiction # 4 Events: 2022-2025
-  - director, multi-camera # 3 Events: 2022-2024
+  - director, multi-camera # 4 Events: 2022-2025
   - drama series # 6 Events: 2020-2025
   - dvd # 2 Events: 2004-2005
   - east # 1 Event: 2007
   - editing (factual) # 2 Events: 1999, 2015
-  - editing, factual # 3 Events: 2022-2024
-  - editing, fiction # 3 Events: 2022-2024
+  - editing, factual # 4 Events: 2022-2025
+  - editing, fiction # 4 Events: 2022-2025
   - ee game of the year # 3 Events: 2021-2023
   - ee mobile game of the year # 1 Event: 2020
   - ee players' choice # 1 Event: 2024
-  - emerging talent, factual # 3 Events: 2022-2024
-  - emerging talent, fiction # 3 Events: 2022-2024
+  - emerging talent, factual # 4 Events: 2022-2025
+  - emerging talent, fiction # 4 Events: 2022-2025
   - enhancement of linear media # 2 Events: 2001-2002
   - entertainment # 3 Events: 2001, 2011, 2016
   - entertainment craft team # 5 Events: 2012, 2022-2025
@@ -1102,7 +1103,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - online entertainment # 2 Events: 2000, 2005
   - online learning # 1 Event: 2004
   - original music # 5 Events: 2017-2020, 2022
-  - original music, factual # 2 Events: 2023-2024
+  - original music, factual # 3 Events: 2023-2025
   - original music, fiction # 3 Events: 2023-2025
   - original score # 5 Events: 2021-2025
   - originality # 2 Events: 1999, 2005
@@ -1120,10 +1121,10 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - performer in a leading role # 6 Events: 2020-2025
   - performer in a supporting role # 6 Events: 2020-2025
   - photography & lighting, fiction # 4 Events: 2022-2025
-  - photography, factual # 3 Events: 2022-2024
+  - photography, factual # 4 Events: 2022-2025
   - pre-school animation # 2 Events: 2013, 2016
   - pre-school live action # 3 Events: 2004, 2011, 2016
-  - production design # 3 Events: 2022-2024
+  - production design # 4 Events: 2022-2025
   - ps2 # 2 Events: 2004-2005
   - reality # 2 Events: 2024-2025
   - reality & constructed factual # 4 Events: 2020-2023
@@ -1139,11 +1140,11 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - situation comedy award # 6 Events: 2000-2005
   - soap # 2 Events: 2024-2025
   - soap & continuing drama # 4 Events: 2020-2023
-  - sound, factual # 3 Events: 2022-2024
-  - sound, fiction # 3 Events: 2022-2024
-  - special award # 14 Events: 1949, 1951-1958, 1970-1972, 2000-2001
+  - sound, factual # 4 Events: 2022-2025
+  - sound, fiction # 4 Events: 2022-2025
+  - special award # 15 Events: 1949, 1951-1958, 1970-1972, 2000-2001, 2025
   - special award (children's) # 1 Event: 2001
-  - special, visual & graphic effects # 3 Events: 2022-2024
+  - special, visual & graphic effects # 4 Events: 2022-2025
   - special, visual and graphic effects # 1 Event: 2015
   - specialist factual # 6 Events: 2020-2025
   - sport # 4 Events: 2020-2023
@@ -1155,12 +1156,12 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - technical achievement # 10 Events: 2004, 2006-2007, 2009, 2020-2025
   - technical craft award (tv) # 4 Events: 1973-1974, 2010-2011
   - technical innovation # 3 Events: 2001-2002, 2011
-  - titles & graphic identity # 3 Events: 2022-2024
+  - titles & graphic identity # 4 Events: 2022-2025
   - un award # 28 Events: 1949-1976
   - virgin media's must-see moment # 4 Events: 2019-2022
   - virgin tv's must-see moment # 2 Events: 2017-2018
   - wales # 1 Event: 2008
-  - writer, comedy # 3 Events: 2022-2024
+  - writer, comedy # 4 Events: 2022-2025
   - writer, drama # 4 Events: 2022-2025
   - xbox # 2 Events: 2004-2005
 ev0000133: # Critics Choice Awards (https://www.imdb.com/event/ev0000133)
@@ -1325,7 +1326,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - critics' week grand prize # 9 Events: 2002-2003, 2017-2019, 2021-2024
   - cst artist - technician prize # 4 Events: 2021-2024
   - cst young film technician award # 3 Events: 2021-2023
-  - directors' fortnight audience award # 1 Event: 2024
+  - directors' fortnight audience award # 2 Events: 2024-2025
   - discovery award # 11 Events: 2007-2017
   - discovery award - special mention # 2 Events: 2011-2012
   - doc alliance selection award # 1 Event: 2018
@@ -1342,7 +1343,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - french touch prize of the critics' week jury # 3 Events: 2022-2024
   - gan foundation support for distribution # 11 Events: 2014-2024
   - gary cooper award # 2 Events: 1961, 1963
-  - golden camera # 46 Events: 1978-2019, 2021-2024
+  - golden camera # 47 Events: 1978-2019, 2021-2025
   - golden camera - special mention # 15 Events: 1989-1991, 1993-1995, 1997, 2002-2004, 2007-2009, 2022, 2024
   - golden coach # 1 Event: 2003
   - golden eye # 9 Events: 2015-2019, 2021-2024
@@ -1533,7 +1534,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - cst young film technician award # 3 Events: 2021-2023
   - director's fortnight # 4 Events: 2001-2003, 2016
   - directors' fortnight # 8 Events: 2006, 2012-2013, 2016, 2018, 2022-2024
-  - directors' fortnight audience award # 1 Event: 2024
+  - directors' fortnight audience award # 2 Events: 2024-2025
   - directors' fortnight or critics' week # 8 Events: 2007-2011, 2016-2018
   - discovery award # 11 Events: 2007-2017
   - discovery award - special mention # 2 Events: 2011-2012
@@ -1562,7 +1563,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - gan foundation award for distribution # 5 Events: 2016, 2020-2023
   - gan foundation support for distribution # 7 Events: 2014-2019, 2024
   - gary cooper award # 2 Events: 1961, 1963
-  - golden camera # 46 Events: 1978-2019, 2021-2024
+  - golden camera # 47 Events: 1978-2019, 2021-2025
   - golden camera - special mention # 15 Events: 1989-1991, 1993-1995, 1997, 2002-2004, 2007-2009, 2022, 2024
   - golden coach # 1 Event: 2003
   - golden eye # 9 Events: 2015-2019, 2021-2024

@@ -77,6 +77,9 @@
       nominee: [tt20729172, tt27367464, tt30444418, tt32060445, tt9214772]
       winner: [tt27367464]
   bafta tv award:
+    children’s craft team award:
+      nominee: [tt9900816]
+      winner: [tt9900816]
     children’s non-scripted award:
       nominee: [tt11608566, tt26930503, tt28020282, tt4401960]
       winner: []
@@ -85,22 +88,40 @@
       winner: []
     costume design:
       nominee: [tt16283824, tt26246248, tt27995113, tt9022422]
-      winner: []
+      winner: [tt16283824]
     current affairs:
       nominee: [tt31410442, tt32595456, tt34001166, tt35726387]
       winner: []
     daytime:
       nominee: [tt0217211, tt13368492, tt32544262, tt7316998]
       winner: []
+    director, factual:
+      nominee: [tt31189897]
+      winner: [tt31189897]
     director, fiction:
       nominee: [tt10846104, tt13649112, tt16283804, tt3556920]
-      winner: []
+      winner: [tt13649112]
+    director, multi-camera:
+      nominee: [tt36564052]
+      winner: [tt36564052]
     drama series:
       nominee: [tt13994572, tt14466018, tt16283758, tt3556920]
       winner: []
+    editing, factual:
+      nominee: [tt35726387]
+      winner: [tt35726387]
+    editing, fiction:
+      nominee: [tt5875444]
+      winner: [tt5875444]
+    emerging talent, factual:
+      nominee: [tt1043090]
+      winner: [tt1043090]
+    emerging talent, fiction:
+      nominee: [tt29427309]
+      winner: [tt29427309]
     entertainment craft team:
       nominee: [tt0411027, tt15557874, tt35258525, tt4934214]
-      winner: []
+      winner: [tt4934214]
     entertainment performance:
       nominee: [tt0324692, tt0924651, tt14254752, tt23743442, tt26687060, tt9663964]
       winner: []
@@ -130,25 +151,34 @@
       winner: []
     make up & hair design:
       nominee: [tt21906238, tt23541316, tt26246248, tt8740790]
-      winner: []
+      winner: [tt21906238]
     male performance in a comedy programme:
       nominee: [tt14531842, tt23576878, tt28510783, tt30226479, tt32315886, tt8550732]
       winner: []
     news coverage:
       nominee: [tt0239164, tt0262152]
       winner: []
+    original music, factual:
+      nominee: [tt36217295]
+      winner: [tt36217295]
     original music, fiction:
       nominee: [tt15469618, tt21906238, tt26738706, tt5875444]
-      winner: []
+      winner: [tt15469618]
     photography & lighting, fiction:
       nominee: [tt11218290, tt16283824, tt2788316, tt31122777]
-      winner: []
+      winner: [tt2788316]
+    photography, factual:
+      nominee: [tt34001166]
+      winner: [tt34001166]
+    production design:
+      nominee: [tt21906238]
+      winner: [tt21906238]
     reality:
       nominee: [tt0443370, tt23743442, tt26675358, tt28615598]
       winner: []
     scripted casting:
       nominee: [tt16283758, tt21084712, tt21906238, tt27867155]
-      winner: []
+      winner: [tt16283758]
     scripted comedy:
       nominee: [tt12106710, tt27846061, tt28510783, tt9174582]
       winner: []
@@ -161,6 +191,18 @@
     soap:
       nominee: [tt0053494, tt0088512, tt0096555]
       winner: []
+    sound, factual:
+      nominee: [tt31186319]
+      winner: [tt31186319]
+    sound, fiction:
+      nominee: [tt5875444]
+      winner: [tt5875444]
+    special award:
+      nominee: [tt0088512]
+      winner: [tt0088512]
+    special, visual & graphic effects:
+      nominee: [tt7631058]
+      winner: [tt7631058]
     specialist factual:
       nominee: [tt30844092, tt31189897, tt33049440, tt33360799]
       winner: []
@@ -173,9 +215,15 @@
     supporting actress:
       nominee: [tt13649112, tt13994572, tt20453286, tt21906238, tt31122777]
       winner: []
+    titles & graphic identity:
+      nominee: [tt11218290]
+      winner: [tt11218290]
+    writer, comedy:
+      nominee: [tt2674806]
+      winner: [tt2674806]
     writer, drama:
       nominee: [tt13649112, tt16283804, tt27867155, tt7671070]
-      winner: []
+      winner: [tt13649112]
   bafta games award:
     artistic achievement:
       nominee: [tt12969320, tt16386018, tt27917048, tt28060137, tt32200024, tt32501467]
