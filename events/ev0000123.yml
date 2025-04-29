@@ -78,7 +78,7 @@
       winner: [tt27367464]
   bafta tv award:
     children’s craft team award:
-      nominee: [tt9900816]
+      nominee: [tt1400819, tt26930503, tt4291050, tt9900816]
       winner: [tt9900816]
     children’s non-scripted award:
       nominee: [tt11608566, tt26930503, tt28020282, tt4401960]
@@ -96,28 +96,28 @@
       nominee: [tt0217211, tt13368492, tt32544262, tt7316998]
       winner: []
     director, factual:
-      nominee: [tt31189897]
+      nominee: [tt31189897, tt32362334, tt34475652, tt35726387]
       winner: [tt31189897]
     director, fiction:
       nominee: [tt10846104, tt13649112, tt16283804, tt3556920]
       winner: [tt13649112]
     director, multi-camera:
-      nominee: [tt36564052]
+      nominee: [tt0411027, tt32843252, tt36563506, tt36564052]
       winner: [tt36564052]
     drama series:
       nominee: [tt13994572, tt14466018, tt16283758, tt3556920]
       winner: []
     editing, factual:
-      nominee: [tt35726387]
+      nominee: [tt30844092, tt31852716, tt31908384, tt35726387]
       winner: [tt35726387]
     editing, fiction:
-      nominee: [tt5875444]
+      nominee: [tt13649112, tt24053860, tt27867155, tt5875444]
       winner: [tt5875444]
     emerging talent, factual:
-      nominee: [tt1043090]
+      nominee: [tt1043090, tt26765185, tt4116046]
       winner: [tt1043090]
     emerging talent, fiction:
-      nominee: [tt29427309]
+      nominee: [tt28184314, tt29427309, tt32315886, tt8852990]
       winner: [tt29427309]
     entertainment craft team:
       nominee: [tt0411027, tt15557874, tt35258525, tt4934214]
@@ -159,7 +159,7 @@
       nominee: [tt0239164, tt0262152]
       winner: []
     original music, factual:
-      nominee: [tt36217295]
+      nominee: [tt22797582, tt31497750, tt33535536, tt36217295]
       winner: [tt36217295]
     original music, fiction:
       nominee: [tt15469618, tt21906238, tt26738706, tt5875444]
@@ -168,7 +168,7 @@
       nominee: [tt11218290, tt16283824, tt2788316, tt31122777]
       winner: [tt2788316]
     photography, factual:
-      nominee: [tt34001166]
+      nominee: [tt30210397, tt31189897, tt34001166, tt35726387]
       winner: [tt34001166]
     production design:
       nominee: [tt21906238]
