@@ -12727,8 +12727,8 @@
       winner: [tt0055708]
   atas broadcast journalism award:
     atas broadcast journalism award:
-      nominee: [tt0124932, tt0193671, tt0319967]
-      winner: [tt0124932, tt0193671, tt0319967]
+      nominee: [tt0124932, tt0189246, tt0319967]
+      winner: [tt0124932, tt0189246, tt0319967]
 '1977': # https://www.imdb.com/event/ev0000223/1977/1/
   primetime emmy:
     outstanding achievement in choreography:
@@ -13936,8 +13936,8 @@
     : nominee: [tt0066133, tt0066490, tt0067926, tt0359821]
       winner: [tt0067926, tt0359821]
     ? outstanding achievement in cinematography for news and documentary programming - regularly scheduled news programs and coverage of special events
-    : nominee: [tt0193671, tt0275133]
-      winner: [tt0193671]
+    : nominee: [tt0189246, tt0275133]
+      winner: [tt0189246]
     outstanding achievement in costume design:
       nominee: [tt0063866, tt0065811, tt0386823, tt2402093]
       winner: [tt0065811]
@@ -14282,7 +14282,7 @@
       nominee: [tt0190895, tt2200054]
       winner: [tt2200054]
     outstanding achievement within regularly scheduled news:
-      nominee: [tt0184090, tt0193671, tt0275133, tt1004539, tt5587096, tt5587170]
+      nominee: [tt0184090, tt0189246, tt0275133, tt1004539, tt5587096, tt5587170]
       winner: [tt0275133]
     outstanding comedy series:
       nominee: [tt0057733, tt0058805, tt0059982, tt0062565, tt0062575]
@@ -14868,7 +14868,7 @@
       nominee: [tt0319967, tt0432451, tt0943525, tt2210242, tt2210288]
       winner: [tt0943525]
     outstanding program achievement in the field of news reports:
-      nominee: [tt0184090, tt0193671, tt0275133]
+      nominee: [tt0184090, tt0189246, tt0275133]
       winner: [tt0275133]
     outstanding program achievement in the field of variety:
       nominee: [tt0051276, tt0055660, tt0055708, tt0056748, tt0056767]
@@ -14948,7 +14948,7 @@
       nominee: [tt0052447, tt0280799, tt0346348, tt0347290, tt0854536]
       winner: [tt0280799]
     outstanding program achievement in the field of news:
-      nominee: [tt0193671, tt1498952]
+      nominee: [tt0189246, tt1498952]
       winner: [tt1498952]
     outstanding program achievement in the field of news commentary or public affairs:
       nominee: [tt0050072, tt0310468, tt0319967, tt0925316, tt1498952]
@@ -15028,7 +15028,7 @@
       nominee: [tt0043224, tt0053479, tt0054522, tt0054528, tt0054545]
       winner: [tt0054522]
     outstanding program achievement in the field of news:
-      nominee: [tt0275133, tt0284082, tt0346258, tt0927228]
+      nominee: [tt0189246, tt0275133, tt0284082, tt0346258]
       winner: [tt0275133]
     outstanding program achievements in the fields of variety and music - music:
       nominee: [tt0052447, tt0314998, tt0345564, tt0346348]
@@ -15106,7 +15106,7 @@
       nominee: [tt0042116, tt0045373, tt0053479, tt0053489, tt0053502]
       winner: [tt0042116]
     outstanding program achievement in the field of news:
-      nominee: [tt0275133, tt0346258, tt0927228]
+      nominee: [tt0189246, tt0275133, tt0346258]
       winner: [tt0275133]
     outstanding program achievement in the field of public service:
       nominee: [tt0050072, tt0053548, tt0319967, tt0926182, tt0943525]
@@ -15174,7 +15174,7 @@
       nominee: [tt0042116, tt0043224, tt0045410, tt0046600, tt1199576]
       winner: [tt1199576]
     outstanding program achievement in the field of news:
-      nominee: [tt0135082, tt0275133, tt0927228, tt2243240]
+      nominee: [tt0135082, tt0189246, tt0275133, tt2243240]
       winner: [tt0275133]
     outstanding program achievement in the field of public affairs and education:
       nominee: [tt0050072, tt0149490, tt0319967, tt1645570, tt2243214]
@@ -15257,7 +15257,7 @@
       nominee: [tt0040048, tt0043192, tt0048899]
       winner: [tt0043192]
     best news reporting series:
-      nominee: [tt0184090, tt0275133, tt0927228]
+      nominee: [tt0184090, tt0189246, tt0275133]
       winner: [tt0275133]
     best panel, quiz or audience participation series:
       nominee: [tt0042168, tt0042171, tt0044270, tt0044296, tt0048894, tt0051288]

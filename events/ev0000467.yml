@@ -1595,10 +1595,6 @@
     special jury award:
       nominee: [tt4885210]
       winner: [tt4885210]
-  non-feature films award:
-    best non-feature film:
-      nominee: [tt4016924]
-      winner: [tt4016924]
 '2013': # https://www.imdb.com/event/ev0000467/2013/1/
   golden lotus award:
     best animation film:
@@ -1972,6 +1968,9 @@
     best film on sports:
       nominee: [tt33742146]
       winner: [tt33742146]
+    special jury award:
+      nominee: [tt2157192]
+      winner: [tt2157192]
   special jury award:
     best director:
       nominee: [tt2501906]
@@ -2704,6 +2703,9 @@
       nominee: [tt0312859]
       winner: [tt0312859]
   national film award:
+    best film- non fiction:
+      nominee: [tt0311356]
+      winner: [tt0311356]
     best promotional film:
       nominee: [tt4321396]
       winner: [tt4321396]
@@ -3358,6 +3360,13 @@
     best feature film in tamil:
       nominee: [tt0140412]
       winner: [tt0140412]
+  national film award:
+    best film on social issues:
+      nominee: [tt0110839]
+      winner: [tt0110839]
+    best investigative film:
+      nominee: [tt0110839]
+      winner: [tt0110839]
 '1994': # https://www.imdb.com/event/ev0000467/1994/1/
   golden lotus award:
     best direction:
@@ -3595,6 +3604,9 @@
     best director:
       nominee: [tt0107767]
       winner: [tt0107767]
+    best investigative film:
+      nominee: [tt0105208]
+      winner: [tt0105208]
 '1991': # https://www.imdb.com/event/ev0000467/1991/1/
   golden lotus award:
     best director:

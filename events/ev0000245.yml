@@ -2579,6 +2579,9 @@
     best director:
       nominee: [tt0112313, tt0112870, tt0113526, tt0114230, tt0114234]
       winner: [tt0112870]
+    best documentary:
+      nominee: [tt0251891]
+      winner: [tt0251891]
     best film:
       nominee: [tt0112313, tt0112870, tt0113526, tt0114230, tt0114234]
       winner: [tt0112870]
@@ -2876,6 +2879,9 @@
     best director:
       nominee: [tt0101733, tt0102258, tt0102825, tt0102844, tt0121352]
       winner: [tt0102844]
+    best documentary:
+      nominee: [tt0105208]
+      winner: [tt0105208]
     best editor:
       nominee: [tt0102844]
       winner: [tt0102844]
@@ -3128,6 +3134,9 @@
     best director:
       nominee: [tt0152139, tt0152256, tt0266260]
       winner: [tt0152139]
+    best documentary:
+      nominee: [tt0088837]
+      winner: [tt0088837]
     best editor:
       nominee: [tt0152139]
       winner: [tt0152139]
