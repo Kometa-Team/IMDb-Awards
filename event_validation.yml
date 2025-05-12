@@ -1012,8 +1012,10 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - certificate of merit # 1 Event: 1954
   - children's # 1 Event: 1998
   - children’s craft team award # 1 Event: 2025
-  - children’s non-scripted award # 1 Event: 2025
-  - children’s scripted award # 1 Event: 2025
+  - children’s non-scripted # 1 Event: 2025
+  - children’s non-scripted award # No Events Found
+  - children’s scripted # 1 Event: 2025
+  - children’s scripted award # No Events Found
   - comedy # 1 Event: 1998
   - comedy entertainment programme # 5 Events: 2020-2024
   - comedy programme or series award # 2 Events: 2004-2005
@@ -1037,7 +1039,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - emerging talent, factual # 4 Events: 2022-2025
   - emerging talent, fiction # 4 Events: 2022-2025
   - enhancement of linear media # 2 Events: 2001-2002
-  - entertainment # 3 Events: 2001, 2011, 2016
+  - entertainment # 4 Events: 2001, 2011, 2016, 2025
   - entertainment craft team # 5 Events: 2012, 2022-2025
   - entertainment performance # 6 Events: 2020-2025
   - entertainment programme # 5 Events: 2020-2024
@@ -1047,7 +1049,8 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - factual series # 11 Events: 2008-2011, 2015, 2020-2025
   - feature film # 1 Event: 2019
   - features # 4 Events: 2020-2023
-  - female performance in a comedy programme # 6 Events: 2020-2025
+  - female performance in a comedy # 1 Event: 2025
+  - female performance in a comedy programme # 5 Events: 2020-2024
   - film # 1 Event: 2005
   - film editor # 1 Event: 1980
   - flaherty documentary award # 20 Events: 1960, 1962, 1965-1972, 1974-1977, 1979-1980, 1982-1983, 1987, 2013
@@ -1085,7 +1088,8 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - live event coverage # 2 Events: 2024-2025
   - lloyds bank people's vote for the most popular film # 1 Event: 1994
   - make up & hair design # 4 Events: 2022-2025
-  - male performance in a comedy programme # 6 Events: 2020-2025
+  - male performance in a comedy # 1 Event: 2025
+  - male performance in a comedy programme # 5 Events: 2020-2024
   - mini-series # 4 Events: 2020-2023
   - most original programme/series # 2 Events: 1978-1979
   - most outstanding newcomer to film # 2 Events: 1984-1985
@@ -1134,7 +1138,8 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - scripted casting # 4 Events: 2022-2025
   - scripted comedy # 6 Events: 2020-2025
   - shell international award # 7 Events: 1970-1971, 1976, 1978, 1980, 1982, 1984
-  - short form programme # 7 Events: 2018, 2020-2025
+  - short form # 1 Event: 2025
+  - short form programme # 6 Events: 2018, 2020-2024
   - single documentary # 6 Events: 2020-2025
   - single drama # 4 Events: 2020-2023
   - situation comedy award # 6 Events: 2000-2005
@@ -1147,9 +1152,9 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - special, visual & graphic effects # 4 Events: 2022-2025
   - special, visual and graphic effects # 1 Event: 2015
   - specialist factual # 6 Events: 2020-2025
-  - sport # 4 Events: 2020-2023
+  - sport # 5 Events: 2020-2023, 2025
   - sports # 1 Event: 2001
-  - sports coverage # 2 Events: 2024-2025
+  - sports coverage # 1 Event: 2024
   - sunday times reader award for games # 2 Events: 2004-2005
   - supporting actor # 6 Events: 2020-2025
   - supporting actress # 6 Events: 2020-2025
@@ -4787,7 +4792,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - special jury citation # 1 Event: 1980
   - special jury prize # 40 Events: 1950-1952, 1954, 1958-1968, 1980-1982, 1985-1986, 2001, 2006-2024
   - special lion # 1 Event: 2008
-  - special mention # 8 Events: 1935, 1956, 1959, 1981, 1985, 1988, 1994, 1997
+  - special mention # 9 Events: 1935, 1956, 1959, 1981, 1985, 1988, 1994, 1997, 2024
   - special pasinetti award # 3 Events: 2003-2004, 2012
   - special prize # 3 Events: 1934, 1966, 1985
   - special prize on occasion of the festival's jubilee # 1 Event: 1992
@@ -5031,6 +5036,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - cultural and educational film # 1 Event: 1966
   - de sica award # 4 Events: 1983-1986
   - de sica award - special mention # 1 Event: 1986
+  - dgca-mic italian pavilion # 1 Event: 2024
   - digital cinema award # 1 Event: 2004
   - digital cinema award - special mention # 1 Event: 2004
   - doc/it award # 4 Events: 2005-2008
