@@ -2,7 +2,7 @@
 '2025':  # https://www.imdb.com/event/ev0000147/2025/1/
   palme d'or:
     palme d'or:
-      nominee: [tt15799524, tt27714581, tt27847051, tt28326501, tt28690468, tt30220107, tt30781967, tt30840798, tt31176520, tt31688586, tt32275943, tt32298285, tt32538648, tt32909489, tt33455099, tt34768402, tt34794183, tt35521200, tt36491653, tt36631507, tt9362736]
+      nominee: [tt15799524, tt27714581, tt27847051, tt28326501, tt28690468, tt29002950, tt30220107, tt30781967, tt30840798, tt31176520, tt31688586, tt32275943, tt32298285, tt32538648, tt32909489, tt33455099, tt34768402, tt34794183, tt35521200, tt36491653, tt36631507, tt9362736]
       winner: []
   golden camera:
     golden camera:
@@ -18,11 +18,15 @@
       winner: []
   palme d'or - best short film:
     palme d'or - best short film:
-      nominee: [tt36671467, tt36678607, tt36684296, tt36693324, tt36693344, tt36724190, tt36724191]
+      nominee: [tt36671467, tt36678607, tt36684296, tt36693324, tt36693344, tt36724188, tt36724190, tt36724191, tt36724193, tt36724195, tt36724196]
+      winner: []
+  queer palm:
+    queer palm:
+      nominee: [tt15799524, tt22237964, tt22530226, tt28326501, tt32082522, tt32275943, tt32321317, tt32646557, tt32759477, tt32843349, tt34762801, tt35354686, tt36510056, tt36553782, tt36642485, tt36885668]
       winner: []
   golden eye:
     golden eye:
-      nominee: [tt27052428, tt35504696, tt35892253, tt35931046, tt36414908, tt36464353, tt36525145, tt36553675, tt36598711, tt36599377]
+      nominee: [tt27052428, tt34968474, tt35504696, tt35892253, tt35931046, tt36414908, tt36464353, tt36525145, tt36553675, tt36598711, tt36599377]
       winner: []
   critics' week grand prize:
     critics' week grand prize:
@@ -30,7 +34,7 @@
       winner: []
   leitz cine discovery prize:
     leitz cine discovery prize:
-      nominee: [tt28493053, tt36617489, tt36844384]
+      nominee: [tt28493053, tt36617489, tt36844384, tt36930290]
       winner: []
   directors' fortnight audience award:
     directors' fortnight audience award:
