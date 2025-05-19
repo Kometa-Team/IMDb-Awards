@@ -10,7 +10,7 @@
       winner: []
   cinefondation award:
     cinefondation award:
-      nominee: [tt32395618, tt32748608, tt35533392, tt36118499, tt36671448, tt36724210, tt36724215]
+      nominee: [tt32395618, tt32748608, tt35533392, tt36118499, tt36671448, tt36671959, tt36724210, tt36724215]
       winner: []
   un certain regard award:
     un certain regard award:
@@ -24,9 +24,13 @@
     queer palm:
       nominee: [tt15799524, tt22237964, tt22530226, tt28326501, tt32082522, tt32275943, tt32321317, tt32646557, tt32759477, tt32843349, tt34762801, tt35354686, tt36510056, tt36553782, tt36642485, tt36885668]
       winner: []
+  queer palm - short film:
+    queer palm - short film:
+      nominee: [tt36581993, tt36671959, tt36930290]
+      winner: []
   golden eye:
     golden eye:
-      nominee: [tt27052428, tt34968474, tt35504696, tt35892253, tt35931046, tt36414908, tt36464353, tt36525145, tt36553675, tt36554869, tt36598711, tt36599377]
+      nominee: [tt27052428, tt34968474, tt35504696, tt35892253, tt35931046, tt36414908, tt36464353, tt36525145, tt36553675, tt36554869, tt36598711, tt36599377, tt36959167, tt36965993]
       winner: []
   critics' week grand prize:
     critics' week grand prize:
