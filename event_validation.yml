@@ -3517,25 +3517,25 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - special effects # 1 Event: 2022
   - star plus hottest pair # 3 Events: 2011-2012, 2014
 ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
-  years: ['2024', '2023', '2020', '2019', '2018', '2017', '2016', '2014', '2013', '2012', '2011', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999', '1998']
+  years: ['2025', '2024', '2023', '2020', '2019', '2018', '2017', '2016', '2014', '2013', '2012', '2011', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999', '1998']
   awards:  # Award Options: Zee Cine Awards
   - critics choice award # 10 Events: 2005-2017
   - entertainer of the year # 1 Event: 2007
-  - jury's choice award # 6 Events: 2006, 2018-2024
+  - jury's choice award # 7 Events: 2006, 2018-2025
   - popular award # 15 Events: 2000-2017
   - special award # 11 Events: 1998-2001, 2013-2014, 2018-2024
   - technical award # 18 Events: 2000, 2002-2016, 2018-2024
-  - viewers' choice award # 6 Events: 2017-2024
+  - viewers' choice award # 7 Events: 2017-2025
   - zee cine award # 13 Events: 1998-1999, 2001, 2003-2005, 2007, 2011-2012, 2016-2017, 2023-2024
   - zee premiere choice award # 2 Events: 2001, 2012
   categories: # Category Options: Zee Cine Awards
   - best action # 10 Events: 2003-2005, 2014-2016, 2018-2024
-  - best actor # 22 Events: 1998-2024
+  - best actor # 23 Events: 1998-2025
   - best actor - ott # 1 Event: 2024
   - best actor in a comic role # 2 Events: 2006, 2014
   - best actor in a negative role # 3 Events: 2003, 2014, 2020
   - best actor in a supporting role # 14 Events: 1998-1999, 2001, 2003-2006, 2011-2014, 2017-2019
-  - best actress # 22 Events: 1998-2024
+  - best actress # 23 Events: 1998-2025
   - best actress in a supporting role # 14 Events: 1998-1999, 2001, 2003-2006, 2011-2014, 2017-2019
   - best art direction # 4 Events: 2004-2006, 2016
   - best art director # 1 Event: 2003
@@ -3546,24 +3546,24 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best cinematographer # 1 Event: 2003
   - best cinematography # 14 Events: 2002, 2004-2007, 2013-2024
   - best comedian # 1 Event: 2002
-  - best comic actor # 14 Events: 1998-2001, 2003-2005, 2007-2008, 2012, 2016-2017, 2020-2023
+  - best comic actor # 15 Events: 1998-2001, 2003-2005, 2007-2008, 2012, 2016-2017, 2020-2023, 2025
   - best comic role # 1 Event: 2019
   - best costume # 1 Event: 2003
   - best costume design # 6 Events: 2004-2006, 2020-2024
   - best costumes # 1 Event: 2000
   - best debut - female # 6 Events: 2000, 2002, 2007, 2012-2014
   - best debut - male # 6 Events: 2000, 2002, 2007, 2012-2014
-  - best debut actor # 12 Events: 1998-1999, 2001, 2004, 2006, 2008, 2016-2023
-  - best debut actress # 13 Events: 1998-1999, 2001, 2003-2004, 2008, 2016-2024
-  - best debut director # 7 Events: 2002, 2008, 2016, 2018-2023
+  - best debut actor # 13 Events: 1998-1999, 2001, 2004, 2006, 2008, 2016-2023, 2025
+  - best debut actress # 14 Events: 1998-1999, 2001, 2003-2004, 2008, 2016-2025
+  - best debut director # 8 Events: 2002, 2008, 2016, 2018-2023, 2025
   - best debuting director # 4 Events: 2004-2005, 2013-2014
   - best dialogue # 11 Events: 2003-2005, 2008, 2012-2016, 2019, 2023-2024
-  - best director # 21 Events: 1998-2005, 2007-2024
+  - best director # 22 Events: 1998-2005, 2007-2025
   - best editing # 12 Events: 2003-2005, 2007-2008, 2013-2017, 2019-2023
   - best female debut # 3 Events: 2003, 2006, 2011
   - best female playback # 2 Events: 2003, 2013
   - best female playback singer # 2 Events: 2018-2019
-  - best film # 22 Events: 1998-2024
+  - best film # 23 Events: 1998-2025
   - best film - ott # 1 Event: 2024
   - best film processing # 1 Event: 2005
   - best film writing (story & screenplay) # 1 Event: 2019
@@ -3575,7 +3575,7 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best male playback # 2 Events: 2003, 2013
   - best male playback singer # 2 Events: 2018-2019
   - best marketed film of the year # 1 Event: 2014
-  - best music # 4 Events: 2018-2023
+  - best music # 5 Events: 2018-2023, 2025
   - best music direction # 1 Event: 2024
   - best music director # 15 Events: 1998-2005, 2007-2016
   - best negative role # 1 Event: 2018
@@ -3589,8 +3589,8 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best performance in a villainous role # 1 Event: 2013
   - best playback singer (female) # 4 Events: 2004-2005, 2007, 2014
   - best playback singer (male) # 4 Events: 2004-2005, 2007, 2014
-  - best playback singer - female # 11 Events: 1998-2001, 2008, 2012, 2016-2017, 2020-2024
-  - best playback singer - male # 7 Events: 1998-1999, 2008, 2016, 2020-2024
+  - best playback singer - female # 12 Events: 1998-2001, 2008, 2012, 2016-2017, 2020-2025
+  - best playback singer - male # 8 Events: 1998-1999, 2008, 2016, 2020-2025
   - best playback singer female # 2 Events: 2000, 2002
   - best playback singer male # 2 Events: 2000, 2002
   - best post-production # 1 Event: 2018
@@ -3607,8 +3607,8 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best special effects # 3 Events: 2004-2005, 2020
   - best story # 11 Events: 2000, 2002-2005, 2008-2011, 2013-2016, 2023
   - best story & screenplay # 1 Event: 2020
-  - best supporting actor # 8 Events: 2000, 2002, 2007-2008, 2016, 2020-2024
-  - best supporting actress # 8 Events: 2000, 2002, 2007-2008, 2016, 2020-2024
+  - best supporting actor # 9 Events: 2000, 2002, 2007-2008, 2016, 2020-2025
+  - best supporting actress # 9 Events: 2000, 2002, 2007-2008, 2016, 2020-2025
   - best use of social media # 1 Event: 2013
   - best vfx # 1 Event: 2024
   - best villain # 2 Events: 2002, 2012

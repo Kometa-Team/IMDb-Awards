@@ -1,5 +1,50 @@
 # Zee Cine Awards
-'2024':  # https://www.imdb.com/event/ev0000415/2024/1/
+'2025':  # https://www.imdb.com/event/ev0000415/2025/1/
+  viewers' choice award:
+    best actor:
+      nominee: [tt26932223]
+      winner: [tt26932223]
+    best actress:
+      nominee: [tt27510174]
+      winner: [tt27510174]
+    best film:
+      nominee: [tt27510174]
+      winner: [tt27510174]
+  jury's choice award:
+    best actor:
+      nominee: [tt21626774, tt27470893]
+      winner: [tt21626774, tt27470893]
+    best comic actor:
+      nominee: [tt27459160, tt27510174]
+      winner: [tt27459160, tt27510174]
+    best debut actor:
+      nominee: [tt27995594, tt28259207]
+      winner: [tt27995594, tt28259207]
+    best debut actress:
+      nominee: [tt21626284]
+      winner: [tt21626284]
+    best debut director:
+      nominee: [tt26745657]
+      winner: [tt26745657]
+    best director:
+      nominee: [tt21626284, tt27510174]
+      winner: [tt21626284, tt27510174]
+    best music:
+      nominee: [tt27510174]
+      winner: [tt27510174]
+    best playback singer - female:
+      nominee: [tt27510174]
+      winner: [tt27510174]
+    best playback singer - male:
+      nominee: [tt21626284]
+      winner: [tt21626284]
+    best supporting actor:
+      nominee: [tt21626284]
+      winner: [tt21626284]
+    best supporting actress:
+      nominee: [tt26932223]
+      winner: [tt26932223]
+'2024': # https://www.imdb.com/event/ev0000415/2024/1/
   technical award:
     best action:
       nominee: [tt15354916]
