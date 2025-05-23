@@ -1012,10 +1012,10 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - certificate of merit # 1 Event: 1954
   - children's # 1 Event: 1998
   - children’s craft team award # 1 Event: 2025
-  - children’s non-scripted # No Events Found
-  - children’s non-scripted award # 1 Event: 2025
-  - children’s scripted # No Events Found
-  - children’s scripted award # 1 Event: 2025
+  - children’s non-scripted # 1 Event: 2025
+  - children’s non-scripted award # No Events Found
+  - children’s scripted # 1 Event: 2025
+  - children’s scripted award # No Events Found
   - comedy # 1 Event: 1998
   - comedy entertainment programme # 5 Events: 2020-2024
   - comedy programme or series award # 2 Events: 2004-2005
@@ -1039,7 +1039,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - emerging talent, factual # 4 Events: 2022-2025
   - emerging talent, fiction # 4 Events: 2022-2025
   - enhancement of linear media # 2 Events: 2001-2002
-  - entertainment # 3 Events: 2001, 2011, 2016
+  - entertainment # 4 Events: 2001, 2011, 2016, 2025
   - entertainment craft team # 5 Events: 2012, 2022-2025
   - entertainment performance # 6 Events: 2020-2025
   - entertainment programme # 5 Events: 2020-2024
@@ -1049,8 +1049,8 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - factual series # 11 Events: 2008-2011, 2015, 2020-2025
   - feature film # 1 Event: 2019
   - features # 4 Events: 2020-2023
-  - female performance in a comedy # No Events Found
-  - female performance in a comedy programme # 6 Events: 2020-2025
+  - female performance in a comedy # 1 Event: 2025
+  - female performance in a comedy programme # 5 Events: 2020-2024
   - film # 1 Event: 2005
   - film editor # 1 Event: 1980
   - flaherty documentary award # 20 Events: 1960, 1962, 1965-1972, 1974-1977, 1979-1980, 1982-1983, 1987, 2013
@@ -1088,8 +1088,8 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - live event coverage # 2 Events: 2024-2025
   - lloyds bank people's vote for the most popular film # 1 Event: 1994
   - make up & hair design # 4 Events: 2022-2025
-  - male performance in a comedy # No Events Found
-  - male performance in a comedy programme # 6 Events: 2020-2025
+  - male performance in a comedy # 1 Event: 2025
+  - male performance in a comedy programme # 5 Events: 2020-2024
   - mini-series # 4 Events: 2020-2023
   - most original programme/series # 2 Events: 1978-1979
   - most outstanding newcomer to film # 2 Events: 1984-1985
@@ -1138,8 +1138,8 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - scripted casting # 4 Events: 2022-2025
   - scripted comedy # 6 Events: 2020-2025
   - shell international award # 7 Events: 1970-1971, 1976, 1978, 1980, 1982, 1984
-  - short form # No Events Found
-  - short form programme # 7 Events: 2018, 2020-2025
+  - short form # 1 Event: 2025
+  - short form programme # 6 Events: 2018, 2020-2024
   - single documentary # 6 Events: 2020-2025
   - single drama # 4 Events: 2020-2023
   - situation comedy award # 6 Events: 2000-2005
@@ -1310,7 +1310,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - best director # 62 Events: 1946, 1949-1952, 1955-1959, 1961, 1965-1970, 1972, 1975-1976, 1978-1979, 1982-2019, 2021-2024
   - best film for the youth # 2 Events: 1965, 1990
   - best first work # 7 Events: 1966-1971, 1973, 1977
-  - best immersive work award # 1 Event: 2024
+  - best immersive work award # 2 Events: 2024-2025
   - best music # 3 Events: 1951-1952, 1977
   - best screenplay # 41 Events: 1949-1952, 1958, 1963, 1965, 1967, 1974, 1980-1982, 1984, 1994, 1996-2019, 2021-2024
   - best supporting actor # 4 Events: 1979-1981, 1991
@@ -1409,7 +1409,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - sacd prize (directors' fortnight) # 12 Events: 1985, 2008-2015, 2017, 2019, 2021
   - sacd prize (directors' fortnight) - special mention # 2 Events: 2012-2013
   - sacd prize - special mention # 1 Event: 2016
-  - sacd screenwriting award # 4 Events: 2004-2006, 2018
+  - sacd screenwriting award # 5 Events: 2004-2006, 2018, 2025
   - sacd short film award # 4 Events: 2005-2007, 2013
   - sfr prize # 2 Events: 2009-2010
   - short film - special mention # 1 Event: 2022
@@ -1494,7 +1494,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - best film for the youth # 1 Event: 1965
   - best first work # 7 Events: 1966-1971, 1973, 1977
   - best human document # 1 Event: 1956
-  - best immersive work award # 1 Event: 2024
+  - best immersive work award # 2 Events: 2024-2025
   - best lyrical film # 2 Events: 1952, 1955
   - best music # 3 Events: 1951-1952, 1977
   - best musical comedy # 1 Event: 1947
@@ -1637,7 +1637,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - sacd grand prize # 1 Event: 1946
   - sacd prize (directors' fortnight) # 12 Events: 1985, 2008-2015, 2017, 2019, 2021
   - sacd prize (directors' fortnight) - special mention # 2 Events: 2012-2013
-  - sacd screenwriting award # 4 Events: 2004-2006, 2018
+  - sacd screenwriting award # 5 Events: 2004-2006, 2018, 2025
   - sacd short film award # 4 Events: 2005-2007, 2013
   - sfr prize # 2 Events: 2009-2010
   - short film # 18 Events: 1946, 1951-1952, 1955, 1959-1960, 1963, 1989, 2007, 2009, 2013-2014, 2016-2019, 2021, 2023
@@ -3526,7 +3526,7 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - special award # 11 Events: 1998-2001, 2013-2014, 2018-2024
   - technical award # 18 Events: 2000, 2002-2016, 2018-2024
   - viewers' choice award # 7 Events: 2017-2025
-  - zee cine award # 13 Events: 1998-1999, 2001, 2003-2005, 2007, 2011-2012, 2016-2017, 2023-2024
+  - zee cine award # 14 Events: 1998-1999, 2001, 2003-2005, 2007, 2011-2012, 2016-2017, 2023-2025
   - zee premiere choice award # 2 Events: 2001, 2012
   categories: # Category Options: Zee Cine Awards
   - best action # 10 Events: 2003-2005, 2014-2016, 2018-2024
@@ -3606,7 +3606,7 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best sound design # 8 Events: 2014-2024
   - best sound re-recording # 2 Events: 2004-2005
   - best special effects # 3 Events: 2004-2005, 2020
-  - best story # 11 Events: 2000, 2002-2005, 2008-2011, 2013-2016, 2023
+  - best story # 12 Events: 2000, 2002-2005, 2008-2011, 2013-2016, 2023, 2025
   - best story & screenplay # 1 Event: 2020
   - best supporting actor # 9 Events: 2000, 2002, 2007-2008, 2016, 2020-2025
   - best supporting actress # 9 Events: 2000, 2002, 2007-2008, 2016, 2020-2025

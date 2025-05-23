@@ -15,7 +15,7 @@
       nominee: [tt18382850]
       winner: [tt18382850]
     best screenplay:
-      nominee: [tt18382850, tt26757241, tt31710990, tt32536315, tt35492581, tt35500283]
+      nominee: [tt35492581]
       winner: [tt35492581]
     best supporting performance:
       nominee: [tt32536315]
@@ -37,9 +37,6 @@
       nominee: [tt35887159]
       winner: [tt35887159]
   panorama audience award:
-    best film:
-      nominee: [tt34713196]
-      winner: []
     documentary film:
       nominee: [tt12402876, tt34965506, tt35050975]
       winner: [tt35050975]

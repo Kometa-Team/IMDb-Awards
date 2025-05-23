@@ -10,12 +10,16 @@
       winner: []
   cinefondation award:
     cinefondation award:
-      nominee: [tt32395618, tt32748608, tt35533392, tt36118499, tt36671448, tt36671959, tt36724203, tt36724206, tt36724209, tt36724210, tt36724212, tt36724215, tt36985366]
-      winner: []
+      nominee: [tt32395618, tt32748608, tt35533392, tt36118499, tt36671448, tt36671959, tt36724203, tt36724206, tt36724208, tt36724209, tt36724210, tt36724212, tt36724215, tt36985366]
+      winner: [tt36724208]
   un certain regard award:
     un certain regard award:
       nominee: [tt22237964, tt26733325, tt27907966, tt29271671, tt30268321, tt32321317, tt32398150, tt32448429, tt32792934, tt33253688, tt33311007, tt33772384, tt34734841, tt35354686, tt35695538, tt35715953, tt36491632, tt36544524, tt36642485, tt8667404]
       winner: []
+  sacd screenwriting award:
+    sacd screenwriting award:
+      nominee: [tt32472708]
+      winner: [tt32472708]
   palme d'or - best short film:
     palme d'or - best short film:
       nominee: [tt36671467, tt36678607, tt36684296, tt36693324, tt36693344, tt36724188, tt36724190, tt36724191, tt36724193, tt36724195, tt36724196]
@@ -26,7 +30,7 @@
       winner: []
   queer palm - short film:
     queer palm - short film:
-      nominee: [tt36581993, tt36671959, tt36930290]
+      nominee: [tt36581993, tt36671959, tt36930290, tt36996334]
       winner: []
   golden eye:
     golden eye:
@@ -40,6 +44,10 @@
     leitz cine discovery prize:
       nominee: [tt28493053, tt36617489, tt36844384, tt36930290, tt36987460, tt36995876, tt36996334]
       winner: []
+  best immersive work award:
+    best immersive work award:
+      nominee: [tt36750881]
+      winner: [tt36750881]
   directors' fortnight audience award:
     directors' fortnight audience award:
       nominee: [tt31287262, tt32247943, tt32299316, tt32583148, tt32646557, tt32843349, tt32916648, tt33335204, tt33362861, tt33368478, tt34000545, tt35231039, tt36164712, tt36553782, tt36554869, tt36579933, tt36580117, tt36580119]
