@@ -4,6 +4,14 @@
     palme d'or:
       nominee: [tt15799524, tt27714581, tt27847051, tt28326501, tt28690468, tt29002950, tt30220107, tt30781967, tt30840798, tt31176520, tt31688586, tt32275943, tt32298285, tt32538648, tt32909489, tt33455099, tt34768402, tt34794183, tt35521200, tt36491653, tt36631507, tt9362736]
       winner: []
+  jury special prize:
+    jury special prize:
+      nominee: [tt29002950]
+      winner: [tt29002950]
+  best actor:
+    best actor:
+      nominee: [tt27847051]
+      winner: [tt27847051]
   golden camera:
     golden camera:
       nominee: [tt14883538, tt22237964, tt22530226, tt27907966, tt29271671, tt29313285, tt30268321, tt31287262, tt32284798, tt32321317, tt32472708, tt32792934, tt32843349, tt33322174, tt33368478, tt34000545, tt34762801, tt35453969, tt35519445, tt35695538, tt35715953, tt36164712, tt36464353, tt36543850, tt36579933, tt36580119, tt36643684, tt8667404]
@@ -15,19 +23,39 @@
   un certain regard award:
     un certain regard award:
       nominee: [tt22237964, tt26733325, tt27907966, tt29271671, tt30268321, tt32321317, tt32398150, tt32448429, tt32792934, tt33253688, tt33311007, tt33772384, tt34734841, tt35354686, tt35695538, tt35715953, tt36491632, tt36544524, tt36642485, tt8667404]
-      winner: []
+      winner: [tt22237964]
+  un certain regard jury prize:
+    un certain regard jury prize:
+      nominee: [tt36544524]
+      winner: [tt36544524]
   sacd screenwriting award:
     sacd screenwriting award:
       nominee: [tt32472708]
       winner: [tt32472708]
+  canal+ award:
+    best short:
+      nominee: [tt36996334]
+      winner: [tt36996334]
+  label europa cinemas:
+    label europa cinemas:
+      nominee: [tt36897515]
+      winner: [tt36897515]
   palme d'or - best short film:
     palme d'or - best short film:
       nominee: [tt36671467, tt36678607, tt36684296, tt36693324, tt36693344, tt36724188, tt36724190, tt36724191, tt36724193, tt36724195, tt36724196]
-      winner: []
+      winner: [tt36724190]
+  un certain regard - best director:
+    un certain regard - best director:
+      nominee: [tt34734841]
+      winner: [tt34734841]
   queer palm:
     queer palm:
       nominee: [tt15799524, tt22237964, tt22530226, tt28326501, tt32082522, tt32275943, tt32321317, tt32646557, tt32759477, tt32843349, tt34762801, tt35354686, tt36510056, tt36553782, tt36642485, tt36885668]
       winner: []
+  gan foundation support for distribution:
+    gan foundation award for distribution:
+      nominee: [tt27722618]
+      winner: [tt27722618]
   queer palm - short film:
     queer palm - short film:
       nominee: [tt36581993, tt36671959, tt36930290, tt36996334]
@@ -35,23 +63,43 @@
   golden eye:
     golden eye:
       nominee: [tt27052428, tt34968474, tt35504696, tt35892253, tt35931046, tt36414908, tt36464353, tt36525145, tt36553675, tt36554869, tt36598711, tt36599377, tt36959167, tt36965993]
-      winner: []
+      winner: [tt36553675]
+  golden eye - special mention:
+    golden eye - special mention:
+      nominee: [tt34968474]
+      winner: [tt34968474]
+  un certain regard - screenplay prize:
+    un certain regard - screenplay prize:
+      nominee: [tt32321317]
+      winner: [tt32321317]
   critics' week grand prize:
     critics' week grand prize:
       nominee: [tt22530226, tt27722618, tt32472708, tt33400055, tt35519445, tt36543850, tt36553675]
-      winner: []
+      winner: [tt22530226]
+  louis roederer foundation rising star award:
+    louis roederer foundation rising star award:
+      nominee: [tt35519445]
+      winner: [tt35519445]
   leitz cine discovery prize:
     leitz cine discovery prize:
       nominee: [tt28493053, tt36617489, tt36844384, tt36930290, tt36987460, tt36995876, tt36996334]
-      winner: []
+      winner: [tt28493053]
+  un certain regard - best performance:
+    un certain regard - best performance:
+      nominee: [tt36642485]
+      winner: [tt36642485]
   best immersive work award:
     best immersive work award:
       nominee: [tt36750881]
       winner: [tt36750881]
+  french touch prize of the critics' week jury:
+    french touch prize of the critics' week jury:
+      nominee: [tt36553675]
+      winner: [tt36553675]
   directors' fortnight audience award:
     directors' fortnight audience award:
       nominee: [tt31287262, tt32247943, tt32299316, tt32583148, tt32646557, tt32843349, tt32916648, tt33335204, tt33362861, tt33368478, tt34000545, tt35231039, tt36164712, tt36553782, tt36554869, tt36579933, tt36580117, tt36580119]
-      winner: []
+      winner: [tt36580119]
 '2024': # https://www.imdb.com/event/ev0000147/2024/1/
   palme d'or:
     palme d'or:
