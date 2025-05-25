@@ -1,29 +1,59 @@
 # Zee Cine Awards
 '2025':  # https://www.imdb.com/event/ev0000415/2025/1/
-  zee cine award:
-    best story:
-      nominee: [tt28153480]
-      winner: []
-  viewers' choice award:
-    best actor:
+  technical award:
+    best action:
+      nominee: [tt28259207]
+      winner: [tt28259207]
+    best background score:
       nominee: [tt26932223]
       winner: [tt26932223]
+    best choreography:
+      nominee: [tt24517830]
+      winner: [tt24517830]
+    best cinematography:
+      nominee: [tt21626284]
+      winner: [tt21626284]
+    best costume design:
+      nominee: [tt21626284]
+      winner: [tt21626284]
+    best dialogue:
+      nominee: [tt30970235]
+      winner: [tt30970235]
+    best editing:
+      nominee: [tt26658272]
+      winner: [tt26658272]
+    best production design:
+      nominee: [tt26658272]
+      winner: [tt26658272]
+    best screenplay:
+      nominee: [tt21626284]
+      winner: [tt21626284]
+    best story:
+      nominee: [tt28153480, tt29120307]
+      winner: [tt28153480, tt29120307]
+  viewers' choice award:
+    best actor:
+      nominee: [tt13818368, tt24517830, tt26932223, tt27459160, tt27510174, tt27744786]
+      winner: [tt26932223]
     best actress:
-      nominee: [tt27510174]
+      nominee: [tt15392282, tt21383812, tt24517830, tt27459160, tt27510174, tt30970235]
       winner: [tt27510174]
     best film:
-      nominee: [tt27510174]
+      nominee: [tt21626284, tt26932223, tt27459160, tt27510174, tt27995594, tt30970235]
+      winner: [tt27510174]
+    song of the year:
+      nominee: [tt21383812, tt21626284, tt24517830, tt27459160, tt27510174, tt27995594]
       winner: [tt27510174]
   jury's choice award:
     best actor:
       nominee: [tt21626774, tt27470893]
       winner: [tt21626774, tt27470893]
+    best actress:
+      nominee: [tt27459160]
+      winner: [tt27459160]
     best comic actor:
       nominee: [tt27510174]
       winner: [tt27510174]
-    best comic actress:
-      nominee: [tt27459160]
-      winner: [tt27459160]
     best debut actor:
       nominee: [tt27995594, tt28259207]
       winner: [tt27995594, tt28259207]
@@ -39,6 +69,9 @@
     best film:
       nominee: [tt21626284]
       winner: [tt21626284]
+    best lyricist:
+      nominee: [tt26658272]
+      winner: [tt26658272]
     best music:
       nominee: [tt27510174]
       winner: [tt27510174]

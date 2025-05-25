@@ -3,7 +3,15 @@
   palme d'or:
     palme d'or:
       nominee: [tt15799524, tt27714581, tt27847051, tt28326501, tt28690468, tt29002950, tt30220107, tt30781967, tt30840798, tt31176520, tt31688586, tt32275943, tt32298285, tt32538648, tt32909489, tt33455099, tt34768402, tt34794183, tt35521200, tt36491653, tt36631507, tt9362736]
-      winner: []
+      winner: [tt36491653]
+  grand prize of the festival:
+    grand prize of the festival:
+      nominee: [tt27714581]
+      winner: [tt27714581]
+  jury prize:
+    jury prize:
+      nominee: [tt28690468, tt32298285]
+      winner: [tt28690468, tt32298285]
   jury special prize:
     jury special prize:
       nominee: [tt29002950]
@@ -12,10 +20,30 @@
     best actor:
       nominee: [tt27847051]
       winner: [tt27847051]
+  best actress:
+    best actress:
+      nominee: [tt28326501]
+      winner: [tt28326501]
+  best director:
+    best director:
+      nominee: [tt27847051]
+      winner: [tt27847051]
+  best screenplay:
+    best screenplay:
+      nominee: [tt32909489]
+      winner: [tt32909489]
+  special mention:
+    short film:
+      nominee: [tt36724188]
+      winner: [tt36724188]
   golden camera:
     golden camera:
       nominee: [tt14883538, tt22237964, tt22530226, tt27907966, tt29271671, tt29313285, tt30268321, tt31287262, tt32284798, tt32321317, tt32472708, tt32792934, tt32843349, tt33322174, tt33368478, tt34000545, tt34762801, tt35453969, tt35519445, tt35695538, tt35715953, tt36164712, tt36464353, tt36543850, tt36579933, tt36580119, tt36643684, tt8667404]
-      winner: []
+      winner: [tt36580119]
+  golden camera - special mention:
+    golden camera - special mention:
+      nominee: [tt35695538]
+      winner: [tt35695538]
   cinefondation award:
     cinefondation award:
       nominee: [tt32395618, tt32748608, tt35533392, tt36118499, tt36671448, tt36671959, tt36724203, tt36724206, tt36724208, tt36724209, tt36724210, tt36724212, tt36724215, tt36985366]
@@ -40,6 +68,16 @@
     label europa cinemas:
       nominee: [tt36897515]
       winner: [tt36897515]
+  fipresci prize:
+    competition:
+      nominee: [tt27847051]
+      winner: [tt27847051]
+    fipresci prize:
+      nominee: [tt32284798]
+      winner: [tt32284798]
+    un certain regard:
+      nominee: [tt35715953]
+      winner: [tt35715953]
   palme d'or - best short film:
     palme d'or - best short film:
       nominee: [tt36671467, tt36678607, tt36684296, tt36693324, tt36693344, tt36724188, tt36724190, tt36724191, tt36724193, tt36724195, tt36724196]
@@ -51,7 +89,7 @@
   queer palm:
     queer palm:
       nominee: [tt15799524, tt22237964, tt22530226, tt28326501, tt32082522, tt32275943, tt32321317, tt32646557, tt32759477, tt32843349, tt34762801, tt35354686, tt36510056, tt36553782, tt36642485, tt36885668]
-      winner: []
+      winner: [tt28326501]
   gan foundation support for distribution:
     gan foundation award for distribution:
       nominee: [tt27722618]
@@ -61,9 +99,15 @@
       nominee: [tt36581993, tt36671959, tt36930290, tt36996334]
       winner: []
   golden eye:
+    documentary prize:
+      nominee: [tt36553675]
+      winner: [tt36553675]
     golden eye:
       nominee: [tt27052428, tt34968474, tt35504696, tt35892253, tt35931046, tt36414908, tt36464353, tt36525145, tt36553675, tt36554869, tt36598711, tt36599377, tt36959167, tt36965993]
       winner: [tt36553675]
+    special jury prize:
+      nominee: [tt34968474]
+      winner: [tt34968474]
   golden eye - special mention:
     golden eye - special mention:
       nominee: [tt34968474]
