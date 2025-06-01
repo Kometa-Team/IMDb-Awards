@@ -2819,6 +2819,10 @@
     c.i.c.a.e. award:
       nominee: [tt0815490, tt1002539, tt1064861, tt1081929, tt1132578, tt1143153, tt1143891, tt1160027, tt1176954, tt1182257, tt1189259, tt1223971, tt1223975, tt1225290, tt1226247, tt1226291, tt1226297, tt1226305, tt1226307, tt1226311, tt1226334]
       winner: [tt1226291]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt1156321, tt1230588, tt1235792, tt1238747, tt1258620, tt1267387, tt1289787, tt1320119, tt1346263, tt1479798, tt3861418]
+      winner: []
   fipresci prize:
     competition:
       nominee: [tt0910860]
@@ -2885,6 +2889,10 @@
     un regard neuf short film prize:
       nominee: [tt3861418]
       winner: [tt3861418]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0815490, tt1002539, tt1064861, tt1081929, tt1132578, tt1143153, tt1143891, tt1160027, tt1176954, tt1182257, tt1189259, tt1223971, tt1223975, tt1225290, tt1226247, tt1226283, tt1226291, tt1226297, tt1226305, tt1226307, tt1226311, tt1226318, tt1226334, tt1242742, tt1242747]
+      winner: []
 '2007': # https://www.imdb.com/event/ev0000147/2007/1/
   palme d'or:
     palme d'or:
@@ -2995,6 +3003,9 @@
       nominee: [tt0421082, tt1031932]
       winner: [tt0421082, tt1031932]
   sacd short film award:
+    directors' fortnight:
+      nominee: [tt0926378, tt1034077, tt1037996, tt1047499, tt1050261, tt1058525, tt1059196, tt1064728, tt1064781, tt1064814]
+      winner: []
     sacd short film award:
       nominee: [tt1064781]
       winner: [tt1064781]
@@ -3056,6 +3067,10 @@
     palm dog:
       nominee: [tt0808417, tt1062939]
       winner: [tt0808417, tt1062939]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0379976, tt0421082, tt0765141, tt0780608, tt0825236, tt0846668, tt0848596, tt0874423, tt0877621, tt0878674, tt0881369, tt0922354, tt0935086, tt0947093, tt0990404, tt0993778, tt0997147, tt1021004, tt1031928, tt1031930, tt1031932, tt1031951, tt1058526]
+      winner: []
 '2006': # https://www.imdb.com/event/ev0000147/2006/1/
   palme d'or:
     palme d'or:
@@ -3176,6 +3191,9 @@
       nominee: [tt0382765, tt0412808, tt0419073, tt0439123, tt0456041, tt0464955, tt0468492, tt0470705, tt0488151, tt0499455, tt0759509, tt0769508, tt0792948, tt0792984, tt0799772, tt0800022, tt0806679, tt0809407, tt0809535, tt0810809]
       winner: [tt0456041]
   sacd short film award:
+    directors' fortnight:
+      nominee: [tt0492935, tt0492940, tt0493011, tt0793434, tt0814669, tt0814673, tt0814704, tt0814779, tt0814781, tt0814789, tt0814800]
+      winner: []
     sacd short film award:
       nominee: [tt0814673, tt0814704]
       winner: [tt0814673]
@@ -3240,6 +3258,10 @@
     palm dog - special mention:
       nominee: [tt0800159]
       winner: [tt0800159]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0382765, tt0412808, tt0419073, tt0439123, tt0456041, tt0464955, tt0468492, tt0470705, tt0488151, tt0491253, tt0499455, tt0759509, tt0769508, tt0792948, tt0792984, tt0799772, tt0800022, tt0806679, tt0809407, tt0809427, tt0809443, tt0809535, tt0810809, tt13429866]
+      winner: []
 '2005': # https://www.imdb.com/event/ev0000147/2005/1/
   palme d'or:
     palme d'or:
@@ -3345,6 +3367,9 @@
       nominee: [tt0450470]
       winner: [tt0450470]
   sacd short film award:
+    directors' fortnight:
+      nominee: [tt0402402, tt0454486, tt0479225, tt0479268, tt0488851, tt0493428, tt0497148, tt0783716, tt0783725, tt0783850, tt0945354, tt16124328, tt1817292]
+      winner: []
     sacd short film award:
       nominee: [tt0479225]
       winner: [tt0479225]
@@ -3409,6 +3434,10 @@
     palm dog - special mention:
       nominee: [tt0435597]
       winner: [tt0435597]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0366544, tt0397692, tt0416315, tt0417096, tt0417658, tt0420291, tt0422133, tt0428289, tt0428608, tt0428856, tt0445396, tt0450470, tt0456873, tt0457007, tt0459072, tt0461604, tt0463903, tt0471403, tt0471911, tt0472113, tt0474361]
+      winner: []
 '2004': # https://www.imdb.com/event/ev0000147/2004/1/
   palme d'or:
     palme d'or:
@@ -3503,6 +3532,10 @@
     c.i.c.a.e. award:
       nominee: [tt0361127, tt0368774, tt0377080, tt0377091, tt0378284, tt0388012, tt0388559, tt0390538, tt0407021, tt0412473, tt0415955, tt0423868, tt0431958, tt0783663, tt3711144]
       winner: []
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt0371875, tt0398831, tt0403997, tt0409895, tt0417530, tt0422948, tt0433663, tt0436849, tt4830754]
+      winner: []
   gras savoye award:
     gras savoye award:
       nominee: [tt0354471]
@@ -3567,6 +3600,10 @@
     palm dog - special mention:
       nominee: [tt0322420]
       winner: [tt0322420]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0361127, tt0364109, tt0364365, tt0368774, tt0374916, tt0377080, tt0377091, tt0378284, tt0388012, tt0388559, tt0390538, tt0407021, tt0412473, tt0412518, tt0413018, tt0413893, tt0415955, tt0423868, tt0431958, tt0783663]
+      winner: []
 '2003': # https://www.imdb.com/event/ev0000147/2003/1/
   palme d'or:
     palme d'or:
@@ -3650,6 +3687,10 @@
     golden coach:
       nominee: [tt0327056]
       winner: [tt0327056]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt0366606, tt0367108, tt0369194, tt0369354, tt0369853, tt0373850, tt0374955, tt0375058, tt0380784, tt0382868, tt0396036, tt0415262, tt0419695, tt9517120]
+      winner: []
   gras savoye award:
     gras savoye award:
       nominee: [tt0311004, tt0323683]
@@ -3722,6 +3763,10 @@
     palm dog - special mention:
       nominee: [tt0286244]
       winner: [tt0286244]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0296587, tt0305178, tt0306040, tt0323298, tt0323872, tt0333342, tt0339305, tt0339553, tt0342798, tt0349688, tt0351741, tt0361668, tt0363056, tt0364526, tt0364537, tt0366532, tt0366774, tt0367863, tt0368078, tt0368081, tt0368082, tt0368187, tt0368667, tt0368726, tt0368805, tt0368913, tt0369064, tt0371392, tt0372806]
+      winner: []
   critics' week grand prize:
     critics' week grand prize:
       nominee: [tt0285727, tt0336264, tt0364193, tt0366943, tt0370531, tt0377772, tt0389974]
@@ -3809,6 +3854,10 @@
     c.i.c.a.e. award:
       nominee: [tt0271259, tt0287914, tt0298408, tt0300214, tt0301684, tt0304678, tt0307913, tt0308672, tt0320194, tt0322725]
       winner: [tt0300214]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt0280538, tt0298074, tt0323239, tt0327776, tt0340663, tt0362821, tt0366615, tt0369316, tt0388347, tt0411751, tt0437189, tt0461174, tt0483011, tt0813408, tt0816439, tt0950764, tt11654600, tt15106564, tt2619376]
+      winner: []
   gras savoye award:
     gras savoye award:
       nominee: [tt0813408]
@@ -3861,6 +3910,10 @@
     palm dog - special mention:
       nominee: [tt0314416]
       winner: [tt0314416]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0271259, tt0287914, tt0295210, tt0298126, tt0298408, tt0300214, tt0300949, tt0301684, tt0304678, tt0306359, tt0307913, tt0308672, tt0309897, tt0318523, tt0319836, tt0320194, tt0320255, tt0320693, tt0321438, tt0322725, tt0322824, tt0333764, tt0350584, tt0417436, tt1038981]
+      winner: []
   critics' week grand prize:
     critics' week grand prize:
       nominee: [tt0286516, tt0293155, tt0305229, tt0319625, tt0322279, tt0333692]
@@ -3941,6 +3994,10 @@
     small golden rail:
       nominee: [tt0317372]
       winner: [tt0317372]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt0229321, tt0256666, tt0260948, tt0277050, tt0282194, tt0288174, tt0290468, tt0322126, tt0351518, tt0378013, tt0379310, tt0479264, tt8424870]
+      winner: []
   gras savoye award:
     gras savoye award:
       nominee: [tt0378013]
@@ -3996,6 +4053,10 @@
     palm dog - special mention:
       nominee: [tt0248953]
       winner: [tt0248953]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0226935, tt0250323, tt0256259, tt0260746, tt0269058, tt0271679, tt0279697, tt0282212, tt0284295, tt0285730, tt0285848, tt0285963, tt0287544, tt0287645, tt0287708, tt0288624, tt0289320, tt0290662, tt0303998, tt0305923, tt0309734]
+      winner: []
 '2000': # https://www.imdb.com/event/ev0000147/2000/1/
   palme d'or:
     palme d'or:
@@ -4080,6 +4141,10 @@
     c.i.c.a.e. award:
       nominee: [tt0120790, tt0188613, tt0189998, tt0204315, tt0208993, tt0210075, tt0213595, tt0216605, tt0217643, tt0218616, tt0227458, tt0235841, tt0237539, tt0238893, tt0243483, tt0244476, tt0246765, tt0246875, tt0247153, tt0247613, tt0248948, tt0249241, tt0249462]
       winner: [tt0120790]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt0228794, tt0244136, tt0255715, tt0257083, tt0257881, tt0260767, tt0266643, tt0267768, tt0276414, tt0280667, tt0285010, tt0285125, tt0293469, tt0368044, tt0420538, tt1187662]
+      winner: []
   gras savoye award:
     gras savoye award:
       nominee: [tt0267768]
@@ -4202,6 +4267,10 @@
     c.i.c.a.e. award:
       nominee: [tt0141974, tt0159097, tt0160509, tt0162677, tt0166175, tt0185937, tt0200828, tt0201483, tt0201517, tt0201538, tt0201952]
       winner: [tt0200828]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt0205452, tt0223709, tt0295531, tt0296912, tt0307254]
+      winner: []
   gras savoye award:
     gras savoye award:
       nominee: [tt0296912]
@@ -4236,6 +4305,10 @@
     palme d'or - best short film:
       nominee: [tt0163982, tt0191948, tt0200282, tt0202589, tt0202598, tt0203072, tt0203081, tt0205069, tt0205842, tt0205912, tt0206034, tt0206298]
       winner: [tt0200282, tt0202598]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0109834, tt0141974, tt0159097, tt0160509, tt0162677, tt0166175, tt0168794, tt0177769, tt0180793, tt0181910, tt0185937, tt0196848, tt0200689, tt0200828, tt0201483, tt0201517, tt0201538, tt0201707, tt0201743, tt0201840, tt0201952, tt0202077, tt0204736, tt0210667, tt0211401, tt0243898, tt0245528]
+      winner: []
 '1998': # https://www.imdb.com/event/ev0000147/1998/1/
   palme d'or:
     palme d'or:
@@ -4308,6 +4381,10 @@
     small golden rail:
       nominee: [tt0297261]
       winner: [tt0297261]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt0156427, tt0176616, tt0301248, tt0325088, tt0429280]
+      winner: []
   gras savoye award:
     gras savoye award:
       nominee: [tt0301248]
@@ -4338,6 +4415,10 @@
     palme d'or - best short film:
       nominee: [tt0122498, tt0152447, tt0157280, tt0157345, tt0157573, tt0157632, tt0157732, tt0157771, tt0157776, tt0157828, tt0157865, tt0157901, tt0158223, tt0263415, tt0263459]
       winner: [tt0157828]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0019130, tt0120229, tt0120831, tt0123240, tt0126830, tt0130179, tt0138487, tt0139362, tt0139615, tt0147612, tt0147867, tt0156300, tt0156386, tt0156388, tt0156479, tt0156722, tt0156729, tt0156820, tt0156849, tt0157160, tt0157183]
+      winner: []
 '1997': # https://www.imdb.com/event/ev0000147/1997/1/
   palme d'or:
     palme d'or:
@@ -4376,7 +4457,7 @@
       winner: [tt0120112]
   golden camera:
     golden camera:
-      nominee: [tt0115772, tt0116783, tt0118768, tt0119361, tt0119375, tt0119687, tt0119792, tt0120448]
+      nominee: [tt0115772, tt0116783, tt0118768, tt0119361, tt0119375, tt0119687, tt0119792, tt0120405, tt0120448]
       winner: [tt0119687]
   golden camera - special mention:
     golden camera - special mention:
@@ -4402,6 +4483,10 @@
     small golden rail:
       nominee: [tt0119725]
       winner: [tt0119725]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt0121475, tt0199041, tt0206355, tt0211022, tt0365950]
+      winner: []
   fipresci prize:
     fipresci prize:
       nominee: [tt0120255, tt0120443]
@@ -4429,6 +4514,10 @@
     palme d'or - best short film:
       nominee: [tt0118726, tt0118813, tt0119119, tt0119387, tt0119414, tt0119516, tt0119602, tt0119971, tt0120040, tt0120426, tt0188119]
       winner: [tt0119387]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0115772, tt0116783, tt0117555, tt0118659, tt0118805, tt0118889, tt0118917, tt0119248, tt0119391, tt0119457, tt0119589, tt0119590, tt0119687, tt0119733, tt0119743, tt0119952, tt0120124, tt0120266, tt0120371, tt0120405, tt0120448]
+      winner: []
 '1996': # https://www.imdb.com/event/ev0000147/1996/1/
   palme d'or:
     palme d'or:
@@ -4490,6 +4579,10 @@
     small golden rail:
       nominee: [tt0117531]
       winner: [tt0117531]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt0433126, tt0439568, tt3890726, tt4817054]
+      winner: []
   prize of the ecumenical jury:
     prize of the ecumenical jury:
       nominee: [tt0117589]
@@ -4512,6 +4605,10 @@
   un certain regard - a certain talent prize:
     un certain regard - a certain talent prize:
       nominee: [tt0116384]
+      winner: []
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0115640, tt0115973, tt0116170, tt0116198, tt0116317, tt0116468, tt0116640, tt0116700, tt0116722, tt0116754, tt0116767, tt0116843, tt0116905, tt0116952, tt0117050, tt0117075, tt0117296, tt0117302, tt0117398, tt0117544, tt0117815, tt0117958, tt0118201, tt0118230]
       winner: []
 '1995': # https://www.imdb.com/event/ev0000147/1995/1/
   palme d'or:
@@ -4565,6 +4662,10 @@
     mercedes-benz award:
       nominee: [tt0113767]
       winner: [tt0113767]
+  sacd award:
+    directors' fortnight:
+      nominee: [tt0114859]
+      winner: []
   canal+ award:
     canal+ award:
       nominee: [tt0112992]
@@ -4577,6 +4678,10 @@
     small golden rail:
       nominee: [tt0114583]
       winner: [tt0114583]
+  sacd short film award:
+    sacd short film award:
+      nominee: [tt0111623, tt0112601, tt0112950, tt0118037]
+      winner: []
   fipresci prize:
     fipresci prize:
       nominee: [tt0114671, tt0114863]
@@ -4600,6 +4705,10 @@
     palme d'or - best short film:
       nominee: [tt0113138, tt0134637, tt0143914, tt0195543, tt0231069, tt0231447, tt0231482, tt0231931, tt0232262, tt0232680]
       winner: [tt0113138]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0048473, tt0109482, tt0110639, tt0111354, tt0112427, tt0112445, tt0112611, tt0112714, tt0112934, tt0112941, tt0112962, tt0113042, tt0113280, tt0113571, tt0114217, tt0114276, tt0114323, tt0114494, tt0114497, tt0117499, tt0126766]
+      winner: []
 '1994': # https://www.imdb.com/event/ev0000147/1994/1/
   palme d'or:
     palme d'or:
@@ -4656,6 +4765,10 @@
     kodak short film award:
       nominee: [tt0219422]
       winner: [tt0219422]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt0106199, tt0106711, tt0211073, tt0219422, tt0276908]
+      winner: []
   fipresci prize:
     fipresci prize:
       nominee: [tt0109185, tt0109759]
@@ -4675,6 +4788,10 @@
     palme d'or - best short film:
       nominee: [tt0110084, tt0110326, tt0111338, tt0196120, tt0211565, tt0229266, tt0229638, tt0229756]
       winner: [tt0110084]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0106296, tt0107309, tt0109020, tt0109093, tt0109110, tt0109172, tt0109206, tt0109235, tt0109366, tt0109782, tt0109842, tt0110415, tt0110598, tt0110819, tt0110832, tt0111055, tt0111124, tt0111497, tt0111509, tt0111751, tt0111797]
+      winner: []
 '1993': # https://www.imdb.com/event/ev0000147/1993/1/
   palme d'or:
     palme d'or:
@@ -4732,6 +4849,10 @@
     kodak short film award:
       nominee: [tt0252424]
       winner: [tt0252424]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt0103992, tt0108498, tt0173131, tt0252424, tt0330815, tt0388155]
+      winner: []
   fipresci prize:
     fipresci prize:
       nominee: [tt0106332, tt0107064]
@@ -4755,6 +4876,10 @@
     palme d'or - best short film:
       nominee: [tt0106584, tt0151517, tt0163812, tt0170582, tt0231065, tt0231094, tt0231671, tt0231965, tt0232042, tt0232681]
       winner: [tt0106584]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0104751, tt0105140, tt0106285, tt0106305, tt0106878, tt0107039, tt0107064, tt0107179, tt0107256, tt0107358, tt0107515, tt0107554, tt0107566, tt0107588, tt0107767, tt0107832, tt0108000, tt0108180, tt0108471, tt0108677]
+      winner: []
 '1992': # https://www.imdb.com/event/ev0000147/1992/1/
   palme d'or:
     palme d'or:
@@ -4806,6 +4931,10 @@
     canal+ award:
       nominee: [tt0317514]
       winner: [tt0317514]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt0105738, tt0285443, tt0302679, tt0443267, tt0485209, tt2239898, tt4786566, tt6888510]
+      winner: []
   fipresci prize:
     fipresci prize:
       nominee: [tt0105438]
@@ -4833,6 +4962,10 @@
     palme d'or - best short film:
       nominee: [tt0102197, tt0105010, tt0105051, tt0161425, tt0205855, tt0241397, tt0241414, tt0241489, tt0241745, tt0241805, tt0241936, tt0242185]
       winner: [tt0105051]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0099639, tt0102010, tt0102297, tt0102361, tt0102838, tt0103661, tt0103675, tt0103715, tt0103760, tt0103793, tt0103806, tt0103850, tt0104121, tt0104211, tt0104783, tt0104954, tt0105072, tt0105131, tt0105203, tt0105382, tt0105718, tt0105783, tt0105915, tt0190321]
+      winner: []
 '1991': # https://www.imdb.com/event/ev0000147/1991/1/
   palme d'or:
     palme d'or:
@@ -4892,6 +5025,10 @@
     best short:
       nominee: [tt0218871]
       winner: [tt0218871]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt0442752]
+      winner: []
   perspectives du cinéma award:
     perspectives du cinéma award:
       nominee: [tt0099244, tt0101552, tt0241326]
@@ -4919,6 +5056,10 @@
     palme d'or - best short film:
       nominee: [tt0101511, tt0102730, tt0241292, tt0241589, tt0241701, tt0241771, tt0242130, tt0242156, tt0242164]
       winner: [tt0242156]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0100465, tt0100491, tt0100847, tt0101030, tt0101273, tt0101353, tt0101530, tt0101658, tt0102116, tt0102638, tt0102721, tt0103105, tt0103322, tt0105158, tt0240396, tt0279213, tt1570649]
+      winner: []
 '1990': # https://www.imdb.com/event/ev0000147/1990/1/
   palme d'or:
     palme d'or:
@@ -4998,6 +5139,10 @@
     palme d'or - best short film:
       nominee: [tt0097970, tt0100076, tt0132256, tt0134302, tt0158077, tt0212560, tt0241399, tt0241818, tt0241826, tt0241840, tt0241890, tt0241959]
       winner: [tt0100076]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0090665, tt0097578, tt0098139, tt0099213, tt0099336, tt0099389, tt0099858, tt0099995, tt0100142, tt0100330, tt0100355, tt0100389, tt0100636, tt0100791, tt0101813, tt0122267, tt0123319, tt0129321, tt0158481, tt0205406, tt0206118]
+      winner: []
 '1989': # https://www.imdb.com/event/ev0000147/1989/1/
   palme d'or:
     palme d'or:
