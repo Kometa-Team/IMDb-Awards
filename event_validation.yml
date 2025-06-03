@@ -3218,8 +3218,8 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best cinematography - black and white # 6 Events: 1950-1953, 1955, 1963
   - best cinematography - color # 6 Events: 1950-1953, 1955, 1963
   - best director # 28 Events: 1944-1971
-  - best director - motion picture # 52 Events: 1972-2023
-  - best director, motion picture # 2 Events: 2024-2025
+  - best director - motion picture # 53 Events: 1972-2023, 2025
+  - best director, motion picture # 1 Event: 2024
   - best documentary # 1 Event: 1977
   - best documentary film # 4 Events: 1973-1976
   - best documentary of historical interest # 1 Event: 1954
@@ -3229,43 +3229,51 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best foreign language film # 29 Events: 1987-2015
   - best foreign-language foreign film # 14 Events: 1957-1959, 1961-1962, 1965-1973
   - best miniseries or motion picture made for television # 34 Events: 1982-2015
-  - best motion picture - animated # 8 Events: 2016-2023
+  - best motion picture - animated # 9 Events: 2016-2023, 2025
   - best motion picture - comedy # 5 Events: 1959-1963
   - best motion picture - comedy or musical # 59 Events: 1952-1953, 1955-1958, 1964-2016
-  - best motion picture - drama # 73 Events: 1951-2023
+  - best motion picture - drama # 74 Events: 1951-2023, 2025
   - best motion picture - foreign language # 6 Events: 2016-2021
   - best motion picture - musical # 5 Events: 1959-1963
-  - best motion picture - musical or comedy # 7 Events: 2017-2023
-  - best motion picture - non-english language # 2 Events: 2022-2023
+  - best motion picture - musical or comedy # 8 Events: 2017-2023, 2025
+  - best motion picture - non-english language # 3 Events: 2022-2023, 2025
   - best motion picture acting debut - female # 1 Event: 1979
   - best motion picture acting debut - male # 1 Event: 1979
   - best motion picture made for television # 6 Events: 1976-1981
-  - best motion picture, animated # 2 Events: 2024-2025
-  - best motion picture, drama # 2 Events: 2024-2025
-  - best motion picture, musical or comedy # 2 Events: 2024-2025
-  - best motion picture, non-english language # 2 Events: 2024-2025
+  - best motion picture, animated # 1 Event: 2024
+  - best motion picture, drama # 1 Event: 2024
+  - best motion picture, musical or comedy # 1 Event: 2024
+  - best motion picture, non-english language # 1 Event: 2024
   - best movie made for tv # 2 Events: 1972-1973
   - best original score # 16 Events: 1948-1953, 1960-1963, 1965-1970
-  - best original score - motion picture # 52 Events: 1971-1981, 1983-2023
-  - best original score, motion picture # 2 Events: 2024-2025
+  - best original score - motion picture # 53 Events: 1971-1981, 1983-2023, 2025
+  - best original score, motion picture # 1 Event: 2024
   - best original song # 6 Events: 1962, 1966-1970
-  - best original song - motion picture # 53 Events: 1971-2023
-  - best original song, motion picture # 2 Events: 2024-2025
+  - best original song - motion picture # 54 Events: 1971-2023, 2025
+  - best original song, motion picture # 1 Event: 2024
   - best outdoor drama # 1 Event: 1956
   - best performance by a female actor in a limited series, anthology series or motion picture made for television # 2 Events: 2024-2025
-  - best performance by a female actor in a motion picture, drama # 2 Events: 2024-2025
-  - best performance by a female actor in a motion picture, musical or comedy # 2 Events: 2024-2025
+  - best performance by a female actor in a motion picture - drama # 1 Event: 2025
+  - best performance by a female actor in a motion picture - musical or comedy # 1 Event: 2025
+  - best performance by a female actor in a motion picture, drama # 1 Event: 2024
+  - best performance by a female actor in a motion picture, musical or comedy # 1 Event: 2024
   - best performance by a female actor in a supporting role in any motion picture # 2 Events: 2024-2025
   - best performance by a female actor in a supporting role on television # 2 Events: 2024-2025
-  - best performance by a female actor in a television series, drama # 2 Events: 2024-2025
-  - best performance by a female actor in a television series, musical or comedy # 2 Events: 2024-2025
+  - best performance by a female actor in a television series - drama # 1 Event: 2025
+  - best performance by a female actor in a television series - musical or comedy # 1 Event: 2025
+  - best performance by a female actor in a television series, drama # 1 Event: 2024
+  - best performance by a female actor in a television series, musical or comedy # 1 Event: 2024
   - best performance by a male actor in a limited series, anthology series or motion picture made for television # 2 Events: 2024-2025
-  - best performance by a male actor in a motion picture, drama # 2 Events: 2024-2025
-  - best performance by a male actor in a motion picture, musical or comedy # 2 Events: 2024-2025
+  - best performance by a male actor in a motion picture - drama # 1 Event: 2025
+  - best performance by a male actor in a motion picture - musical or comedy # 1 Event: 2025
+  - best performance by a male actor in a motion picture, drama # 1 Event: 2024
+  - best performance by a male actor in a motion picture, musical or comedy # 1 Event: 2024
   - best performance by a male actor in a supporting role in any motion picture # 2 Events: 2024-2025
   - best performance by a male actor in a supporting role on television # 2 Events: 2024-2025
-  - best performance by a male actor in a television series, drama # 2 Events: 2024-2025
-  - best performance by a male actor in a television series, musical or comedy # 2 Events: 2024-2025
+  - best performance by a male actor in a television series - drama # 1 Event: 2025
+  - best performance by a male actor in a television series - musical or comedy # 1 Event: 2025
+  - best performance by a male actor in a television series, drama # 1 Event: 2024
+  - best performance by a male actor in a television series, musical or comedy # 1 Event: 2024
   - best performance by an actor in a limited series or a motion picture made for television # 3 Events: 2018-2020
   - best performance by an actor in a limited series or motion picture made for television # 2 Events: 2016-2017
   - best performance by an actor in a limited series, anthology series or a motion picture made for television # 1 Event: 2021
@@ -3309,8 +3317,8 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best performance in stand-up comedy on television # 2 Events: 2024-2025
   - best picture # 7 Events: 1944-1950
   - best screenplay # 13 Events: 1948-1955, 1966-1970
-  - best screenplay - motion picture # 53 Events: 1971-2023
-  - best screenplay, motion picture # 2 Events: 2024-2025
+  - best screenplay - motion picture # 54 Events: 1971-2023, 2025
+  - best screenplay, motion picture # 1 Event: 2024
   - best song # 1 Event: 1965
   - best supporting actor # 27 Events: 1944-1970
   - best supporting actor - motion picture # 6 Events: 1971-1976
@@ -3324,10 +3332,10 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best television limited series, anthology series or motion picture made for television # 3 Events: 2021-2023
   - best television limited series, anthology series, or motion picture made for television # 2 Events: 2024-2025
   - best television series - comedy or musical # 41 Events: 1976-2016
-  - best television series - drama # 48 Events: 1976-2023
-  - best television series - musical or comedy # 7 Events: 2017-2023
-  - best television series, drama # 2 Events: 2024-2025
-  - best television series, musical or comedy # 3 Events: 2020, 2024-2025
+  - best television series - drama # 49 Events: 1976-2023, 2025
+  - best television series - musical or comedy # 8 Events: 2017-2023, 2025
+  - best television series, drama # 1 Event: 2024
+  - best television series, musical or comedy # 2 Events: 2020, 2024
   - best television special - variety or musical # 1 Event: 1982
   - best tv actor - comedy or musical # 6 Events: 1970-1975
   - best tv actor - drama # 6 Events: 1970-1975
