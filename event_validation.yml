@@ -1317,7 +1317,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - c.i.c.a.e. award - special mention # 2 Events: 2007, 2009
   - canal+ award # 33 Events: 1992-2019, 2021-2025
   - cannes junior award # 3 Events: 2000, 2003, 2022
-  - cannes soundtrack award # 11 Events: 2013-2019, 2021-2024
+  - cannes soundtrack award # 12 Events: 2013-2019, 2021-2025
   - cannes xr x veer future award # 2 Events: 2021-2022
   - cinefondation award # 28 Events: 1998-2025
   - cinefondation award - special mention # 1 Event: 1999
@@ -1379,7 +1379,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - ocic award # 16 Events: 1952-1956, 1959-1967, 1971, 1973
   - ocic award - special mention # 4 Events: 1952, 1955-1957
   - palm dog # 23 Events: 2001-2019, 2021, 2023-2025
-  - palm dog - jury prize # 10 Events: 2008, 2010-2018
+  - palm dog - jury prize # 11 Events: 2008, 2010-2018, 2025
   - palm dog - special mention # 7 Events: 2001-2006, 2014
   - palm dogmanitarian award # 3 Events: 2015-2017
   - palme d'or # 70 Events: 1939, 1955-2019, 2021-2025
@@ -1391,7 +1391,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - prix de la citoyenneté # 1 Event: 2018
   - prix france musique (original film score) # 2 Events: 2006-2007
   - prix regards jeune # 7 Events: 2003-2006, 2008, 2011-2012
-  - prize of the ecumenical jury # 49 Events: 1974-1975, 1977-2019, 2021-2024
+  - prize of the ecumenical jury # 50 Events: 1974-1975, 1977-2019, 2021-2025
   - prize of the ecumenical jury - special mention # 33 Events: 1974, 1979, 1981-1982, 1984-1993, 1995-1997, 1999, 2001-2002, 2004-2006, 2009-2016, 2018, 2021
   - queer palm # 15 Events: 2010-2019, 2021-2025
   - queer palm - short film # 11 Events: 2012, 2015-2019, 2021-2025
@@ -1477,7 +1477,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - best color # 1 Event: 1946
   - best comedy # 1 Event: 1959
   - best comedy (prix de la meilleure comédie) # 1 Event: 1962
-  - best composer # 8 Events: 2016-2019, 2021-2024
+  - best composer # 9 Events: 2016-2019, 2021-2025
   - best director # 63 Events: 1946, 1949-1952, 1955-1959, 1961, 1965-1970, 1972, 1975-1976, 1978-1979, 1982-2019, 2021-2025
   - best documentary # 1 Event: 2018
   - best documentary - short film # 1 Event: 1953
@@ -1605,7 +1605,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - ocic award # 16 Events: 1952-1956, 1959-1967, 1971, 1973
   - ocic award - special mention # 4 Events: 1952, 1955-1957
   - palm dog # 23 Events: 2001-2019, 2021, 2023-2025
-  - palm dog - jury prize # 10 Events: 2008, 2010-2018
+  - palm dog - jury prize # 11 Events: 2008, 2010-2018, 2025
   - palm dog - special mention # 7 Events: 2001-2006, 2014
   - palm dogmanitarian award # 3 Events: 2015-2017
   - palme d'or # 70 Events: 1939, 1955-2019, 2021-2025
@@ -1620,7 +1620,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - prix de la citoyenneté # 1 Event: 2018
   - prix france musique (original film score) # 2 Events: 2006-2007
   - prix regards jeune # 3 Events: 2008, 2011-2012
-  - prize of the ecumenical jury # 49 Events: 1974-1975, 1977-2019, 2021-2024
+  - prize of the ecumenical jury # 50 Events: 1974-1975, 1977-2019, 2021-2025
   - prize of the ecumenical jury - special mention # 33 Events: 1974, 1979, 1981-1982, 1984-1993, 1995-1997, 1999, 2001-2002, 2004-2006, 2009-2016, 2018, 2021
   - queer palm # 15 Events: 2010-2019, 2021-2025
   - queer palm - short film # 11 Events: 2012, 2015-2019, 2021-2025
@@ -5915,7 +5915,7 @@ ev0060658: # Bollywood Film Journalist Awards (https://www.imdb.com/event/ev0060
 ev0073358: # International Iconic Awards (https://www.imdb.com/event/ev0073358)
   years: ['2025', '2024', '2023', '2022', '2021', '2020']
   awards:  # Award Options: International Iconic Awards
-  - iconic award # 5 Events: 2020-2024
+  - iconic award # 6 Events: 2020-2025
   - iconic award -telugu # 1 Event: 2025
   - television award # 1 Event: 2024
   categories: # Category Options: International Iconic Awards
@@ -5927,7 +5927,7 @@ ev0073358: # International Iconic Awards (https://www.imdb.com/event/ev0073358)
   - best actor in a negative role # 1 Event: 2024
   - best actor in a web film # 1 Event: 2024
   - best actor in a web film - critics # 1 Event: 2024
-  - best actor in a web series # 3 Events: 2021, 2023-2024
+  - best actor in a web series # 4 Events: 2021, 2023-2025
   - best actress # 5 Events: 2020, 2022-2025
   - best actress - comedy series # 1 Event: 2020
   - best actress - critics # 4 Events: 2021-2024
@@ -5950,7 +5950,7 @@ ev0073358: # International Iconic Awards (https://www.imdb.com/event/ev0073358)
   - best supporting actress in a web series # 1 Event: 2024
   - best supporting actress in a web series - critics # 1 Event: 2024
   - best web film # 1 Event: 2024
-  - best web series # 4 Events: 2021-2024
+  - best web series # 5 Events: 2021-2025
   - favourite personality of the year # 1 Event: 2024
   - legendary actor - comedy # 1 Event: 2020
   - legendary actress - comedy # 1 Event: 2020
