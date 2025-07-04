@@ -1,5 +1,9 @@
 # Venice Film Festival
-'2025': {}  # https://www.imdb.com/event/ev0000681/2025/1/
+'2025':  # https://www.imdb.com/event/ev0000681/2025/1/
+  golden lion:
+    best film:
+      nominee: [tt34886821]
+      winner: []
 '2024': # https://www.imdb.com/event/ev0000681/2024/1/
   golden lion:
     best film:
