@@ -1,6 +1,9 @@
 # International Iconic Awards
 '2025':  # https://www.imdb.com/event/ev0073358/2025/1/
   iconic award:
+    best actor:
+      nominee: [tt21626284, tt21626774, tt26932223, tt27056066, tt27510174, tt27852049, tt27922706, tt27995594, tt28153480, tt28259207]
+      winner: []
     best actor in a web film:
       nominee: [tt21626774, tt27028399, tt27721892, tt28075881, tt31115432, tt31522415, tt33246678, tt4501268]
       winner: []
@@ -12,6 +15,9 @@
       winner: []
     best actress in a web series:
       nominee: [tt28106741, tt32235809, tt32537124, tt32832648, tt33083754, tt33098081, tt35657903, tt9680440]
+      winner: []
+    best debut actor:
+      nominee: [tt20854856, tt26439870, tt27056066, tt28259207, tt30422937, tt4501268]
       winner: []
     best film:
       nominee: [tt21383812, tt21626284, tt26932223, tt27056066, tt27510174, tt27922706, tt27995594, tt28089700, tt30970235, tt3562110]
