@@ -1,5 +1,85 @@
 # Primetime Emmy Awards
-'2024':  # https://www.imdb.com/event/ev0000223/2024/1/
+'2025':  # https://www.imdb.com/event/ev0000223/2025/1/
+  primetime emmy:
+    outstanding comedy series:
+      nominee: [tt11691774, tt11815682, tt14218830, tt14452776, tt15677150, tt23649128, tt26933824, tt7908628]
+      winner: []
+    outstanding directing for a comedy series:
+      nominee: [tt10802170, tt11815682, tt14452776, tt23649128, tt32641461]
+      winner: []
+    outstanding directing for a drama series:
+      nominee: [tt11280740, tt13406094, tt31938062, tt5875444, tt9253284]
+      winner: []
+    outstanding directing for a limited or anthology series or movie:
+      nominee: [tt15435876, tt23872886, tt30252752, tt31429675, tt31806037]
+      winner: []
+    outstanding drama series:
+      nominee: [tt11280740, tt13406094, tt17491088, tt27444205, tt31938062, tt3581920, tt5875444, tt9253284]
+      winner: []
+    outstanding lead actor in a comedy series:
+      nominee: [tt11691774, tt14452776, tt15677150, tt23649128, tt26933824]
+      winner: []
+    outstanding lead actor in a drama series:
+      nominee: [tt11280740, tt27444205, tt31938062, tt3581920, tt5875444]
+      winner: []
+    outstanding lead actor in a limited or anthology series or movie:
+      nominee: [tt13207736, tt15435876, tt17677860, tt21638826, tt31806037]
+      winner: []
+    outstanding lead actress in a comedy series:
+      nominee: [tt11815682, tt14218830, tt14452776, tt26933824, tt8740614]
+      winner: []
+    outstanding lead actress in a drama series:
+      nominee: [tt11280740, tt15469618, tt17491088, tt26591147, tt3581920]
+      winner: []
+    outstanding lead actress in a limited or anthology series or movie:
+      nominee: [tt15435876, tt16294384, tt2085059, tt30252752, tt31429675]
+      winner: []
+    outstanding limited or anthology series:
+      nominee: [tt13207736, tt15435876, tt2085059, tt30252752, tt31806037]
+      winner: []
+    outstanding reality competition program:
+      nominee: [tt0239195, tt0285335, tt0765425, tt1353056, tt33347879]
+      winner: []
+    outstanding scripted variety series:
+      nominee: [tt0072562, tt3530232]
+      winner: []
+    outstanding supporting actor in a comedy series:
+      nominee: [tt0072562, tt12759100, tt14452776, tt15677150, tt23649128, tt30826447]
+      winner: []
+    outstanding supporting actor in a drama series:
+      nominee: [tt11280740, tt13406094, tt27444205]
+      winner: []
+    outstanding supporting actor in a limited or anthology series or movie:
+      nominee: [tt13207736, tt17677860, tt30252752, tt31806037]
+      winner: []
+    outstanding supporting actress in a comedy series:
+      nominee: [tt11815682, tt14218830, tt14452776, tt15677150, tt23649128]
+      winner: []
+    outstanding supporting actress in a drama series:
+      nominee: [tt11280740, tt13406094, tt27444205, tt31938062]
+      winner: []
+    outstanding supporting actress in a limited or anthology series or movie:
+      nominee: [tt13207736, tt15435876, tt17677860, tt30252752, tt31806037]
+      winner: []
+    outstanding talk series:
+      nominee: [tt0115147, tt0320037, tt3697842]
+      winner: []
+    outstanding television movie:
+      nominee: [tt11301886, tt13654226, tt28309594, tt32063050, tt35396529]
+      winner: []
+    outstanding writing for a comedy series:
+      nominee: [tt10802170, tt11815682, tt12759100, tt14218830, tt23649128, tt7908628]
+      winner: []
+    outstanding writing for a drama series:
+      nominee: [tt11280740, tt13406094, tt31938062, tt5875444, tt9253284]
+      winner: []
+    outstanding writing for a limited or anthology series or movie:
+      nominee: [tt15435876, tt2085059, tt30252752, tt31122777, tt31806037]
+      winner: []
+    outstanding writing for a variety special:
+      nominee: [tt33813061, tt34874258, tt35445387, tt35469118, tt36473825]
+      winner: []
+'2024': # https://www.imdb.com/event/ev0000223/2024/1/
   primetime emmy:
     exceptional merit in documentary filmmaking:
       nominee: [tt13871094, tt25470468, tt7196012]

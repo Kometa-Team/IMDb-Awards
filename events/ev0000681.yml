@@ -4,6 +4,10 @@
     best film:
       nominee: [tt34886821]
       winner: []
+  venezia classici award:
+    best restored film:
+      nominee: [tt0030643, tt0034461, tt0041487, tt0043787, tt0045098, tt0045693, tt0050086, tt0050301, tt0052957, tt0056193, tt0057522, tt0058279, tt0058316, tt0062367, tt0084549, tt0091495, tt0096894, tt0109066]
+      winner: []
 '2024': # https://www.imdb.com/event/ev0000681/2024/1/
   golden lion:
     best film:

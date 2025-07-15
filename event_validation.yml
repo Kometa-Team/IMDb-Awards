@@ -1754,15 +1754,15 @@ ev0000157: # César Awards, France (https://www.imdb.com/event/ev0000157)
   - most promising actress (meilleur espoir féminin) # 17 Events: 2006-2017, 2019, 2021-2024
   - most promising actress (meilleur jeune espoir féminin) # 25 Events: 1983-2005, 2018, 2020
 ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
-  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
-    '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977', '1976',
-    '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953', '1952', '1951',
-    '1950', '1949']
+  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
+    '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977',
+    '1976', '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953', '1952',
+    '1951', '1950', '1949']
   awards:  # Award Options: Primetime Emmy Awards
   - atas broadcast journalism award # 2 Events: 1977-1978
   - governor's award # 8 Events: 1982, 1991, 1998, 2000, 2002, 2007, 2011, 2018
   - president's award # 2 Events: 1996-1997
-  - primetime emmy # 76 Events: 1949-2024
+  - primetime emmy # 77 Events: 1949-2025
   - special award # 1 Event: 2004
   - trustees award # 1 Event: 1962
   categories: # Category Options: Primetime Emmy Awards
@@ -2223,7 +2223,7 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding classical music program # 2 Events: 1975-1976
   - outstanding classical music-dance program # 6 Events: 1998-2003
   - outstanding classical program in the performing arts # 17 Events: 1977-1993
-  - outstanding comedy series # 57 Events: 1966-1970, 1973-2024
+  - outstanding comedy series # 58 Events: 1966-1970, 1973-2025
   - outstanding comedy-variety or music program # 1 Event: 1979
   - outstanding comedy-variety or music series # 4 Events: 1975-1978
   - outstanding comedy-variety, variety or music special # 1 Event: 1974
@@ -2288,10 +2288,10 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding cultural program # 2 Events: 1994-1995
   - outstanding daytime program # 1 Event: 1962
   - outstanding derivative interactive program # 1 Event: 2020
-  - outstanding directing for a comedy series # 29 Events: 1996-2024
+  - outstanding directing for a comedy series # 30 Events: 1996-2025
   - outstanding directing for a documentary/nonfiction program # 7 Events: 2018-2024
-  - outstanding directing for a drama series # 29 Events: 1996-2024
-  - outstanding directing for a limited or anthology series or movie # 4 Events: 2021-2024
+  - outstanding directing for a drama series # 30 Events: 1996-2025
+  - outstanding directing for a limited or anthology series or movie # 5 Events: 2021-2025
   - outstanding directing for a limited series, movie or a dramatic special # 5 Events: 2015-2019
   - outstanding directing for a limited series, movie or dramatic special # 1 Event: 2020
   - outstanding directing for a miniseries or a movie # 2 Events: 1998-1999
@@ -2333,7 +2333,7 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding documentary or nonfiction series # 12 Events: 2013-2024
   - outstanding documentary or nonfiction special # 12 Events: 2013-2024
   - outstanding drama or comedy special # 2 Events: 1979-1980
-  - outstanding drama series # 51 Events: 1974-2024
+  - outstanding drama series # 52 Events: 1974-2025
   - outstanding drama series - continuing # 1 Event: 1973
   - outstanding drama special # 3 Events: 1981-1983
   - outstanding drama/comedy - limited episodes # 1 Event: 1973
@@ -2505,10 +2505,10 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding interactive extension of a linear program # 1 Event: 2020
   - outstanding interactive program # 8 Events: 2013-2019, 2021
   - outstanding lead actor for a single appearance in a drama or comedy series # 3 Events: 1976-1978
-  - outstanding lead actor in a comedy series # 50 Events: 1975-2024
+  - outstanding lead actor in a comedy series # 51 Events: 1975-2025
   - outstanding lead actor in a drama or comedy special # 3 Events: 1976-1978
-  - outstanding lead actor in a drama series # 50 Events: 1975-2024
-  - outstanding lead actor in a limited or anthology series or movie # 4 Events: 2021-2024
+  - outstanding lead actor in a drama series # 51 Events: 1975-2025
+  - outstanding lead actor in a limited or anthology series or movie # 5 Events: 2021-2025
   - outstanding lead actor in a limited series # 4 Events: 1975-1978
   - outstanding lead actor in a limited series or a movie # 2 Events: 2015-2016
   - outstanding lead actor in a limited series or a special # 7 Events: 1979-1985
@@ -2518,10 +2518,10 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding lead actor in a miniseries or movie # 2 Events: 2007, 2011
   - outstanding lead actor in a special program - drama or comedy # 1 Event: 1975
   - outstanding lead actress for a single appearance in a drama or comedy series # 3 Events: 1976-1978
-  - outstanding lead actress in a comedy series # 50 Events: 1975-2024
+  - outstanding lead actress in a comedy series # 51 Events: 1975-2025
   - outstanding lead actress in a drama or comedy special # 3 Events: 1976-1978
-  - outstanding lead actress in a drama series # 50 Events: 1975-2024
-  - outstanding lead actress in a limited or anthology series or movie # 4 Events: 2021-2024
+  - outstanding lead actress in a drama series # 51 Events: 1975-2025
+  - outstanding lead actress in a limited or anthology series or movie # 5 Events: 2021-2025
   - outstanding lead actress in a limited series # 4 Events: 1975-1978
   - outstanding lead actress in a limited series or a movie # 2 Events: 2015-2016
   - outstanding lead actress in a limited series or a special # 7 Events: 1979-1985
@@ -2547,7 +2547,7 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding lighting direction (electronic, multi-camera) for variety, music or comedy programming # 2 Events: 2009-2010
   - outstanding lighting direction (electronic, multi-camera) for vmc programming # 6 Events: 2002-2003, 2005-2008
   - outstanding lighting direction (electronic, multicamera) for vmc programming # 1 Event: 2001
-  - outstanding limited or anthology series # 4 Events: 2021-2024
+  - outstanding limited or anthology series # 5 Events: 2021-2025
   - outstanding limited series # 18 Events: 1974-1985, 2015-2020
   - outstanding live and tape sound mixing and sound effects for a limited series or a special # 2 Events: 1984-1985
   - outstanding live and tape sound mixing and sound effects for a series # 2 Events: 1984-1985
@@ -2711,11 +2711,11 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding prosthetic makeup for a series, limited series, movie or special # 3 Events: 2018-2020
   - outstanding prosthetic makeup for a series, miniseries, movie or a special # 10 Events: 2005-2014
   - outstanding reality - competition program # 3 Events: 2009-2011
-  - outstanding reality competition program # 4 Events: 2016-2017, 2023-2024
+  - outstanding reality competition program # 5 Events: 2016-2017, 2023-2025
   - outstanding reality program # 10 Events: 2004-2013
   - outstanding reality-competition program # 11 Events: 2004-2008, 2012-2015, 2018-2019
   - outstanding reality/competition program # 1 Event: 2003
-  - outstanding scripted variety series # 2 Events: 2023-2024
+  - outstanding scripted variety series # 3 Events: 2023-2025
   - outstanding series - comedy # 2 Events: 1971-1972
   - outstanding series - drama # 2 Events: 1971-1972
   - outstanding short form animated program # 7 Events: 2016-2022
@@ -2840,10 +2840,10 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding stunt performance # 4 Events: 2021-2024
   - outstanding supporting actor in a comedy or comedy-variety or music series # 1 Event: 1979
   - outstanding supporting actor in a comedy or variety or music series # 3 Events: 1980-1982
-  - outstanding supporting actor in a comedy series # 41 Events: 1984-2024
+  - outstanding supporting actor in a comedy series # 42 Events: 1984-2025
   - outstanding supporting actor in a comedy, variety or music series # 1 Event: 1983
-  - outstanding supporting actor in a drama series # 46 Events: 1979-2024
-  - outstanding supporting actor in a limited or anthology series or movie # 4 Events: 2021-2024
+  - outstanding supporting actor in a drama series # 47 Events: 1979-2025
+  - outstanding supporting actor in a limited or anthology series or movie # 5 Events: 2021-2025
   - outstanding supporting actor in a limited series or a movie # 2 Events: 2015-2016
   - outstanding supporting actor in a limited series or a special # 7 Events: 1979-1985
   - outstanding supporting actor in a limited series or movie # 4 Events: 2017-2020
@@ -2852,17 +2852,17 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding supporting actor in a miniseries or movie # 2 Events: 2007, 2011
   - outstanding supporting actress in a comedy or comedy-variety or music series # 1 Event: 1979
   - outstanding supporting actress in a comedy or variety or music series # 3 Events: 1980-1982
-  - outstanding supporting actress in a comedy series # 41 Events: 1984-2024
+  - outstanding supporting actress in a comedy series # 42 Events: 1984-2025
   - outstanding supporting actress in a comedy, variety or music series # 1 Event: 1983
-  - outstanding supporting actress in a drama series # 46 Events: 1979-2024
-  - outstanding supporting actress in a limited or anthology series or movie # 4 Events: 2021-2024
+  - outstanding supporting actress in a drama series # 47 Events: 1979-2025
+  - outstanding supporting actress in a limited or anthology series or movie # 5 Events: 2021-2025
   - outstanding supporting actress in a limited series or a movie # 2 Events: 2015-2016
   - outstanding supporting actress in a limited series or a special # 7 Events: 1979-1985
   - outstanding supporting actress in a limited series or movie # 4 Events: 2017-2020
   - outstanding supporting actress in a miniseries or a movie # 13 Events: 1998-2006, 2008, 2012-2014
   - outstanding supporting actress in a miniseries or a special # 12 Events: 1986-1997
   - outstanding supporting actress in a miniseries or movie # 4 Events: 2007, 2009-2011
-  - outstanding talk series # 2 Events: 2023-2024
+  - outstanding talk series # 3 Events: 2023-2025
   - outstanding tape sound mixing for a series # 1 Event: 1983
   - outstanding tape sound mixing for limited series # 1 Event: 1983
   - outstanding technical direction and camerawork for a series # 2 Events: 2023-2024
@@ -2885,7 +2885,7 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding technical direction/electronic camera/video control for a limited series or a special # 1 Event: 1985
   - outstanding technical direction/electronic camera/video control for a miniseries or a special # 3 Events: 1986-1988
   - outstanding technical direction/electronic camerawork/video control for a series # 4 Events: 1985-1988
-  - outstanding television movie # 11 Events: 2014-2024
+  - outstanding television movie # 12 Events: 2014-2025
   - outstanding unstructured reality program # 11 Events: 2014-2024
   - outstanding variety musical series # 1 Event: 1973
   - outstanding variety or music program # 1 Event: 1980
@@ -2923,9 +2923,9 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding writing achievement in the documentary field # 3 Events: 1960-1962
   - outstanding writing achievement in variety # 2 Events: 1966-1967
   - outstanding writing achievement in variety or music # 3 Events: 1971-1973
-  - outstanding writing for a comedy series # 28 Events: 1996-2012, 2014-2024
-  - outstanding writing for a drama series # 30 Events: 1995-2024
-  - outstanding writing for a limited or anthology series or movie # 4 Events: 2021-2024
+  - outstanding writing for a comedy series # 29 Events: 1996-2012, 2014-2025
+  - outstanding writing for a drama series # 31 Events: 1995-2025
+  - outstanding writing for a limited or anthology series or movie # 5 Events: 2021-2025
   - outstanding writing for a limited series, movie or a dramatic special # 5 Events: 2015-2019
   - outstanding writing for a limited series, movie or dramatic special # 1 Event: 2020
   - outstanding writing for a miniseries or a movie # 4 Events: 1998-2001
@@ -2934,7 +2934,7 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding writing for a nonfiction program # 7 Events: 2018-2024
   - outstanding writing for a variety or music program # 4 Events: 1996-1999
   - outstanding writing for a variety series # 13 Events: 2012-2024
-  - outstanding writing for a variety special # 13 Events: 2012-2024
+  - outstanding writing for a variety special # 14 Events: 2012-2025
   - outstanding writing for a variety, music or comedy program # 9 Events: 2000-2008
   - outstanding writing for a variety, music or comedy series # 3 Events: 2009-2011
   - outstanding writing for a variety, music or comedy special # 3 Events: 2009-2011
@@ -4830,7 +4830,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - unimed award # 5 Events: 2017-2019, 2022-2023
   - unimed prize for cultural diversity # 2 Events: 2023-2024
   - upstream prize # 2 Events: 2002-2003
-  - venezia classici award # 10 Events: 2013-2019, 2022-2024
+  - venezia classici award # 11 Events: 2013-2019, 2022-2025
   - venezia genti - best feature film # 2 Events: 1984-1985
   - venezia genti - best short film # 1 Event: 1985
   - venezia giovani prize # 1 Event: 1972
@@ -4970,7 +4970,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - best production manager in an italian film # 2 Events: 2017, 2020
   - best prop maker # 1 Event: 2024
   - best psychological film # 1 Event: 1935
-  - best restored film # 9 Events: 2013-2017, 2019, 2022-2024
+  - best restored film # 10 Events: 2013-2017, 2019, 2022-2025
   - best revelation # 1 Event: 2014
   - best scientific film # 2 Events: 1936-1937
   - best score # 14 Events: 1947-1952, 1987-1989, 1991, 1993, 1996-1998
