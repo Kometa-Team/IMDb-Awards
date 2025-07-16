@@ -1,11 +1,71 @@
 # Primetime Emmy Awards
 '2025':  # https://www.imdb.com/event/ev0000223/2025/1/
   primetime emmy:
+    exceptional merit in documentary filmmaking:
+      nominee: [tt19811010, tt28620587, tt30342963]
+      winner: []
+    outstanding animated program:
+      nominee: [tt0096697, tt11126994, tt1561755, tt28093628, tt9561862]
+      winner: []
+    outstanding casting for a comedy series:
+      nominee: [tt11691774, tt11815682, tt14452776, tt15677150, tt23649128]
+      winner: []
+    outstanding casting for a drama series:
+      nominee: [tt11280740, tt13406094, tt31938062, tt3581920, tt5875444]
+      winner: []
+    outstanding casting for a limited or anthology series or movie:
+      nominee: [tt13207736, tt15435876, tt2085059, tt30252752, tt31806037]
+      winner: []
+    outstanding casting for a reality program:
+      nominee: [tt0239195, tt0285335, tt1353056, tt19037550, tt7259746]
+      winner: []
+    outstanding character voice-over performance:
+      nominee: [tt0096697, tt10168312, tt6524350, tt6741278, tt8740790, tt9253284]
+      winner: []
+    outstanding choreography for scripted programming:
+      nominee: [tt11280740, tt17543592, tt27613329, tt31433814, tt8740790]
+      winner: []
+    outstanding choreography for variety or reality programming:
+      nominee: [tt32322559, tt33354100, tt33552770, tt34510105, tt35144655]
+      winner: []
+    outstanding cinematography for a limited or anthology series or movie:
+      nominee: [tt15435876, tt16294384, tt23872886, tt24069848, tt31806037]
+      winner: []
+    outstanding cinematography for a nonfiction program:
+      nominee: [tt14126234, tt30321133, tt30443317, tt30835095, tt4295140]
+      winner: []
+    outstanding cinematography for a reality program:
+      nominee: [tt0239195, tt0285335, tt15557874, tt19037550, tt2964642]
+      winner: []
+    outstanding cinematography for a series (half-hour):
+      nominee: [tt11815682, tt23649128, tt31589662, tt8634332, tt8962124]
+      winner: []
+    outstanding cinematography for a series (one hour):
+      nominee: [tt11280740, tt13406094, tt24053860, tt27613329, tt8888462, tt9253284]
+      winner: []
     outstanding comedy series:
       nominee: [tt11691774, tt11815682, tt14218830, tt14452776, tt15677150, tt23649128, tt26933824, tt7908628]
       winner: []
+    outstanding commercial:
+      nominee: [tt34572436, tt35310058, tt37531231, tt37593384, tt37593488, tt37593490]
+      winner: []
+    outstanding contemporary costumes for a limited or anthology series or movie:
+      nominee: [tt12306692, tt15435876, tt30252752, tt31429675, tt31806037]
+      winner: []
+    outstanding contemporary costumes for a series:
+      nominee: [tt11815682, tt13406094, tt23649128, tt8634332, tt8962124]
+      winner: []
+    outstanding contemporary hairstyling:
+      nominee: [tt11815682, tt13406094, tt14218830, tt15435876, tt23649128, tt8962124]
+      winner: []
+    outstanding contemporary makeup (non-prosthetic):
+      nominee: [tt11691774, tt13406094, tt15435876, tt31458276, tt3581920]
+      winner: []
     outstanding directing for a comedy series:
       nominee: [tt10802170, tt11815682, tt14452776, tt23649128, tt32641461]
+      winner: []
+    outstanding directing for a documentary/nonfiction program:
+      nominee: [tt14419140, tt27902121, tt30321133, tt34965967, tt35076584]
       winner: []
     outstanding directing for a drama series:
       nominee: [tt11280740, tt13406094, tt31938062, tt5875444, tt9253284]
@@ -13,8 +73,56 @@
     outstanding directing for a limited or anthology series or movie:
       nominee: [tt15435876, tt23872886, tt30252752, tt31429675, tt31806037]
       winner: []
+    outstanding directing for a reality program:
+      nominee: [tt0285335, tt0765425, tt1353056, tt19037550]
+      winner: []
+    outstanding directing for a variety series:
+      nominee: [tt0115147, tt0320037, tt3530232, tt3697842]
+      winner: []
+    outstanding directing for a variety special:
+      nominee: [tt29392285, tt33354100, tt33552770, tt35144655, tt35469118, tt35635144]
+      winner: []
+    outstanding documentary or nonfiction series:
+      nominee: [tt11691160, tt14126234, tt32376945, tt34978735, tt4295140]
+      winner: []
+    outstanding documentary or nonfiction special:
+      nominee: [tt14419140, tt16227044, tt26424928, tt30321133, tt34965967]
+      winner: []
     outstanding drama series:
       nominee: [tt11280740, tt13406094, tt17491088, tt27444205, tt31938062, tt3581920, tt5875444, tt9253284]
+      winner: []
+    outstanding emerging media program:
+      nominee: [tt29298455, tt35469118, tt35729124]
+      winner: []
+    outstanding fantasy/sci-fi costumes:
+      nominee: [tt10466872, tt11198330, tt15571732, tt2085059, tt9253284]
+      winner: []
+    outstanding game show:
+      nominee: [tt0068120, tt0072584, tt0159881, tt12057284, tt1249208]
+      winner: []
+    outstanding guest actor in a comedy series:
+      nominee: [tt14452776, tt23649128]
+      winner: []
+    outstanding guest actor in a drama series:
+      nominee: [tt1190634, tt13406094, tt31938062, tt3581920, tt9253284]
+      winner: []
+    outstanding guest actress in a comedy series:
+      nominee: [tt11815682, tt14269590, tt14452776, tt23649128]
+      winner: []
+    outstanding guest actress in a drama series:
+      nominee: [tt11280740, tt3581920, tt5834204]
+      winner: []
+    outstanding hairstyling for a variety, nonfiction or reality program:
+      nominee: [tt0319931, tt0463398, tt18182112, tt35469118, tt6289132]
+      winner: []
+    outstanding host for a game show:
+      nominee: [tt0159881, tt10038600, tt12057284, tt1249208, tt32367963]
+      winner: []
+    outstanding host for a reality or reality competition program:
+      nominee: [tt0239195, tt0765425, tt1353056, tt1442550, tt15557874]
+      winner: []
+    outstanding hosted nonfiction series or special:
+      nominee: [tt2326517, tt27790101, tt30443317, tt36986906, tt7829834]
       winner: []
     outstanding lead actor in a comedy series:
       nominee: [tt11691774, tt14452776, tt15677150, tt23649128, tt26933824]
@@ -34,14 +142,161 @@
     outstanding lead actress in a limited or anthology series or movie:
       nominee: [tt15435876, tt16294384, tt2085059, tt30252752, tt31429675]
       winner: []
+    outstanding lighting design/lighting direction for a series:
+      nominee: [tt0072562, tt0319931, tt0463398, tt1353056, tt1839337]
+      winner: []
+    outstanding lighting design/lighting direction for a special:
+      nominee: [tt33654173, tt34510105, tt35469118, tt35635144]
+      winner: []
     outstanding limited or anthology series:
       nominee: [tt13207736, tt15435876, tt2085059, tt30252752, tt31806037]
       winner: []
+    outstanding makeup for a variety, nonfiction or reality program:
+      nominee: [tt0463398, tt1353056, tt32322559, tt33427273, tt35469118, tt6289132]
+      winner: []
+    outstanding music composition for a documentary series or special (original dramatic score):
+      nominee: [tt27739990, tt27902121, tt31259169, tt32869282, tt4295140]
+      winner: []
+    outstanding music composition for a limited or anthology series, movie or special (original dramatic score):
+      nominee: [tt13207736, tt13699132, tt15435876, tt2085059, tt30252752]
+      winner: []
+    outstanding music composition for a series (original dramatic score):
+      nominee: [tt11280740, tt13406094, tt19500224, tt23649128, tt7221388, tt9253284]
+      winner: []
+    outstanding music direction:
+      nominee: [tt32986430, tt33354100, tt33552770, tt35469118, tt35635144]
+      winner: []
+    outstanding music supervision:
+      nominee: [tt11280740, tt11815682, tt23649128, tt3581920, tt8634332]
+      winner: []
+    outstanding narrator:
+      nominee: [tt23181400, tt27739990, tt29529730, tt32869282, tt35984846]
+      winner: []
+    outstanding original main title theme music:
+      nominee: [tt10466872, tt13406094, tt27995114, tt28454008, tt30459041, tt8740614]
+      winner: []
+    outstanding original music and lyrics:
+      nominee: [tt1190634, tt15571732, tt30321133, tt35469118, tt9253284]
+      winner: []
+    outstanding performer in a short form comedy or drama series:
+      nominee: [tt0115147, tt10726424, tt32082636]
+      winner: []
+    outstanding period costumes:
+      nominee: [tt13207736, tt18335752, tt24069848, tt3556920, tt8740790]
+      winner: []
+    outstanding period or fantasy/sci-fi hairstyling:
+      nominee: [tt11198330, tt13207736, tt3960394, tt7908628, tt8740790]
+      winner: []
+    outstanding period or fantasy/sci-fi makeup (non-prosthetic):
+      nominee: [tt11198330, tt13207736, tt3960394, tt7908628, tt8634332]
+      winner: []
+    outstanding picture editing for a drama series:
+      nominee: [tt11280740, tt13406094, tt3581920, tt9253284]
+      winner: []
+    outstanding picture editing for a limited or anthology series or movie:
+      nominee: [tt13654226, tt15435876, tt2085059, tt31806037, tt9603060]
+      winner: []
+    outstanding picture editing for a multi-camera comedy series:
+      nominee: [tt10945036, tt14124236, tt32641461, tt8595140]
+      winner: []
+    outstanding picture editing for a nonfiction program:
+      nominee: [tt14419140, tt27902121, tt30321133, tt32937646, tt34978735, tt35076584]
+      winner: []
+    outstanding picture editing for a single-camera comedy series:
+      nominee: [tt10802170, tt11815682, tt14452776, tt23649128, tt7908628]
+      winner: []
+    outstanding picture editing for a structured reality or competition program:
+      nominee: [tt0285335, tt1353056, tt15557874, tt1839337, tt7259746]
+      winner: []
+    outstanding picture editing for an unstructured reality program:
+      nominee: [tt0446809, tt14674086, tt1588754, tt19037550, tt2964642]
+      winner: []
+    outstanding picture editing for variety programming:
+      nominee: [tt33350315, tt33813061, tt34686029, tt34874258, tt35445387]
+      winner: []
+    outstanding picture editing for variety programming (segment):
+      nominee: [tt0115147, tt3530232, tt35469118]
+      winner: []
+    outstanding production design for a narrative contemporary program (one hour or more):
+      nominee: [tt11280740, tt13406094, tt15435876, tt3581920, tt8740614]
+      winner: []
+    outstanding production design for a narrative period or fantasy program (one hour or more):
+      nominee: [tt10466872, tt18335752, tt8740790, tt8888462, tt9253284]
+      winner: []
+    outstanding production design for a narrative program (half-hour):
+      nominee: [tt11691774, tt11815682, tt23649128, tt32641461, tt7908628]
+      winner: []
+    outstanding production design for a variety or reality series:
+      nominee: [tt0072562, tt0115147, tt0320037, tt1353056, tt3530232]
+      winner: []
+    outstanding production design for a variety special:
+      nominee: [tt33552770, tt34510105, tt35144655, tt35469118, tt35635144]
+      winner: []
+    outstanding prosthetic makeup:
+      nominee: [tt0072562, tt11198330, tt15435876, tt31938062, tt3581920]
+      winner: []
     outstanding reality competition program:
-      nominee: [tt0239195, tt0285335, tt0765425, tt1353056, tt33347879]
+      nominee: [tt0239195, tt0285335, tt0765425, tt1353056, tt15557874]
       winner: []
     outstanding scripted variety series:
       nominee: [tt0072562, tt3530232]
+      winner: []
+    outstanding short form comedy, drama or variety series:
+      nominee: [tt0115147, tt21228928, tt37595482]
+      winner: []
+    outstanding short form nonfiction or reality series:
+      nominee: [tt27478132, tt33241427, tt37594665, tt37594672, tt37594680]
+      winner: []
+    outstanding sound editing for a comedy or drama series (half-hour):
+      nominee: [tt12262202, tt14452776, tt15571732, tt23649128, tt8634332]
+      winner: []
+    outstanding sound editing for a comedy or drama series (one hour):
+      nominee: [tt11280740, tt31938062, tt3581920, tt9253284]
+      winner: []
+    outstanding sound editing for a limited or anthology series, movie or special:
+      nominee: [tt13654226, tt15435876, tt2085059, tt31806037, tt9603060]
+      winner: []
+    outstanding sound editing for a nonfiction or reality program:
+      nominee: [tt14126234, tt14419140, tt26420234, tt33986138, tt34978735]
+      winner: []
+    outstanding sound editing for an animated program:
+      nominee: [tt10168312, tt11126994, tt33204697, tt9184820, tt9561862]
+      winner: []
+    outstanding sound mixing for a comedy or drama series (half-hour) and animation:
+      nominee: [tt11691774, tt14452776, tt15677150, tt23649128, tt32641461]
+      winner: []
+    outstanding sound mixing for a comedy or drama series (one hour):
+      nominee: [tt11280740, tt13406094, tt31938062, tt3581920, tt9253284]
+      winner: []
+    outstanding sound mixing for a limited or anthology series or movie:
+      nominee: [tt13207736, tt15435876, tt2085059, tt23872886, tt31806037]
+      winner: []
+    outstanding sound mixing for a nonfiction program (single or multi-camera):
+      nominee: [tt14126234, tt14419140, tt26420234, tt33986138, tt34280353]
+      winner: []
+    outstanding sound mixing for a reality program:
+      nominee: [tt0285335, tt0319931, tt0446809, tt14674086, tt1839337]
+      winner: []
+    outstanding sound mixing for a variety series or special:
+      nominee: [tt0115147, tt33552770, tt34510105, tt35469118, tt35635144]
+      winner: []
+    outstanding special visual effects in a season or a movie:
+      nominee: [tt10466872, tt11198330, tt3581920, tt7631058, tt9253284]
+      winner: []
+    outstanding special visual effects in a single episode:
+      nominee: [tt11280740, tt1312171, tt15435876, tt2085059, tt8740614]
+      winner: []
+    outstanding structured reality program:
+      nominee: [tt0159847, tt1020913, tt11704040, tt1442550, tt7259746]
+      winner: []
+    outstanding stunt coordination for comedy programming:
+      nominee: [tt11691774, tt14269590, tt16358384, tt7221388, tt8634332]
+      winner: []
+    outstanding stunt coordination for drama programming:
+      nominee: [tt1190634, tt13111078, tt15435876, tt7587890, tt9742936]
+      winner: []
+    outstanding stunt performance:
+      nominee: [tt11280740, tt1190634, tt15435876, tt7587890, tt9742936]
       winner: []
     outstanding supporting actor in a comedy series:
       nominee: [tt0072562, tt12759100, tt14452776, tt15677150, tt23649128, tt30826447]
@@ -64,8 +319,26 @@
     outstanding talk series:
       nominee: [tt0115147, tt0320037, tt3697842]
       winner: []
+    outstanding technical direction and camerawork for a series:
+      nominee: [tt0072562, tt0115147, tt1839337, tt26672652, tt35630627]
+      winner: []
+    outstanding technical direction and camerawork for a special:
+      nominee: [tt32322559, tt33654173, tt34227632, tt35469118, tt35931046, tt36283800]
+      winner: []
     outstanding television movie:
       nominee: [tt11301886, tt13654226, tt28309594, tt32063050, tt35396529]
+      winner: []
+    outstanding title design:
+      nominee: [tt11198330, tt11280740, tt15435876, tt19231492, tt21831910]
+      winner: []
+    outstanding unstructured reality program:
+      nominee: [tt14674086, tt1588754, tt19037550, tt31091039, tt32146518]
+      winner: []
+    outstanding variety special (live):
+      nominee: [tt33354100, tt33552770, tt35144655, tt35469118, tt35635144]
+      winner: []
+    outstanding variety special (pre-recorded):
+      nominee: [tt33081211, tt33350315, tt33813061, tt34686029, tt35445387, tt36473825]
       winner: []
     outstanding writing for a comedy series:
       nominee: [tt10802170, tt11815682, tt12759100, tt14218830, tt23649128, tt7908628]
@@ -75,6 +348,12 @@
       winner: []
     outstanding writing for a limited or anthology series or movie:
       nominee: [tt15435876, tt2085059, tt30252752, tt31122777, tt31806037]
+      winner: []
+    outstanding writing for a nonfiction program:
+      nominee: [tt16227044, tt27790101, tt27902121, tt32937646, tt36986906]
+      winner: []
+    outstanding writing for a variety series:
+      nominee: [tt0072562, tt0115147, tt3530232]
       winner: []
     outstanding writing for a variety special:
       nominee: [tt33813061, tt34874258, tt35445387, tt35469118, tt36473825]
