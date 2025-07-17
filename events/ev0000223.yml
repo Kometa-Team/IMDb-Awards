@@ -59,7 +59,7 @@
       nominee: [tt11815682, tt13406094, tt14218830, tt15435876, tt23649128, tt8962124]
       winner: []
     outstanding contemporary makeup (non-prosthetic):
-      nominee: [tt11691774, tt13406094, tt15435876, tt31458276, tt3581920]
+      nominee: [tt11691774, tt13406094, tt15435876, tt31458276, tt31938062, tt3581920]
       winner: []
     outstanding directing for a comedy series:
       nominee: [tt10802170, tt11815682, tt14452776, tt23649128, tt32641461]
@@ -74,7 +74,7 @@
       nominee: [tt15435876, tt23872886, tt30252752, tt31429675, tt31806037]
       winner: []
     outstanding directing for a reality program:
-      nominee: [tt0285335, tt0765425, tt1353056, tt19037550]
+      nominee: [tt0285335, tt0765425, tt1353056, tt15557874, tt19037550]
       winner: []
     outstanding directing for a variety series:
       nominee: [tt0115147, tt0320037, tt3530232, tt3697842]
@@ -167,7 +167,7 @@
       nominee: [tt32986430, tt33354100, tt33552770, tt35469118, tt35635144]
       winner: []
     outstanding music supervision:
-      nominee: [tt11280740, tt11815682, tt23649128, tt3581920, tt8634332]
+      nominee: [tt11280740, tt11815682, tt13406094, tt23649128, tt3581920, tt8634332]
       winner: []
     outstanding narrator:
       nominee: [tt23181400, tt27739990, tt29529730, tt32869282, tt35984846]
@@ -194,7 +194,7 @@
       nominee: [tt11280740, tt13406094, tt3581920, tt9253284]
       winner: []
     outstanding picture editing for a limited or anthology series or movie:
-      nominee: [tt13654226, tt15435876, tt2085059, tt31806037, tt9603060]
+      nominee: [tt13207736, tt15435876, tt31429675]
       winner: []
     outstanding picture editing for a multi-camera comedy series:
       nominee: [tt10945036, tt14124236, tt32641461, tt8595140]
@@ -202,7 +202,7 @@
     outstanding picture editing for a nonfiction program:
       nominee: [tt14419140, tt27902121, tt30321133, tt32937646, tt34978735, tt35076584]
       winner: []
-    outstanding picture editing for a single-camera comedy series:
+    outstanding picture editing for a single camera comedy series:
       nominee: [tt10802170, tt11815682, tt14452776, tt23649128, tt7908628]
       winner: []
     outstanding picture editing for a structured reality or competition program:
@@ -329,7 +329,7 @@
       nominee: [tt11301886, tt13654226, tt28309594, tt32063050, tt35396529]
       winner: []
     outstanding title design:
-      nominee: [tt11198330, tt11280740, tt15435876, tt19231492, tt21831910]
+      nominee: [tt11198330, tt11280740, tt13406094, tt15435876, tt19231492, tt21831910]
       winner: []
     outstanding unstructured reality program:
       nominee: [tt14674086, tt1588754, tt19037550, tt31091039, tt32146518]
