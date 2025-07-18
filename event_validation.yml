@@ -2800,7 +2800,8 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding sound mixing for a miniseries or a special # 2 Events: 1986, 1989
   - outstanding sound mixing for a non-fiction program # 2 Events: 1998, 2001
   - outstanding sound mixing for a nonfiction or reality program (single or multi-camera) # 3 Events: 2020-2022
-  - outstanding sound mixing for a nonfiction program (single or multi-camera) # 6 Events: 2016, 2018-2019, 2023-2025
+  - outstanding sound mixing for a nonfiction program # 1 Event: 2025
+  - outstanding sound mixing for a nonfiction program (single or multi-camera) # 5 Events: 2016, 2018-2019, 2023-2024
   - outstanding sound mixing for a reality program # 2 Events: 2024-2025
   - outstanding sound mixing for a reality program (single or multi-camera) # 1 Event: 2023
   - outstanding sound mixing for a variety or music series or a special # 11 Events: 1986-1991, 1995-1999
@@ -5527,6 +5528,7 @@ ev0005699: # Zee Rishtey Awards (https://www.imdb.com/event/ev0005699)
   awards:  # Award Options: Zee Rishtey Awards
   - zee rishtey award # 15 Events: 2007-2024
   categories: # Category Options: Zee Rishtey Awards
+  - best bhai-behen # 1 Event: 2024
   - best director # 1 Event: 2021
   - best jodi # 1 Event: 2018
   - best show # 1 Event: 2018
