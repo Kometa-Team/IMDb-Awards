@@ -1,5 +1,10 @@
 # Toronto International Film Festival
-'2024':  # https://www.imdb.com/event/ev0000659/2024/1/
+'2025':  # https://www.imdb.com/event/ev0000659/2025/1/
+  platform award:
+    platform award:
+      nominee: [tt29283995, tt30235784, tt32352280, tt32985279, tt35519445, tt35746682, tt37661864, tt37661875, tt37661885, tt37661902]
+      winner: []
+'2024': # https://www.imdb.com/event/ev0000659/2024/1/
   people's choice award:
     best film:
       nominee: [tt12908150, tt18691614, tt19783734, tt20221436, tt22023622, tt28607951, tt31350080, tt32890130]
