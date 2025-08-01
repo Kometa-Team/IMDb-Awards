@@ -3887,7 +3887,7 @@
 '1972': # https://www.imdb.com/event/ev0000245/1972/1/
   filmfare award:
     best actor:
-      nominee: [tt0065936, tt0066763, tt0232081]
+      nominee: [tt0065936, tt0066763, tt0148375, tt0232081]
       winner: [tt0066763]
     best actress:
       nominee: [tt0065936, tt0067164, tt0166008]

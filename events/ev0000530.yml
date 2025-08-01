@@ -179,21 +179,12 @@
     favorite comedy movie star:
       nominee: [tt6264654]
       winner: []
-    favorite drama tv star:
-      nominee: [tt0203259, tt0413573, tt10293938, tt11242246, tt1520211, tt5555260, tt7235466]
-      winner: [tt10293938]
     favorite female movie star:
       nominee: [tt2452150, tt3480822, tt5433138, tt6334354, tt6802400, tt8385148, tt9376612]
       winner: [tt3480822]
-    favorite female tv star:
-      nominee: [tt0203259, tt0413573, tt11242246, tt5555260, tt7018644, tt7235466, tt9140560]
-      winner: [tt0413573]
     favorite male movie star:
       nominee: [tt0870154, tt2382320, tt5433138, tt6264654, tt6802400, tt9376612, tt9777666]
       winner: [tt0870154]
-    favorite male tv star:
-      nominee: [tt0072562, tt10293938, tt10986410, tt11639952, tt1520211, tt5555260, tt9140554, tt9208876]
-      winner: [tt9140554]
     favorite movie:
       nominee: [tt1160419, tt2382320, tt3480822, tt5433138, tt6802400, tt7097896, tt9376612, tt9777666]
       winner: [tt3480822]
@@ -203,6 +194,12 @@
     the bingeworthy show of 2021:
       nominee: [tt10155688, tt10293938, tt10839422, tt10919420, tt10986410, tt13406094, tt7221388, tt9140554]
       winner: [tt10919420]
+    the comedy movie of 2021:
+      nominee: [tt0870154, tt10121392, tt3554046, tt3626476, tt4590256, tt6264654, tt6802400, tt8385148]
+      winner: [tt6264654]
+    the comedy movie star of 2021:
+      nominee: [tt0870154, tt10121392, tt6264654, tt6802400, tt8385148]
+      winner: [tt0870154]
     the comedy show of 2021:
       nominee: [tt0072562, tt10062292, tt10945036, tt10986410, tt11639952, tt11691774, tt2467372, tt7018644]
       winner: [tt10062292]
@@ -217,16 +214,16 @@
       winner: [tt0413573]
     the drama tv star of 2021:
       nominee: [tt0203259, tt0413573, tt10293938, tt11242246, tt1520211, tt5555260, tt7235466]
-      winner: []
+      winner: [tt10293938]
     the family movie of 2021:
       nominee: [tt10155932, tt12801262, tt1361336, tt5109280, tt6338498, tt6932874, tt7979580, tt8521876]
       winner: [tt12801262]
     the female tv star of 2021:
       nominee: [tt0203259, tt0413573, tt11242246, tt5555260, tt7018644, tt7235466, tt9140560]
-      winner: []
+      winner: [tt0413573]
     the male tv star of 2021:
       nominee: [tt0072562, tt10293938, tt10986410, tt11639952, tt1520211, tt5555260, tt9140554, tt9208876]
-      winner: []
+      winner: [tt9140554]
     the sci-fi/fantasy show of 2021:
       nominee: [tt11192306, tt11640018, tt2403776, tt3107288, tt4052886, tt9140554, tt9140560, tt9208876]
       winner: [tt4052886]

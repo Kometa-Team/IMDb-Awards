@@ -1857,18 +1857,12 @@
       winner: [tt5538118]
 '2016': # https://www.imdb.com/event/ev0000091/2016/1/
   golden berlin bear:
-    best film:
-      nominee: [tt2249039]
-      winner: []
-    best short film:
-      nominee: [tt5039776, tt5485874]
-      winner: [tt5485874]
     golden berlin bear:
       nominee: [tt1703957, tt2249039, tt2649554, tt3026488, tt3082854, tt3652526, tt4120176, tt4331970, tt4466648, tt4704422, tt4780842, tt4842296, tt5011242, tt5333110, tt5369484, tt5446858, tt5463378, tt5470448]
       winner: [tt3652526]
   silver berlin bear:
     best actor:
-      nominee: [tt4704422, tt5011242]
+      nominee: [tt5011242]
       winner: [tt5011242]
     best actress:
       nominee: [tt3082854]
@@ -1923,10 +1917,7 @@
       winner: [tt5087312]
   teddy:
     best documentary film:
-      nominee: [tt2634548, tt5275838, tt5291970, tt5338832, tt5372600, tt5433586, tt5477402, tt5486818, tt5992118]
-      winner: []
-    best documentary/essay film:
-      nominee: [tt5278598]
+      nominee: [tt2634548, tt5275838, tt5278598, tt5291970, tt5338832, tt5372600, tt5433586, tt5477402, tt5486818, tt5992118]
       winner: [tt5278598]
     best feature film:
       nominee: [tt4331970, tt4919484, tt5144374, tt5432188, tt5628012]
@@ -1953,14 +1944,14 @@
       nominee: [tt5490440]
       winner: [tt5490440]
     panorama:
-      nominee: [tt5065810, tt5457252]
+      nominee: [tt5065810]
       winner: [tt5065810]
   prize of the ecumenical jury:
     competition:
       nominee: [tt3652526]
       winner: [tt3652526]
     forum:
-      nominee: [tt5354986, tt5435084, tt5490380]
+      nominee: [tt5435084, tt5490380]
       winner: [tt5435084, tt5490380]
     panorama:
       nominee: [tt5072542]
@@ -2054,10 +2045,6 @@
     audi short film award:
       nominee: [tt5474494]
       winner: [tt5474494]
-  forum:
-    best film:
-      nominee: [tt4432980]
-      winner: []
   golden berlin bear for best short film:
     golden berlin bear for best short film:
       nominee: [tt4190832, tt4689772, tt4791372, tt4843072, tt4977492, tt5028880, tt5039776, tt5143802, tt5314026, tt5337568, tt5339812, tt5348550, tt5389642, tt5437010, tt5444462, tt5460434, tt5465728, tt5474494, tt5485874, tt5502972, tt5529020, tt5555498, tt5559226, tt5559238, tt5559278]
@@ -2078,6 +2065,9 @@
     animation film:
       nominee: [tt13171208]
       winner: [tt13171208]
+    documentary film:
+      nominee: [tt14122234]
+      winner: [tt14122234]
 '2015': # https://www.imdb.com/event/ev0000091/2015/1/
   golden berlin bear:
     best short film:

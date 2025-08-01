@@ -158,6 +158,10 @@
       nominee: [tt12004706, tt12719250, tt15204292, tt26658272, tt9814458]
       winner: [tt12719250]
 '2024': # https://www.imdb.com/event/ev0000361/2024/1/
+  international indian film academy award:
+    best sound design:
+      nominee: [tt15732324]
+      winner: []
   iifa award:
     best actor in a leading role:
       nominee: [tt10786774, tt13751694, tt14993250, tt15354916, tt15441054, tt23849204]

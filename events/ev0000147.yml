@@ -562,6 +562,10 @@
     label europa cinemas:
       nominee: [tt13482828]
       winner: [tt13482828]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt15713008, tt19845700, tt19889104, tt19931202, tt19932882, tt20223306, tt20223332, tt20223392, tt20223436]
+      winner: []
   fipresci prize:
     competition:
       nominee: [tt19653180]
@@ -616,6 +620,10 @@
     un certain regard - screenplay prize:
       nominee: [tt19785426]
       winner: [tt19785426]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt10375396, tt11448830, tt11460816, tt11698800, tt13391708, tt13482828, tt13841850, tt14212090, tt14300504, tt15307126, tt15329224, tt15732372, tt18397006, tt19711858, tt19758012, tt19758084, tt19783912, tt19783948, tt19785552, tt20223278, tt8174412, tt8923444, tt9455468]
+      winner: []
   critics' week grand prize:
     critics' week grand prize:
       nominee: [tt13925988, tt14981626, tt19768016, tt19768056, tt19768694, tt19768760, tt19770238]
@@ -728,6 +736,10 @@
     label europa cinemas:
       nominee: [tt14324296]
       winner: [tt14324296]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt14812792, tt14812796, tt14812798, tt14812800, tt14812804, tt14812810, tt14812812, tt14812822, tt9464038]
+      winner: []
   fipresci prize:
     competition:
       nominee: [tt14039582]
@@ -794,6 +806,10 @@
     best composer:
       nominee: [tt12708658, tt6217926]
       winner: [tt12708658, tt6217926]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt10088984, tt10732462, tt11338144, tt11379572, tt11559472, tt11873472, tt12637442, tt13736078, tt13830148, tt13846494, tt14050808, tt14064662, tt14081460, tt14324296, tt14812778, tt14812780, tt14812782, tt14812784, tt14812786, tt14812788, tt6920356, tt6992978, tt8434110, tt9348908]
+      winner: []
   critics' week grand prize:
     critics' week grand prize:
       nominee: [tt10589738, tt13145186, tt13482806, tt13926310, tt14805128, tt4440842, tt9737568]
@@ -2684,6 +2700,10 @@
     sfr prize:
       nominee: [tt1568866]
       winner: [tt1568866]
+  sacd short film award:
+    directors' fortnight:
+      nominee: [tt1315346, tt1327942, tt1352351, tt1410029, tt1425254, tt1453239, tt1472129, tt1475249, tt1483833, tt1569360, tt2097302, tt2287799, tt2746156, tt3717688]
+      winner: []
   unifrance short film grand prize:
     unifrance short film grand prize:
       nominee: [tt1368992]
@@ -2742,6 +2762,10 @@
     palm dog:
       nominee: [tt1049413]
       winner: [tt1049413]
+  sacd prize:
+    directors' fortnight:
+      nominee: [tt0488319, tt0964185, tt1045772, tt1075110, tt1077262, tt1149363, tt1190858, tt1194238, tt1275891, tt1314237, tt1334537, tt1353793, tt1354564, tt1392888, tt1410207, tt1426357, tt1426361, tt1426362, tt1426364, tt1426370, tt1426371, tt1426372, tt1426380, tt1568866]
+      winner: []
 '2008': # https://www.imdb.com/event/ev0000147/2008/1/
   palme d'or:
     palme d'or:
@@ -6605,6 +6629,10 @@
     kodak short film award:
       nominee: [tt1066452]
       winner: []
+  fipresci prize:
+    competition:
+      nominee: [tt0054159]
+      winner: [tt0054159]
   ocic award:
     ocic award:
       nominee: [tt0057654, tt0058450]
@@ -7051,6 +7079,10 @@
     grand prize of the festival:
       nominee: [tt0043306, tt0044312, tt0044497, tt0044509, tt0044528, tt0044564, tt0044574, tt0044646, tt0044799, tt0044867, tt0045169, tt0045260, tt0045283, tt0045361, tt0045541, tt0045554, tt0045592, tt0045595, tt0045897, tt0046000, tt0046183, tt0046214, tt0046233, tt0046268, tt0046366, tt0046384, tt0046487, tt0047066, tt0097526, tt0174067, tt0194714, tt0201741, tt0206046, tt0246640, tt0812400]
       winner: [tt0046268]
+  jury prize:
+    prix du film d'art:
+      nominee: [tt37242334]
+      winner: [tt37242334]
   international prize:
     adventure film:
       nominee: [tt0045595]

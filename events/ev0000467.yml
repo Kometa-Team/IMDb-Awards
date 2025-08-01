@@ -3830,6 +3830,9 @@
     best playback singer (male):
       nominee: [tt0292309]
       winner: [tt0292309]
+    best short fiction:
+      nominee: [tt37674321]
+      winner: [tt37674321]
     best supporting actor:
       nominee: [tt0254394]
       winner: [tt0254394]
@@ -4261,6 +4264,9 @@
     best cinematography:
       nominee: [tt0078381, tt0235522]
       winner: [tt0078381, tt0235522]
+    best experimental film:
+      nominee: [tt37673490]
+      winner: [tt37673490]
     best playback singer (female):
       nominee: [tt0140448]
       winner: [tt0140448]
@@ -4849,6 +4855,9 @@
       winner: [tt0269261]
 '1959': # https://www.imdb.com/event/ev0000467/1959/1/
   president's gold medal:
+    best actor:
+      nominee: [tt0051792]
+      winner: [tt0051792]
     best film:
       nominee: [tt0156987]
       winner: [tt0156987]
@@ -4937,3 +4946,13 @@
     certificate of merit:
       nominee: [tt0045693]
       winner: [tt0045693]
+  regional award:
+    best feature film in malayalam:
+      nominee: [tt0155906]
+      winner: [tt0155906]
+    best feature film in tamil:
+      nominee: [tt0325777]
+      winner: [tt0325777]
+    best feature film in telugu:
+      nominee: [tt0266844]
+      winner: [tt0266844]

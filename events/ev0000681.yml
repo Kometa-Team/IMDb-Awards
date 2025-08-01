@@ -72,7 +72,7 @@
       nominee: [tt28522171]
       winner: [tt28522171]
     best short film:
-      nominee: [tt23249208, tt31995855, tt32365707, tt32897489, tt32989921, tt33015158, tt33015167, tt33322078]
+      nominee: [tt23249208, tt31995855, tt32365707, tt32897489, tt32989921, tt33015158, tt33015167, tt33130934, tt33322078, tt33381478, tt34422420]
       winner: [tt33015167]
     special jury prize:
       nominee: [tt33030347]
@@ -8317,7 +8317,7 @@
 '1960': # https://www.imdb.com/event/ev0000681/1960/1/
   golden lion:
     golden lion:
-      nominee: [tt0053114, tt0053570, tt0053604, tt0053628, tt0053756, tt0054004, tt0054039, tt0054161, tt0054229, tt0054248, tt0054272, tt0054412, tt0054659, tt0056667, tt0175743]
+      nominee: [tt0053114, tt0053570, tt0053604, tt0053628, tt0053756, tt0054004, tt0054039, tt0054161, tt0054229, tt0054248, tt0054272, tt0054412, tt0056667, tt0175743]
       winner: [tt0054161]
   special jury prize:
     special jury prize:

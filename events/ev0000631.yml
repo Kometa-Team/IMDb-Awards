@@ -488,8 +488,8 @@
 '2021': # https://www.imdb.com/event/ev0000631/2021/1/
   grand jury prize:
     documentary:
-      nominee: [tt10741846, tt11422728, tt13609638, tt13622074, tt13622084, tt13622168, tt13622250, tt13648160, tt13652238, tt8710506]
-      winner: [tt11422728]
+      nominee: [tt10741846, tt13609638, tt13622074, tt13622084, tt13622168, tt13622250, tt13648160, tt13652238, tt7378922, tt8710506]
+      winner: [tt7378922]
     dramatic:
       nominee: [tt10366460, tt11160650, tt11271800, tt11285280, tt11307724, tt11433048, tt11741044, tt12373414, tt13559026, tt8893974]
       winner: [tt10366460]
@@ -522,8 +522,8 @@
       winner: [tt11160650]
   audience award:
     documentary:
-      nominee: [tt11422728]
-      winner: [tt11422728]
+      nominee: [tt7378922]
+      winner: [tt7378922]
     dramatic:
       nominee: [tt10366460]
       winner: [tt10366460]
