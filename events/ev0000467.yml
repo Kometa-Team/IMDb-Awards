@@ -1,5 +1,32 @@
 # National Film Awards, India
-'2024':  # https://www.imdb.com/event/ev0000467/2024/1/
+'2025':  # https://www.imdb.com/event/ev0000467/2025/1/
+  golden lotus award:
+    best feature film:
+      nominee: [tt23849204]
+      winner: [tt23849204]
+    best popular film providing wholesome entertainment:
+      nominee: [tt14993250]
+      winner: [tt14993250]
+  silver lotus award:
+    best actor:
+      nominee: [tt15354916, tt23849204]
+      winner: [tt15354916, tt23849204]
+    best actress:
+      nominee: [tt14295590]
+      winner: [tt14295590]
+    best choreography:
+      nominee: [tt14993250]
+      winner: [tt14993250]
+    best cinematography:
+      nominee: [tt24268454]
+      winner: [tt24268454]
+    best music direction - background score:
+      nominee: [tt13751694]
+      winner: [tt13751694]
+    best music direction - songs:
+      nominee: [tt15427980]
+      winner: [tt15427980]
+'2024': # https://www.imdb.com/event/ev0000467/2024/1/
   golden lotus award:
     best debut film of a director:
       nominee: [tt27794632]
