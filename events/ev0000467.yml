@@ -1,6 +1,9 @@
 # National Film Awards, India
 '2025':  # https://www.imdb.com/event/ev0000467/2025/1/
   golden lotus award:
+    best director:
+      nominee: [tt24268454]
+      winner: [tt24268454]
     best feature film:
       nominee: [tt23849204]
       winner: [tt23849204]
