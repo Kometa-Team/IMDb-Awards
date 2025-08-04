@@ -23,12 +23,46 @@
     best cinematography:
       nominee: [tt24268454]
       winner: [tt24268454]
+    best feature film in malayalam:
+      nominee: [tt32537777]
+      winner: [tt32537777]
+    best feature film in tai phake:
+      nominee: [tt37786003]
+      winner: [tt37786003]
+    best feature film promoting national, social and environment values:
+      nominee: [tt10786774]
+      winner: [tt10786774]
+    best film in avgc:
+      nominee: [tt15433956]
+      winner: [tt15433956]
     best music direction - background score:
       nominee: [tt13751694]
       winner: [tt13751694]
     best music direction - songs:
       nominee: [tt15427980]
       winner: [tt15427980]
+    best playback singer (female):
+      nominee: [tt15354916]
+      winner: [tt15354916]
+    best playback singer (male):
+      nominee: [tt16118524]
+      winner: [tt16118524]
+    best screenplay (dialogues):
+      nominee: [tt24485052]
+      winner: [tt24485052]
+    best screenplay (original):
+      nominee: [tt16118524, tt28184712]
+      winner: [tt16118524, tt28184712]
+    best supporting actor:
+      nominee: [tt21071620]
+      winner: [tt21071620]
+    best supporting actress:
+      nominee: [tt26331750, tt32537777]
+      winner: [tt26331750, tt32537777]
+  national film award:
+    best cinematography in non-feature category:
+      nominee: [tt28979269]
+      winner: [tt28979269]
 '2024': # https://www.imdb.com/event/ev0000467/2024/1/
   golden lotus award:
     best debut film of a director:
