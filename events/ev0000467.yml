@@ -1,16 +1,25 @@
 # National Film Awards, India
 '2025':  # https://www.imdb.com/event/ev0000467/2025/1/
   golden lotus award:
+    best children's film:
+      nominee: [tt29437878]
+      winner: [tt29437878]
+    best debut film of a director:
+      nominee: [tt26541225]
+      winner: [tt26541225]
     best director:
       nominee: [tt24268454]
       winner: [tt24268454]
     best feature film:
       nominee: [tt23849204]
       winner: [tt23849204]
-    best popular film providing wholesome entertainment:
+    best feature film providing wholesome entertainment:
       nominee: [tt14993250]
       winner: [tt14993250]
   silver lotus award:
+    best action choreography:
+      nominee: [tt15433956]
+      winner: [tt15433956]
     best actor:
       nominee: [tt15354916, tt23849204]
       winner: [tt15354916, tt23849204]
@@ -23,6 +32,12 @@
     best cinematography:
       nominee: [tt24268454]
       winner: [tt24268454]
+    best costume design:
+      nominee: [tt10786774]
+      winner: [tt10786774]
+    best editing:
+      nominee: [tt21071620]
+      winner: [tt21071620]
     best feature film in malayalam:
       nominee: [tt32537777]
       winner: [tt32537777]
@@ -35,6 +50,12 @@
     best film in avgc:
       nominee: [tt15433956]
       winner: [tt15433956]
+    best lyrics:
+      nominee: [tt26690825]
+      winner: [tt26690825]
+    best makeup artist:
+      nominee: [tt10786774]
+      winner: [tt10786774]
     best music direction - background score:
       nominee: [tt13751694]
       winner: [tt13751694]
@@ -47,22 +68,117 @@
     best playback singer (male):
       nominee: [tt16118524]
       winner: [tt16118524]
+    best production design:
+      nominee: [tt9006564]
+      winner: [tt9006564]
     best screenplay (dialogues):
       nominee: [tt24485052]
       winner: [tt24485052]
     best screenplay (original):
       nominee: [tt16118524, tt28184712]
       winner: [tt16118524, tt28184712]
+    best sound design:
+      nominee: [tt13751694]
+      winner: [tt13751694]
     best supporting actor:
-      nominee: [tt21071620]
-      winner: [tt21071620]
+      nominee: [tt21071620, tt28184712]
+      winner: [tt21071620, tt28184712]
     best supporting actress:
       nominee: [tt26331750, tt32537777]
       winner: [tt26331750, tt32537777]
+  regional award:
+    best feature film in assamese:
+      nominee: [tt30210404]
+      winner: [tt30210404]
+    best feature film in bengali:
+      nominee: [tt29705996]
+      winner: [tt29705996]
+    best feature film in hindi:
+      nominee: [tt18413766]
+      winner: [tt18413766]
+    best feature film in kannada:
+      nominee: [tt37803828]
+      winner: [tt37803828]
+    best feature film in malayalam:
+      nominee: [tt32537777]
+      winner: [tt32537777]
+    best feature film in marathi:
+      nominee: [tt15464490]
+      winner: [tt15464490]
+    best feature film in tamil:
+      nominee: [tt28184712]
+      winner: [tt28184712]
+    best feature film in telugu:
+      nominee: [tt21810110]
+      winner: [tt21810110]
+    best garo film:
+      nominee: [tt28297544]
+      winner: [tt28297544]
+    best gujarati film:
+      nominee: [tt26331750]
+      winner: [tt26331750]
+    best odia film:
+      nominee: [tt28862282]
+      winner: [tt28862282]
+    best punjabi film:
+      nominee: [tt26772032]
+      winner: [tt26772032]
+    best tai phake film:
+      nominee: [tt37786003]
+      winner: [tt37786003]
+    special mention:
+      nominee: [tt13751694]
+      winner: [tt13751694]
   national film award:
     best cinematography in non-feature category:
       nominee: [tt28979269]
       winner: [tt28979269]
+  non-feature films award:
+    best arts/culture film:
+      nominee: [tt37803849]
+      winner: [tt37803849]
+    best biographical film:
+      nominee: [tt32985467]
+      winner: [tt32985467]
+    best cinematography in a non-feature film:
+      nominee: [tt28979269]
+      winner: [tt28979269]
+    best debut non-feature film of a director:
+      nominee: [tt29712783]
+      winner: [tt29712783]
+    best direction:
+      nominee: [tt30146242]
+      winner: [tt30146242]
+    best documentary:
+      nominee: [tt30476878]
+      winner: [tt30476878]
+    best editing in a non-feature film:
+      nominee: [tt29703426]
+      winner: [tt29703426]
+    best music director for a non-feature film:
+      nominee: [tt30146242]
+      winner: [tt30146242]
+    best narration/voice over:
+      nominee: [tt37804288]
+      winner: [tt37804288]
+    best non feature film promoting social and environmental values:
+      nominee: [tt29438302]
+      winner: [tt29438302]
+    best non-feature film:
+      nominee: [tt29455939]
+      winner: [tt29455939]
+    best script:
+      nominee: [tt28493138]
+      winner: [tt28493138]
+    best short film:
+      nominee: [tt28153892]
+      winner: [tt28153892]
+    best sound design:
+      nominee: [tt37804297]
+      winner: [tt37804297]
+    special mention:
+      nominee: [tt29712850, tt37804018]
+      winner: [tt29712850, tt37804018]
 '2024': # https://www.imdb.com/event/ev0000467/2024/1/
   golden lotus award:
     best debut film of a director:
