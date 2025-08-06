@@ -32,7 +32,7 @@
     best cinematography:
       nominee: [tt24268454]
       winner: [tt24268454]
-    best costume design:
+    best costume designer:
       nominee: [tt10786774]
       winner: [tt10786774]
     best editing:
@@ -129,21 +129,17 @@
     special mention:
       nominee: [tt13751694]
       winner: [tt13751694]
-  national film award:
-    best cinematography in non-feature category:
-      nominee: [tt28979269]
-      winner: [tt28979269]
   non-feature films award:
     best arts/culture film:
       nominee: [tt37803849]
       winner: [tt37803849]
-    best biographical film:
+    best biographical/historical reconstruction/compilation film:
       nominee: [tt32985467]
       winner: [tt32985467]
-    best cinematography in a non-feature film:
+    best cinematography:
       nominee: [tt28979269]
       winner: [tt28979269]
-    best debut non-feature film of a director:
+    best debut film of a director:
       nominee: [tt29712783]
       winner: [tt29712783]
     best direction:
@@ -152,10 +148,10 @@
     best documentary:
       nominee: [tt30476878]
       winner: [tt30476878]
-    best editing in a non-feature film:
+    best editing:
       nominee: [tt29703426]
       winner: [tt29703426]
-    best music director for a non-feature film:
+    best music direction:
       nominee: [tt30146242]
       winner: [tt30146242]
     best narration/voice over:
