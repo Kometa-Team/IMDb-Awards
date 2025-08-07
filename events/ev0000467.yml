@@ -17,9 +17,6 @@
       nominee: [tt14993250]
       winner: [tt14993250]
   silver lotus award:
-    best action choreography:
-      nominee: [tt15433956]
-      winner: [tt15433956]
     best actor:
       nominee: [tt15354916, tt23849204]
       winner: [tt15354916, tt23849204]
@@ -38,15 +35,12 @@
     best editing:
       nominee: [tt21071620]
       winner: [tt21071620]
-    best feature film in malayalam:
-      nominee: [tt32537777]
-      winner: [tt32537777]
-    best feature film in tai phake:
-      nominee: [tt37786003]
-      winner: [tt37786003]
     best feature film promoting national, social and environment values:
       nominee: [tt10786774]
       winner: [tt10786774]
+    best female playback singer:
+      nominee: [tt15354916]
+      winner: [tt15354916]
     best film in avgc:
       nominee: [tt15433956]
       winner: [tt15433956]
@@ -56,18 +50,15 @@
     best makeup artist:
       nominee: [tt10786774]
       winner: [tt10786774]
+    best male playback singer:
+      nominee: [tt16118524]
+      winner: [tt16118524]
     best music direction - background score:
       nominee: [tt13751694]
       winner: [tt13751694]
     best music direction - songs:
       nominee: [tt15427980]
       winner: [tt15427980]
-    best playback singer (female):
-      nominee: [tt15354916]
-      winner: [tt15354916]
-    best playback singer (male):
-      nominee: [tt16118524]
-      winner: [tt16118524]
     best production design:
       nominee: [tt9006564]
       winner: [tt9006564]
@@ -80,6 +71,9 @@
     best sound design:
       nominee: [tt13751694]
       winner: [tt13751694]
+    best stunt direction:
+      nominee: [tt15433956]
+      winner: [tt15433956]
     best supporting actor:
       nominee: [tt21071620, tt28184712]
       winner: [tt21071620, tt28184712]
@@ -87,36 +81,30 @@
       nominee: [tt26331750, tt32537777]
       winner: [tt26331750, tt32537777]
   regional award:
-    best feature film in assamese:
+    best assamese film:
       nominee: [tt30210404]
       winner: [tt30210404]
-    best feature film in bengali:
+    best bengali film:
       nominee: [tt29705996]
       winner: [tt29705996]
-    best feature film in hindi:
-      nominee: [tt18413766]
-      winner: [tt18413766]
-    best feature film in kannada:
-      nominee: [tt37803828]
-      winner: [tt37803828]
-    best feature film in malayalam:
-      nominee: [tt32537777]
-      winner: [tt32537777]
-    best feature film in marathi:
-      nominee: [tt15464490]
-      winner: [tt15464490]
-    best feature film in tamil:
-      nominee: [tt28184712]
-      winner: [tt28184712]
-    best feature film in telugu:
-      nominee: [tt21810110]
-      winner: [tt21810110]
     best garo film:
       nominee: [tt28297544]
       winner: [tt28297544]
     best gujarati film:
       nominee: [tt26331750]
       winner: [tt26331750]
+    best hindi film:
+      nominee: [tt18413766]
+      winner: [tt18413766]
+    best kannada film:
+      nominee: [tt37803828]
+      winner: [tt37803828]
+    best malayalam film:
+      nominee: [tt32537777]
+      winner: [tt32537777]
+    best marathi film:
+      nominee: [tt15464490]
+      winner: [tt15464490]
     best odia film:
       nominee: [tt28862282]
       winner: [tt28862282]
@@ -126,6 +114,12 @@
     best tai phake film:
       nominee: [tt37786003]
       winner: [tt37786003]
+    best tamil film:
+      nominee: [tt28184712]
+      winner: [tt28184712]
+    best telugu film:
+      nominee: [tt21810110]
+      winner: [tt21810110]
     special mention:
       nominee: [tt13751694]
       winner: [tt13751694]

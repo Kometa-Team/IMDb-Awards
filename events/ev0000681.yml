@@ -13,12 +13,19 @@
       nominee: [tt37655085]
       winner: []
   venezia classici award:
+    best documentary on cinema:
+      nominee: [tt18259698, tt33008332, tt34621966, tt36909787, tt37654454, tt37675862, tt37675869, tt37675871, tt37675876]
+      winner: []
     best restored film:
       nominee: [tt0030643, tt0034461, tt0041487, tt0043787, tt0045098, tt0045693, tt0050086, tt0050301, tt0052957, tt0056193, tt0057522, tt0058279, tt0058316, tt0062367, tt0084549, tt0091495, tt0096894, tt0109066]
       winner: []
   sic@sic short italian cinema alla settimana internazionale della critica:
     best short film:
       nominee: [tt37647068, tt37647333, tt37672363, tt37681017, tt37681028]
+      winner: []
+  venice immersive grand prize:
+    venice immersive grand prize:
+      nominee: [tt37599374, tt37600020, tt37600156]
       winner: []
 '2024': # https://www.imdb.com/event/ev0000681/2024/1/
   golden lion:
