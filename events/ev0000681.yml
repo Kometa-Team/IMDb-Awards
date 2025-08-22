@@ -8,9 +8,16 @@
     best film:
       nominee: [tt13938804, tt15435004, tt28084384, tt28876088, tt31778123, tt32298494, tt32399285, tt33023305, tt33292601, tt33305621, tt35674521, tt36948837, tt37660493, tt37660506, tt37660507, tt37660509, tt37660512, tt37660515, tt37660518]
       winner: []
+    best short film:
+      nominee: [tt13267368, tt35822429, tt37513803, tt37601667, tt37601758, tt37605217, tt37673190, tt37673210, tt37673245, tt37673263, tt37673294, tt37673295, tt37673307, tt37673380]
+      winner: []
   critics' week award:
     best film:
       nominee: [tt37655085]
+      winner: []
+  queer lion award:
+    queer lion award:
+      nominee: [tt32159989, tt33023305, tt33400312, tt37599468, tt37600141, tt37660509]
       winner: []
   venezia classici award:
     best documentary on cinema:
@@ -23,9 +30,13 @@
     best short film:
       nominee: [tt37647068, tt37647333, tt37672363, tt37681017, tt37681028]
       winner: []
+  giornate degli autori award:
+    giornate degli autori award:
+      nominee: [tt33400312]
+      winner: []
   venice immersive grand prize:
     venice immersive grand prize:
-      nominee: [tt29298555, tt35546573, tt36751688, tt37598829, tt37599374, tt37599382, tt37599493, tt37600020, tt37600091, tt37600096, tt37600103, tt37600137, tt37600146, tt37600156, tt37600170]
+      nominee: [tt29298555, tt35546573, tt36751688, tt37598829, tt37599374, tt37599382, tt37599468, tt37599493, tt37600020, tt37600091, tt37600096, tt37600103, tt37600137, tt37600141, tt37600146, tt37600156, tt37600170]
       winner: []
 '2024': # https://www.imdb.com/event/ev0000681/2024/1/
   golden lion:
