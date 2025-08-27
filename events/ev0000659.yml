@@ -1,5 +1,15 @@
 # Toronto International Film Festival
 '2025':  # https://www.imdb.com/event/ev0000659/2025/1/
+  imdbpro short cuts:
+    imdbpro short cuts award for best animated film:
+      nominee: [tt36956820, tt37844385]
+      winner: []
+    imdbpro short cuts award for best canadian film:
+      nominee: [tt32516461, tt33307473, tt34615501, tt37599545, tt37835848, tt37835851, tt37842648, tt37842711, tt37843479, tt37843939, tt37844416]
+      winner: []
+    imdbpro short cuts award for best film:
+      nominee: [tt31834881, tt32986823, tt34798924, tt35598137, tt36582083, tt36693324, tt36724188, tt36724190, tt36724191, tt37513534, tt37798645, tt37842647, tt37843932, tt37844247]
+      winner: []
   platform award:
     platform award:
       nominee: [tt29283995, tt30235784, tt32352280, tt32985279, tt35519445, tt35746682, tt36543744, tt37661864, tt37661885, tt37661902]
