@@ -1094,10 +1094,6 @@
     circolo del cinema di verona award:
       nominee: [tt14188642]
       winner: [tt14188642]
-  campari passion for the cinema award:
-    campari passion for the cinema award:
-      nominee: [tt5344054]
-      winner: []
   edipo re award (università degli studi di padova e resint rete dell'economia sociale internazionale):
     edipo re award (università degli studi di padova e resint rete dell'economia sociale internazionale):
       nominee: [tt15132224]
@@ -3244,6 +3240,10 @@
     best film in competition:
       nominee: [tt2371824]
       winner: [tt2371824]
+  best cinematography:
+    world's longest one-take film:
+      nominee: [tt21856148]
+      winner: [tt21856148]
   aif - for film fest award:
     aif - for film fest award:
       nominee: [tt2290934]

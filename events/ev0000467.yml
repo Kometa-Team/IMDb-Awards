@@ -2496,6 +2496,9 @@
       winner: [tt0983990]
 '2006': # https://www.imdb.com/event/ev0000467/2006/1/
   golden lotus award:
+    best animation film:
+      nominee: [tt37675040]
+      winner: [tt37675040]
     best children's film:
       nominee: [tt0457802]
       winner: [tt0457802]
@@ -2561,6 +2564,9 @@
       nominee: [tt0446266]
       winner: [tt0446266]
   regional award:
+    best feature film in assamese:
+      nominee: [tt37844495]
+      winner: [tt37844495]
     best feature film in hindi:
       nominee: [tt0375611]
       winner: [tt0375611]
@@ -3514,6 +3520,9 @@
       nominee: [tt0140412]
       winner: [tt0140412]
   special mention:
+    non-feature film:
+      nominee: [tt37724457]
+      winner: [tt37724457]
     special mention:
       nominee: [tt0113311]
       winner: [tt0113311]
@@ -4084,6 +4093,9 @@
     best director:
       nominee: [tt0092557]
       winner: [tt0092557]
+    best short fiction film:
+      nominee: [tt2361493]
+      winner: [tt2361493]
 '1986': # https://www.imdb.com/event/ev0000467/1986/1/
   golden lotus award:
     best direction:
