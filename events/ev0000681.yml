@@ -3,14 +3,55 @@
   golden lion:
     best film:
       nominee: [tt11214558, tt12300742, tt1312221, tt1527793, tt27811632, tt30446847, tt30874362, tt31065630, tt31189315, tt31415482, tt32376165, tt32386654, tt32907482, tt33396536, tt34819091, tt34886821, tt36243564, tt36874833, tt36943034, tt37660578, tt37660587]
-      winner: []
+      winner: [tt31189315]
+  silver lion:
+    best director:
+      nominee: [tt11214558]
+      winner: [tt11214558]
+    grand jury prize:
+      nominee: [tt36943034]
+      winner: [tt36943034]
+  special jury prize:
+    special jury prize:
+      nominee: [tt36874833]
+      winner: [tt36874833]
+  golden osella:
+    best screenplay:
+      nominee: [tt37660587]
+      winner: [tt37660587]
+  volpi cup:
+    best actor:
+      nominee: [tt34886821]
+      winner: [tt34886821]
+    best actress:
+      nominee: [tt32907482]
+      winner: [tt32907482]
+  luigi de laurentiis award:
+    best debut film:
+      nominee: [tt32283654]
+      winner: [tt32283654]
   venice horizons award:
+    best actor:
+      nominee: [tt31778123]
+      winner: [tt31778123]
+    best actress:
+      nominee: [tt33292601]
+      winner: [tt33292601]
+    best director:
+      nominee: [tt37660512]
+      winner: [tt37660512]
     best film:
       nominee: [tt15435004, tt28084384, tt28876088, tt31778123, tt32298494, tt32399285, tt33023305, tt33292601, tt33305621, tt35674521, tt36948837, tt37660493, tt37660506, tt37660507, tt37660509, tt37660512, tt37660515, tt37660518, tt38045572]
-      winner: []
+      winner: [tt37660509]
+    best screenplay:
+      nominee: [tt38045572]
+      winner: [tt38045572]
     best short film:
       nominee: [tt13267368, tt35822429, tt37513803, tt37601667, tt37601758, tt37605217, tt37673190, tt37673210, tt37673245, tt37673263, tt37673294, tt37673295, tt37673307, tt37673380]
-      winner: []
+      winner: [tt37673380]
+    special jury prize:
+      nominee: [tt37660506]
+      winner: [tt37660506]
   critics' week award:
     best film:
       nominee: [tt29630535, tt33046039, tt35890662, tt37645474, tt37655085, tt37673712, tt37678610]
@@ -22,10 +63,18 @@
   venezia classici award:
     best documentary on cinema:
       nominee: [tt18259698, tt33008332, tt34621966, tt36909787, tt37654454, tt37675862, tt37675869, tt37675871, tt37675876]
-      winner: []
+      winner: [tt37675869]
     best restored film:
       nominee: [tt0030643, tt0034461, tt0041487, tt0043787, tt0045098, tt0045693, tt0050086, tt0050301, tt0052957, tt0056193, tt0057522, tt0058279, tt0058316, tt0062367, tt0084549, tt0091495, tt0096894, tt0109066]
-      winner: []
+      winner: [tt0096894]
+  marcello mastrioanno award:
+    best young actor or actress:
+      nominee: [tt27811632]
+      winner: [tt27811632]
+  audience award - armani beauty (orizzonti extra):
+    audience award - armani beauty (orizzonti extra):
+      nominee: [tt32429174]
+      winner: [tt32429174]
   sic@sic short italian cinema alla settimana internazionale della critica:
     best short film:
       nominee: [tt37647068, tt37647333, tt37672363, tt37681017, tt37681028]
@@ -34,10 +83,17 @@
     giornate degli autori award:
       nominee: [tt15181334, tt29135677, tt32283654, tt32622406, tt33400312, tt35093403, tt37670940, tt37814864]
       winner: []
+  venice immersive:
+    immersive achievement prize:
+      nominee: [tt37600137]
+      winner: [tt37600137]
+    special jury prize:
+      nominee: [tt37600096]
+      winner: [tt37600096]
   venice immersive grand prize:
     venice immersive grand prize:
       nominee: [tt29298555, tt35546573, tt36751688, tt37598829, tt37599374, tt37599382, tt37599468, tt37599493, tt37600020, tt37600091, tt37600096, tt37600103, tt37600114, tt37600137, tt37600141, tt37600146, tt37600156, tt37600170]
-      winner: []
+      winner: [tt29298555]
 '2024': # https://www.imdb.com/event/ev0000681/2024/1/
   golden lion:
     best film:
