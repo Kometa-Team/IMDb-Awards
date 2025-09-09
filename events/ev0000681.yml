@@ -52,6 +52,17 @@
     special jury prize:
       nominee: [tt37660506]
       winner: [tt37660506]
+  fipresci prize:
+    competition:
+      nominee: [tt27811632]
+      winner: [tt27811632]
+    orizzonti and parallel sections:
+      nominee: [tt35890662]
+      winner: [tt35890662]
+  unicef award:
+    unicef award:
+      nominee: [tt36943034]
+      winner: [tt36943034]
   critics' week award:
     best film:
       nominee: [tt29630535, tt33046039, tt35890662, tt37645474, tt37655085, tt37673712, tt37678610]
@@ -60,6 +71,14 @@
     queer lion award:
       nominee: [tt15181334, tt32159989, tt33023305, tt33350512, tt33400312, tt37599468, tt37600141, tt37660509, tt37678610]
       winner: []
+  special award:
+    best american feature script:
+      nominee: [tt27434692]
+      winner: [tt27434692]
+  green drop award:
+    green drop award:
+      nominee: [tt12300742, tt27811632]
+      winner: [tt12300742, tt27811632]
   venezia classici award:
     best documentary on cinema:
       nominee: [tt18259698, tt33008332, tt34621966, tt36909787, tt37654454, tt37675862, tt37675869, tt37675871, tt37675876]
@@ -67,10 +86,41 @@
     best restored film:
       nominee: [tt0030643, tt0034461, tt0041487, tt0043787, tt0045098, tt0045693, tt0050086, tt0050301, tt0052957, tt0056193, tt0057522, tt0058279, tt0058316, tt0062367, tt0084549, tt0091495, tt0096894, tt0109066]
       winner: [tt0096894]
+  leoncino d'oro agiscuola award:
+    leoncino d'oro agiscuola award:
+      nominee: [tt36943034]
+      winner: [tt36943034]
+  leoncino d'oro agiscuola award - cinema for unicef:
+    leoncino d'oro agiscuola award - cinema for unicef:
+      nominee: [tt36943034]
+      winner: [tt36943034]
+  arca cinemagiovani award:
+    best film in competition:
+      nominee: [tt36943034]
+      winner: [tt36943034]
+    best italian film in venice:
+      nominee: [tt34886821]
+      winner: [tt34886821]
+  cict-unesco enrico fulchignoni award:
+    cict-unesco enrico fulchignoni award:
+      nominee: [tt36943034]
+      winner: [tt36943034]
+  sorriso diverso venezia award:
+    best film in a foreign language:
+      nominee: [tt36943034]
+      winner: [tt36943034]
   marcello mastrioanno award:
     best young actor or actress:
       nominee: [tt27811632]
       winner: [tt27811632]
+  la pellicola d'oro award:
+    best production manager:
+      nominee: [tt34886821]
+      winner: [tt34886821]
+  edipo re award (università degli studi di padova e resint rete dell'economia sociale internazionale):
+    edipo re award (università degli studi di padova e resint rete dell'economia sociale internazionale):
+      nominee: [tt27811632, tt36943034]
+      winner: [tt27811632, tt36943034]
   audience award - armani beauty (orizzonti extra):
     audience award - armani beauty (orizzonti extra):
       nominee: [tt32429174]
@@ -81,8 +131,8 @@
       winner: []
   giornate degli autori award:
     giornate degli autori award:
-      nominee: [tt15181334, tt29135677, tt32283654, tt32622406, tt33400312, tt35093403, tt37670940, tt37814864]
-      winner: []
+      nominee: [tt15181334, tt29135677, tt32283654, tt32622406, tt33400312, tt35093403, tt37670940, tt37814864, tt38075057]
+      winner: [tt38075057]
   venice immersive:
     immersive achievement prize:
       nominee: [tt37600137]
@@ -94,6 +144,14 @@
     venice immersive grand prize:
       nominee: [tt29298555, tt35546573, tt36751688, tt37598829, tt37599374, tt37599382, tt37599468, tt37599493, tt37600020, tt37600091, tt37600096, tt37600103, tt37600114, tt37600137, tt37600141, tt37600146, tt37600156, tt37600170]
       winner: [tt29298555]
+  impact golden globes prize for documentary:
+    impact golden globes prize for documentary:
+      nominee: [tt37660544]
+      winner: [tt37660544]
+  croce rossa italiana award:
+    croce rossa italiana award:
+      nominee: [tt36943034]
+      winner: [tt36943034]
 '2024': # https://www.imdb.com/event/ev0000681/2024/1/
   golden lion:
     best film:
