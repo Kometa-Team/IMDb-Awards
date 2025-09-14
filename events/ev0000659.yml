@@ -1,19 +1,57 @@
 # Toronto International Film Festival
 '2025':  # https://www.imdb.com/event/ev0000659/2025/1/
+  people's choice award:
+    best film:
+      nominee: [tt14905854]
+      winner: [tt14905854]
+    documentary:
+      nominee: [tt33350479]
+      winner: [tt33350479]
+    midnight madness:
+      nominee: [tt35522483]
+      winner: [tt35522483]
+  best canadian feature film:
+    best canadian feature film:
+      nominee: [tt35449355]
+      winner: [tt35449355]
+  netpac award:
+    netpac award:
+      nominee: [tt36390021]
+      winner: [tt36390021]
+  short cuts award - honorable mention:
+    short cuts award - honorable mention:
+      nominee: [tt36724191]
+      winner: [tt36724191]
   imdbpro short cuts:
     imdbpro short cuts award for best animated film:
       nominee: [tt36592131, tt36724193, tt36956820, tt37505195, tt37507660, tt37673263, tt37844385, tt37844425]
-      winner: []
+      winner: [tt36592131]
     imdbpro short cuts award for best canadian film:
       nominee: [tt32516461, tt32740047, tt33307473, tt34615501, tt36022809, tt37599545, tt37834734, tt37835848, tt37835851, tt37842648, tt37842711, tt37843082, tt37843479, tt37843939, tt37844412, tt37844416, tt37844437]
       winner: []
     imdbpro short cuts award for best film:
       nominee: [tt31834881, tt32986823, tt34365258, tt34798924, tt35598137, tt36582083, tt36590525, tt36671959, tt36693324, tt36724188, tt36724190, tt36724191, tt37502882, tt37513534, tt37798645, tt37842632, tt37842647, tt37843166, tt37843742, tt37843932, tt37844247, tt37844421, tt37844422]
-      winner: []
+      winner: [tt36671959]
+  fipresci prize:
+    fipresci prize:
+      nominee: [tt32126595]
+      winner: [tt32126595]
+  best canadian discovery award:
+    best canadian discovery award:
+      nominee: [tt32252801]
+      winner: [tt32252801]
   platform award:
     platform award:
       nominee: [tt29283995, tt30235784, tt32352280, tt32985279, tt35519445, tt35746682, tt36543744, tt37661864, tt37661885, tt37661902]
-      winner: []
+      winner: [tt37661902]
+  platform award - honourable mention:
+    platform award - honourable mention:
+      nominee: [tt29283995]
+      winner: [tt29283995]
+  best canadian discovery award - honourable mention:
+    best canadian discovery award - honourable mention:
+      nominee: [tt37343128]
+      winner: [tt37343128]
 '2024': # https://www.imdb.com/event/ev0000659/2024/1/
   people's choice award:
     best film:
