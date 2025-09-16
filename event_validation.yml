@@ -5543,9 +5543,9 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - special recognition # 1 Event: 2015
   - viewer mention # 1 Event: 2021
 ev0005699: # Zee Rishtey Awards (https://www.imdb.com/event/ev0005699)
-  years: ['2024', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2007']
+  years: ['2025', '2024', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2007']
   awards:  # Award Options: Zee Rishtey Awards
-  - zee rishtey award # 15 Events: 2007-2024
+  - zee rishtey award # 16 Events: 2007-2025
   categories: # Category Options: Zee Rishtey Awards
   - best bhai-behen # 1 Event: 2024
   - best director # 1 Event: 2021
@@ -5559,15 +5559,15 @@ ev0005699: # Zee Rishtey Awards (https://www.imdb.com/event/ev0005699)
   - favorite beti # 3 Events: 2016-2017, 2021
   - favorite bhabhi-dever rishta # 1 Event: 2007
   - favorite buzurg # 1 Event: 2017
-  - favorite character (female) # 2 Events: 2021-2022
-  - favorite character (male) # 1 Event: 2021
+  - favorite character (female) # 3 Events: 2021-2022, 2025
+  - favorite character (male) # 2 Events: 2021, 2025
   - favorite devrani jethani rishta # 1 Event: 2007
-  - favorite dharavaahik # 2 Events: 2017, 2021
+  - favorite dharavaahik # 3 Events: 2017, 2021, 2025
   - favorite dharavaahik (fiction) # 1 Event: 2012
   - favorite female # 1 Event: 2019
   - favorite guru/shishya rishta # 1 Event: 2007
   - favorite jija sala/sali rishta # 1 Event: 2007
-  - favorite jodi # 10 Events: 2010-2018, 2024
+  - favorite jodi # 11 Events: 2010-2018, 2024-2025
   - favorite maata # 2 Events: 2016, 2018
   - favorite male # 1 Event: 2019
   - favorite parivaar # 6 Events: 2010-2012, 2014, 2016-2017
@@ -5586,11 +5586,11 @@ ev0005699: # Zee Rishtey Awards (https://www.imdb.com/event/ev0005699)
   - favorite show # 1 Event: 2019
   - favourite actor in a negative role # 3 Events: 2018-2019, 2021
   - favourite anchor # 1 Event: 2012
-  - favourite bahu # 2 Events: 2020-2021
+  - favourite bahu # 3 Events: 2020-2021, 2025
   - favourite behen # 5 Events: 2010-2012, 2014, 2019
   - favourite behenein # 1 Event: 2013
-  - favourite beta # 6 Events: 2011-2014, 2021, 2024
-  - favourite beti # 6 Events: 2011-2014, 2019, 2024
+  - favourite beta # 7 Events: 2011-2014, 2021, 2024-2025
+  - favourite beti # 7 Events: 2011-2014, 2019, 2024-2025
   - favourite bhabhi # 2 Events: 2011, 2021
   - favourite bhabi # 1 Event: 2019
   - favourite bhai # 5 Events: 2011-2014, 2019
@@ -5600,20 +5600,20 @@ ev0005699: # Zee Rishtey Awards (https://www.imdb.com/event/ev0005699)
   - favourite guru-shisya # 1 Event: 2012
   - favourite jodi # 2 Events: 2021-2022
   - favourite judge panal # 2 Events: 2019, 2022
-  - favourite khalnayak # 4 Events: 2011-2014
+  - favourite khalnayak # 5 Events: 2011-2014, 2025
   - favourite khalnayak jodi # 1 Event: 2020
   - favourite kutumb # 1 Event: 2019
-  - favourite maa # 3 Events: 2020, 2022-2024
+  - favourite maa # 4 Events: 2020, 2022-2025
   - favourite mata # 1 Event: 2012
   - favourite mata-pita # 3 Events: 2011, 2013-2014
   - favourite naya sadasya # 1 Event: 2018
-  - favourite naya sadasya - female # 6 Events: 2011-2014, 2021-2022
-  - favourite naya sadasya - male # 7 Events: 2011-2014, 2019, 2021-2022
+  - favourite naya sadasya - female # 7 Events: 2011-2014, 2021-2022, 2025
+  - favourite naya sadasya - male # 8 Events: 2011-2014, 2019, 2021-2022, 2025
   - favourite naya sadasya-female # 1 Event: 2018
   - favourite nayi jodi # 6 Events: 2011-2014, 2021-2022
   - favourite pita # 1 Event: 2022
   - favourite popular face (female) # 1 Event: 2015
-  - favourite saas # 2 Events: 2014, 2016
+  - favourite saas # 3 Events: 2014, 2016, 2025
   - favourite saas bahu rishta # 1 Event: 2014
   - favourite saas jamai rishta # 1 Event: 2014
   - favourite saas-bahu rishta # 2 Events: 2011, 2014
