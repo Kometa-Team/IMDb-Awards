@@ -4,12 +4,15 @@
     best actor:
       nominee: [tt21626284, tt21626774, tt26932223, tt27056066, tt27510174, tt27852049, tt27922706, tt27995594, tt28153480, tt28259207]
       winner: [tt27852049]
+    best actor in a negative role:
+      nominee: [tt28037987]
+      winner: [tt28037987]
     best actor in a web film:
       nominee: [tt21626774, tt27028399, tt27721892, tt28075881, tt31115432, tt31522415, tt33246678, tt4501268]
       winner: [tt28075881]
     best actor in a web series:
       nominee: [tt14160712, tt28102595, tt28106741, tt32537124, tt33083754, tt33098081, tt34710668, tt6473300]
-      winner: []
+      winner: [tt32537124]
     best actress:
       nominee: [tt10869778, tt16227342, tt23790740, tt24517830, tt27056012, tt27995594, tt29471573, tt30970235]
       winner: [tt29471573]
@@ -21,37 +24,43 @@
       winner: [tt9680440]
     best debut actor:
       nominee: [tt20854856, tt26439870, tt27056066, tt28259207, tt30422937, tt4501268]
-      winner: []
+      winner: [tt27056066]
     best debut actress:
       nominee: [tt15464188, tt20452454, tt20854856, tt21626284, tt25504468, tt26439870]
-      winner: []
+      winner: [tt21626284]
     best director:
       nominee: [tt21626284, tt21626774, tt26733317, tt26932223, tt27510174, tt27922706, tt27995594, tt28259207]
       winner: [tt26932223]
     best film:
       nominee: [tt21383812, tt21626284, tt26932223, tt27056066, tt27510174, tt27922706, tt27995594, tt28089700, tt30970235, tt3562110]
-      winner: []
+      winner: [tt27510174]
+    best supporting actor:
+      nominee: [tt28259207]
+      winner: [tt28259207]
     best supporting actor in a web film:
       nominee: [tt15560952, tt27671792, tt28075881, tt28435822, tt31897917, tt33246678, tt36129120, tt6649234]
       winner: [tt28075881]
     best supporting actor in a web series:
       nominee: [tt11379698, tt30819853, tt32235809, tt32258354, tt32537124, tt35834854, tt9680440]
-      winner: []
+      winner: [tt32258354]
+    best supporting actress:
+      nominee: [tt27852049]
+      winner: [tt27852049]
     best supporting actress in a web film:
       nominee: [tt15206368, tt15560952, tt27028399, tt28435822, tt28500558, tt30422937, tt32607174, tt9691290]
-      winner: []
+      winner: [tt28435822]
     best supporting actress in a web series:
       nominee: [tt11379698, tt22014226, tt28102595, tt30819853, tt32258354, tt35064818, tt6473300, tt9814458]
-      winner: []
+      winner: [tt32258354]
     best versatile actress:
       nominee: [tt21836384, tt30777542, tt31032285, tt33098081, tt7112704]
-      winner: []
+      winner: [tt31032285]
     best web film:
       nominee: [tt15560952, tt26655658, tt27032419, tt27930683, tt28075881, tt31897917, tt33095240, tt4501268]
-      winner: []
+      winner: [tt27032419]
     best web series:
       nominee: [tt11379698, tt22014226, tt28102595, tt32258354, tt32537124, tt33083754, tt33098081, tt34710668, tt35064818, tt35834854, tt6473300, tt9680440, tt9814458]
-      winner: []
+      winner: [tt33098081]
     most popular actor:
       nominee: [tt12735488, tt27679608, tt27866861, tt28089700, tt29471573, tt31712434, tt32223398, tt3562110]
       winner: [tt28089700]
@@ -66,7 +75,7 @@
       winner: [tt28435822]
     most popular film:
       nominee: [tt10505918, tt12735488, tt16539454, tt26745657, tt27744786, tt28259207, tt29471573, tt30496762, tt32058735, tt9104736]
-      winner: []
+      winner: [tt32058735]
   iconic award -telugu:
     best actor:
       nominee: [tt11821912, tt12735488, tt14564000, tt15433956, tt16539454, tt27540542]
