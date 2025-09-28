@@ -1,5 +1,92 @@
 # Filmfare Awards
-'2024':  # https://www.imdb.com/event/ev0000245/2024/1/
+'2025':  # https://www.imdb.com/event/ev0000245/2025/1/
+  filmfare award:
+    best actor:
+      nominee: [tt10869778, tt13818368, tt23475174, tt27470893, tt27510174, tt27866861]
+      winner: []
+    best actor - critics:
+      nominee: [tt14753612, tt21626284, tt23790740, tt26745657, tt27866861]
+      winner: []
+    best actress:
+      nominee: [tt21383812, tt26733317, tt27459160, tt27510174, tt30970235]
+      winner: []
+    best actress - critics:
+      nominee: [tt15245240, tt15576290, tt21626284, tt26733317]
+      winner: []
+    best debut actor:
+      nominee: [tt14398312, tt20854856, tt21626284, tt22543124, tt28153480, tt28259207]
+      winner: []
+    best debut actress:
+      nominee: [tt20452454, tt20854856, tt21626284, tt27866861, tt33245905]
+      winner: []
+    best debut director:
+      nominee: [tt14753612, tt15576290, tt24973142, tt26745657, tt27459160, tt30970235]
+      winner: []
+    best director:
+      nominee: [tt21626284, tt26932223, tt27510174, tt28259207, tt30970235]
+      winner: []
+    best film:
+      nominee: [tt21626284, tt26932223, tt27510174, tt28259207, tt30970235]
+      winner: []
+    best film - critics:
+      nominee: [tt10869778, tt15245240, tt15392282, tt21626284, tt27866861]
+      winner: []
+    best lyrics:
+      nominee: [tt15392282, tt21626284, tt27470893, tt28259207]
+      winner: []
+    best music album:
+      nominee: [tt10869778, tt21626284, tt24517830, tt26932223, tt27459160, tt27510174]
+      winner: []
+    best playback singer - female:
+      nominee: [tt13818368, tt21626284, tt26733317, tt27510174, tt28259207]
+      winner: []
+    best playback singer - male:
+      nominee: [tt10869778, tt21626284, tt24517830, tt26932223, tt27510174]
+      winner: []
+    best screenplay:
+      nominee: [tt21626284, tt26745657, tt27510174, tt28259207, tt30970235]
+      winner: []
+    best screenplay (adapted):
+      nominee: [tt10869778, tt15392282, tt23790740, tt27744786, tt27866861]
+      winner: []
+    best story:
+      nominee: [tt14398312, tt26932223, tt27510174, tt28259207, tt30970235]
+      winner: []
+    best supporting actor:
+      nominee: [tt21626284, tt23475174, tt27510174, tt27744786, tt28259207]
+      winner: []
+    best supporting actress:
+      nominee: [tt21626284, tt26932223, tt27744786, tt27866861, tt30970235]
+      winner: []
+  technical award:
+    best action:
+      nominee: [tt10869778, tt13818368, tt18072316, tt26733317, tt28259207]
+      winner: []
+    best background score:
+      nominee: [tt10869778, tt15245240, tt15392282, tt21626284, tt28259207]
+      winner: []
+    best choreography:
+      nominee: [tt13818368, tt24517830, tt26932223, tt27459160, tt27510174]
+      winner: []
+    best cinematography:
+      nominee: [tt10869778, tt15245240, tt21626284, tt27866861, tt28259207]
+      winner: []
+    best costume design:
+      nominee: [tt10869778, tt21383812, tt21626284, tt27470893, tt30970235]
+      winner: []
+    best dialogue:
+      nominee: [tt10869778, tt21626284, tt26745657, tt27510174, tt27866861]
+      winner: []
+    best editing:
+      nominee: [tt10869778, tt14398312, tt21626284, tt27510174, tt28259207]
+      winner: []
+    best production design:
+      nominee: [tt14398312, tt15392282, tt21626284, tt27470893, tt28259207]
+      winner: []
+    best sound design:
+      nominee: [tt10869778, tt14398312, tt15245240, tt21626284, tt28259207]
+      winner: []
+'2024': # https://www.imdb.com/event/ev0000245/2024/1/
   filmfare award:
     best actor:
       nominee: [tt10786774, tt13751694, tt14993250, tt15354916, tt15428134, tt15441054]
