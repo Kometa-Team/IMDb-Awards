@@ -1163,16 +1163,19 @@
       nominee: [tt0432637, tt0466460, tt0488414, tt0488906, tt0495032]
       winner: [tt0488414]
     best playback singer (female):
-      nominee: [tt0449999]
+      nominee: [tt0449999, tt0488414, tt0495034, tt0833561]
       winner: [tt0449999]
     best playback singer (male):
-      nominee: [tt0439662]
+      nominee: [tt0439662, tt0449999, tt0495032]
       winner: [tt0439662]
     best supporting actor:
       nominee: [tt0405508, tt0449999, tt0824316]
       winner: [tt0449999]
     best supporting actress:
       nominee: [tt0405508, tt0432637, tt0449999, tt0488414]
+      winner: [tt0488414]
+    best track of the year:
+      nominee: [tt0405508, tt0449999, tt0476729, tt0488414, tt0495032, tt0833561]
       winner: [tt0488414]
   technical award:
     best background score:
