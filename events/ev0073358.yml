@@ -16,6 +16,9 @@
     best actress:
       nominee: [tt10869778, tt16227342, tt23790740, tt24517830, tt27056012, tt27995594, tt29471573, tt30970235]
       winner: [tt29471573]
+    best actress - critics:
+      nominee: [tt27995594]
+      winner: [tt27995594]
     best actress in a web film:
       nominee: [tt15560952, tt16436848, tt21908802, tt26225118, tt27028399, tt27032419, tt28500558, tt31514262]
       winner: [tt27032419]
