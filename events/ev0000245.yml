@@ -6,22 +6,22 @@
       winner: []
     best actor - critics:
       nominee: [tt14753612, tt21626284, tt23790740, tt26745657, tt27866861]
-      winner: []
+      winner: [tt23790740]
     best actress:
       nominee: [tt21383812, tt26733317, tt27459160, tt27510174, tt30970235]
-      winner: []
+      winner: [tt26733317]
     best actress - critics:
       nominee: [tt15245240, tt15576290, tt21626284, tt26733317]
-      winner: []
+      winner: [tt21626284]
     best debut actor:
       nominee: [tt14398312, tt20854856, tt21626284, tt22543124, tt28153480, tt28259207]
-      winner: []
+      winner: [tt28259207]
     best debut actress:
       nominee: [tt20452454, tt20854856, tt21626284, tt27866861, tt33245905]
-      winner: []
+      winner: [tt21626284]
     best debut director:
       nominee: [tt14753612, tt15576290, tt24973142, tt26745657, tt27459160, tt30970235]
-      winner: []
+      winner: [tt26745657, tt30970235]
     best director:
       nominee: [tt21626284, tt26932223, tt27510174, tt28259207, tt30970235]
       winner: []
@@ -30,62 +30,69 @@
       winner: []
     best film - critics:
       nominee: [tt10869778, tt15245240, tt15392282, tt21626284, tt27866861]
-      winner: []
+      winner: [tt27866861]
     best lyrics:
       nominee: [tt15392282, tt21626284, tt27470893, tt28259207]
-      winner: []
+      winner: [tt21626284]
     best music album:
       nominee: [tt10869778, tt21626284, tt24517830, tt26932223, tt27459160, tt27510174]
-      winner: []
+      winner: [tt21626284]
     best playback singer - female:
       nominee: [tt13818368, tt21626284, tt26733317, tt27510174, tt28259207]
-      winner: []
+      winner: [tt27510174]
     best playback singer - male:
       nominee: [tt10869778, tt21626284, tt24517830, tt26932223, tt27510174]
-      winner: []
+      winner: [tt21626284]
     best screenplay:
       nominee: [tt21626284, tt26745657, tt27510174, tt28259207, tt30970235]
-      winner: []
+      winner: [tt21626284]
     best screenplay (adapted):
       nominee: [tt10869778, tt15392282, tt23790740, tt27744786, tt27866861]
       winner: []
     best story:
       nominee: [tt14398312, tt26932223, tt27510174, tt28259207, tt30970235]
-      winner: []
+      winner: [tt30970235]
     best supporting actor:
       nominee: [tt21626284, tt23475174, tt27510174, tt27744786, tt28259207]
-      winner: []
+      winner: [tt21626284]
     best supporting actress:
       nominee: [tt21626284, tt26932223, tt27744786, tt27866861, tt30970235]
-      winner: []
+      winner: [tt21626284]
+  r.d. burman award:
+    upcoming music talent:
+      nominee: [tt16227342, tt26733317]
+      winner: [tt16227342, tt26733317]
   technical award:
     best action:
       nominee: [tt10869778, tt13818368, tt18072316, tt26733317, tt28259207]
-      winner: []
+      winner: [tt28259207]
     best background score:
       nominee: [tt10869778, tt15245240, tt15392282, tt21626284, tt28259207]
-      winner: []
+      winner: [tt21626284]
     best choreography:
       nominee: [tt13818368, tt24517830, tt26932223, tt27459160, tt27510174]
-      winner: []
+      winner: [tt24517830]
     best cinematography:
       nominee: [tt10869778, tt15245240, tt21626284, tt27866861, tt28259207]
-      winner: []
+      winner: [tt28259207]
     best costume design:
       nominee: [tt10869778, tt21383812, tt21626284, tt27470893, tt30970235]
-      winner: []
+      winner: [tt21626284]
     best dialogue:
       nominee: [tt10869778, tt21626284, tt26745657, tt27510174, tt27866861]
-      winner: []
+      winner: [tt21626284]
     best editing:
       nominee: [tt10869778, tt14398312, tt21626284, tt27510174, tt28259207]
-      winner: []
+      winner: [tt28259207]
     best production design:
       nominee: [tt14398312, tt15392282, tt21626284, tt27470893, tt28259207]
-      winner: []
+      winner: [tt28259207]
     best sound design:
       nominee: [tt10869778, tt14398312, tt15245240, tt21626284, tt28259207]
-      winner: []
+      winner: [tt28259207]
+    best vfx:
+      nominee: [tt27995594]
+      winner: [tt27995594]
 '2024': # https://www.imdb.com/event/ev0000245/2024/1/
   filmfare award:
     best actor:
