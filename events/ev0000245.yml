@@ -3,7 +3,7 @@
   filmfare award:
     best actor:
       nominee: [tt10869778, tt13818368, tt23475174, tt27470893, tt27510174, tt27866861]
-      winner: []
+      winner: [tt27470893, tt27866861]
     best actor - critics:
       nominee: [tt14753612, tt21626284, tt23790740, tt26745657, tt27866861]
       winner: [tt23790740]
@@ -24,10 +24,10 @@
       winner: [tt26745657, tt30970235]
     best director:
       nominee: [tt21626284, tt26932223, tt27510174, tt28259207, tt30970235]
-      winner: []
+      winner: [tt21626284]
     best film:
       nominee: [tt21626284, tt26932223, tt27510174, tt28259207, tt30970235]
-      winner: []
+      winner: [tt21626284]
     best film - critics:
       nominee: [tt10869778, tt15245240, tt15392282, tt21626284, tt27866861]
       winner: [tt27866861]
@@ -48,7 +48,7 @@
       winner: [tt21626284]
     best screenplay (adapted):
       nominee: [tt10869778, tt15392282, tt23790740, tt27744786, tt27866861]
-      winner: []
+      winner: [tt27866861]
     best story:
       nominee: [tt14398312, tt26932223, tt27510174, tt28259207, tt30970235]
       winner: [tt30970235]
