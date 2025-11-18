@@ -1,5 +1,6 @@
 # Academy Awards, USA
-'2025':  # https://www.imdb.com/event/ev0000003/2025/1/
+'2026': {}  # https://www.imdb.com/event/ev0000003/2026/1/
+'2025': # https://www.imdb.com/event/ev0000003/2025/1/
   oscar:
     best achievement in cinematography:
       nominee: [tt15239678, tt20221436, tt22893404, tt5040012, tt8999762]
