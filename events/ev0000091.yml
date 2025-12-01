@@ -608,6 +608,9 @@
       nominee: [tt26395115]
       winner: [tt26395115]
   grand prix of the generation 14plus international jury:
+    best feature film:
+      nominee: [tt26773767]
+      winner: [tt26773767]
     best film:
       nominee: [tt26773767]
       winner: [tt26773767]
@@ -7596,6 +7599,10 @@
     reader jury of the "berliner morgenpost":
       nominee: [tt0081974]
       winner: [tt0081974]
+  forum:
+    forum section:
+      nominee: [tt0083358]
+      winner: []
 '1981': # https://www.imdb.com/event/ev0000091/1981/1/
   golden berlin bear:
     best short film:

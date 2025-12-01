@@ -237,7 +237,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - fipresci prize - special mention # 3 Events: 1958, 1971, 1974
   - first movie award # 1 Event: 2002
   - first movie award - special mention # 1 Event: 2002
-  - forum # 9 Events: 1983-1984, 1992, 1996-1997, 2015, 2018-2019, 2025
+  - forum # 10 Events: 1982-1984, 1992, 1996-1997, 2015, 2018-2019, 2025
   - gen z audience award # 1 Event: 2025
   - generation prize # 5 Events: 2009, 2011, 2018-2020
   - giuseppe becce award # 1 Event: 2023
@@ -492,7 +492,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - forum of new cinema # 37 Events: 1969, 1971-1996, 1998-2006, 2011
   - forum of new film # 1 Event: 1972
   - forum of young cinema # 1 Event: 2008
-  - forum section # 4 Events: 1983, 1992, 1996, 2025
+  - forum section # 5 Events: 1982-1983, 1992, 1996, 2025
   - gen z audience award # 1 Event: 2025
   - generation 14plus - best feature film # 9 Events: 2001, 2007-2011, 2016, 2019, 2021
   - generation 14plus - best film # 14 Events: 2007, 2010, 2012-2015, 2017-2020, 2022-2025
@@ -1325,7 +1325,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - cinema prize of the french national education system # 8 Events: 2003-2010
   - cinémas de recherche - special mention # 1 Event: 2005
   - critics week - special mention # 2 Events: 2011, 2013
-  - critics week grand prize # 17 Events: 1989, 2000-2002, 2004-2016
+  - critics week grand prize # 18 Events: 1989, 2000-2002, 2004-2016, 2020
   - critics' week - next step award # 1 Event: 2024
   - critics' week grand prize # 10 Events: 2002-2003, 2017-2019, 2021-2025
   - cst artist - technician prize # 4 Events: 2021-2024
@@ -1441,7 +1441,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - un certain regard - special distinction of the jury # 1 Event: 2012
   - un certain regard - special jury prize # 10 Events: 2006-2007, 2009, 2011-2014, 2016-2017, 2019
   - un certain regard - youth prize # 1 Event: 2024
-  - un certain regard award # 36 Events: 1978, 1981, 1986, 1989, 1991, 1993, 1995-2019, 2021-2025
+  - un certain regard award # 47 Events: 1978-2019, 2021-2025
   - un certain regard award - special mention # 4 Events: 2000, 2019, 2021, 2024
   - un certain regard jury prize # 14 Events: 2003, 2008-2010, 2014-2016, 2018-2019, 2021-2025
   - un regard neuf short film prize # 1 Event: 2008
@@ -1644,7 +1644,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - sacd screenwriting award # 5 Events: 2004-2006, 2018, 2025
   - sacd short film award # 5 Events: 1995, 2005-2007, 2013
   - sfr prize # 2 Events: 2009-2010
-  - short film # 19 Events: 1946, 1951-1952, 1955, 1959-1960, 1963, 1989, 2007, 2009, 2013-2014, 2016-2019, 2021, 2023, 2025
+  - short film # 20 Events: 1946, 1951-1952, 1955, 1959-1960, 1963, 1989, 2007, 2009, 2013-2014, 2016-2021, 2023, 2025
   - short film - special mention # 1 Event: 2022
   - short films # 1 Event: 1946
   - small golden rail # 22 Events: 1995-2016
@@ -1676,7 +1676,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - un certain regard - special distinction of the jury # 1 Event: 2012
   - un certain regard - special jury prize # 10 Events: 2006-2007, 2009, 2011-2014, 2016-2017, 2019
   - un certain regard - youth prize # 1 Event: 2024
-  - un certain regard award # 36 Events: 1978, 1981, 1986, 1989, 1991, 1993, 1995-2019, 2021-2025
+  - un certain regard award # 47 Events: 1978-2019, 2021-2025
   - un certain regard award - special mention # 4 Events: 2000, 2019, 2021, 2024
   - un certain regard jury prize # 14 Events: 2003, 2008-2010, 2014-2016, 2018-2019, 2021-2025
   - un regard neuf short film prize # 1 Event: 2008
@@ -4181,9 +4181,9 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
 ev0000598: # Actors Awards (https://www.imdb.com/event/ev0000598)
   years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
     '2001', '2000', '1999', '1998', '1997', '1996', '1995']
-  awards:  # Award Options: Screen Actors Guild Awards
+  awards:  # Award Options: Actors Awards
   - actor # 31 Events: 1995-2025
-  categories: # Category Options: Screen Actors Guild Awards
+  categories: # Category Options: Actors Awards
   - outstanding action performance by a stunt ensemble in a comedy or drama series # 6 Events: 2017-2022
   - outstanding action performance by a stunt ensemble in a motion picture # 13 Events: 2013-2025
   - outstanding action performance by a stunt ensemble in a television series # 8 Events: 2012-2016, 2023-2025

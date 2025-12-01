@@ -542,7 +542,7 @@
   cinefondation award:
     cinefondation award:
       nominee: [tt15434988, tt16262788, tt16350184, tt19396182, tt19512794, tt19811286, tt19814970, tt19815650, tt19844738, tt19844752, tt19844764, tt19844770, tt19844786, tt19844794, tt19844808, tt19844842]
-      winner: [tt19512794, tt19815650]
+      winner: [tt19815650]
   un certain regard award:
     un certain regard award:
       nominee: [tt11052678, tt11897478, tt11992694, tt12253164, tt14275050, tt14859416, tt14860210, tt14867294, tt16227002, tt17679584, tt18816518, tt19623228, tt19719836, tt19719862, tt19719864, tt19719904, tt19719940, tt19719976, tt19785426, tt9317274]
@@ -854,6 +854,10 @@
   cinefondation award:
     cinefondation award:
       nominee: [tt11232334, tt11320234]
+      winner: []
+  critics week grand prize:
+    short film:
+      nominee: [tt12241006]
       winner: []
   palme d'or - best short film:
     palme d'or - best short film:
@@ -4521,7 +4525,7 @@
       winner: [tt0120448]
   un certain regard award:
     un certain regard award:
-      nominee: [tt0118823, tt0120116]
+      nominee: [tt0115164, tt0118545, tt0118576, tt0118603, tt0118767, tt0118788, tt0118823, tt0118905, tt0119007, tt0119234, tt0119280, tt0119361, tt0119373, tt0119574, tt0119614, tt0119620, tt0119923, tt0120116, tt0120244, tt0120516, tt0120526, tt6677224]
       winner: []
   mercedes-benz award:
     mercedes-benz award:
@@ -4617,7 +4621,7 @@
       winner: [tt0116930]
   un certain regard award:
     un certain regard award:
-      nominee: [tt0116300]
+      nominee: [tt0114134, tt0115633, tt0115735, tt0115773, tt0115931, tt0115940, tt0115996, tt0116300, tt0116350, tt0116384, tt0116501, tt0116594, tt0116650, tt0116913, tt0116930, tt0116939, tt0117088, tt0117283, tt0117690, tt0118022, tt0119256, tt0157174, tt0196557, tt0497256, tt3914372]
       winner: []
   mercedes-benz award:
     mercedes-benz award:
@@ -4712,7 +4716,7 @@
       winner: [tt0112844]
   un certain regard award:
     un certain regard award:
-      nominee: [tt0114313, tt0305672]
+      nominee: [tt0100267, tt0109370, tt0109751, tt0110229, tt0110361, tt0112411, tt0112416, tt0112607, tt0112966, tt0113158, tt0113258, tt0113847, tt0113879, tt0114146, tt0114305, tt0114313, tt0114329, tt0114660, tt0114755, tt0114798, tt0116239, tt0176227, tt0190668, tt0243382, tt0305672, tt2972068]
       winner: []
   mercedes-benz award:
     mercedes-benz award:
@@ -4809,6 +4813,10 @@
     golden camera - special mention:
       nominee: [tt0111055]
       winner: [tt0111055]
+  un certain regard award:
+    un certain regard award:
+      nominee: [tt0106579, tt0107251, tt0108227, tt0108260, tt0109045, tt0109185, tt0109319, tt0109384, tt0109680, tt0109702, tt0109781, tt0110091, tt0110171, tt0110699, tt0111019, tt0111196, tt0111218, tt0111230, tt0111580, tt0111769, tt0114129]
+      winner: []
   mercedes-benz award:
     mercedes-benz award:
       nominee: [tt0109445]
@@ -4891,7 +4899,7 @@
       winner: [tt0106968]
   un certain regard award:
     un certain regard award:
-      nominee: [tt0107376]
+      nominee: [tt0104262, tt0105163, tt0106217, tt0106271, tt0106373, tt0106447, tt0106696, tt0106709, tt0106962, tt0107040, tt0107376, tt0107617, tt0107623, tt0107736, tt0107901, tt0108176, tt0108188, tt0108546, tt0108597, tt0222770, tt0269920, tt0276005, tt0835494, tt1062912, tt1931472]
       winner: [tt0107376]
   mercedes-benz award:
     mercedes-benz award:
@@ -4976,6 +4984,10 @@
     golden camera:
       nominee: [tt0104783]
       winner: [tt0104783]
+  un certain regard award:
+    un certain regard award:
+      nominee: [tt0102619, tt0102851, tt0103671, tt0103708, tt0103740, tt0103759, tt0103787, tt0103949, tt0104018, tt0104426, tt0104641, tt0104851, tt0104900, tt0105035, tt0105160, tt0105488, tt0105675, tt0105888, tt0188907, tt0201261]
+      winner: []
   sacd award:
     best feature:
       nominee: [tt0103905]
@@ -5072,7 +5084,7 @@
       winner: [tt0102721, tt0102831]
   un certain regard award:
     un certain regard award:
-      nominee: [tt0101507, tt0103313]
+      nominee: [tt0090199, tt0099219, tt0099507, tt0099780, tt0100547, tt0101507, tt0101993, tt0102015, tt0102251, tt0102282, tt0102497, tt0102684, tt0103150, tt0103313, tt0103316, tt0104937, tt0175776, tt0195325, tt0343575, tt0420826]
       winner: []
   sacd award:
     best feature:
@@ -5110,7 +5122,7 @@
       winner: [tt0099244]
   palme d'or - best short film:
     palme d'or - best short film:
-      nominee: [tt0101511, tt0102730, tt0241292, tt0241589, tt0241701, tt0241771, tt0242130, tt0242156, tt0242164]
+      nominee: [tt0101511, tt0102730, tt0241292, tt0241589, tt0241701, tt0241771, tt0242110, tt0242130, tt0242156, tt0242164]
       winner: [tt0242156]
   sacd prize:
     directors' fortnight:
@@ -5160,6 +5172,10 @@
     golden camera - special mention:
       nominee: [tt0097020, tt0099547]
       winner: [tt0097020, tt0099547]
+  un certain regard award:
+    un certain regard award:
+      nominee: [tt0096752, tt0097024, tt0097062, tt0098278, tt0098534, tt0098574, tt0098963, tt0099845, tt0099927, tt0100049, tt0100308, tt0100435, tt0100537, tt0100699, tt0101003, tt0137806, tt0175512, tt0259466, tt0279685, tt0281218, tt5358298]
+      winner: []
   perspectives du cinéma award:
     perspectives du cinéma award:
       nominee: [tt0099034]
@@ -5246,7 +5262,7 @@
       winner: [tt0095872, tt0096411]
   un certain regard award:
     un certain regard award:
-      nominee: [tt0098253]
+      nominee: [tt0078041, tt0095842, tt0095872, tt0096124, tt0096303, tt0096863, tt0097177, tt0097195, tt0097819, tt0098253, tt0098268, tt0098586, tt0098607, tt0098660, tt0098716, tt0099107, tt0100413, tt0174587, tt0292217]
       winner: []
   critics week grand prize:
     short film:
@@ -5326,6 +5342,10 @@
     golden camera:
       nominee: [tt0096028]
       winner: [tt0096028]
+  un certain regard award:
+    un certain regard award:
+      nominee: [tt0092572, tt0092839, tt0093156, tt0093593, tt0093786, tt0095048, tt0095341, tt0095587, tt0095598, tt0095625, tt0095891, tt0095951, tt0096015, tt0096368, tt0096403, tt0097957, tt0118576, tt0140100, tt0144021, tt0173240, tt0176913, tt5326096]
+      winner: []
   perspectives du cinéma award:
     perspectives du cinéma award:
       nominee: [tt0242315]
@@ -5409,6 +5429,10 @@
     golden camera:
       nominee: [tt0091580]
       winner: [tt0091580]
+  un certain regard award:
+    un certain regard award:
+      nominee: [tt0084549, tt0089288, tt0091230, tt0091355, tt0091580, tt0091696, tt0092247, tt0092561, tt0092603, tt0092728, tt0092729, tt0092955, tt0092972, tt0093076, tt0093234, tt0093302, tt0093562, tt0094007, tt0094305, tt0171763, tt0265580]
+      winner: []
   perspectives du cinéma award:
     perspectives du cinéma award:
       nominee: [tt0094207, tt0242816]
@@ -5479,7 +5503,7 @@
       winner: [tt0091646]
   un certain regard award:
     un certain regard award:
-      nominee: [tt0090215, tt0091470]
+      nominee: [tt0086084, tt0087335, tt0088866, tt0089916, tt0090215, tt0090336, tt0090686, tt0090710, tt0090867, tt0090934, tt0091379, tt0091470, tt0091885, tt0091950, tt0092123, tt0169085, tt0174834, tt0176336, tt1194181]
       winner: [tt0091470]
   fipresci prize:
     fipresci prize:
@@ -5541,6 +5565,10 @@
     golden camera:
       nominee: [tt0089739]
       winner: [tt0089739]
+  un certain regard award:
+    un certain regard award:
+      nominee: [tt0087869, tt0088658, tt0088696, tt0089275, tt0089463, tt0089615, tt0089739, tt0089838, tt0090171, tt0090182, tt0090234, tt0091588, tt0168652, tt0170249, tt0172307, tt1242756, tt4458202]
+      winner: []
   sacd prize (directors' fortnight):
     sacd prize (directors' fortnight):
       nominee: [tt0089017]
@@ -5613,6 +5641,10 @@
     golden camera:
       nominee: [tt0088184, tt0090251]
       winner: [tt0088184]
+  un certain regard award:
+    un certain regard award:
+      nominee: [tt0085482, tt0085535, tt0085785, tt0085893, tt0085902, tt0086577, tt0087364, tt0087510, tt0088229, tt0088386, tt0195624, tt0366908, tt0379047, tt1215009]
+      winner: []
   perspectives du cinéma award:
     perspectives du cinéma award:
       nominee: [tt0085839]
@@ -5680,6 +5712,10 @@
     golden camera:
       nominee: [tt0083522]
       winner: [tt0083522]
+  un certain regard award:
+    un certain regard award:
+      nominee: [tt0084151, tt0084363, tt0085172, tt0085225, tt0085285, tt0085287, tt0085520, tt0086004, tt0088445, tt0129807, tt0161034, tt0263416, tt0302385, tt0465934, tt32345074, tt7000188]
+      winner: []
   perspectives du cinéma award:
     perspectives du cinéma award:
       nominee: [tt0084824]
@@ -5745,6 +5781,10 @@
     golden camera:
       nominee: [tt0084361]
       winner: [tt0084361]
+  un certain regard award:
+    un certain regard award:
+      nominee: [tt0082318, tt0082633, tt0083942, tt0083962, tt0084350, tt0084492, tt0084610, tt0123962, tt0131456, tt0139961, tt0163584, tt0174058, tt0341632, tt0453046, tt32345127, tt32345189]
+      winner: []
   fipresci prize:
     fipresci prize:
       nominee: [tt0082388, tt0083872, tt0084934]
@@ -5815,7 +5855,7 @@
       winner: [tt0080612]
   un certain regard award:
     un certain regard award:
-      nominee: [tt0082151]
+      nominee: [tt0038687, tt0065067, tt0076276, tt0081204, tt0081453, tt0082151, tt0082313, tt0082343, tt0082733, tt0083028, tt0122458, tt0133734, tt0176777, tt0354987, tt11913020]
       winner: []
   young cinema award:
     young cinema award:
@@ -5885,6 +5925,10 @@
     golden camera:
       nominee: [tt0080874]
       winner: [tt0080874]
+  un certain regard award:
+    un certain regard award:
+      nominee: [tt0079420, tt0079997, tt0080123, tt0080135, tt0080577, tt0080773, tt0080983, tt0081106, tt0081522, tt0083933, tt0171158, tt0204241, tt0447372, tt31435959]
+      winner: []
   fipresci prize:
     fipresci prize:
       nominee: [tt0081176]
@@ -5942,6 +5986,10 @@
     golden camera:
       nominee: [tt0078008]
       winner: [tt0078008]
+  un certain regard award:
+    un certain regard award:
+      nominee: [tt0057713, tt0078080, tt0078987, tt0079023, tt0079083, tt0079392, tt0079581, tt0079787, tt0079940, tt0126292, tt0174108, tt6626086]
+      winner: []
   young cinema award:
     young cinema award:
       nominee: [tt0079086]
@@ -6000,7 +6048,7 @@
       winner: [tt0075654]
   un certain regard award:
     un certain regard award:
-      nominee: [tt0075647]
+      nominee: [tt0075647, tt0075902, tt0076097, tt0076147, tt0076435, tt0159464, tt0171708, tt0176666, tt0186004, tt0219370, tt0253366, tt0321179, tt32345201, tt7142152]
       winner: []
   fipresci prize:
     fipresci prize:
