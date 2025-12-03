@@ -1,5 +1,69 @@
 # Film Independent Spirit Awards
-'2025':  # https://www.imdb.com/event/ev0000349/2025/1/
+'2026':  # https://www.imdb.com/event/ev0000349/2026/1/
+  independent spirit award:
+    best breakthrough performance:
+      nominee: [tt21349688, tt32221196, tt32261856, tt32792934, tt35520290]
+      winner: []
+    best breakthrough performance in a new scripted series:
+      nominee: [tt10059166, tt15515490, tt23052950, tt23488694, tt31806037]
+      winner: []
+    best cinematography:
+      nominee: [tt23172090, tt29768334, tt31434639, tt32119297, tt34250044]
+      winner: []
+    best director:
+      nominee: [tt18382850, tt29768334, tt32843349, tt34000545, tt34250044]
+      winner: []
+    best documentary:
+      nominee: [tt33075192, tt34962891, tt34965172, tt34966013, tt37660542]
+      winner: []
+    best editing:
+      nominee: [tt28332337, tt31434639, tt33247023, tt34819091, tt35521922]
+      winner: []
+    best ensemble cast in a new scripted series:
+      nominee: [tt19381692]
+      winner: [tt19381692]
+    best feature:
+      nominee: [tt29768334, tt31322753, tt32792934, tt32843349, tt34250044]
+      winner: []
+    best first feature:
+      nominee: [tt13651462, tt21349688, tt23172090, tt32119297, tt32221196]
+      winner: []
+    best first screenplay:
+      nominee: [tt13651462, tt30505698, tt32119297, tt32221196, tt35319790]
+      winner: []
+    best international film:
+      nominee: [tt27847051, tt29344894, tt32083311, tt32298285, tt36544524]
+      winner: []
+    best lead performance:
+      nominee: [tt13651462, tt18382850, tt27953589, tt29768334, tt31322753, tt32221196, tt32792934, tt32928666, tt34000545, tt34250044]
+      winner: []
+    best lead performance in a new scripted series:
+      nominee: [tt13623632, tt15515490, tt16493232, tt23649128, tt27370649, tt30252752, tt31122777, tt31289994, tt31806037, tt31938062]
+      winner: []
+    best new non-scripted or documentary series:
+      nominee: [tt12837376, tt14419140, tt21477490, tt33091679, tt37458027]
+      winner: []
+    best new scripted series:
+      nominee: [tt15515490, tt16493232, tt27370649, tt28093628, tt31806037]
+      winner: []
+    best screenplay:
+      nominee: [tt22004186, tt26843513, tt31322753, tt32843349, tt33247023]
+      winner: []
+    best supporting performance:
+      nominee: [tt13651462, tt22004186, tt26843513, tt27953589, tt29361963, tt31688586, tt32119297, tt32843349, tt34250044, tt4627382]
+      winner: []
+    best supporting performance in a new scripted series:
+      nominee: [tt13623632, tt15515490, tt16493232, tt23052950, tt26670955, tt27995113, tt30252752, tt31806037, tt31938062]
+      winner: []
+  john cassavetes award:
+    john cassavetes award:
+      nominee: [tt28332337, tt31021863, tt32928666, tt35520290, tt36305675]
+      winner: []
+  robert altman award:
+    robert altman award:
+      nominee: [tt10374610]
+      winner: [tt10374610]
+'2025': # https://www.imdb.com/event/ev0000349/2025/1/
   independent spirit award:
     best breakthrough performance:
       nominee: [tt18559464, tt19637052, tt22803220, tt24486184, tt24805832]
