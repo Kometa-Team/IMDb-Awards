@@ -1,5 +1,19 @@
 # Critics Choice Awards
-'2025':  # https://www.imdb.com/event/ev0000133/2025/1/
+'2026':  # https://www.imdb.com/event/ev0000133/2026/1/
+  critics choice award:
+    best animated feature:
+      nominee: [tt14205554, tt14883538, tt26443597, tt27604215, tt29313285, tt4900148]
+      winner: []
+    best comedy series:
+      nominee: [tt11379026, tt11691774, tt11815682, tt14218830, tt23649128, tt26591110, tt26933824, tt8634332]
+      winner: []
+    best director:
+      nominee: [tt1312221, tt14905854, tt27714581, tt30144839, tt31193180, tt32916440]
+      winner: []
+    best drama series:
+      nominee: [tt11280740, tt13623632, tt17491088, tt22202452, tt27444205, tt28013708, tt31938062, tt9253284]
+      winner: []
+'2025': # https://www.imdb.com/event/ev0000133/2025/1/
   critics choice award:
     best acting ensemble:
       nominee: [tt1262426, tt20215234, tt20221436, tt27657135, tt28479262, tt28607951]

@@ -1168,11 +1168,11 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - writer, drama # 4 Events: 2022-2025
   - xbox # 2 Events: 2004-2005
 ev0000133: # Critics Choice Awards (https://www.imdb.com/event/ev0000133)
-  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', 2016-2, '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
-    '2001', '2000', '1999', '1998', '1997', '1996']
+  years: ['2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', 2016-2, '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003',
+    '2002', '2001', '2000', '1999', '1998', '1997', '1996']
   awards:  # Award Options: Critics Choice Awards
   - alan j. pakula award # 1 Event: 2001
-  - critics choice award # 30 Events: 1996-2025
+  - critics choice award # 31 Events: 1996-2026
   - critics' choice mvp award # 1 Event: 2015
   - freedom award # 2 Events: 2003, 2006
   categories: # Category Options: Critics Choice Awards
@@ -1200,7 +1200,7 @@ ev0000133: # Critics Choice Awards (https://www.imdb.com/event/ev0000133)
   - best actress in a picture made for television # 1 Event: 2002
   - best actress in an action movie # 5 Events: 2013-2016-2
   - best adapted screenplay # 14 Events: 2012-2025
-  - best animated feature # 23 Events: 2001, 2003-2020, 2022-2025
+  - best animated feature # 24 Events: 2001, 2003-2020, 2022-2026
   - best animated film # 4 Events: 1999-2002
   - best animated series # 5 Events: 2020, 2022-2025
   - best animation series # 2 Events: 2018-2019
@@ -1209,15 +1209,15 @@ ev0000133: # Critics Choice Awards (https://www.imdb.com/event/ev0000133)
   - best cinematography # 17 Events: 2001, 2010-2025
   - best comedy # 8 Events: 2013-2014, 2016-2021
   - best comedy movie # 12 Events: 2006-2012, 2015, 2022-2025
-  - best comedy series # 8 Events: 2018-2025
+  - best comedy series # 9 Events: 2018-2026
   - best comedy special # 6 Events: 2020-2025
   - best composer # 8 Events: 2002-2009
   - best costume design # 16 Events: 2010-2025
   - best digital acting performance # 1 Event: 2003
-  - best director # 30 Events: 1996-2025
+  - best director # 31 Events: 1996-2026
   - best documentary # 8 Events: 1996-1999, 2003-2004, 2006, 2008
   - best documentary feature # 10 Events: 2005, 2007, 2009-2016
-  - best drama series # 8 Events: 2018-2025
+  - best drama series # 9 Events: 2018-2026
   - best editing # 16 Events: 2010-2025
   - best family film # 7 Events: 1996-2001, 2008
   - best family film (live action) # 3 Events: 2005-2007
