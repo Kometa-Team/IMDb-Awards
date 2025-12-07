@@ -86,8 +86,35 @@
     best editing, series:
       nominee: [tt15340954, tt28106741, tt31898201, tt34773311, tt35064818, tt37365626, tt9680440]
       winner: []
+    best original screenplay (web original film):
+      nominee: [tt12736014, tt18277182, tt21626774, tt27930683, tt31897917]
+      winner: []
     best original screenplay, series:
       nominee: [tt12004706, tt31898201, tt35822727, tt9680440]
+      winner: []
+    best original soundtrack (series):
+      nominee: [tt12004706, tt12719250, tt14160712, tt15340954, tt28106741, tt9814458]
+      winner: []
+    best original story, series:
+      nominee: [tt12004706, tt31898201, tt31924979, tt31925820, tt35822727, tt9680440]
+      winner: []
+    best production design (series):
+      nominee: [tt15340954, tt28102595, tt28106741, tt31898201, tt33098081, tt35064818, tt9680440]
+      winner: []
+    best production design (web original film):
+      nominee: [tt12736014, tt15260176, tt18277182, tt21626774, tt27930683, tt33888131]
+      winner: []
+    best sound design (series):
+      nominee: [tt15340954, tt28106741, tt31898201, tt37365626, tt9680440, tt9814458]
+      winner: []
+    best sound design (web original film):
+      nominee: [tt12736014, tt15260176, tt18277182, tt27930683, tt28494851]
+      winner: []
+    best story (web original film):
+      nominee: [tt12736014, tt27930683, tt28494851, tt31897917]
+      winner: []
+    best vfx (series):
+      nominee: [tt26626214, tt28106741, tt31898201]
       winner: []
 '2024': # https://www.imdb.com/event/ev0035513/2024/1/
   popular award:
