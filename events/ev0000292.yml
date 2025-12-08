@@ -1,5 +1,90 @@
 # Golden Globes, USA
-'2026': {}  # https://www.imdb.com/event/ev0000292/2026/1/
+'2026':  # https://www.imdb.com/event/ev0000292/2026/1/
+  golden globe:
+    best director - motion picture:
+      nominee: [tt1312221, tt14905854, tt27714581, tt30144839, tt31193180, tt36491653]
+      winner: []
+    best motion picture - animated:
+      nominee: [tt14205554, tt14883538, tt26443597, tt29313285, tt32820897, tt4900148]
+      winner: []
+    best motion picture - drama:
+      nominee: [tt1312221, tt14905854, tt27714581, tt27847051, tt31193180, tt36491653]
+      winner: []
+    best motion picture - musical or comedy:
+      nominee: [tt12300742, tt1527793, tt30144839, tt31688586, tt32536315, tt32916440]
+      winner: []
+    best motion picture - non-english language:
+      nominee: [tt1527793, tt27714581, tt27847051, tt32298285, tt36491653, tt36943034]
+      winner: []
+    best original score - motion picture:
+      nominee: [tt1312221, tt14905854, tt16311594, tt30144839, tt31193180, tt32298285]
+      winner: []
+    best original song - motion picture:
+      nominee: [tt14205554, tt1757678, tt19847976, tt29768334, tt31193180]
+      winner: []
+    best performance by a female actor in a limited series, anthology series or motion picture made for television:
+      nominee: [tt2085059, tt29606526, tt30252752, tt31314751, tt31974367, tt8332798]
+      winner: []
+    best performance by a female actor in a motion picture - drama:
+      nominee: [tt14905854, tt27714581, tt27953589, tt32159989, tt32843349, tt9362736]
+      winner: []
+    best performance by a female actor in a motion picture - musical or comedy:
+      nominee: [tt12300742, tt18382850, tt19847976, tt30144839, tt30343021, tt34819091]
+      winner: []
+    best performance by a female actor in a supporting role in any motion picture:
+      nominee: [tt11214558, tt19847976, tt26581740, tt27714581, tt30144839]
+      winner: []
+    best performance by a female actor in a supporting role on television:
+      nominee: [tt11815682, tt13406094, tt23649128, tt31806037]
+      winner: []
+    best performance by a female actor in a television series - drama:
+      nominee: [tt11280740, tt17491088, tt22202452, tt26591147, tt31510819, tt3581920]
+      winner: []
+    best performance by a female actor in a television series - musical or comedy:
+      nominee: [tt11691774, tt11815682, tt13443470, tt14269590, tt14452776, tt26933824]
+      winner: []
+    best performance by a male actor in a limited series, anthology series or motion picture made for television:
+      nominee: [tt11389652, tt13207736, tt2085059, tt23055142, tt31806037, tt31974367]
+      winner: []
+    best performance by a male actor in a motion picture - drama:
+      nominee: [tt11214558, tt1312221, tt27847051, tt29768334, tt31193180, tt31923069]
+      winner: []
+    best performance by a male actor in a motion picture - musical or comedy:
+      nominee: [tt12300742, tt1527793, tt30144839, tt30446847, tt32536315, tt32916440]
+      winner: []
+    best performance by a male actor in a supporting role in any motion picture:
+      nominee: [tt1312221, tt14905854, tt27714581, tt30144839, tt30446847]
+      winner: []
+    best performance by a male actor in a supporting role on television:
+      nominee: [tt11280740, tt13406094, tt31806037, tt7203552]
+      winner: []
+    best performance by a male actor in a television series - drama:
+      nominee: [tt11280740, tt27444205, tt28013708, tt31938062, tt5875444, tt9253284]
+      winner: []
+    best performance by a male actor in a television series - musical or comedy:
+      nominee: [tt11691774, tt14452776, tt23649128, tt26933824, tt31449991]
+      winner: []
+    best performance in stand-up comedy on television:
+      nominee: [tt32767869, tt34491055, tt36242994, tt36473825, tt38948229, tt39131664]
+      winner: []
+    best screenplay - motion picture:
+      nominee: [tt14905854, tt27714581, tt30144839, tt31193180, tt32916440, tt36491653]
+      winner: []
+    best television limited series, anthology series, or motion picture made for television:
+      nominee: [tt2085059, tt29606526, tt30252752, tt31314751, tt31806037, tt31974367]
+      winner: []
+    best television series - drama:
+      nominee: [tt11280740, tt13406094, tt17491088, tt22202452, tt31938062, tt5875444]
+      winner: []
+    best television series - musical or comedy:
+      nominee: [tt11691774, tt11815682, tt14218830, tt14452776, tt23649128, tt26933824]
+      winner: []
+    cinematic and box office achievement:
+      nominee: [tt14205554, tt16311594, tt1757678, tt19847976, tt26443597, tt26581740, tt31193180, tt9603208]
+      winner: []
+    podcast of the year:
+      nominee: [tt10457036, tt11857594, tt12825566, tt14514116, tt22476986, tt35684666]
+      winner: []
 '2025': # https://www.imdb.com/event/ev0000292/2025/1/
   golden globe:
     best director - motion picture:

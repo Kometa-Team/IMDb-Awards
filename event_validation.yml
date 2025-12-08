@@ -3194,12 +3194,12 @@ ev0000280: # German Film Awards (https://www.imdb.com/event/ev0000280)
   - special award for a feature film # 1 Event: 1962
   - special film award '40th anniversary of the federal republic of germany' # 1 Event: 1989
 ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
-  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
-    '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977',
-    '1976', '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953', '1952',
-    '1951', '1950', '1949', '1948', '1947', '1946', '1945', '1944']
+  years: ['2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003',
+    '2002', '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978',
+    '1977', '1976', '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953',
+    '1952', '1951', '1950', '1949', '1948', '1947', '1946', '1945', '1944']
   awards:  # Award Options: Golden Globes, USA
-  - golden globe # 82 Events: 1944-2025
+  - golden globe # 83 Events: 1944-2026
   - outstanding merit # 1 Event: 1960
   - samuel goldwyn international award # 6 Events: 1959-1964
   - silver globe # 1 Event: 1962
@@ -3234,7 +3234,7 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best cinematography - black and white # 6 Events: 1950-1953, 1955, 1963
   - best cinematography - color # 6 Events: 1950-1953, 1955, 1963
   - best director # 28 Events: 1944-1971
-  - best director - motion picture # 54 Events: 1972-2025
+  - best director - motion picture # 55 Events: 1972-2026
   - best documentary # 1 Event: 1977
   - best documentary film # 4 Events: 1973-1976
   - best documentary of historical interest # 1 Event: 1954
@@ -3244,39 +3244,39 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best foreign language film # 29 Events: 1987-2015
   - best foreign-language foreign film # 14 Events: 1957-1959, 1961-1962, 1965-1973
   - best miniseries or motion picture made for television # 34 Events: 1982-2015
-  - best motion picture - animated # 10 Events: 2016-2025
+  - best motion picture - animated # 11 Events: 2016-2026
   - best motion picture - comedy # 5 Events: 1959-1963
   - best motion picture - comedy or musical # 59 Events: 1952-1953, 1955-1958, 1964-2016
-  - best motion picture - drama # 75 Events: 1951-2025
+  - best motion picture - drama # 76 Events: 1951-2026
   - best motion picture - foreign language # 6 Events: 2016-2021
   - best motion picture - musical # 5 Events: 1959-1963
-  - best motion picture - musical or comedy # 8 Events: 2017-2023, 2025
-  - best motion picture - non-english language # 4 Events: 2022-2025
+  - best motion picture - musical or comedy # 9 Events: 2017-2023, 2025-2026
+  - best motion picture - non-english language # 5 Events: 2022-2026
   - best motion picture acting debut - female # 1 Event: 1979
   - best motion picture acting debut - male # 1 Event: 1979
   - best motion picture made for television # 6 Events: 1976-1981
   - best motion picture, musical or comedy # 1 Event: 2024
   - best movie made for tv # 2 Events: 1972-1973
   - best original score # 16 Events: 1948-1953, 1960-1963, 1965-1970
-  - best original score - motion picture # 54 Events: 1971-1981, 1983-2025
+  - best original score - motion picture # 55 Events: 1971-1981, 1983-2026
   - best original song # 6 Events: 1962, 1966-1970
-  - best original song - motion picture # 55 Events: 1971-2025
+  - best original song - motion picture # 56 Events: 1971-2026
   - best outdoor drama # 1 Event: 1956
-  - best performance by a female actor in a limited series, anthology series or motion picture made for television # 2 Events: 2024-2025
-  - best performance by a female actor in a motion picture - drama # 2 Events: 2024-2025
-  - best performance by a female actor in a motion picture - musical or comedy # 2 Events: 2024-2025
-  - best performance by a female actor in a supporting role in any motion picture # 2 Events: 2024-2025
-  - best performance by a female actor in a supporting role on television # 2 Events: 2024-2025
-  - best performance by a female actor in a television series - drama # 2 Events: 2024-2025
-  - best performance by a female actor in a television series - musical or comedy # 2 Events: 2024-2025
-  - best performance by a male actor in a limited series, anthology series or motion picture made for television # 2 Events: 2024-2025
-  - best performance by a male actor in a motion picture - drama # 2 Events: 2024-2025
-  - best performance by a male actor in a motion picture - musical or comedy # 1 Event: 2025
+  - best performance by a female actor in a limited series, anthology series or motion picture made for television # 3 Events: 2024-2026
+  - best performance by a female actor in a motion picture - drama # 3 Events: 2024-2026
+  - best performance by a female actor in a motion picture - musical or comedy # 3 Events: 2024-2026
+  - best performance by a female actor in a supporting role in any motion picture # 3 Events: 2024-2026
+  - best performance by a female actor in a supporting role on television # 3 Events: 2024-2026
+  - best performance by a female actor in a television series - drama # 3 Events: 2024-2026
+  - best performance by a female actor in a television series - musical or comedy # 3 Events: 2024-2026
+  - best performance by a male actor in a limited series, anthology series or motion picture made for television # 3 Events: 2024-2026
+  - best performance by a male actor in a motion picture - drama # 3 Events: 2024-2026
+  - best performance by a male actor in a motion picture - musical or comedy # 2 Events: 2025-2026
   - best performance by a male actor in a motion picture, musical or comedy # 1 Event: 2024
-  - best performance by a male actor in a supporting role in any motion picture # 2 Events: 2024-2025
-  - best performance by a male actor in a supporting role on television # 2 Events: 2024-2025
-  - best performance by a male actor in a television series - drama # 2 Events: 2024-2025
-  - best performance by a male actor in a television series - musical or comedy # 2 Events: 2024-2025
+  - best performance by a male actor in a supporting role in any motion picture # 3 Events: 2024-2026
+  - best performance by a male actor in a supporting role on television # 3 Events: 2024-2026
+  - best performance by a male actor in a television series - drama # 3 Events: 2024-2026
+  - best performance by a male actor in a television series - musical or comedy # 3 Events: 2024-2026
   - best performance by an actor in a limited series or a motion picture made for television # 3 Events: 2018-2020
   - best performance by an actor in a limited series or motion picture made for television # 2 Events: 2016-2017
   - best performance by an actor in a limited series, anthology series or a motion picture made for television # 1 Event: 2021
@@ -3317,10 +3317,10 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best performance by an actress in a television series - drama # 43 Events: 1981-2023
   - best performance by an actress in a television series - musical or comedy # 7 Events: 2017-2023
   - best performance by an actress in a television supporting role # 1 Event: 2021
-  - best performance in stand-up comedy on television # 2 Events: 2024-2025
+  - best performance in stand-up comedy on television # 3 Events: 2024-2026
   - best picture # 7 Events: 1944-1950
   - best screenplay # 13 Events: 1948-1955, 1966-1970
-  - best screenplay - motion picture # 55 Events: 1971-2025
+  - best screenplay - motion picture # 56 Events: 1971-2026
   - best song # 1 Event: 1965
   - best supporting actor # 27 Events: 1944-1970
   - best supporting actor - motion picture # 6 Events: 1971-1976
@@ -3332,10 +3332,10 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best supporting actress in a series, miniseries or motion picture made for television # 2 Events: 1981-1982
   - best television limited series or motion picture made for television # 6 Events: 2011, 2016-2020
   - best television limited series, anthology series or motion picture made for television # 3 Events: 2021-2023
-  - best television limited series, anthology series, or motion picture made for television # 2 Events: 2024-2025
+  - best television limited series, anthology series, or motion picture made for television # 3 Events: 2024-2026
   - best television series - comedy or musical # 41 Events: 1976-2016
-  - best television series - drama # 49 Events: 1976-2023, 2025
-  - best television series - musical or comedy # 9 Events: 2017-2025
+  - best television series - drama # 50 Events: 1976-2023, 2025-2026
+  - best television series - musical or comedy # 10 Events: 2017-2026
   - best television series, drama # 1 Event: 2024
   - best television series, musical or comedy # 1 Event: 2020
   - best television special - variety or musical # 1 Event: 1982
@@ -3353,7 +3353,7 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - best tv special # 1 Event: 1973
   - best tv star - female # 7 Events: 1963-1969
   - best tv star - male # 7 Events: 1963-1969
-  - cinematic and box office achievement # 2 Events: 2024-2025
+  - cinematic and box office achievement # 3 Events: 2024-2026
   - most promising newcomer # 1 Event: 1951
   - most promising newcomer - female # 26 Events: 1948, 1950, 1952-1975
   - most promising newcomer - male # 26 Events: 1948, 1950, 1952-1975
@@ -3361,6 +3361,7 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - new star of the year in a motion picture - female # 3 Events: 1980-1981, 1983
   - new star of the year in a motion picture - male # 3 Events: 1980-1981, 1983
   - outstanding merit # 1 Event: 1960
+  - podcast of the year # 1 Event: 2026
   - samuel goldwyn international award # 6 Events: 1959-1964
   - special achievement award # 1 Event: 1956
   - special award # 10 Events: 1947-1949, 1952-1954, 1959-1960, 1993-1994
