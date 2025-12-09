@@ -1,26 +1,23 @@
 # Filmfare OTT Awards
 '2025':  # https://www.imdb.com/event/ev0035513/2025/1/
   popular award:
-    best (non fiction) original, (series/special):
-      nominee: [tt13452100, tt14866598, tt31189484, tt31898045, tt31898077, tt35668659]
-      winner: []
-    'best actor, series (female): comedy':
-      nominee: [tt12004706, tt21908964, tt30819853, tt31925820]
-      winner: []
-    'best actor, series (female): drama':
-      nominee: [tt12805346, tt15340954, tt27111295, tt27411674, tt29473170, tt31898201]
-      winner: []
-    'best actor, series (male): comedy':
-      nominee: [tt12004706, tt30819853, tt31925820, tt34773311]
-      winner: []
-    'best actor, series (male): drama':
+    best actor - drama:
       nominee: [tt27411674, tt28106741, tt30820007, tt35064818, tt37365626, tt9680440]
       winner: []
-    best actor, web original film (female):
-      nominee: [tt12736014, tt18277182, tt21194868, tt26225118, tt26655658, tt27032419, tt28075881]
+    'best actor: comedy':
+      nominee: [tt12004706, tt30819853, tt31925820, tt34773311]
       winner: []
-    best actor, web original film (male):
+    'best actor: web original film':
       nominee: [tt13261550, tt15260176, tt21626774, tt22480126, tt27866781, tt27930683, tt28494851, tt33888131]
+      winner: []
+    best actress - drama:
+      nominee: [tt12805346, tt15340954, tt27111295, tt27411674, tt29473170, tt31898201]
+      winner: []
+    'best actress: comedy':
+      nominee: [tt12004706, tt21908964, tt30819853, tt31925820]
+      winner: []
+    'best actress: web original film':
+      nominee: [tt12736014, tt18277182, tt21194868, tt26225118, tt26655658, tt27032419, tt28075881]
       winner: []
     best comedy (series/specials):
       nominee: [tt12004706, tt21908964, tt30819853, tt31925820, tt34773311, tt35528920]
@@ -34,26 +31,29 @@
     best film, web original:
       nominee: [tt12736014, tt18277182, tt21626774, tt27930683, tt28494851, tt31897917]
       winner: []
+    best nonfiction original, series/special:
+      nominee: [tt13452100, tt14866598, tt31189484, tt31898045, tt31898077, tt35668659]
+      winner: []
     best series:
       nominee: [tt28102595, tt28106741, tt31898201, tt35064818, tt37365626, tt9680440]
       winner: []
-    'best supporting actor, series (female): comedy':
-      nominee: [tt12004706, tt31925820, tt34773311, tt35528920]
-      winner: []
-    'best supporting actor, series (female): drama':
-      nominee: [tt15340954, tt28106741, tt31898201, tt9680440, tt9814458]
-      winner: []
-    'best supporting actor, series (male): comedy':
+    'best supporting actor, series: comedy':
       nominee: [tt12004706, tt34773311]
       winner: []
-    'best supporting actor, series (male): drama':
+    'best supporting actor, series: drama':
       nominee: [tt28102595, tt31898201, tt35064818, tt9680440]
       winner: []
-    best supporting actor, web original film (female):
-      nominee: [tt15260176, tt16436848, tt18277182, tt27930683, tt28494851, tt33888131]
-      winner: []
-    best supporting actor, web original film (male):
+    best supporting actor, web original film:
       nominee: [tt21626774, tt27866781, tt27930683, tt28075881, tt28494851, tt31897917]
+      winner: []
+    'best supporting actress, series: comedy':
+      nominee: [tt12004706, tt31925820, tt34773311, tt35528920]
+      winner: []
+    'best supporting actress, series: drama':
+      nominee: [tt15340954, tt28106741, tt31898201, tt9680440, tt9814458]
+      winner: []
+    best supporting actress, web original film:
+      nominee: [tt15260176, tt16436848, tt18277182, tt27930683, tt28494851, tt33888131]
       winner: []
   technical award:
     best adapted screenplay, series:

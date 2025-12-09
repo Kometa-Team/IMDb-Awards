@@ -5719,27 +5719,27 @@ ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
   - short film award # 1 Event: 2023
   - technical award # 6 Events: 2020-2025
   categories: # Category Options: Filmfare OTT Awards
-  - best (non fiction) original, (series/special) # 1 Event: 2025
+  - best (non fiction) original, (series/special) # No Events Found
   - best actor - comedy # 1 Event: 2024
-  - best actor - drama # 5 Events: 2020-2024
+  - best actor - drama # 6 Events: 2020-2025
   - best actor - film # 1 Event: 2024
   - best actor - short film # 1 Event: 2023
   - best actor - web original film # 2 Events: 2023-2024
-  - 'best actor, series (female): comedy' # 1 Event: 2025
-  - 'best actor, series (female): drama' # 1 Event: 2025
-  - 'best actor, series (male): comedy' # 1 Event: 2025
-  - 'best actor, series (male): drama' # 1 Event: 2025
-  - best actor, web original film (female) # 1 Event: 2025
-  - best actor, web original film (male) # 1 Event: 2025
-  - 'best actor: comedy' # 4 Events: 2020-2023
-  - 'best actor: web original film' # 4 Events: 2020-2023
+  - 'best actor, series (female): comedy' # No Events Found
+  - 'best actor, series (female): drama' # No Events Found
+  - 'best actor, series (male): comedy' # No Events Found
+  - 'best actor, series (male): drama' # No Events Found
+  - best actor, web original film (female) # No Events Found
+  - best actor, web original film (male) # No Events Found
+  - 'best actor: comedy' # 5 Events: 2020-2023, 2025
+  - 'best actor: web original film' # 5 Events: 2020-2023, 2025
   - best actress - comedy # 1 Event: 2024
-  - best actress - drama # 5 Events: 2020-2024
+  - best actress - drama # 6 Events: 2020-2025
   - best actress - film # 1 Event: 2024
   - best actress - short film # 1 Event: 2023
   - best actress - web original film # 2 Events: 2023-2024
-  - 'best actress: comedy' # 4 Events: 2020-2023
-  - 'best actress: web original film' # 4 Events: 2020-2023
+  - 'best actress: comedy' # 5 Events: 2020-2023, 2025
+  - 'best actress: web original film' # 5 Events: 2020-2023, 2025
   - best adapted screenplay (series) # 2 Events: 2023-2024
   - best adapted screenplay, series # 1 Event: 2025
   - best art direction # 1 Event: 2020
@@ -5779,7 +5779,7 @@ ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
   - best film, web original # 2 Events: 2024-2025
   - best music album # 1 Event: 2024
   - best non fiction series # 1 Event: 2024
-  - best nonfiction original, series/special # 5 Events: 2020-2024
+  - best nonfiction original, series/special # 6 Events: 2020-2025
   - best original screenplay (series) # 2 Events: 2023-2024
   - best original screenplay (web original film) # 3 Events: 2023-2025
   - best original screenplay, series # 2 Events: 2022, 2025
@@ -5806,17 +5806,23 @@ ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
   - best supporting actor - drama # 5 Events: 2020-2024
   - best supporting actor - web original film # 1 Event: 2024
   - best supporting actor male (comedy) # 1 Event: 2024
-  - 'best supporting actor, series (female): comedy' # 1 Event: 2025
-  - 'best supporting actor, series (female): drama' # 1 Event: 2025
-  - 'best supporting actor, series (male): comedy' # 1 Event: 2025
-  - 'best supporting actor, series (male): drama' # 1 Event: 2025
-  - best supporting actor, web original film (female) # 1 Event: 2025
-  - best supporting actor, web original film (male) # 1 Event: 2025
+  - 'best supporting actor, series (female): comedy' # No Events Found
+  - 'best supporting actor, series (female): drama' # No Events Found
+  - 'best supporting actor, series (male): comedy' # No Events Found
+  - 'best supporting actor, series (male): drama' # No Events Found
+  - 'best supporting actor, series: comedy' # 1 Event: 2025
+  - 'best supporting actor, series: drama' # 1 Event: 2025
+  - best supporting actor, web original film # 1 Event: 2025
+  - best supporting actor, web original film (female) # No Events Found
+  - best supporting actor, web original film (male) # No Events Found
   - 'best supporting actor: comedy' # 4 Events: 2020-2023
   - 'best supporting actor: web original film' # 4 Events: 2020-2023
   - best supporting actress - comedy # 1 Event: 2024
   - best supporting actress - drama # 5 Events: 2020-2024
   - best supporting actress - web original film # 1 Event: 2024
+  - 'best supporting actress, series: comedy' # 1 Event: 2025
+  - 'best supporting actress, series: drama' # 1 Event: 2025
+  - best supporting actress, web original film # 1 Event: 2025
   - 'best supporting actress: comedy' # 4 Events: 2020-2023
   - 'best supporting actress: web original film' # 4 Events: 2020-2023
   - best vfx # 2 Events: 2021-2022
