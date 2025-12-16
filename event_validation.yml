@@ -5713,14 +5713,20 @@ ev0011808: # Indian Film Festival Of Melbourne (https://www.imdb.com/event/ev001
 ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
   years: ['2025', '2024', '2023', '2022', '2021', '2020']
   awards:  # Award Options: Filmfare OTT Awards
-  - critics choice award # 5 Events: 2020-2024
+  - critics choice award # 6 Events: 2020-2025
   - filmfare award # 2 Events: 2022, 2024
   - popular award # 6 Events: 2020-2025
   - short film award # 1 Event: 2023
   - technical award # 6 Events: 2020-2025
   categories: # Category Options: Filmfare OTT Awards
   - best (non fiction) original, (series/special) # No Events Found
-  - best actor (male - short film) # 1 Event: 2025
+  - best actor (female) critics web original film # 1 Event: 2025
+  - 'best actor (female), series, critics: drama' # 1 Event: 2025
+  - best actor (female), short film # 1 Event: 2025
+  - best actor (male - short film) # No Events Found
+  - best actor (male) critics web original film # 1 Event: 2025
+  - 'best actor (male), series, critics: drama' # 1 Event: 2025
+  - best actor (male), short film # 1 Event: 2025
   - best actor - comedy # 1 Event: 2024
   - best actor - drama # 5 Events: 2020-2024
   - best actor - film # 1 Event: 2024
@@ -5758,7 +5764,8 @@ ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
   - best costume design (series) # 2 Events: 2023-2024
   - best costume design, series # 1 Event: 2025
   - best debut director, film # 1 Event: 2024
-  - best debut director, series # 1 Event: 2024
+  - best debut director, series # 2 Events: 2024-2025
+  - best debut director, web original film # 1 Event: 2025
   - best debut male, film # 1 Event: 2024
   - best dialogue # 2 Events: 2021-2022
   - best dialogue (series) # 2 Events: 2023-2024
@@ -5772,6 +5779,7 @@ ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
   - best director - web original film # 1 Event: 2024
   - best director, series # 1 Event: 2025
   - best director, web original film # 1 Event: 2025
+  - 'best director: series' # 1 Event: 2025
   - 'best director: web original film' # 1 Event: 2023
   - best editing (series) # 2 Events: 2023-2024
   - best editing (web original film) # 3 Events: 2023-2025
@@ -5780,6 +5788,8 @@ ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
   - best film # 1 Event: 2024
   - best film, web original # 2 Events: 2024-2025
   - best music album # 1 Event: 2024
+  - best music album (web original film) # 1 Event: 2025
+  - best music album, series # 1 Event: 2025
   - best non fiction series # 1 Event: 2024
   - best nonfiction original, series/special # 6 Events: 2020-2025
   - best original screenplay (series) # 2 Events: 2023-2024
@@ -5801,7 +5811,8 @@ ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
   - best series - comedy # 4 Events: 2020-2023
   - best series - drama # 4 Events: 2020-2023
   - best short film (fiction) # 2 Events: 2023, 2025
-  - best short film (non-fiction) # 1 Event: 2025
+  - best short film (non-fiction or documentary) # 1 Event: 2025
+  - best short film (non-fiction) # No Events Found
   - best short film (people's choice) # 1 Event: 2023
   - best short film (people’s choice) # 1 Event: 2025
   - best sound design (series) # 2 Events: 2023-2024
@@ -5834,7 +5845,11 @@ ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
   - 'best supporting actress: web original film' # 4 Events: 2020-2023
   - best vfx # 2 Events: 2021-2022
   - best vfx (series) # 3 Events: 2023-2025
-  - best web original film # 4 Events: 2020-2023
+  - best web original film # 5 Events: 2020-2023, 2025
+  - breakthrough perfomance by a newcomer (female), series # 1 Event: 2025
+  - breakthrough perfomance by a newcomer (female), web original film # 1 Event: 2025
+  - breakthrough perfomance by a newcomer (male), series # 1 Event: 2025
+  - breakthrough perfomance by a newcomer (male), web original film # 1 Event: 2025
   - special recognition # 1 Event: 2024
 ev0036701: # Critics’ Choice Shorts and Series Awards, India (https://www.imdb.com/event/ev0036701)
   years: ['2025', '2024', '2023', '2022', '2021', '2019']

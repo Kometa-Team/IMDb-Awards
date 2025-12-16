@@ -1,52 +1,61 @@
 # Filmfare OTT Awards
 '2025':  # https://www.imdb.com/event/ev0035513/2025/1/
   popular award:
-    best actor (male - short film):
+    best actor (female), short film:
+      nominee: [tt32889642]
+      winner: [tt32889642]
+    best actor (male), short film:
       nominee: [tt32135874]
       winner: [tt32135874]
     'best actor, series (female): comedy':
       nominee: [tt12004706, tt21908964, tt30819853, tt31925820]
-      winner: []
+      winner: [tt21908964]
     'best actor, series (female): drama':
       nominee: [tt12805346, tt15340954, tt27111295, tt27411674, tt29473170, tt31898201]
-      winner: []
+      winner: [tt31898201]
     'best actor, series (male): comedy':
       nominee: [tt12004706, tt30819853, tt31925820, tt34773311]
-      winner: []
+      winner: [tt30819853, tt31925820]
     'best actor, series (male): drama':
       nominee: [tt27411674, tt28106741, tt30820007, tt35064818, tt37365626, tt9680440]
-      winner: []
+      winner: [tt9680440]
     best actor, web original film (female):
       nominee: [tt12736014, tt18277182, tt21194868, tt26225118, tt26655658, tt27032419, tt28075881]
-      winner: []
+      winner: [tt27032419]
     best actor, web original film (male):
       nominee: [tt13261550, tt15260176, tt21626774, tt22480126, tt27866781, tt27930683, tt28494851, tt33888131]
-      winner: []
+      winner: [tt28494851]
     best comedy (series/specials):
       nominee: [tt12004706, tt21908964, tt30819853, tt31925820, tt34773311, tt35528920]
       winner: [tt30819853]
+    best debut director, series:
+      nominee: [tt35822727]
+      winner: [tt35822727]
+    best debut director, web original film:
+      nominee: [tt21626774, tt28494851]
+      winner: [tt21626774, tt28494851]
     best director (short film):
       nominee: [tt36410206]
       winner: [tt36410206]
     best director, series:
       nominee: [tt28102595, tt28106741, tt31898201, tt35064818, tt35822727, tt37365626, tt9680440]
-      winner: []
+      winner: [tt35064818]
     best director, web original film:
       nominee: [tt12736014, tt18277182, tt21626774, tt27930683, tt28494851, tt31897917]
-      winner: []
+      winner: [tt18277182]
     best film, web original:
       nominee: [tt12736014, tt18277182, tt21626774, tt27930683, tt28494851, tt31897917]
-      winner: []
+      winner: [tt18277182]
     best nonfiction original, series/special:
       nominee: [tt13452100, tt14866598, tt31189484, tt31898045, tt31898077, tt35668659]
-      winner: []
+      winner: [tt14866598]
     best series:
       nominee: [tt28102595, tt28106741, tt31898201, tt35064818, tt37365626, tt9680440]
-      winner: []
+      winner: [tt35064818]
     best short film (fiction):
       nominee: [tt32889642]
       winner: [tt32889642]
-    best short film (non-fiction):
+    best short film (non-fiction or documentary):
       nominee: [tt37038535]
       winner: [tt37038535]
     best short film (people’s choice):
@@ -57,19 +66,53 @@
       winner: [tt31925820]
     'best supporting actor, series (female): drama':
       nominee: [tt15340954, tt28106741, tt31898201, tt9680440, tt9814458]
-      winner: []
+      winner: [tt9680440]
     'best supporting actor, series (male): comedy':
       nominee: [tt12004706, tt34773311]
       winner: [tt34773311]
     'best supporting actor, series (male): drama':
       nominee: [tt28102595, tt31898201, tt35064818, tt9680440]
-      winner: []
+      winner: [tt35064818]
     best supporting actor, web original film (female):
       nominee: [tt15260176, tt16436848, tt18277182, tt27930683, tt28494851, tt33888131]
-      winner: []
+      winner: [tt18277182]
     best supporting actor, web original film (male):
       nominee: [tt21626774, tt27866781, tt27930683, tt28075881, tt28494851, tt31897917]
-      winner: []
+      winner: [tt21626774]
+    breakthrough perfomance by a newcomer (female), series:
+      nominee: [tt21908964]
+      winner: [tt21908964]
+    breakthrough perfomance by a newcomer (female), web original film:
+      nominee: [tt15260176]
+      winner: [tt15260176]
+    breakthrough perfomance by a newcomer (male), series:
+      nominee: [tt35064818]
+      winner: [tt35064818]
+    breakthrough perfomance by a newcomer (male), web original film:
+      nominee: [tt28494851]
+      winner: [tt28494851]
+  critics choice award:
+    best actor (female) critics web original film:
+      nominee: [tt18277182]
+      winner: [tt18277182]
+    'best actor (female), series, critics: drama':
+      nominee: [tt27411674]
+      winner: [tt27411674]
+    best actor (male) critics web original film:
+      nominee: [tt21626774]
+      winner: [tt21626774]
+    'best actor (male), series, critics: drama':
+      nominee: [tt35064818]
+      winner: [tt35064818]
+    'best director: series':
+      nominee: [tt28106741, tt37365626]
+      winner: [tt28106741, tt37365626]
+    best series:
+      nominee: [tt9680440]
+      winner: [tt9680440]
+    best web original film:
+      nominee: [tt31897917]
+      winner: [tt31897917]
   technical award:
     best adapted screenplay, series:
       nominee: [tt21916016, tt28102595, tt28106741, tt30820007, tt35064818, tt37365626]
@@ -101,6 +144,12 @@
     best editing, series:
       nominee: [tt15340954, tt28106741, tt31898201, tt34773311, tt35064818, tt37365626, tt9680440]
       winner: [tt31898201]
+    best music album (web original film):
+      nominee: [tt33888131]
+      winner: [tt33888131]
+    best music album, series:
+      nominee: [tt9814458]
+      winner: [tt9814458]
     best original screenplay (web original film):
       nominee: [tt12736014, tt18277182, tt21626774, tt27930683, tt31897917]
       winner: [tt12736014]
