@@ -2,34 +2,23 @@
 '2025':  # https://www.imdb.com/event/ev0000681/2025/1/
   golden lion:
     best film:
-      nominee: [tt11214558, tt12300742, tt1312221, tt1527793, tt27811632, tt30446847, tt30874362, tt31065630, tt31189315, tt31415482, tt32376165, tt32386654, tt32907482, tt33396536, tt34819091, tt34886821, tt36243564, tt36874833, tt36943034, tt37660578, tt37660587]
-      winner: [tt31189315]
-  silver lion:
-    best director:
-      nominee: [tt11214558]
-      winner: [tt11214558]
-    grand jury prize:
-      nominee: [tt36943034]
-      winner: [tt36943034]
+      nominee: [tt29593552]
+      winner: []
   special jury prize:
     special jury prize:
-      nominee: [tt36874833]
-      winner: [tt36874833]
-  golden osella:
-    best screenplay:
-      nominee: [tt37660587]
-      winner: [tt37660587]
+      nominee: [tt35505263]
+      winner: [tt35505263]
   volpi cup:
     best actor:
-      nominee: [tt34886821]
-      winner: [tt34886821]
+      nominee: [tt15827940]
+      winner: [tt15827940]
     best actress:
-      nominee: [tt32907482]
-      winner: [tt32907482]
+      nominee: [tt21228956]
+      winner: [tt21228956]
   luigi de laurentiis award:
     best debut film:
-      nominee: [tt32283654]
-      winner: [tt32283654]
+      nominee: [tt11415180]
+      winner: []
   venice horizons award:
     best actor:
       nominee: [tt31778123]
@@ -54,23 +43,11 @@
       winner: [tt37660506]
   fipresci prize:
     competition:
-      nominee: [tt27811632]
-      winner: [tt27811632]
+      nominee: [tt0777932]
+      winner: [tt0777932]
     orizzonti and parallel sections:
-      nominee: [tt35890662]
-      winner: [tt35890662]
-  signis award:
-    signis award:
-      nominee: [tt37660578]
-      winner: [tt37660578]
-  netpac award:
-    netpac award:
-      nominee: [tt32362418]
-      winner: [tt32362418]
-  unicef award:
-    unicef award:
-      nominee: [tt36943034]
-      winner: [tt36943034]
+      nominee: [tt0768116]
+      winner: [tt0768116]
   pasinetti award:
     best actor:
       nominee: [tt34886821]
@@ -86,8 +63,8 @@
       winner: [tt34886821]
   critics' week award:
     best film:
-      nominee: [tt29630535, tt33046039, tt35890662, tt37645474, tt37655085, tt37673712, tt37678610]
-      winner: [tt29630535]
+      nominee: [tt0037792]
+      winner: [tt0037792]
   fedic award:
     best film:
       nominee: [tt33382323]
@@ -95,30 +72,14 @@
     best short:
       nominee: [tt37647068]
       winner: [tt37647068]
-  queer lion award:
-    queer lion award:
-      nominee: [tt15181334, tt32159989, tt33023305, tt33350512, tt33400312, tt35093403, tt37599468, tt37600141, tt37660509, tt37678610]
-      winner: [tt37660509]
-  label europa cinemas award:
-    giornate degli autori:
-      nominee: [tt33400312]
-      winner: [tt33400312]
-  brian award:
-    brian award:
-      nominee: [tt34886821]
-      winner: [tt34886821]
   special award:
     best american feature script:
-      nominee: [tt27434692]
-      winner: [tt27434692]
-  green drop award:
-    green drop award:
-      nominee: [tt12300742, tt27811632]
-      winner: [tt12300742, tt27811632]
+      nominee: [tt27793410]
+      winner: [tt27793410]
   interfilm award:
     interfilm award for promoting interreligious dialogue:
-      nominee: [tt27811632]
-      winner: [tt27811632]
+      nominee: [tt2395459]
+      winner: [tt2395459]
   venezia classici award:
     best documentary on cinema:
       nominee: [tt18259698, tt33008332, tt34621966, tt36909787, tt37654454, tt37675862, tt37675869, tt37675871, tt37675876]
@@ -128,43 +89,39 @@
       winner: [tt0096894]
   leoncino d'oro agiscuola award:
     leoncino d'oro agiscuola award:
-      nominee: [tt36943034]
-      winner: [tt36943034]
-  leoncino d'oro agiscuola award - cinema for unicef:
-    leoncino d'oro agiscuola award - cinema for unicef:
-      nominee: [tt36943034]
-      winner: [tt36943034]
+      nominee: [tt26537573]
+      winner: [tt26537573]
   arca cinemagiovani award:
     best film in competition:
-      nominee: [tt36943034]
-      winner: [tt36943034]
+      nominee: [tt29890549]
+      winner: [tt29890549]
     best italian film in venice:
-      nominee: [tt34886821]
-      winner: [tt34886821]
+      nominee: [tt29115429]
+      winner: [tt29115429]
   cict-unesco enrico fulchignoni award:
     cict-unesco enrico fulchignoni award:
-      nominee: [tt36943034]
-      winner: [tt36943034]
+      nominee: [tt23853982]
+      winner: [tt23853982]
   magic lantern award:
     magic lantern award:
-      nominee: [tt31778123]
-      winner: [tt31778123]
+      nominee: [tt21391146, tt28506298, tt28944835, tt30192616, tt31105714, tt32201322, tt32205506]
+      winner: [tt28944835]
   soundtrack stars award:
     best soundtrack:
-      nominee: [tt31415482]
-      winner: [tt31415482]
+      nominee: [tt32459280]
+      winner: [tt32459280]
   sorriso diverso venezia award:
     best film in a foreign language:
-      nominee: [tt36943034]
-      winner: [tt36943034]
+      nominee: [tt32119297]
+      winner: [tt32119297]
   marcello mastrioanno award:
     best young actor or actress:
-      nominee: [tt27811632]
-      winner: [tt27811632]
+      nominee: [tt32178949]
+      winner: [tt32178949]
   nuovoimaie talent award:
     best new young actors:
-      nominee: [tt31778123]
-      winner: [tt31778123]
+      nominee: [tt32086034]
+      winner: [tt32086034]
   la pellicola d'oro award:
     best production manager:
       nominee: [tt34886821]
@@ -172,6 +129,10 @@
     best prop maker:
       nominee: [tt31415482]
       winner: [tt31415482]
+  campari passion for the cinema award:
+    campari passion for the cinema award:
+      nominee: [tt32321317]
+      winner: [tt32321317]
   edipo re award (università degli studi di padova e resint rete dell'economia sociale internazionale):
     edipo re award (università degli studi di padova e resint rete dell'economia sociale internazionale):
       nominee: [tt27811632, tt36943034]

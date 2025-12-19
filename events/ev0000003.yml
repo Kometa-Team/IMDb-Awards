@@ -1,5 +1,9 @@
 # Academy Awards, USA
-'2026': {}  # https://www.imdb.com/event/ev0000003/2026/1/
+'2026':  # https://www.imdb.com/event/ev0000003/2026/1/
+  honorary award:
+    honorary award:
+      nominee: [tt29593552]
+      winner: []
 '2025': # https://www.imdb.com/event/ev0000003/2025/1/
   oscar:
     best achievement in cinematography:

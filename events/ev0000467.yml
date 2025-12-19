@@ -2,20 +2,20 @@
 '2025':  # https://www.imdb.com/event/ev0000467/2025/1/
   golden lotus award:
     best children's film:
-      nominee: [tt29437878]
-      winner: [tt29437878]
+      nominee: [tt13040058]
+      winner: [tt13040058]
     best debut film of a director:
-      nominee: [tt26541225]
-      winner: [tt26541225]
+      nominee: [tt13040058]
+      winner: [tt13040058]
     best director:
-      nominee: [tt24268454]
-      winner: [tt24268454]
+      nominee: [tt13040058]
+      winner: [tt13040058]
     best feature film:
-      nominee: [tt23849204]
-      winner: [tt23849204]
+      nominee: [tt14512896]
+      winner: [tt14512896]
     best feature film providing wholesome entertainment:
-      nominee: [tt14993250]
-      winner: [tt14993250]
+      nominee: [tt19394322]
+      winner: []
   silver lotus award:
     best actor:
       nominee: [tt15354916, tt23849204]
@@ -125,8 +125,8 @@
       winner: [tt13751694]
   national film award:
     best child artist:
-      nominee: [tt29437878, tt34057707]
-      winner: [tt29437878, tt34057707]
+      nominee: [tt32459280]
+      winner: [tt32459280]
   non-feature films award:
     best arts/culture film:
       nominee: [tt37803849]
@@ -173,6 +173,10 @@
     special mention:
       nominee: [tt29712850, tt37804018]
       winner: [tt29712850, tt37804018]
+  best film critic:
+    best film critic:
+      nominee: [tt2012616, tt32362418, tt32429174, tt34819314, tt34973241, tt36980776, tt37656135, tt37660486]
+      winner: [tt32429174]
 '2024': # https://www.imdb.com/event/ev0000467/2024/1/
   golden lotus award:
     best debut film of a director:

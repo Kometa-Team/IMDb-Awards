@@ -2,41 +2,41 @@
 '2025':  # https://www.imdb.com/event/ev0005699/2025/1/
   zee rishtey award:
     favorite character (female):
-      nominee: [tt33310356, tt35528914]
-      winner: [tt33310356, tt35528914]
+      nominee: [tt0077451, tt0078418, tt0079590, tt0158845, tt0363563]
+      winner: [tt0077451]
     favorite character (male):
-      nominee: [tt35443400]
-      winner: [tt35443400]
+      nominee: [tt0077609, tt0078204, tt0151466, tt0165625, tt0778877]
+      winner: [tt0151466]
     favorite dharavaahik:
-      nominee: [tt33310356]
-      winner: [tt33310356]
+      nominee: [tt0077797, tt0079590, tt0157337, tt0158845, tt0246492]
+      winner: [tt0246492]
     favorite jodi:
-      nominee: [tt35443400]
-      winner: [tt35443400]
+      nominee: [tt0076696, tt0078204, tt0078418, tt0079590, tt0151466]
+      winner: [tt0076696]
     favourite bahu:
-      nominee: [tt35443400]
-      winner: [tt35443400]
+      nominee: [tt0076696, tt0078418, tt0079590, tt0151466, tt0165625]
+      winner: [tt0151466]
     favourite beta:
-      nominee: [tt33310356, tt35528914]
-      winner: [tt33310356, tt35528914]
+      nominee: [tt0077179]
+      winner: [tt0077179]
     favourite beti:
-      nominee: [tt29768969, tt33310385]
-      winner: [tt29768969, tt33310385]
+      nominee: [tt0077451, tt0078204, tt0151466, tt0165625, tt0246433]
+      winner: [tt0246433]
     favourite khalnayak:
-      nominee: [tt33310385]
-      winner: [tt33310385]
+      nominee: [tt0077451, tt0078204, tt0078241, tt0154390, tt0165625]
+      winner: [tt0078204]
     favourite maa:
-      nominee: [tt33310356]
-      winner: [tt33310356]
+      nominee: [tt0077451]
+      winner: [tt0077451]
     favourite naya sadasya - female:
-      nominee: [tt35528914]
-      winner: [tt35528914]
+      nominee: [tt0077451]
+      winner: [tt0077451]
     favourite naya sadasya - male:
-      nominee: [tt33310356]
-      winner: [tt33310356]
+      nominee: [tt0076696, tt0077792, tt0078418, tt0079590, tt0363563]
+      winner: [tt0076696]
     favourite saas:
-      nominee: [tt35528914]
-      winner: [tt35528914]
+      nominee: [tt0079590, tt0151466, tt0158845, tt0246433]
+      winner: [tt0246433]
 '2024': # https://www.imdb.com/event/ev0005699/2024/1/
   zee rishtey award:
     best bhai-behen:

@@ -2,47 +2,80 @@
 '2023':  # https://www.imdb.com/event/ev0005770/2023/1/
   nickelodeon kids' choice award:
     favorite actor - movie:
-      nominee: [tt10699086, tt11112808, tt12844910, tt14099334, tt6277462, tt6455162]
-      winner: [tt12844910]
+      nominee: [tt11563598, tt20215234, tt20221436, tt28607951, tt8999762]
+      winner: [tt20215234]
     favorite actress - movie:
-      nominee: [tt10083340, tt12740760, tt12844910, tt13449624, tt14099334]
-      winner: [tt13449624]
+      nominee: [tt11687002, tt11891850, tt15939198, tt17163970, tt19637052, tt20215234, tt27367464, tt28277817, tt5112584, tt9218128]
+      winner: [tt20215234]
     favorite movie:
-      nominee: [tt10028196, tt12844910, tt13449624, tt6277462, tt6455162]
-      winner: [tt12844910]
+      nominee: [tt11563598, tt20215234, tt28015403, tt28479262, tt8368368, tt8999762]
+      winner: [tt8999762]
     favorite movie (south):
-      nominee: [tt10698680, tt15327088, tt7466810, tt8178634, tt9263550]
-      winner: [tt10698680]
+      nominee: [tt11687002, tt11891850, tt1262426, tt17526714, tt20221436, tt28607951]
+      winner: [tt28607951]
     favorite movie actor (south):
-      nominee: [tt10698680, tt11301946, tt15327088, tt4435072, tt8178634]
-      winner: [tt10698680]
+      nominee: [tt11563598, tt21823606, tt28479262, tt28607951, tt8368368, tt8999762]
+      winner: [tt21823606]
+    favorite movie actress (south):
+      nominee: [tt1262426, tt20215234, tt20221436, tt31193791, tt8999762]
+      winner: [tt20221436]
     favorite show on kids channel:
-      nominee: [tt2649730]
-      winner: [tt2649730]
+      nominee: [tt17526714, tt21823606, tt27367464, tt28607951, tt8999762]
+      winner: [tt21823606]
     favorite tv actor:
-      nominee: [tt0250875, tt11867666, tt15237514, tt1708446, tt6742294]
-      winner: [tt1708446]
+      nominee: [tt11563598, tt20215234, tt20221436, tt23055660, tt28479262]
+      winner: [tt20215234]
     favorite tv actress:
-      nominee: [tt11867666, tt15237514, tt5323298, tt6742294, tt7147670]
-      winner: [tt6742294]
+      nominee: [tt15239678, tt20215234, tt20221436, tt5040012, tt8999762]
+      winner: [tt8999762]
     favorite tv show (fiction):
-      nominee: [tt11867666, tt1708446, tt5154982, tt5323298]
-      winner: [tt1708446]
+      nominee: [tt15239678, tt20215234, tt20221436, tt27367464, tt28607951]
+      winner: [tt20215234]
     favorite tv show (reality):
-      nominee: [tt5747326]
-      winner: [tt5747326]
+      nominee: [tt1262426, tt15239678, tt20215234, tt5040012, tt8999762]
+      winner: [tt1262426]
     favourite child entertainer on tv:
-      nominee: [tt11867666, tt15237514, tt25420658, tt8389566]
-      winner: [tt25420658]
+      nominee: [tt11563598, tt1262426, tt15939198, tt20215234, tt5040012]
+      winner: [tt1262426]
+    favourite comedian:
+      nominee: [tt1262426, tt15239678, tt17526714, tt20221436, tt5040012]
+      winner: [tt17526714]
+    favourite cricketer - female:
+      nominee: [tt1262426, tt15239678, tt15939198, tt17526714, tt9218128]
+      winner: [tt15239678]
+    favourite cricketer - male:
+      nominee: [tt11389872, tt1262426, tt14260836, tt15239678, tt9218128]
+      winner: [tt15239678]
+    favourite dancing star (female):
+      nominee: [tt14961016, tt20221436, tt27367464, tt32086077, tt32178949]
+      winner: [tt20221436]
+    favourite dancing star (male):
+      nominee: [tt17163970, tt22022452, tt29623480, tt4772188]
+      winner: [tt17163970]
+    favourite fashion icon:
+      nominee: [tt12336480, tt27902121, tt30227076, tt30321133, tt30953759]
+      winner: [tt27902121]
+    favourite instagram personality:
+      nominee: [tt20729172, tt27367464, tt30444418, tt32060445, tt9214772]
+      winner: [tt27367464]
+    favourite rapper:
+      nominee: [tt27836891, tt28768679, tt32611458]
+      winner: [tt28768679]
+    favourite siblings jodi:
+      nominee: [tt27895331, tt28632018, tt31615906, tt32989921, tt33014334]
+      winner: [tt27895331]
     favourite singer:
-      nominee: [tt13795296, tt15163652, tt6277462, tt6455162, tt8178634]
-      winner: [tt6277462]
+      nominee: [tt11563598, tt20215234, tt27367464, tt28607951, tt8368368]
+      winner: [tt28607951]
     favourite song:
-      nominee: [tt10028196, tt10083340, tt10733228, tt13449624, tt6277462, tt6455162]
-      winner: [tt6277462]
+      nominee: [tt15239678, tt17526714, tt20215234, tt20221436, tt28607951, tt8999762]
+      winner: [tt8999762]
     favourite song (south):
-      nominee: [tt10701074, tt11301946, tt12422308, tt8178634]
-      winner: [tt8178634]
+      nominee: [tt20215234, tt20221436, tt29623480, tt5040012, tt8999762]
+      winner: [tt8999762]
+    favourite sportsperson:
+      nominee: [tt17163970, tt29623480, tt4772188, tt5674658]
+      winner: [tt17163970]
 '2022': # https://www.imdb.com/event/ev0005770/2022/1/
   nickelodeon kids' choice award:
     favorite actor - movie:
