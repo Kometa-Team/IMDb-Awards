@@ -1,13 +1,9 @@
 # Awards of the International Indian Film Academy (IIFA)
 '2025':  # https://www.imdb.com/event/ev0000361/2025/1/
-  special award:
-    outstanding achievement in indian cinema:
-      nominee: [tt29593552]
-      winner: []
   international indian film academy award:
     best sound design:
-      nominee: [tt10873572, tt14220980]
-      winner: []
+      nominee: [tt28259207]
+      winner: [tt28259207]
   iifa award:
     best actor in a leading role:
       nominee: [tt10869778, tt21626284, tt23790740, tt26932223, tt27866861]

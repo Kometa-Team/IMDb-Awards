@@ -1,5 +1,40 @@
 # Indian Television Academy Awards, India
-'2024':  # https://www.imdb.com/event/ev0001931/2024/1/
+'2025':  # https://www.imdb.com/event/ev0001931/2025/1/
+  indian television academy award:
+    best actor - drama:
+      nominee: [tt13853152, tt29768969, tt31548582, tt37976775, tt7112704]
+      winner: [tt31548582]
+    best actor - popular:
+      nominee: [tt29768969, tt30705321, tt37150304, tt37547395, tt7112704]
+      winner: [tt37547395]
+    best actor in a comic role:
+      nominee: [tt13853152, tt1708446, tt5154982]
+      winner: []
+    best actor in a comic role (popular):
+      nominee: [tt1708446, tt5154982, tt9877848]
+      winner: []
+    best actress - drama:
+      nominee: [tt0278212, tt11867666, tt29768969, tt33310356, tt37976775]
+      winner: [tt33310356]
+    best actress - popular:
+      nominee: [tt0278212, tt11867666, tt36687762, tt37547395, tt3911870]
+      winner: [tt11867666]
+    best actress in a comic role:
+      nominee: [tt13853152, tt5154982]
+      winner: []
+    best actress in a comic role (popular):
+      nominee: [tt1708446, tt5154982, tt9877848]
+      winner: []
+    best anchor:
+      nominee: [tt37183128]
+      winner: [tt37183128]
+    best serial - drama:
+      nominee: [tt0278212, tt11867666, tt31548582, tt33310356, tt37531697, tt37976775]
+      winner: []
+    best serial - popular:
+      nominee: [tt0278212, tt11867666, tt30978053, tt31548582, tt36687762, tt7112704]
+      winner: []
+'2024': # https://www.imdb.com/event/ev0001931/2024/1/
   indian television academy award:
     best actor - drama:
       nominee: [tt13853152, tt20872936, tt29535793, tt31548582, tt7112704]

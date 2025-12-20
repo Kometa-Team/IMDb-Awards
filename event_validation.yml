@@ -4,7 +4,7 @@ ev0000003:  # Academy Awards, USA (https://www.imdb.com/event/ev0000003)
     '1977', '1976', '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953',
     '1952', '1951', '1950', '1949', '1948', '1947', '1946', '1945', '1944', '1943', '1942', '1941', '1940', '1939', '1938', '1937', '1936', '1935', '1934', '1932', '1931', 1930-2, '1930', '1929']
   awards:  # Award Options: Academy Awards, USA
-  - honorary award # 22 Events: 1929, 1937-1940, 1942-1943, 1946-1953, 1955-1956, 1962, 1965, 1969, 1997, 2026
+  - honorary award # 21 Events: 1929, 1937-1940, 1942-1943, 1946-1953, 1955-1956, 1962, 1965, 1969, 1997
   - juvenile award # 3 Events: 1945, 1949, 1961
   - oscar # 97 Events: 1929-2025
   - oscars cheer moment # 1 Event: 2022
@@ -139,7 +139,7 @@ ev0000003:  # Academy Awards, USA (https://www.imdb.com/event/ev0000003)
   - best writing, story and screenplay based on factual material or material not previously published or produced # 4 Events: 1971-1974
   - best writing, story and screenplay based on material not previously published or produced # 1 Event: 1970
   - best writing, title writing # 1 Event: 1929
-  - honorary award # 22 Events: 1929, 1937-1940, 1942-1943, 1946-1953, 1955-1956, 1962, 1965, 1969, 1997, 2026
+  - honorary award # 21 Events: 1929, 1937-1940, 1942-1943, 1946-1953, 1955-1956, 1962, 1965, 1969, 1997
   - juvenile award # 3 Events: 1945, 1949, 1961
   - oscars cheer moment # 1 Event: 2022
   - oscars fan favorite # 1 Event: 2022
@@ -3430,7 +3430,7 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - international indian film academy award # 4 Events: 2017-2018, 2024-2025
   - popular award # 20 Events: 2000-2017, 2019-2020
   - producer guild award # 1 Event: 2008
-  - special award # 11 Events: 2000, 2006-2008, 2011-2012, 2014-2015, 2019, 2023, 2025
+  - special award # 10 Events: 2000, 2006-2008, 2011-2012, 2014-2015, 2019, 2023
   - technical award # 12 Events: 2009, 2013, 2015-2025
   categories: # Category Options: Awards of the International Indian Film Academy (IIFA)
   - best action # 14 Events: 2003, 2005-2017
@@ -3522,7 +3522,7 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - most promising debut actor # 1 Event: 2020
   - most promising debut actress # 1 Event: 2020
   - movie of the decade # 1 Event: 2009
-  - outstanding achievement in indian cinema # 1 Event: 2025
+  - outstanding achievement in indian cinema # No Events Found
   - outstanding achievement in international cinema # 1 Event: 2000
   - outstanding achievement in regional cinema # 1 Event: 2023
   - special awards # 1 Event: 2006
@@ -3654,7 +3654,7 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
     '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954']
   awards:  # Award Options: National Film Awards, India
   - all india certificate of merit # 1 Event: 1965
-  - best film critic # 1 Event: 2025
+  - best film critic # No Events Found
   - certificate of merit # 13 Events: 1954-1966
   - golden lotus award # 62 Events: 1961-1962, 1965-2025
   - indira gandhi award for best first film # 9 Events: 1984, 1986, 1993, 2000, 2002-2003, 2007, 2010, 2017
@@ -3765,7 +3765,7 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best female playback singer # 8 Events: 1969-1970, 1972, 1986, 1995, 2002, 2022, 2025
   - best film # 24 Events: 1959, 1961, 1966-1967, 1975-1978, 1980-1982, 1985-1986, 1989-1990, 1992, 1996, 1998, 2001-2002, 2004-2005, 2011, 2017
   - best film (arts and culture) # 1 Event: 2019
-  - best film critic # 1 Event: 2025
+  - best film critic # No Events Found
   - best film in avgc # 2 Events: 2024-2025
   - best film in sherdukpan dialect # 1 Event: 2019
   - best film on environment conservation / preservation # 5 Events: 1999, 2010, 2015-2016, 2019
@@ -4394,10 +4394,10 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   awards:  # Award Options: Toronto International Film Festival
   - amplify voices award # 4 Events: 2020-2023
   - barry avrich award # 1 Event: 2019
-  - best canadian discovery award # 1 Event: 2024
-  - best canadian discovery award - honourable mention # 1 Event: 2024
-  - best canadian feature film # 38 Events: 1984-2005, 2007-2020, 2023-2024
-  - best canadian feature film - honourable mention # 3 Events: 2017, 2019, 2023
+  - best canadian discovery award # 2 Events: 2024-2025
+  - best canadian discovery award - honourable mention # 2 Events: 2024-2025
+  - best canadian feature film # 39 Events: 1984-2005, 2007-2020, 2023-2025
+  - best canadian feature film - honourable mention # 4 Events: 2017, 2019, 2023, 2025
   - best canadian feature film - special jury citation # 16 Events: 1986-1987, 1991-1996, 1999-2000, 2004, 2006, 2008-2009, 2013, 2015
   - best canadian first feature film # 23 Events: 1997-2019
   - best canadian first feature film - honorable mention # 1 Event: 2017
@@ -4420,31 +4420,31 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - imdbpro short cuts # 6 Events: 2020-2025
   - industry selects # 3 Events: 2021-2023
   - innovation award # 2 Events: 2006-2007
-  - international critics' award # 14 Events: 1982-1991, 2009, 2014-2015, 2024
+  - international critics' award # 15 Events: 1982-1991, 2009, 2014-2015, 2024-2025
   - international critics' award (fipresci) # 26 Events: 1992-2017
   - international critics' award (fipresci) - special mention # 3 Events: 1996, 2001-2002
-  - international people’s choice award # No Events Found
+  - international people’s choice award # 1 Event: 2025
   - jury prize # 4 Events: 1982, 2006, 2021, 2024
   - metro media award # 7 Events: 1992-1998
   - midnight madness award # 1 Event: 2019
   - netpac award # 14 Events: 2012-2025
   - people's choice award # 47 Events: 1978-2018, 2020-2025
   - platform award # 2 Events: 2024-2025
-  - platform award - honourable mention # 1 Event: 2024
+  - platform award - honourable mention # 2 Events: 2024-2025
   - platform prize # 8 Events: 2015-2019, 2021-2023
   - platform prize - honorable mention # 4 Events: 2015-2017, 2019
   - rbc emerging filmmaker award # 4 Events: 2010-2013
   - rbc emerging filmmaker award - fan favorite # 3 Events: 2010-2012
   - rbc emerging filmmaker award - honorable mention # 4 Events: 2010-2013
   - rising stars award # 2 Events: 2015, 2020
-  - share her journey groundbreaker award # 1 Event: 2025
+  - share her journey groundbreaker award # No Events Found
   - short cuts award # 18 Events: 1996, 2004-2019, 2022
   - short cuts award - honorable mention # 16 Events: 2005, 2008-2009, 2011-2019, 2021-2022, 2024-2025
   - special tribute award # 1 Event: 2021
   - tiff emerging talent award # 1 Event: 2021
   - tiff studio screenwriting lab # 1 Event: 2013
-  - tiff tribute awards honorary chair # 1 Event: 2025
-  - tiff tribute performer award # 1 Event: 2025
+  - tiff tribute awards honorary chair # No Events Found
+  - tiff tribute performer award # No Events Found
   - tiff variety # 1 Event: 2021
   - tiff variety artisan award # 1 Event: 2024
   - tribute award for performance # 1 Event: 2022
@@ -4461,11 +4461,11 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - best actress # 1 Event: 2024
   - best african film # 1 Event: 2021
   - best american writer # 1 Event: 2024
-  - best canadian discovery award # 1 Event: 2024
-  - best canadian discovery award - honourable mention # 1 Event: 2024
+  - best canadian discovery award # 2 Events: 2024-2025
+  - best canadian discovery award - honourable mention # 2 Events: 2024-2025
   - best canadian documentary # 1 Event: 2011
-  - best canadian feature film # 38 Events: 1984-2005, 2007-2020, 2023-2024
-  - best canadian feature film - honourable mention # 3 Events: 2017, 2019, 2023
+  - best canadian feature film # 39 Events: 1984-2005, 2007-2020, 2023-2025
+  - best canadian feature film - honourable mention # 4 Events: 2017, 2019, 2023, 2025
   - best canadian feature film - special jury citation # 16 Events: 1986-1987, 1991-1996, 1999-2000, 2004, 2006, 2008-2009, 2013, 2015
   - best canadian film # 14 Events: 2004-2015, 2017, 2021
   - best canadian first feature film # 23 Events: 1997-2019
@@ -4483,7 +4483,7 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - changemaker award # 1 Event: 2020
   - competition # 3 Events: 2016-2017, 2019
   - creativity in cinematography # 2 Events: 2006, 2016
-  - critic's choice award # No Events Found
+  - critic's choice award # 1 Event: 2025
   - cultural innovation award - honorable mention # 1 Event: 2007
   - discovery # 18 Events: 1984, 1996, 2008-2022, 2024
   - discovery award # 14 Events: 1999-2008, 2012-2013, 2015-2016
@@ -4515,14 +4515,14 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - netpac award honorable mention # 1 Event: 2018
   - people's choice award # 39 Events: 1978-2015, 2020
   - platform award # 2 Events: 2024-2025
-  - platform award - honourable mention # 1 Event: 2024
+  - platform award - honourable mention # 2 Events: 2024-2025
   - platform prize # 8 Events: 2015-2019, 2021-2023
   - platform prize - honorable mention # 4 Events: 2015-2017, 2019
   - rbc emerging filmmaker award # 4 Events: 2010-2013
   - rbc emerging filmmaker award - fan favorite # 3 Events: 2010-2012
   - rbc emerging filmmaker award - honorable mention # 4 Events: 2010-2013
   - rising stars award # 2 Events: 2015, 2020
-  - share her journey groundbreaker award # 1 Event: 2025
+  - share her journey groundbreaker award # No Events Found
   - shawn mendes foundation changemaker award # 3 Events: 2021-2023
   - short cuts award - honorable mention # 1 Event: 2025
   - 'short cuts: share her journey shorts' # 1 Event: 2019
@@ -4533,8 +4533,8 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - tiff emerging talent award # 1 Event: 2021
   - tiff new wave # 1 Event: 2020
   - tiff studio screenwriting lab # 1 Event: 2013
-  - tiff tribute awards honorary chair # 1 Event: 2025
-  - tiff tribute performer award # 1 Event: 2025
+  - tiff tribute awards honorary chair # No Events Found
+  - tiff tribute performer award # No Events Found
   - tiff variety artisan award # 1 Event: 2024
   - tribute award for performance # 1 Event: 2022
   - visions award # 2 Events: 2002, 2011
@@ -4611,13 +4611,13 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - bisato d'oro # 6 Events: 2012, 2014-2015, 2020-2021, 2023
   - bisato d'oro - special mention # 1 Event: 2014
   - bnl people's choice award # 4 Events: 2014, 2017-2018, 2021
-  - brian award # 14 Events: 2007-2017, 2022-2024
+  - brian award # 15 Events: 2007-2017, 2022-2025
   - bronze lion # 1 Event: 1953
   - bronze medal # 2 Events: 1939, 1942
   - c.i.c.a.e. award # 11 Events: 1988, 1992, 1994, 2004-2005, 2007, 2010-2014
   - c.i.c.a.e. award - special mention # 1 Event: 1988
   - ca' foscari young jury award # 3 Events: 2023-2025
-  - campari passion for the cinema award # 3 Events: 2018-2019, 2025
+  - campari passion for the cinema award # 2 Events: 2018-2019
   - catholic cinema clubs award # 2 Events: 1962, 1994
   - children and cinema award # 5 Events: 1988-1989, 1999-2001
   - children and cinema award - special mention # 2 Events: 1988, 1999
@@ -4699,7 +4699,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - golden medal # 2 Events: 1934, 1941
   - golden mouse # 5 Events: 2011-2015
   - golden mouse - special mention # 1 Event: 2013
-  - golden osella # 35 Events: 1987-1989, 1991, 1993-1998, 2000-2024
+  - golden osella # 36 Events: 1987-1989, 1991, 1993-1998, 2000-2025
   - golden phoenix # 2 Events: 1981-1982
   - golden plate # 1 Event: 1959
   - golden rudder # 4 Events: 1965, 1967, 1969, 1971
@@ -4709,7 +4709,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - grand prize of the european academy # 1 Event: 1993
   - grand prize venice international critics' week # 5 Events: 2020-2024
   - grand special jury prize # 27 Events: 1983-2005, 2013-2015, 2018
-  - green drop award # 11 Events: 2012-2019, 2022-2024
+  - green drop award # 12 Events: 2012-2019, 2022-2025
   - green drop award - special mention # 2 Events: 2022, 2024
   - gucci prize # 3 Events: 2006, 2008-2009
   - hearst film award # 1 Event: 2018
@@ -4726,7 +4726,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - international award - documentary # 4 Events: 1948-1950, 2014
   - international award - short film # 3 Events: 1948-1950
   - international critics award # 2 Events: 1946, 2009
-  - international critics award - special mention # 1 Event: 1946
+  - international critics award - special mention # 2 Events: 1946, 2025
   - international critics' week award # 9 Events: 2008-2012, 2014-2015, 2018-2019
   - international film chamber award # 1 Event: 1942
   - international peace award # 1 Event: 2004
@@ -4742,12 +4742,12 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - la navicella venezia cinema award # 2 Events: 1989, 2012
   - la pellicola d'oro award # 9 Events: 2017-2025
   - label europa cinemas - special mention # 1 Event: 2013
-  - label europa cinemas award # 17 Events: 2004-2016, 2020-2021, 2023-2024
+  - label europa cinemas award # 18 Events: 2004-2016, 2020-2021, 2023-2025
   - lanterna magica award # 6 Events: 2019-2024
   - laterna magica prize # 17 Events: 1998-2007, 2009-2012, 2014-2016
   - laterna magica prize - special mention # 1 Event: 2001
   - leoncino d'oro agiscuola award # 12 Events: 1994, 2013-2015, 2018-2025
-  - leoncino d'oro agiscuola award - cinema for unicef # 6 Events: 2013-2014, 2017, 2021, 2023-2024
+  - leoncino d'oro agiscuola award - cinema for unicef # 7 Events: 2013-2014, 2017, 2021, 2023-2025
   - lina mangiacapre award # 12 Events: 2003-2005, 2007, 2009-2013, 2015-2017
   - lina mangiacapre award - special mention # 4 Events: 2003, 2010-2011, 2013
   - lion of san marco # 2 Events: 1965-1966
@@ -4771,7 +4771,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - mussolini cup # 9 Events: 1934-1942
   - nazareno taddei award # 7 Events: 2009-2015
   - nazareno taddei award - special mention # 1 Event: 2012
-  - netpac award # 5 Events: 2000-2001, 2005, 2023-2024
+  - netpac award # 6 Events: 2000-2001, 2005, 2023-2025
   - netpac award - special mention # 1 Event: 2000
   - new cinema award # 15 Events: 1956-1967, 1981, 1988, 2002
   - new cinema award - special mention # 1 Event: 1988
@@ -4808,7 +4808,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - prize of the students of the university 'la sapienza' # 1 Event: 1988
   - propaganda ministry cup # 2 Events: 1935-1936
   - queer lion - special mention # 2 Events: 2007, 2015
-  - queer lion award # 18 Events: 2007-2024
+  - queer lion award # 19 Events: 2007-2025
   - rb casting award # 4 Events: 2020, 2022, 2024-2025
   - rota soundtrack award # 5 Events: 1999-2003
   - rotella award # 1 Event: 2024
@@ -4824,9 +4824,9 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - sfera 1932 award # 1 Event: 2018
   - sfera 1932 award - special mention # 1 Event: 2019
   - sic@sic short italian cinema alla settimana internazionale della critica # 5 Events: 2021-2025
-  - signis award # 20 Events: 2002-2018, 2022-2024
+  - signis award # 21 Events: 2002-2018, 2022-2025
   - signis award - honorable mention # 18 Events: 2002-2004, 2006-2015, 2017-2018, 2020, 2022-2023
-  - silver lion # 40 Events: 1953-1955, 1957, 1972, 1983, 1987-1994, 1998, 2000-2024
+  - silver lion # 41 Events: 1953-1955, 1957, 1972, 1983, 1987-1994, 1998, 2000-2025
   - silver lion - short film # 9 Events: 1999-2004, 2006, 2008, 2024
   - silver medal # 2 Events: 1965, 1970
   - silver mouse # 4 Events: 2012-2015
@@ -4859,7 +4859,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - ucca venticittà award - special mention # 1 Event: 1990
   - unesco award # 18 Events: 1984, 1987-1989, 1994, 1997-2006, 2009-2010, 2023
   - unesco award - special mention # 1 Event: 1998
-  - unicef award # 29 Events: 1980-1990, 1992, 1996-1997, 1999-2003, 2005-2006, 2009-2012, 2018-2020, 2022
+  - unicef award # 30 Events: 1980-1990, 1992, 1996-1997, 1999-2003, 2005-2006, 2009-2012, 2018-2020, 2022, 2025
   - unicef award - special mention # 2 Events: 1980, 1998
   - unicrit award # 2 Events: 1963, 1965
   - unimed award # 5 Events: 2017-2019, 2022-2023
@@ -5043,13 +5043,13 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - biografilm award # 4 Events: 2005-2007, 2012
   - bisato d'oro - special mention # 1 Event: 2014
   - bnl people's choice award # 3 Events: 2014, 2017-2018
-  - brian award # 14 Events: 2007-2017, 2022-2024
+  - brian award # 15 Events: 2007-2017, 2022-2025
   - bronze lion # 1 Event: 1953
   - bronze medal # 2 Events: 1939, 1942
   - c.i.c.a.e. award # 11 Events: 1988, 1992, 1994, 2004-2005, 2007, 2010-2014
   - c.i.c.a.e. award - special mention # 1 Event: 1988
   - ca' foscari young jury award # 3 Events: 2023-2025
-  - campari passion for the cinema award # 3 Events: 2018-2019, 2025
+  - campari passion for the cinema award # 2 Events: 2018-2019
   - catholic cinema clubs award # 2 Events: 1962, 1994
   - centro nazionale del cortometraggio award # 1 Event: 2024
   - children and cinema award # 5 Events: 1988-1989, 1999-2001
@@ -5137,7 +5137,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - gianni astrei award # 4 Events: 2009-2011, 2016
   - gillo pontecorvo-arcobaleno latino award # 3 Events: 2013-2015
   - gingerly award # 1 Event: 1990
-  - giornate degli autori # 1 Event: 2023
+  - giornate degli autori # 2 Events: 2023, 2025
   - giornate degli autori - award for women screenwriters under 40 # 1 Event: 2021
   - giornate degli autori audience award # 1 Event: 2024
   - giornate degli autori award # 4 Events: 2020-2021, 2023, 2025
@@ -5155,10 +5155,10 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - grand biennale art trophy # 1 Event: 1938
   - grand international award # 2 Events: 1947-1948
   - grand jury best original idea # 1 Event: 2024
-  - grand jury prize # 8 Events: 2016-2017, 2019-2024
+  - grand jury prize # 9 Events: 2016-2017, 2019-2025
   - grand prize of the european academy # 1 Event: 1993
   - grand special jury prize # 27 Events: 1983-2005, 2013-2015, 2018
-  - green drop award # 11 Events: 2012-2019, 2022-2024
+  - green drop award # 12 Events: 2012-2019, 2022-2025
   - green drop award - special mention # 1 Event: 2022
   - gucci prize # 3 Events: 2006, 2008-2009
   - hearst film award # 1 Event: 2018
@@ -5197,7 +5197,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - laterna magica prize # 17 Events: 1998-2007, 2009-2012, 2014-2016
   - laterna magica prize - special mention # 1 Event: 2001
   - leoncino d'oro agiscuola award # 12 Events: 1994, 2013-2015, 2018-2025
-  - leoncino d'oro agiscuola award - cinema for unicef # 6 Events: 2013-2014, 2017, 2021, 2023-2024
+  - leoncino d'oro agiscuola award - cinema for unicef # 7 Events: 2013-2014, 2017, 2021, 2023-2025
   - lina mangiacapre award # 12 Events: 2003-2005, 2007, 2009-2013, 2015-2017
   - lina mangiacapre award - special mention # 4 Events: 2003, 2010-2011, 2013
   - lion of san marco # 2 Events: 1965-1966
@@ -5226,7 +5226,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - nave d'argento for best otp # 6 Events: 2019-2021, 2023-2025
   - nazareno taddei award # 7 Events: 2009-2015
   - nazareno taddei award - special mention # 1 Event: 2012
-  - netpac award # 5 Events: 2000-2001, 2005, 2023-2024
+  - netpac award # 6 Events: 2000-2001, 2005, 2023-2025
   - netpac award - special mention # 1 Event: 2000
   - new cinema award # 2 Events: 1981, 1988
   - new cinema award - special mention # 1 Event: 1988
@@ -5265,7 +5265,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - prize of the students of the university 'la sapienza' # 1 Event: 1988
   - propaganda ministry cup # 1 Event: 1936
   - queer lion - special mention # 2 Events: 2007, 2015
-  - queer lion award # 18 Events: 2007-2024
+  - queer lion award # 19 Events: 2007-2025
   - rb casting award # 4 Events: 2020, 2022, 2024-2025
   - recreative children's film # 1 Event: 1966
   - revelation # 1 Event: 2006
@@ -5282,7 +5282,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - sfera 1932 award # 1 Event: 2018
   - sfera 1932 award - special mention # 1 Event: 2019
   - short film # 12 Events: 1957, 1970, 2000, 2003-2004, 2006, 2009, 2011, 2016, 2018-2019, 2024
-  - signis award # 20 Events: 2002-2018, 2022-2024
+  - signis award # 21 Events: 2002-2018, 2022-2025
   - signis award - honorable mention # 18 Events: 2002-2004, 2006-2015, 2017-2018, 2020, 2022-2023
   - silver lion # 12 Events: 1953-1955, 1957, 1987-1989, 1991-1994, 1998
   - silver lion - short film # 7 Events: 1999-2004, 2008
@@ -5320,7 +5320,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - ucca venticittà award - special mention # 1 Event: 1990
   - unesco award # 18 Events: 1984, 1987-1989, 1994, 1997-2006, 2009-2010, 2023
   - unesco award - special mention # 1 Event: 1998
-  - unicef award # 29 Events: 1980-1990, 1992, 1996-1997, 1999-2003, 2005-2006, 2009-2012, 2018-2020, 2022
+  - unicef award # 30 Events: 1980-1990, 1992, 1996-1997, 1999-2003, 2005-2006, 2009-2012, 2018-2020, 2022, 2025
   - unicef award - special mention # 2 Events: 1980, 1998
   - unicrit award # 2 Events: 1963, 1965
   - unimed award # 5 Events: 2017-2019, 2022-2023
@@ -5355,11 +5355,11 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - young venice award - special mention # 1 Event: 1985
   - younger's in movie # 1 Event: 2020
 ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event/ev0001931)
-  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
-    '1988']
+  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
+    '2001', '1988']
   awards:  # Award Options: Indian Television Academy Awards, India
   - doordarshan award # 1 Event: 1988
-  - indian television academy award # 24 Events: 2001-2024
+  - indian television academy award # 25 Events: 2001-2025
   - milestone achievement award # 2 Events: 2001, 2020
   - ott award # 7 Events: 2018-2024
   - special award # 8 Events: 2008, 2012-2013, 2015, 2018-2021
@@ -5368,14 +5368,14 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - technical award (web) # 2 Events: 2023-2024
   categories: # Category Options: Indian Television Academy Awards, India
   - best actor # 1 Event: 1988
-  - best actor - drama # 23 Events: 2001-2019, 2021-2024
+  - best actor - drama # 24 Events: 2001-2019, 2021-2025
   - best actor - drama (ott) # 4 Events: 2021-2024
-  - best actor - popular # 24 Events: 2001-2024
+  - best actor - popular # 25 Events: 2001-2025
   - best actor - popular (ott) # 2 Events: 2023-2024
   - best actor - web series # 4 Events: 2017-2020
-  - best actor in a comic role # 18 Events: 2001-2007, 2010, 2012-2019, 2023-2024
+  - best actor in a comic role # 19 Events: 2001-2007, 2010, 2012-2019, 2023-2025
   - best actor in a comic role (jury) # 2 Events: 2021-2022
-  - best actor in a comic role (popular) # 4 Events: 2021-2024
+  - best actor in a comic role (popular) # 5 Events: 2021-2025
   - best actor in a negative role # 17 Events: 2005-2007, 2009-2010, 2012-2019, 2021-2024
   - best actor in a supporting role # 18 Events: 2005-2022
   - best actor in a supporting role (comedy) # 2 Events: 2023-2024
@@ -5385,14 +5385,14 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best actor of the year # 1 Event: 2021
   - 'best actor: comedy (ott)' # 3 Events: 2022-2024
   - 'best actor: original film (ott)' # 1 Event: 2022
-  - best actress - drama # 23 Events: 2001-2002, 2004-2024
+  - best actress - drama # 24 Events: 2001-2002, 2004-2025
   - best actress - drama (ott) # 4 Events: 2021-2024
-  - best actress - popular # 24 Events: 2001-2024
+  - best actress - popular # 25 Events: 2001-2025
   - best actress - popular (ott) # 2 Events: 2023-2024
   - best actress - web series # 3 Events: 2017-2019
-  - best actress in a comic role # 20 Events: 2002-2019, 2023-2024
+  - best actress in a comic role # 21 Events: 2002-2019, 2023-2025
   - best actress in a comic role (jury) # 2 Events: 2021-2022
-  - best actress in a comic role (popular) # 4 Events: 2021-2024
+  - best actress in a comic role (popular) # 5 Events: 2021-2025
   - best actress in a negative role # 18 Events: 2005-2017, 2019, 2021-2024
   - best actress in a supporting role # 18 Events: 2005-2022
   - best actress in a supporting role (comedy) # 2 Events: 2023-2024
@@ -5400,7 +5400,7 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best actress in an original film # 3 Events: 2021, 2023-2024
   - 'best actress: comedy (ott)' # 3 Events: 2022-2024
   - 'best actress: original film (ott)' # 1 Event: 2022
-  - best anchor # 2 Events: 2003, 2015
+  - best anchor # 3 Events: 2003, 2015, 2025
   - best anchor - game/quiz show # 11 Events: 2001, 2003-2006, 2008-2010, 2013, 2022-2023
   - best anchor - music & film based show # 6 Events: 2003, 2010, 2012, 2014, 2016-2017
   - best anchor - music/dance based show # 3 Events: 2006, 2011, 2023
@@ -5493,11 +5493,11 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best serial # 1 Event: 2015
   - best serial - comedy # 15 Events: 2001, 2003, 2005, 2007, 2010-2011, 2013-2017, 2019, 2021-2022, 2024
   - best serial - comedy (popular) # 2 Events: 2023-2024
-  - best serial - drama # 20 Events: 2001-2002, 2004-2013, 2016-2019, 2021-2024
+  - best serial - drama # 21 Events: 2001-2002, 2004-2013, 2016-2019, 2021-2025
   - best serial - historical # 1 Event: 2023
   - best serial - historical/mythological # 1 Event: 2002
   - best serial - mytho/fantasy # 1 Event: 2023
-  - best serial - popular # 15 Events: 2001, 2004-2006, 2008, 2011-2014, 2016-2019, 2023-2024
+  - best serial - popular # 16 Events: 2001, 2004-2006, 2008, 2011-2014, 2016-2019, 2023-2025
   - best serial - thriller / horror # 6 Events: 2003-2004, 2010, 2012, 2015, 2017
   - best serial - thriller/horor # 2 Events: 2007, 2019
   - 'best serial: comedy' # 1 Event: 2023
@@ -5663,7 +5663,7 @@ ev0005770: # Nickelodeon Kids' Choice Awards, India (https://www.imdb.com/event/
   - favorite movie # 3 Events: 2019, 2022-2023
   - favorite movie (south) # 2 Events: 2022-2023
   - favorite movie actor (south) # 2 Events: 2022-2023
-  - favorite movie actress (south) # 2 Events: 2022-2023
+  - favorite movie actress (south) # 1 Event: 2022
   - favorite show on kids channel # 7 Events: 2013, 2016-2019, 2022-2023
   - favorite tv actor # 2 Events: 2022-2023
   - favorite tv actress # 2 Events: 2022-2023
@@ -5672,22 +5672,22 @@ ev0005770: # Nickelodeon Kids' Choice Awards, India (https://www.imdb.com/event/
   - favorite tv show (reality) # 1 Event: 2023
   - favourite bollywood movie song # 2 Events: 2018-2019
   - favourite child entertainer on tv # 3 Events: 2018-2019, 2023
-  - favourite comedian # 1 Event: 2023
-  - favourite cricketer - female # 1 Event: 2023
-  - favourite cricketer - male # 1 Event: 2023
-  - favourite dancing star (female) # 1 Event: 2023
-  - favourite dancing star (male) # 1 Event: 2023
-  - favourite fashion icon # 1 Event: 2023
+  - favourite comedian # No Events Found
+  - favourite cricketer - female # No Events Found
+  - favourite cricketer - male # No Events Found
+  - favourite dancing star (female) # No Events Found
+  - favourite dancing star (male) # No Events Found
+  - favourite fashion icon # No Events Found
   - favourite indian cartoon character # 1 Event: 2022
-  - favourite instagram personality # 1 Event: 2023
+  - favourite instagram personality # No Events Found
   - favourite mobile game # 2 Events: 2018-2019
   - favourite movie song # 1 Event: 2016
-  - favourite rapper # 1 Event: 2023
-  - favourite siblings jodi # 1 Event: 2023
+  - favourite rapper # No Events Found
+  - favourite siblings jodi # No Events Found
   - favourite singer # 1 Event: 2023
   - favourite song # 2 Events: 2022-2023
   - favourite song (south) # 1 Event: 2023
-  - favourite sportsperson # 1 Event: 2023
+  - favourite sportsperson # No Events Found
   - jodi kamaal ki # 2 Events: 2016, 2019
   - new kid on the block # 1 Event: 2018
   - newcomer of the year # 1 Event: 2019
@@ -5896,13 +5896,13 @@ ev0036701: # Critics’ Choice Shorts and Series Awards, India (https://www.imdb
 ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   years: ['2025', '2024', '2023', '2022', '2021']
   awards:  # Award Options: Iconic Gold Awards
-  - iconic # 4 Events: 2021-2024
+  - iconic # 5 Events: 2021-2025
   categories: # Category Options: Iconic Gold Awards
-  - best actor - critics # No Events Found
-  - best actor - ott # No Events Found
-  - best actor - popular # No Events Found
-  - best actor critics - ott # No Events Found
-  - best actor critics choice - web # No Events Found
+  - best actor - critics # 1 Event: 2025
+  - best actor - ott # 1 Event: 2025
+  - best actor - popular # 1 Event: 2025
+  - best actor critics - ott # 1 Event: 2025
+  - best actor critics choice - web # 1 Event: 2025
   - best actor in a negative role # 1 Event: 2023
   - best actor of the year # 3 Events: 2022-2024
   - best actor of the year - critics choice # 2 Events: 2022, 2024
@@ -5910,67 +5910,67 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   - best actor of the year - ott # 1 Event: 2024
   - best actor of the year - popular choice # 1 Event: 2024
   - best actor of the year - web series # 1 Event: 2024
-  - best actor popular - web # No Events Found
-  - best actress # No Events Found
-  - best actress - critics # No Events Found
-  - best actress - ott # No Events Found
-  - best actress - web series # No Events Found
-  - best actress in a negative role # 2 Events: 2021, 2023
+  - best actor popular - web # 1 Event: 2025
+  - best actress # 1 Event: 2025
+  - best actress - critics # 1 Event: 2025
+  - best actress - ott # 1 Event: 2025
+  - best actress - web series # 1 Event: 2025
+  - best actress in a negative role # 3 Events: 2021, 2023, 2025
   - best actress in a web film # 1 Event: 2021
   - best actress of the year # 3 Events: 2022-2024
   - best actress of the year - critics choice # 2 Events: 2022, 2024
   - best actress of the year - ott # 1 Event: 2024
   - best actress of the year - popular choice # 1 Event: 2024
   - best actress of the year - web series # 1 Event: 2024
-  - best actress popular - ott # No Events Found
-  - best actress popular - web # No Events Found
-  - best choreographer # No Events Found
-  - best comedy web series # No Events Found
-  - best debut actor # 1 Event: 2023
-  - best debut actor - ott # No Events Found
+  - best actress popular - ott # 1 Event: 2025
+  - best actress popular - web # 1 Event: 2025
+  - best choreographer # 1 Event: 2025
+  - best comedy web series # 1 Event: 2025
+  - best debut actor # 2 Events: 2023, 2025
+  - best debut actor - ott # 1 Event: 2025
   - best debut actor of the year - web series # 1 Event: 2024
-  - best debut actress # 1 Event: 2023
+  - best debut actress # 2 Events: 2023, 2025
   - best debut actress of the year # 1 Event: 2024
   - best debut director of the year # 1 Event: 2024
-  - best director # No Events Found
-  - best director - comedy # 1 Event: 2024
+  - best director # 1 Event: 2025
+  - best director - comedy # 2 Events: 2024-2025
   - best director - critics choice # 1 Event: 2024
-  - best director - popular # No Events Found
-  - best director comedy - web # No Events Found
+  - best director - popular # 1 Event: 2025
+  - best director comedy - web # 1 Event: 2025
   - best director of the year # 2 Events: 2022, 2024
   - best director of the year - ott # 1 Event: 2024
-  - best film # No Events Found
-  - best film - critics # No Events Found
+  - best film # 1 Event: 2025
+  - best film - critics # 1 Event: 2025
   - best film - people choice # 1 Event: 2023
   - best film of the year # 3 Events: 2022-2024
-  - best film of the year - ott # 1 Event: 2024
+  - best film of the year - ott # 2 Events: 2024-2025
   - best film of the year - people's choice # 1 Event: 2024
-  - best lyricist # No Events Found
-  - best performance by an actor in a negative role # No Events Found
-  - best performance by an actress in a negative role - web # No Events Found
-  - best singer - female # No Events Found
-  - best singer - male # No Events Found
-  - best song - non filmy # No Events Found
-  - best supporting actor # No Events Found
-  - best supporting actor - comedy # No Events Found
-  - best supporting actor - comedy web series # No Events Found
-  - best supporting actor - web # No Events Found
+  - best lyricist # 1 Event: 2025
+  - best performance by an actor in a negative role # 1 Event: 2025
+  - best performance by an actress in a negative role - web # 1 Event: 2025
+  - best singer - female # 1 Event: 2025
+  - best singer - male # 1 Event: 2025
+  - best song - non filmy # 1 Event: 2025
+  - best supporting actor # 1 Event: 2025
+  - best supporting actor - comedy # 1 Event: 2025
+  - best supporting actor - comedy web series # 1 Event: 2025
+  - best supporting actor - web # 1 Event: 2025
   - best supporting actor of the year # 3 Events: 2022-2024
   - best supporting actor of the year - web series # 1 Event: 2024
-  - best supporting actress # No Events Found
-  - best supporting actress - comedy web series # 1 Event: 2023
-  - best supporting actress - web # No Events Found
+  - best supporting actress # 1 Event: 2025
+  - best supporting actress - comedy web series # 2 Events: 2023, 2025
+  - best supporting actress - web # 1 Event: 2025
   - best supporting actress of the year # 3 Events: 2022-2024
   - best supporting actress of the year - web series # 1 Event: 2024
   - best tv actor of the year # 2 Events: 2023-2024
   - best tv actress of the year # 3 Events: 2021, 2023-2024
-  - best web series # No Events Found
-  - best web series - critics # No Events Found
+  - best web series # 1 Event: 2025
+  - best web series - critics # 1 Event: 2025
   - best web series of the year # 1 Event: 2023
-  - best writer # No Events Found
+  - best writer # 1 Event: 2025
   - blockbuster movie of the year # 1 Event: 2024
-  - breakout star of the year - female # No Events Found
-  - breakout star of the year - male # No Events Found
+  - breakout star of the year - female # 1 Event: 2025
+  - breakout star of the year - male # 1 Event: 2025
   - casting director of the year # 1 Event: 2022
   - comedy serial of the year # 1 Event: 2021
   - debut actor of the year # 1 Event: 2022
@@ -5978,30 +5978,30 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   - debut tv actor of the year # 1 Event: 2022
   - debut tv actress of the year # 1 Event: 2022
   - fearless perfomance of the year # 1 Event: 2022
-  - fresh face in bollywood # No Events Found
+  - fresh face in bollywood # 1 Event: 2025
   - game changer movie of the year # 1 Event: 2024
   - millennial star on rise # 1 Event: 2023
   - most impactful actress # 1 Event: 2023
-  - most influential personality television - female # No Events Found
-  - most influential personality television - male # No Events Found
+  - most influential personality television - female # 1 Event: 2025
+  - most influential personality television - male # 1 Event: 2025
   - most liked tv actress of the year # 1 Event: 2022
   - most liked web series of the year # 1 Event: 2023
-  - most popular comedy tv show # No Events Found
+  - most popular comedy tv show # 1 Event: 2025
   - most popular contestant of the year # 1 Event: 2023
-  - most popular tv actor of the year # No Events Found
-  - most popular tv actress of the year # No Events Found
+  - most popular tv actor of the year # 1 Event: 2025
+  - most popular tv actress of the year # 1 Event: 2025
   - most promising tv actor of the year # 1 Event: 2021
   - outstanding achievement in indian cinema # 1 Event: 2023
-  - outstanding bollywood - south industry singer # No Events Found
-  - powerpack perfomance of the year # 1 Event: 2022
+  - outstanding bollywood - south industry singer # 1 Event: 2025
+  - powerpack perfomance of the year # 2 Events: 2022, 2025
   - powerpack perfomance of the year - critics choice # 1 Event: 2022
   - powerpack performance comedy # 1 Event: 2023
-  - powerpack performance female - web # No Events Found
-  - powerpack performance of the year - female # 2 Events: 2023-2024
+  - powerpack performance female - web # 1 Event: 2025
+  - powerpack performance of the year - female # 3 Events: 2023-2025
   - powerpack performance of the year - male # 1 Event: 2023
   - powerpack performance of the year - ott # 1 Event: 2024
-  - rising star - female # No Events Found
-  - rising star - male # No Events Found
+  - rising star - female # 1 Event: 2025
+  - rising star - male # 1 Event: 2025
   - rising star of the year # 1 Event: 2022
   - singer of the year # 1 Event: 2024
 ev0060658: # Bollywood Film Journalist Awards (https://www.imdb.com/event/ev0060658)

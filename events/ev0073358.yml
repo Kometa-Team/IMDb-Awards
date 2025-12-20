@@ -81,14 +81,14 @@
       winner: [tt32058735]
   iconic award -telugu:
     best actor:
-      nominee: [tt2395459]
-      winner: [tt2395459]
+      nominee: [tt11821912, tt12735488, tt14564000, tt15433956, tt16539454, tt27540542]
+      winner: []
     best actress:
-      nominee: [tt2590186]
-      winner: [tt2590186]
+      nominee: [tt12735488, tt14564000, tt15433956, tt16539454, tt27540542]
+      winner: []
     best actress in a series:
-      nominee: [tt2779796]
-      winner: [tt2779796]
+      nominee: [tt14932842, tt19868374, tt27577967, tt28756614, tt29764006, tt30821976, tt30852844, tt31914057, tt32047599, tt32176549, tt32539169]
+      winner: []
 '2024': # https://www.imdb.com/event/ev0073358/2024/1/
   iconic award:
     actor of the year:

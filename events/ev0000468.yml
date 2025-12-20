@@ -2,8 +2,8 @@
 '2024':  # https://www.imdb.com/event/ev0000468/2024/1/
   national film registry:
     national film preservation board:
-      nominee: [tt29593552]
-      winner: []
+      nominee: [tt0029870, tt0035211, tt0045917, tt0056241, tt0061465, tt0068619, tt0072271, tt0072351, tt0078446, tt0084726, tt0086960, tt0092890, tt0097099, tt0098112, tt0102494, tt0103671, tt0113896, tt0136320, tt0154152, tt0223027, tt0227538, tt0232951, tt0477348, tt1285016, tt35051648]
+      winner: [tt0029870, tt0035211, tt0045917, tt0056241, tt0061465, tt0068619, tt0072271, tt0072351, tt0078446, tt0084726, tt0086960, tt0092890, tt0097099, tt0098112, tt0102494, tt0103671, tt0113896, tt0136320, tt0154152, tt0223027, tt0227538, tt0232951, tt0477348, tt1285016, tt35051648]
 '2023': # https://www.imdb.com/event/ev0000468/2023/1/
   national film registry:
     national film preservation board:

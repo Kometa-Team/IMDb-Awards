@@ -2,59 +2,75 @@
 '2025':  # https://www.imdb.com/event/ev0000659/2025/1/
   people's choice award:
     best film:
-      nominee: [tt10186074]
-      winner: [tt10186074]
+      nominee: [tt1312221, tt14364480, tt14905854]
+      winner: [tt14905854]
     documentary:
-      nominee: [tt10186074]
-      winner: [tt10186074]
+      nominee: [tt31726535, tt33350479, tt35003538]
+      winner: [tt33350479]
     midnight madness:
-      nominee: [tt12651386]
-      winner: []
+      nominee: [tt33311069, tt35522483, tt37287335]
+      winner: [tt35522483]
   discovery award:
     best film:
-      nominee: [tt35505263]
-      winner: [tt35505263]
+      nominee: [tt13597298]
+      winner: []
+  best canadian feature film:
+    best canadian feature film:
+      nominee: [tt35449355]
+      winner: [tt35449355]
+  international critics' award:
+    critic's choice award:
+      nominee: [tt23787976]
+      winner: [tt23787976]
   netpac award:
     netpac award:
-      nominee: [tt32201420]
-      winner: [tt32201420]
+      nominee: [tt36390021]
+      winner: [tt36390021]
   short cuts award - honorable mention:
     short cuts award - honorable mention:
-      nominee: [tt11415180]
-      winner: []
+      nominee: [tt36724191]
+      winner: [tt36724191]
   imdbpro short cuts:
     imdbpro short cuts award best canadian film - honorable mention:
-      nominee: [tt15007172]
-      winner: [tt15007172]
+      nominee: [tt37844412]
+      winner: [tt37844412]
     imdbpro short cuts award for best animated film:
-      nominee: [tt12940504, tt14609428, tt14687200, tt15553922, tt17513352]
-      winner: [tt17513352]
+      nominee: [tt36592131, tt36724193, tt36956820, tt37505195, tt37507660, tt37673263, tt37844385, tt37844425]
+      winner: [tt36592131]
     imdbpro short cuts award for best canadian film:
-      nominee: [tt10919420]
-      winner: [tt10919420]
+      nominee: [tt32516461, tt32740047, tt33307473, tt34615501, tt36022809, tt36956820, tt37599545, tt37834734, tt37835848, tt37835851, tt37842648, tt37842711, tt37843082, tt37843479, tt37843939, tt37844412, tt37844416, tt37844437]
+      winner: [tt36956820]
     imdbpro short cuts award for best film:
-      nominee: [tt17513352]
-      winner: []
+      nominee: [tt31834881, tt32986823, tt34365258, tt34798924, tt35598137, tt36582083, tt36590525, tt36671959, tt36693324, tt36724188, tt36724190, tt36724191, tt37502882, tt37513534, tt37798645, tt37842632, tt37842647, tt37843166, tt37843742, tt37843932, tt37844247, tt37844421, tt37844422]
+      winner: [tt36671959]
   fipresci prize:
     fipresci prize:
-      nominee: [tt10524364]
-      winner: [tt10524364]
-  tiff tribute performer award:
-    tiff tribute performer award:
-      nominee: [tt32919722]
-      winner: [tt32919722]
-  share her journey groundbreaker award:
-    share her journey groundbreaker award:
-      nominee: [tt1281951]
-      winner: [tt1281951]
-  tiff tribute awards honorary chair:
-    tiff tribute awards honorary chair:
-      nominee: [tt0116002, tt0286942]
-      winner: [tt0116002, tt0286942]
+      nominee: [tt32126595]
+      winner: [tt32126595]
+  best canadian feature film - honourable mention:
+    best canadian feature film - honourable mention:
+      nominee: [tt37816113]
+      winner: [tt37816113]
+  international people’s choice award:
+    best film:
+      nominee: [tt1527793, tt26733325, tt27714581]
+      winner: [tt1527793]
+  best canadian discovery award:
+    best canadian discovery award:
+      nominee: [tt32252801]
+      winner: [tt32252801]
   platform award:
     platform award:
-      nominee: [tt0037792]
-      winner: [tt0037792]
+      nominee: [tt29283995, tt30235784, tt32352280, tt32985279, tt35519445, tt35746682, tt36543744, tt37661864, tt37661885, tt37661902]
+      winner: [tt37661902]
+  platform award - honourable mention:
+    platform award - honourable mention:
+      nominee: [tt29283995]
+      winner: [tt29283995]
+  best canadian discovery award - honourable mention:
+    best canadian discovery award - honourable mention:
+      nominee: [tt37343128]
+      winner: [tt37343128]
 '2024': # https://www.imdb.com/event/ev0000659/2024/1/
   people's choice award:
     best film:
