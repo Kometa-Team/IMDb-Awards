@@ -34,6 +34,32 @@
     best serial - popular:
       nominee: [tt0278212, tt11867666, tt30978053, tt31548582, tt36687762, tt7112704]
       winner: []
+  ott award:
+    best actor comedy - ott/jury:
+      nominee: [tt12004706]
+      winner: [tt12004706]
+    best actress - popular (ott):
+      nominee: [tt12004706]
+      winner: [tt12004706]
+    best actress comedy - ott/jury:
+      nominee: [tt12004706]
+      winner: [tt12004706]
+    'best supporting actress: comedy (ott)':
+      nominee: [tt12004706]
+      winner: [tt12004706]
+    best web series - comedy:
+      nominee: [tt12004706]
+      winner: [tt12004706]
+  technical award (web):
+    best costume design (ott):
+      nominee: [tt12004706]
+      winner: [tt12004706]
+    best dialogue - comedy (ott):
+      nominee: [tt12004706]
+      winner: [tt12004706]
+    best lyricist (ott):
+      nominee: [tt12004706]
+      winner: [tt12004706]
 '2024': # https://www.imdb.com/event/ev0001931/2024/1/
   indian television academy award:
     best actor - drama:
