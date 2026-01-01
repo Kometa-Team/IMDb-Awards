@@ -1152,9 +1152,9 @@
     best singer:
       nominee: [tt5939290]
       winner: [tt5939290]
-    best teleplay:
-      nominee: [tt2792284]
-      winner: []
+    best television & film event:
+      nominee: [tt11929250]
+      winner: [tt11929250]
     gr8! on-screen couple of the year:
       nominee: [tt3550730]
       winner: [tt3550730]
@@ -1165,6 +1165,9 @@
     best dialogues:
       nominee: [tt5154982]
       winner: [tt5154982]
+    best teleplay:
+      nominee: [tt2792284]
+      winner: [tt2792284]
 '2015': # https://www.imdb.com/event/ev0001931/2015/1/
   indian television academy award:
     best actor - drama:
@@ -1611,6 +1614,10 @@
     best visual effects:
       nominee: [tt2812214]
       winner: [tt2812214]
+  milestone achievement award:
+    the ita milestone award:
+      nominee: [tt0250875, tt0275863, tt0278212, tt0278237, tt0292829, tt0390678, tt0400977, tt0401914, tt0401916, tt0401949, tt0486068, tt1127012, tt1341970, tt1445563, tt1500475, tt1518542, tt1708446, tt1727829, tt1755864, tt2103372, tt3892312, tt4662064, tt8780098]
+      winner: [tt0250875, tt0275863, tt0278212, tt0278237, tt0292829, tt0390678, tt0400977, tt0401914, tt0401916, tt0401949, tt0486068, tt1127012, tt1341970, tt1445563, tt1500475, tt1518542, tt1708446, tt1727829, tt1755864, tt2103372, tt3892312, tt4662064, tt8780098]
 '2009': # https://www.imdb.com/event/ev0001931/2009/1/
   indian television academy award:
     best actor - drama:
@@ -1735,6 +1742,12 @@
       nominee: [tt11404820, tt1985481]
       winner: [tt11404820, tt1985481]
     best dialogues:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best dop:
+      nominee: [tt2103372]
+      winner: [tt2103372]
+    best teleplay:
       nominee: [tt2103372]
       winner: [tt2103372]
     best videography:

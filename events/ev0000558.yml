@@ -501,7 +501,7 @@
       nominee: [tt0180052, tt0185183, tt0185431, tt0213149, tt0219952, tt0244244, tt0249478, tt0252028, tt0255798, tt0284490, tt0287978, tt0297181, tt0299930, tt0300051, tt0302640, tt0312528, tt0338337, tt0367652, tt0430304, tt0437863, tt0456554, tt0477051, tt0762107, tt0765476, tt0780567, tt0811138, tt0976238]
       winner: [tt0180052, tt0284490, tt0297181, tt0477051, tt0765476, tt0780567]
     worst actress:
-      nominee: [tt0881891, tt1055369, tt1114677, tt1131734, tt1198138, tt1314228]
+      nominee: [tt0881891, tt1114677, tt1131734, tt1198138, tt1314228]
       winner: [tt0881891]
     worst actress of the decade:
       nominee: [tt0118589, tt0156841, tt0209475, tt0225071, tt0246460, tt0252076, tt0278435, tt0291502, tt0299930, tt0300051, tt0369735, tt0397065, tt0397078, tt0400497, tt0804492, tt0897361, tt0963194]
@@ -557,8 +557,8 @@
       nominee: [tt0446676, tt0460780, tt0486640, tt0795421, tt0811138, tt0884224, tt1082886]
       winner: [tt0795421]
     worst supporting actress:
-      nominee: [tt0411061, tt0460780, tt0963194, tt1001562, tt1073498, tt1213644]
-      winner: [tt0963194]
+      nominee: [tt0411061, tt0460780, tt0963194, tt1001562, tt1073498, tt1185834, tt1213644]
+      winner: [tt0963194, tt1185834]
 '2008': # https://www.imdb.com/event/ev0000558/2008/1/
   razzie award:
     worst actor:
@@ -890,8 +890,8 @@
       nominee: [tt0118577, tt0118661, tt0120185, tt0122151]
       winner: [tt0118577]
     worst supporting actress:
-      nominee: [tt0118836, tt0120577, tt0120591, tt0120685, tt0131857]
-      winner: [tt0120685]
+      nominee: [tt0118836, tt0120577, tt0120591, tt0120685, tt0120738, tt0131857]
+      winner: [tt0120685, tt0120738]
 '1998': # https://www.imdb.com/event/ev0000558/1998/1/
   razzie award:
     worst actor:
@@ -930,6 +930,10 @@
     worst supporting actress:
       nominee: [tt0115495, tt0118688, tt0119109, tt0119116]
       winner: [tt0118688]
+  governor's award:
+    governor's award:
+      nominee: [tt0120179]
+      winner: [tt0120179]
 '1997': # https://www.imdb.com/event/ev0000558/1997/1/
   razzie award:
     worst actor:

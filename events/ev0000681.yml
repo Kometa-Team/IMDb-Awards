@@ -378,6 +378,9 @@
       nominee: [tt24176060, tt26341960, tt27706317, tt28231777, tt29360967, tt30327721, tt30810792, tt33030379, tt33094193]
       winner: [tt29360967]
   label europa cinemas award:
+    giornate degli autori:
+      nominee: [tt33247053]
+      winner: []
     label europa cinemas award:
       nominee: [tt28797114]
       winner: [tt28797114]
@@ -530,6 +533,12 @@
       nominee: [tt33023242]
       winner: [tt33023242]
   venice immersive:
+    grand jury prize:
+      nominee: [tt32986833]
+      winner: []
+    immersive:
+      nominee: [tt32986833]
+      winner: []
     immersive achievement prize:
       nominee: [tt29298455]
       winner: [tt29298455]
@@ -560,7 +569,7 @@
       winner: [tt27911420]
   giornate degli autori audience award:
     giornate degli autori audience award:
-      nominee: [tt33015212]
+      nominee: [tt33015212, tt33247053]
       winner: [tt33015212]
   venice immersive grand prize:
     venice immersive grand prize:
@@ -3551,6 +3560,9 @@
       winner: [tt2290934]
 '2011': # https://www.imdb.com/event/ev0000681/2011/1/
   golden lion:
+    best film:
+      nominee: [tt4164468]
+      winner: []
     golden lion:
       nominee: [tt1124035, tt1181614, tt1340800, tt1371585, tt1389127, tt1437357, tt1441368, tt1571222, tt1641410, tt1663321, tt1680139, tt1690455, tt1692486, tt1707391, tt1723811, tt1726669, tt1740053, tt1859446, tt1900893, tt2006781, tt2007993, tt2008006, tt2050604]
       winner: [tt1437357]
