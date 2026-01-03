@@ -9,10 +9,22 @@
       winner: [tt37547395]
     best actor in a comic role:
       nominee: [tt13853152, tt1708446, tt5154982]
-      winner: []
+      winner: [tt13853152]
     best actor in a comic role (popular):
       nominee: [tt1708446, tt5154982, tt9877848]
-      winner: []
+      winner: [tt5154982]
+    best actor in a negative role:
+      nominee: [tt11867666]
+      winner: [tt11867666]
+    best actor in a supporting role:
+      nominee: [tt11867666]
+      winner: [tt11867666]
+    best actor in a supporting role (comedy):
+      nominee: [tt5154982]
+      winner: [tt5154982]
+    best actor reality (comedy - non fiction):
+      nominee: [tt32590226]
+      winner: [tt32590226]
     best actress - drama:
       nominee: [tt0278212, tt11867666, tt29768969, tt33310356, tt37976775]
       winner: [tt33310356]
@@ -21,35 +33,144 @@
       winner: [tt11867666]
     best actress in a comic role:
       nominee: [tt13853152, tt5154982]
-      winner: []
+      winner: [tt13853152]
     best actress in a comic role (popular):
       nominee: [tt1708446, tt5154982, tt9877848]
-      winner: []
-    best anchor:
+      winner: [tt5154982]
+    best actress in a negative role:
+      nominee: [tt0278212]
+      winner: [tt0278212]
+    best actress in a supporting role:
+      nominee: [tt7112704]
+      winner: [tt7112704]
+    best actress in a supporting role (comedy):
+      nominee: [tt11867666]
+      winner: [tt11867666]
+    best anchor - dance/music show:
+      nominee: [tt10370866]
+      winner: [tt10370866]
+    best anchor - game/quiz show:
       nominee: [tt37183128]
       winner: [tt37183128]
+    best anchor - talk chat show - news (female):
+      nominee: [tt35418017]
+      winner: [tt35418017]
+    best child artist:
+      nominee: [tt7112704]
+      winner: [tt7112704]
+    best direction - comedy:
+      nominee: [tt36072066]
+      winner: [tt36072066]
+    best direction - drama:
+      nominee: [tt11867666]
+      winner: [tt11867666]
+    best historical serial:
+      nominee: [tt7401524]
+      winner: [tt7401524]
+    best mythological/fantasy serial:
+      nominee: [tt36120299]
+      winner: [tt36120299]
+    best news/current affairs show (hindi):
+      nominee: [tt35449688]
+      winner: [tt35449688]
+    best reality show (comedy - non fiction):
+      nominee: [tt32590226]
+      winner: [tt32590226]
+    best reality show (dance/music):
+      nominee: [tt10370866]
+      winner: [tt10370866]
+    best reality show (game/quiz):
+      nominee: [tt0250875]
+      winner: [tt0250875]
+    best serial - comedy:
+      nominee: [tt1708446]
+      winner: [tt1708446]
+    best serial - comedy (popular):
+      nominee: [tt5154982]
+      winner: [tt5154982]
     best serial - drama:
       nominee: [tt0278212, tt11867666, tt31548582, tt33310356, tt37531697, tt37976775]
-      winner: []
+      winner: [tt37976775]
     best serial - popular:
       nominee: [tt0278212, tt11867666, tt30978053, tt31548582, tt36687762, tt7112704]
-      winner: []
+      winner: [tt11867666]
+    best thriller/horror serial:
+      nominee: [tt37531697]
+      winner: [tt37531697]
+  special award:
+    ita scroll of honour:
+      nominee: [tt0158417, tt0278212, tt0389680, tt0401914, tt0401916, tt0401949, tt1450737, tt1708446, tt1943898, tt0294230, tt0389681, tt0390769, tt19712740, tt2445744]
+      winner: [tt0158417, tt0278212, tt0389680, tt0401914, tt0401916, tt0401949, tt1450737, tt1708446, tt1943898, tt0294230, tt0389681, tt0390769, tt19712740, tt2445744]
   ott award:
+    best actor - drama (ott):
+      nominee: [tt35064818]
+      winner: [tt35064818]
+    best actor - popular (ott):
+      nominee: [tt12004706]
+      winner: [tt12004706]
     best actor comedy - ott/jury:
       nominee: [tt12004706]
       winner: [tt12004706]
+    best actor in an original film:
+      nominee: [tt31897917]
+      winner: [tt31897917]
+    best actress - drama (ott):
+      nominee: [tt36813889]
+      winner: [tt36813889]
     best actress - popular (ott):
       nominee: [tt12004706]
       winner: [tt12004706]
     best actress comedy - ott/jury:
       nominee: [tt12004706]
       winner: [tt12004706]
+    best actress in an original film:
+      nominee: [tt27032419]
+      winner: [tt27032419]
+    best anchor - reality series (ott):
+      nominee: [tt30003786]
+      winner: [tt30003786]
+    best director - comedy (ott):
+      nominee: [tt30003786]
+      winner: [tt30003786]
+    best director - documentary (ott):
+      nominee: [tt31189484]
+      winner: [tt31189484]
+    best documentary series (ott):
+      nominee: [tt31189484]
+      winner: [tt31189484]
+    best original film - ott:
+      nominee: [tt21194868]
+      winner: [tt21194868]
+    best reality series (ott):
+      nominee: [tt16385150]
+      winner: [tt16385150]
+    best supporting actor - drama (ott):
+      nominee: [tt35064818]
+      winner: [tt35064818]
+    best supporting actor in an original film:
+      nominee: [tt28076316]
+      winner: [tt28076316]
+    'best supporting actor: comedy (ott)':
+      nominee: [tt30003786]
+      winner: [tt30003786]
+    best supporting actress - drama (ott):
+      nominee: [tt9680440]
+      winner: [tt9680440]
+    best supporting actress in an original film:
+      nominee: [tt33888131]
+      winner: [tt33888131]
     'best supporting actress: comedy (ott)':
       nominee: [tt12004706]
       winner: [tt12004706]
     best web series - comedy:
       nominee: [tt12004706]
       winner: [tt12004706]
+    best web series - drama:
+      nominee: [tt35064818]
+      winner: [tt35064818]
+    best web series - popular:
+      nominee: [tt36813889]
+      winner: [tt36813889]
   technical award (web):
     best costume design (ott):
       nominee: [tt12004706]
