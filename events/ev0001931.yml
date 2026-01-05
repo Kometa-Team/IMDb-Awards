@@ -44,7 +44,7 @@
       nominee: [tt11867666, tt20872936, tt30145246, tt7112704]
       winner: [tt7112704]
     best actress in a supporting role (comedy):
-      nominee: [tt11867666, tt13853152]
+      nominee: [tt11867666, tt13853152, tt9877848]
       winner: [tt11867666]
     best anchor - dance/music show:
       nominee: [tt10370866]
@@ -145,7 +145,7 @@
       nominee: [tt16385150]
       winner: [tt16385150]
     best supporting actor - drama (ott):
-      nominee: [tt35064818, tt35077054, tt35665851, tt9680440]
+      nominee: [tt35064818, tt35077054, tt35665851, tt9680440, tt9814458]
       winner: [tt35064818]
     best supporting actor in an original film:
       nominee: [tt28076316]
@@ -163,13 +163,13 @@
       nominee: [tt12004706, tt30003786, tt31862849, tt31925820, tt35528920]
       winner: [tt12004706]
     best web series - comedy:
-      nominee: [tt12004706]
+      nominee: [tt12004706, tt21908964, tt30003786, tt34773311, tt37594662]
       winner: [tt12004706]
     best web series - drama:
-      nominee: [tt35064818]
+      nominee: [tt35064818, tt35665851, tt37365626, tt37594662, tt9680440]
       winner: [tt35064818]
     best web series - popular:
-      nominee: [tt36813889]
+      nominee: [tt12004706, tt12805346, tt26626214, tt34773311, tt36813889]
       winner: [tt36813889]
   technical award (web):
     best costume design (ott):
