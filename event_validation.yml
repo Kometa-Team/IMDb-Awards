@@ -4214,11 +4214,11 @@ ev0000598: # Actors Awards (https://www.imdb.com/event/ev0000598)
   - outstanding performance by an ensemble in a drama series # 31 Events: 1995-2025
   - outstanding performance by the cast of a theatrical motion picture # 3 Events: 2001-2003
 ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
-  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
-    '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1982']
+  years: ['2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003',
+    '2002', '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1982']
   awards:  # Award Options: Sundance Film Festival
   - "\"delta's fly-in movies\" film contest winner" # 1 Event: 2007
-  - alfred p. sloan feature film prize # 23 Events: 2003-2025
+  - alfred p. sloan feature film prize # 24 Events: 2003-2026
   - amazon studios fiction producers award # 1 Event: 2024
   - amazon studios nonfiction producers award # 1 Event: 2024
   - audience award # 37 Events: 1989-2025
@@ -4230,7 +4230,7 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - festival favorite award # 4 Events: 2022-2025
   - filmmakers trophy # 11 Events: 1989-1999
   - freedom of expression award # 12 Events: 1993-2004
-  - grand jury prize # 43 Events: 1982-2025
+  - grand jury prize # 44 Events: 1982-2026
   - honorable mention # 1 Event: 1995
   - horizon award # 2 Events: 2019, 2021
   - indian paintbrush producer's award # 1 Event: 2013
@@ -4238,7 +4238,7 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - latin america cinema award # 9 Events: 1991-1992, 1996-2002
   - latin america cinema award - honorable mention # 3 Events: 1996-1997, 2001
   - new frontier # 3 Events: 2018-2020
-  - next innovator award # 8 Events: 2018-2025
+  - next innovator award # 9 Events: 2018-2026
   - next special jury award presented by adobe # 2 Events: 2024-2025
   - nhk award # 8 Events: 1999, 2002, 2008, 2010, 2014-2016, 2018
   - online film festival jury award # 1 Event: 2004
@@ -4271,7 +4271,7 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - "\"delta's fly-in movies\" film contest winner" # 1 Event: 2007
   - achievement in acting # 1 Event: 2019
   - acting # 7 Events: 2019-2025
-  - alfred p. sloan feature film prize # 23 Events: 2003-2025
+  - alfred p. sloan feature film prize # 24 Events: 2003-2026
   - amazon studios fiction producers award # 1 Event: 2024
   - amazon studios nonfiction producers award # 1 Event: 2024
   - animation # 17 Events: 2002-2004, 2012-2025
@@ -4300,11 +4300,11 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - directing # 2 Events: 2020, 2025
   - directing, international # 2 Events: 2023-2024
   - directing, u.s. # 2 Events: 2023-2024
-  - documentary # 43 Events: 1982-2025
+  - documentary # 44 Events: 1982-2026
   - documentary craft # 1 Event: 2022
   - documentary editing # 1 Event: 2017
   - documentary film editing award # 2 Events: 2020-2021
-  - dramatic # 43 Events: 1982-2025
+  - dramatic # 44 Events: 1982-2026
   - dramatic non-competition # 1 Event: 1985
   - editing # 1 Event: 2017
   - emerging female filmmaker # 2 Events: 2019, 2021
@@ -4336,7 +4336,7 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - new forms # 1 Event: 2002
   - new frontier # 3 Events: 2018-2020
   - next # 4 Events: 2022-2025
-  - next innovator award # 8 Events: 2018-2025
+  - next innovator award # 9 Events: 2018-2026
   - next presented by adobe # 1 Event: 2021
   - next special jury award presented by adobe # 2 Events: 2024-2025
   - nhk award # 8 Events: 1999, 2002, 2008, 2010, 2014-2016, 2018
@@ -4378,8 +4378,8 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - women in film award # 1 Event: 2011
   - women in film national geographic all roads award # 1 Event: 2012
   - world cinema # 5 Events: 1999-2003
-  - world cinema - documentary # 22 Events: 2004-2025
-  - world cinema - dramatic # 22 Events: 2004-2025
+  - world cinema - documentary # 23 Events: 2004-2026
+  - world cinema - dramatic # 23 Events: 2004-2026
   - world cinema documentary special jury award # 1 Event: 2025
   - world cinema dramatic special jury award # 1 Event: 2019
   - world cinema, documentary # 2 Events: 2024-2025
