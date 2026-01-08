@@ -73,7 +73,7 @@
     best news/current affairs show (hindi):
       nominee: [tt35449688]
       winner: [tt35449688]
-    best reality show (comedy - non fiction):
+    best reality show (comedy):
       nominee: [tt32590226]
       winner: [tt32590226]
     best reality show (dance/music):
@@ -130,11 +130,14 @@
       nominee: [tt30003786]
       winner: [tt30003786]
     best director - comedy (ott):
-      nominee: [tt30003786]
+      nominee: [tt12004706, tt21908964, tt30003786, tt34773311, tt37594662]
       winner: [tt30003786]
     best director - documentary (ott):
       nominee: [tt31189484]
       winner: [tt31189484]
+    best director - drama (ott):
+      nominee: [tt28102595, tt35064818, tt37365626, tt9680440, tt9814458]
+      winner: [tt35064818]
     best director - original film:
       nominee: [tt21194868, tt22480126, tt28494851, tt31897917, tt33888131]
       winner: [tt21194868]
@@ -151,7 +154,7 @@
       nominee: [tt35064818, tt35077054, tt35665851, tt9680440, tt9814458]
       winner: [tt35064818]
     best supporting actor in an original film:
-      nominee: [tt28076316]
+      nominee: [tt21626774, tt27032419, tt28076316, tt31897917, tt33888131]
       winner: [tt28076316]
     'best supporting actor: comedy (ott)':
       nominee: [tt12004706, tt30003786]
@@ -160,7 +163,7 @@
       nominee: [tt15340954, tt34773311, tt9680440, tt9814458]
       winner: [tt9680440]
     best supporting actress in an original film:
-      nominee: [tt33888131]
+      nominee: [tt15260176, tt31897917, tt33888131]
       winner: [tt33888131]
     'best supporting actress: comedy (ott)':
       nominee: [tt12004706, tt30003786, tt31862849, tt31925820, tt35528920]
@@ -174,7 +177,26 @@
     best web series - popular:
       nominee: [tt12004706, tt12805346, tt26626214, tt34773311, tt36813889]
       winner: [tt36813889]
+  technical award (tv):
+    best art direction:
+      nominee: [tt35294424]
+      winner: [tt35294424]
+    best costume design:
+      nominee: [tt37536479]
+      winner: [tt37536479]
+    best lyricist:
+      nominee: [tt35294424]
+      winner: [tt35294424]
+    best music composer:
+      nominee: [tt11867666]
+      winner: [tt11867666]
+    best singer:
+      nominee: [tt30145246]
+      winner: [tt30145246]
   technical award (web):
+    best art direction (ott):
+      nominee: [tt34773311]
+      winner: [tt34773311]
     best costume design (ott):
       nominee: [tt12004706]
       winner: [tt12004706]
@@ -184,6 +206,9 @@
     best lyricist (ott):
       nominee: [tt12004706]
       winner: [tt12004706]
+    best visual effects (ott):
+      nominee: [tt26626214]
+      winner: [tt26626214]
 '2024': # https://www.imdb.com/event/ev0001931/2024/1/
   indian television academy award:
     best actor - drama:

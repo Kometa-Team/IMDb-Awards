@@ -4183,35 +4183,35 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   - worst visual effects # 2 Events: 1987-1988
   - worst written film grossing over $100 million # 1 Event: 1997
 ev0000598: # Actors Awards (https://www.imdb.com/event/ev0000598)
-  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
-    '2001', '2000', '1999', '1998', '1997', '1996', '1995']
+  years: ['2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003',
+    '2002', '2001', '2000', '1999', '1998', '1997', '1996', '1995']
   awards:  # Award Options: Actors Awards
-  - actor # 31 Events: 1995-2025
+  - actor # 32 Events: 1995-2026
   categories: # Category Options: Actors Awards
   - outstanding action performance by a stunt ensemble in a comedy or drama series # 6 Events: 2017-2022
-  - outstanding action performance by a stunt ensemble in a motion picture # 13 Events: 2013-2025
-  - outstanding action performance by a stunt ensemble in a television series # 8 Events: 2012-2016, 2023-2025
+  - outstanding action performance by a stunt ensemble in a motion picture # 14 Events: 2013-2026
+  - outstanding action performance by a stunt ensemble in a television series # 9 Events: 2012-2016, 2023-2026
   - outstanding performance by a cast # 4 Events: 1996-1999
-  - outstanding performance by a cast in a motion picture # 22 Events: 2004-2025
+  - outstanding performance by a cast in a motion picture # 23 Events: 2004-2026
   - outstanding performance by a cast in a theatrical motion picture # 1 Event: 2000
-  - outstanding performance by a female actor in a comedy series # 31 Events: 1995-2025
-  - outstanding performance by a female actor in a drama series # 31 Events: 1995-2025
-  - outstanding performance by a female actor in a leading role # 31 Events: 1995-2025
-  - outstanding performance by a female actor in a supporting role # 31 Events: 1995-2025
-  - outstanding performance by a female actor in a television movie or limited series # 9 Events: 2017-2025
+  - outstanding performance by a female actor in a comedy series # 32 Events: 1995-2026
+  - outstanding performance by a female actor in a drama series # 32 Events: 1995-2026
+  - outstanding performance by a female actor in a leading role # 32 Events: 1995-2026
+  - outstanding performance by a female actor in a supporting role # 32 Events: 1995-2026
+  - outstanding performance by a female actor in a television movie or limited series # 10 Events: 2017-2026
   - outstanding performance by a female actor in a television movie or miniseries # 17 Events: 2000-2016
   - outstanding performance by a female actor in a tv movie or miniseries # 5 Events: 1995-1999
-  - outstanding performance by a male actor in a comedy series # 31 Events: 1995-2025
-  - outstanding performance by a male actor in a drama series # 31 Events: 1995-2025
-  - outstanding performance by a male actor in a leading role # 31 Events: 1995-2025
-  - outstanding performance by a male actor in a supporting role # 31 Events: 1995-2025
-  - outstanding performance by a male actor in a television movie or limited series # 9 Events: 2017-2025
+  - outstanding performance by a male actor in a comedy series # 32 Events: 1995-2026
+  - outstanding performance by a male actor in a drama series # 32 Events: 1995-2026
+  - outstanding performance by a male actor in a leading role # 32 Events: 1995-2026
+  - outstanding performance by a male actor in a supporting role # 32 Events: 1995-2026
+  - outstanding performance by a male actor in a television movie or limited series # 10 Events: 2017-2026
   - outstanding performance by a male actor in a television movie or miniseries # 17 Events: 2000-2016
   - outstanding performance by a male actor in a tv movie or miniseries # 5 Events: 1995-1999
   - outstanding performance by a stunt ensemble in a motion picture # 6 Events: 2007-2012
   - outstanding performance by a stunt ensemble in a television series # 6 Events: 2007-2012
-  - outstanding performance by an ensemble in a comedy series # 31 Events: 1995-2025
-  - outstanding performance by an ensemble in a drama series # 31 Events: 1995-2025
+  - outstanding performance by an ensemble in a comedy series # 32 Events: 1995-2026
+  - outstanding performance by an ensemble in a drama series # 32 Events: 1995-2026
   - outstanding performance by the cast of a theatrical motion picture # 3 Events: 2001-2003
 ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   years: ['2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003',
@@ -5355,7 +5355,7 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - ott award # 8 Events: 2018-2025
   - special award # 9 Events: 2008, 2012-2013, 2015, 2018-2021, 2025
   - technical award # 18 Events: 2002, 2004-2014, 2016-2019, 2021-2022
-  - technical award (tv) # 2 Events: 2023-2024
+  - technical award (tv) # 3 Events: 2023-2025
   - technical award (web) # 3 Events: 2023-2025
   categories: # Category Options: Indian Television Academy Awards, India
   - best actor - drama # 24 Events: 2001-2019, 2021-2025
@@ -5410,8 +5410,8 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best anchor - talk chat show - news (hindi) # 2 Events: 2024-2025
   - best anchor - talk/chat show # 1 Event: 2010
   - best anchor- talk chat show # 1 Event: 2021
-  - best art direction # 8 Events: 2002, 2005-2008, 2010, 2012-2013
-  - best art direction (ott) # 1 Event: 2024
+  - best art direction # 9 Events: 2002, 2005-2008, 2010, 2012-2013, 2025
+  - best art direction (ott) # 2 Events: 2024-2025
   - best art direction - fiction # 2 Events: 2009, 2018
   - best art direction - non fiction # 1 Event: 2018
   - best audiography # 2 Events: 2004-2005
@@ -5422,7 +5422,7 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best children's programme # 1 Event: 2003
   - best cinematography # 1 Event: 2016
   - best cookery show # 2 Events: 2001, 2005
-  - best costume design # 2 Events: 2023-2024
+  - best costume design # 3 Events: 2023-2025
   - best costume design (ott) # 2 Events: 2024-2025
   - best costume designer # 8 Events: 2004, 2006-2008, 2011-2012, 2018, 2022
   - best costume designer - ott # 1 Event: 2022
@@ -5448,7 +5448,7 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best director - comedy (ott) # 3 Events: 2022, 2024-2025
   - best director - documentary (ott) # 1 Event: 2025
   - best director - drama # 13 Events: 2001-2005, 2007-2008, 2017-2019, 2021-2022, 2024
-  - best director - drama (ott) # 2 Events: 2022, 2024
+  - best director - drama (ott) # 3 Events: 2022, 2024-2025
   - best director - original film # 4 Events: 2021-2022, 2024-2025
   - best director - sitcom comedy # 1 Event: 2018
   - best director - thriller # 1 Event: 2018
@@ -5471,12 +5471,12 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best host - game/quiz show # 1 Event: 2007
   - best host - music & film based show # 1 Event: 2009
   - best host - talk/chat show # 1 Event: 2007
-  - best lyricist # 4 Events: 2011, 2014, 2018, 2023
+  - best lyricist # 5 Events: 2011, 2014, 2018, 2023, 2025
   - best lyricist (ott) # 1 Event: 2025
   - best make-up # 3 Events: 2004-2006
   - best movie of the year # 1 Event: 2021
   - best music & film based show # 2 Events: 2016-2017
-  - best music composer # 2 Events: 2023-2024
+  - best music composer # 3 Events: 2023-2025
   - best mytho/fantasy serial # 1 Event: 2021
   - best mythological show # 1 Event: 2019
   - best mythological/fantasy serial # 1 Event: 2025
@@ -5487,7 +5487,8 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best popular show # 1 Event: 2020
   - best reality series (ott) # 2 Events: 2024-2025
   - best reality show # 9 Events: 2007-2008, 2013-2018, 2021
-  - best reality show (comedy - non fiction) # 1 Event: 2025
+  - best reality show (comedy - non fiction) # No Events Found
+  - best reality show (comedy) # 1 Event: 2025
   - best reality show (dance/music) # 4 Events: 2021, 2023-2025
   - best reality show (game/quiz) # 5 Events: 2013, 2022-2025
   - best screenplay - ott # 1 Event: 2023
@@ -5503,7 +5504,7 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best serial - thriller/horor # 2 Events: 2007, 2019
   - 'best serial: comedy' # 1 Event: 2023
   - best show - music & film based show # 4 Events: 2005, 2008-2010
-  - best singer # 12 Events: 2006-2007, 2010, 2012-2014, 2016-2019, 2023-2024
+  - best singer # 13 Events: 2006-2007, 2010, 2012-2014, 2016-2019, 2023-2025
   - best singer (ott) # 1 Event: 2024
   - best story # 4 Events: 2017, 2022-2024
   - best story (ott) # 1 Event: 2024
@@ -5524,6 +5525,7 @@ ev0001931: # Indian Television Academy Awards, India (https://www.imdb.com/event
   - best vfx (ott) # 1 Event: 2022
   - best videography # 2 Events: 2004, 2008
   - best visual effects # 12 Events: 2004-2005, 2010-2011, 2013, 2017-2019, 2021-2024
+  - best visual effects (ott) # 1 Event: 2025
   - best web series # 2 Events: 2017-2018
   - best web series - comedy # 4 Events: 2022-2025
   - best web series - drama # 5 Events: 2021-2025
