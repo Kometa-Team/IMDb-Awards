@@ -6,6 +6,7 @@ if sys.version_info[0] != 3 or sys.version_info[1] < 11:
     sys.exit(0)
 
 try:
+    import cloudscraper
     import requests
     from git import Repo
     from lxml import html
@@ -41,15 +42,22 @@ header = {
     "Accept-Language": "en-US,en;q=0.5",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0"
 }
+scraper = cloudscraper.create_scraper()
 valid = YAML(path=os.path.join(base_dir, "event_validation.yml"), create=True, start_empty=args["clean"])
 if args["clean"]:
     valid.data = YAML.inline({})
     valid.data.fa.set_block_style()
 
 def _request(url, xpath=None, extra=None, page_props=False):
+    global scraper
     sleep_time = 0 if args["no-sleep"] else random.randint(2, 6)
     logger.info(f"{f'{extra} ' if extra else ''}URL: {url}{f' [Sleep: {sleep_time}]' if sleep_time else ''}")
-    response = html.fromstring(requests.get(url, headers=header).content)
+    response = scraper.get(url, headers=header)
+    if response.status_code == 403:
+        time.sleep(3)
+        scraper = cloudscraper.create_scraper()
+        response = scraper.get(url, headers=header)
+    response = html.fromstring(response.content)
     if sleep_time:
         time.sleep(sleep_time)
     if page_props:
@@ -66,8 +74,8 @@ for i, event_id in enumerate(original_event_ids, 1):
     json_data = _request(f"{event_url}/{event_id}", extra=f"[Event {i}/{total_ids}]", page_props=True)
     titles[event_id] = json_data["eventName"]
     for year_data in json_data["historyEventEditions"]:
-        extra = '' if year_data["instanceWithinYear"] == 1 else f"-{year_data['instanceWithinYear']}"
-        event_years.append(f"{year_data['year']}{extra}")
+        extra_params = '' if year_data["instanceWithinYear"] == 1 else f"-{year_data['instanceWithinYear']}"
+        event_years.append(f"{year_data['year']}{extra_params}")
     total_years = len(event_years)
     if event_id not in valid:
         valid[event_id] = YAML.inline({"years": YAML.inline([]), "awards": YAML.inline([]), "categories": YAML.inline([])})
