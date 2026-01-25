@@ -1,5 +1,34 @@
 # Razzie Awards
-'2025':  # https://www.imdb.com/event/ev0000558/2025/1/
+'2026':  # https://www.imdb.com/event/ev0000558/2026/1/
+  razzie award:
+    worst actor:
+      nominee: [tt13186306, tt26927452, tt31456973, tt4419684, tt6604188]
+      winner: []
+    worst actress:
+      nominee: [tt21317634, tt27075958, tt30788842, tt4419684, tt9603060]
+      winner: []
+    worst director:
+      nominee: [tt13186306, tt26927452, tt6208148, tt7766378, tt9603060]
+      winner: []
+    worst picture:
+      nominee: [tt13186306, tt26927452, tt6208148, tt7766378, tt9603060]
+      winner: []
+    worst remake, rip-off or sequel:
+      nominee: [tt13186306, tt18069420, tt30274401, tt4045450, tt6208148]
+      winner: []
+    worst screen combo:
+      nominee: [tt13186306, tt18069420, tt21815562, tt26927452, tt6208148]
+      winner: []
+    worst screenplay:
+      nominee: [tt13186306, tt26927452, tt6208148, tt7766378, tt9603060]
+      winner: []
+    worst supporting actor:
+      nominee: [tt21317634, tt24850708, tt27424511, tt31456973, tt6208148]
+      winner: []
+    worst supporting actress:
+      nominee: [tt21317634, tt24850708, tt28671344, tt31456973, tt9603060]
+      winner: []
+'2025': # https://www.imdb.com/event/ev0000558/2025/1/
   razzie award:
     worst actor:
       nominee: [tt11315808, tt14914430, tt1609486, tt1723808, tt2396431]

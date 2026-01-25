@@ -1,41 +1,41 @@
 ev0000003:  # Academy Awards, USA (https://www.imdb.com/event/ev0000003)
-  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
-    '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977',
-    '1976', '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953', '1952',
-    '1951', '1950', '1949', '1948', '1947', '1946', '1945', '1944', '1943', '1942', '1941', '1940', '1939', '1938', '1937', '1936', '1935', '1934', '1932', '1931', 1930-2, '1930', '1929']
+  years: ['2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003',
+    '2002', '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978',
+    '1977', '1976', '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953',
+    '1952', '1951', '1950', '1949', '1948', '1947', '1946', '1945', '1944', '1943', '1942', '1941', '1940', '1939', '1938', '1937', '1936', '1935', '1934', '1932', '1931', 1930-2, '1930', '1929']
   awards:  # Award Options: Academy Awards, USA
   - honorary award # 21 Events: 1929, 1937-1940, 1942-1943, 1946-1953, 1955-1956, 1962, 1965, 1969, 1997
   - juvenile award # 3 Events: 1945, 1949, 1961
-  - oscar # 97 Events: 1929-2025
+  - oscar # 98 Events: 1929-2026
   - oscars cheer moment # 1 Event: 2022
   - oscars fan favorite # 1 Event: 2022
   - special achievement award # 16 Events: 1973, 1975-1982, 1984-1985, 1988-1989, 1991, 1996, 2018
   - technical achievement award # 2 Events: 1935, 1940
   categories: # Category Options: Academy Awards, USA
   - best achievement in art direction # 8 Events: 2005-2012
-  - best achievement in cinematography # 21 Events: 2005-2025
-  - best achievement in costume design # 21 Events: 2005-2025
-  - best achievement in directing # 21 Events: 2005-2025
-  - best achievement in film editing # 21 Events: 2005-2025
+  - best achievement in cinematography # 22 Events: 2005-2026
+  - best achievement in costume design # 22 Events: 2005-2026
+  - best achievement in directing # 22 Events: 2005-2026
+  - best achievement in film editing # 22 Events: 2005-2026
   - best achievement in makeup # 8 Events: 2005-2012
-  - best achievement in makeup and hairstyling # 13 Events: 2013-2025
-  - best achievement in music written for motion pictures (original score) # 9 Events: 2017-2025
-  - best achievement in music written for motion pictures (original song) # 9 Events: 2017-2025
+  - best achievement in makeup and hairstyling # 14 Events: 2013-2026
+  - best achievement in music written for motion pictures (original score) # 10 Events: 2017-2026
+  - best achievement in music written for motion pictures (original song) # 10 Events: 2017-2026
   - best achievement in music written for motion pictures, original score # 12 Events: 2005-2016
   - best achievement in music written for motion pictures, original song # 12 Events: 2005-2016
-  - best achievement in production design # 13 Events: 2013-2025
+  - best achievement in production design # 14 Events: 2013-2026
   - best achievement in sound editing # 16 Events: 2005-2020
   - best achievement in sound mixing # 16 Events: 2005-2020
-  - best achievement in visual effects # 21 Events: 2005-2025
+  - best achievement in visual effects # 22 Events: 2005-2026
   - best actor in a leading role # 76 Events: 1929-2004
   - best actor in a supporting role # 68 Events: 1937-2004
   - best actress in a leading role # 76 Events: 1929-2004
   - best actress in a supporting role # 68 Events: 1937-2004
-  - best adapted screenplay # 9 Events: 2017-2025
+  - best adapted screenplay # 10 Events: 2017-2026
   - best animated feature # 4 Events: 2002-2004, 2013
-  - best animated feature film # 8 Events: 2018-2025
+  - best animated feature film # 9 Events: 2018-2026
   - best animated feature film of the year # 12 Events: 2005-2012, 2014-2017
-  - best animated short film # 9 Events: 2017-2025
+  - best animated short film # 10 Events: 2017-2026
   - best art direction # 12 Events: 1929-1940
   - best art direction, black-and-white # 1 Event: 1941
   - best art direction, color # 1 Event: 1941
@@ -46,6 +46,7 @@ ev0000003:  # Academy Awards, USA (https://www.imdb.com/event/ev0000003)
   - best art direction-set decoration, black-and-white or color # 1 Event: 1959
   - best art direction-set decoration, color # 18 Events: 1948-1957, 1960-1967
   - best assistant director # 4 Events: 1935-1938
+  - best casting # 1 Event: 2026
   - best cinematography # 49 Events: 1929-1939, 1958, 1968-2004
   - best cinematography, black-and-white # 27 Events: 1940-1957, 1959-1967
   - best cinematography, color # 27 Events: 1940-1957, 1959-1967
@@ -58,8 +59,8 @@ ev0000003:  # Academy Awards, USA (https://www.imdb.com/event/ev0000003)
   - best director, comedy picture # 1 Event: 1929
   - best director, dramatic picture # 1 Event: 1929
   - best documentary # 2 Events: 1942-1943
-  - best documentary feature # 9 Events: 2017-2025
-  - best documentary short film # 3 Events: 2023-2025
+  - best documentary feature # 10 Events: 2017-2026
+  - best documentary short film # 4 Events: 2023-2026
   - best documentary short subject # 6 Events: 2017-2022
   - best documentary, feature # 2 Events: 2015-2016
   - best documentary, features # 70 Events: 1944-1946, 1948-2014
@@ -74,10 +75,10 @@ ev0000003:  # Academy Awards, USA (https://www.imdb.com/event/ev0000003)
   - best film editing # 70 Events: 1935-2004
   - best foreign language film # 48 Events: 1957-2004
   - best foreign language film of the year # 15 Events: 2005-2019
-  - best international feature film # 6 Events: 2020-2025
-  - best live action short film # 9 Events: 2017-2025
+  - best international feature film # 7 Events: 2020-2026
+  - best live action short film # 10 Events: 2017-2026
   - best makeup # 22 Events: 1982-1983, 1985-2004
-  - best motion picture of the year # 21 Events: 2005-2025
+  - best motion picture of the year # 22 Events: 2005-2026
   - best music, original dramatic score # 9 Events: 1972-1976, 1996-1999
   - best music, original music score # 2 Events: 1967-1968
   - best music, original musical or comedy score # 4 Events: 1996-1999
@@ -97,11 +98,11 @@ ev0000003:  # Academy Awards, USA (https://www.imdb.com/event/ev0000003)
   - best music, scoring of music, adaptation or treatment # 6 Events: 1963-1968
   - best music, scoring original song score and/or adaptation # 4 Events: 1973-1976
   - best music, substantially original score # 1 Event: 1965
-  - best original screenplay # 9 Events: 2017-2025
-  - best performance by an actor in a leading role # 21 Events: 2005-2025
-  - best performance by an actor in a supporting role # 21 Events: 2005-2025
-  - best performance by an actress in a leading role # 21 Events: 2005-2025
-  - best performance by an actress in a supporting role # 21 Events: 2005-2025
+  - best original screenplay # 10 Events: 2017-2026
+  - best performance by an actor in a leading role # 22 Events: 2005-2026
+  - best performance by an actor in a supporting role # 22 Events: 2005-2026
+  - best performance by an actress in a leading role # 22 Events: 2005-2026
+  - best performance by an actress in a supporting role # 22 Events: 2005-2026
   - best picture # 75 Events: 1930-2004
   - best picture, production # 1 Event: 1929
   - best picture, unique and artistic production # 1 Event: 1929
@@ -116,7 +117,7 @@ ev0000003:  # Academy Awards, USA (https://www.imdb.com/event/ev0000003)
   - best short subject, novelty # 4 Events: 1932-1936
   - best short subject, one-reel # 21 Events: 1937-1957
   - best short subject, two-reel # 21 Events: 1937-1957
-  - best sound # 50 Events: 1959-2003, 2021-2025
+  - best sound # 51 Events: 1959-2003, 2021-2026
   - best sound editing # 4 Events: 2001-2004
   - best sound mixing # 1 Event: 2004
   - best sound, recording # 26 Events: 1930-2, 1934-1958
@@ -4135,12 +4136,12 @@ ev0000530: # People's Choice Awards, USA (https://www.imdb.com/event/ev0000530)
   - the show of the year # 1 Event: 2024
   - the tv performance of the year # 1 Event: 2024
 ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
-  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
-    '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981']
+  years: ['2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003',
+    '2002', '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981']
   awards:  # Award Options: Razzie Awards
   - barry l. bumstead award # 4 Events: 2016-2019
   - governor's award # 2 Events: 1998, 2004
-  - razzie award # 45 Events: 1981-2025
+  - razzie award # 46 Events: 1981-2026
   - redeemer award # 6 Events: 2017, 2019-2020, 2022-2023, 2025
   categories: # Category Options: Razzie Awards
   - barry l. bumstead award # 4 Events: 2016-2019
@@ -4151,11 +4152,11 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   - worst 'comedy' of our first 25 years # 1 Event: 2005
   - worst 'drama' of our first 25 years # 1 Event: 2005
   - worst 'musical' of our first 25 years # 1 Event: 2005
-  - worst actor # 45 Events: 1981-2025
+  - worst actor # 46 Events: 1981-2026
   - worst actor of the decade # 1 Event: 2010
-  - worst actress # 45 Events: 1981-2025
+  - worst actress # 46 Events: 1981-2026
   - worst actress of the decade # 1 Event: 2010
-  - worst director # 45 Events: 1981-2025
+  - worst director # 46 Events: 1981-2026
   - worst ensemble # 1 Event: 2012
   - worst excuse for a horror movie # 1 Event: 2008
   - worst excuse for an actual movie (all concept/no content!) # 1 Event: 2004
@@ -4165,21 +4166,21 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   - worst new star # 17 Events: 1982-1989, 1991-1999
   - worst original song # 21 Events: 1981-2000, 2003
   - worst performance by bruce willis in a 2021 movie # 1 Event: 2022
-  - worst picture # 45 Events: 1981-2025
+  - worst picture # 46 Events: 1981-2026
   - worst picture of the decade # 3 Events: 1990, 2000, 2010
   - worst prequel or sequel # 2 Events: 2007-2008
   - worst prequel, remake, rip-off or sequel # 7 Events: 2009, 2011-2013, 2017, 2020, 2024
   - worst reckless disregard for human life and public property # 2 Events: 1998, 2020
   - worst remake or rip-off # 2 Events: 2007-2008
   - worst remake or sequel # 10 Events: 1995-1996, 1998-1999, 2001-2006
-  - worst remake, rip-off or sequel # 10 Events: 2010, 2014-2016, 2018-2019, 2021-2023, 2025
-  - worst screen combo # 10 Events: 2014-2021, 2023, 2025
+  - worst remake, rip-off or sequel # 11 Events: 2010, 2014-2016, 2018-2019, 2021-2023, 2025-2026
+  - worst screen combo # 11 Events: 2014-2021, 2023, 2025-2026
   - worst screen couple # 20 Events: 1995-2010, 2012-2013, 2022, 2024
   - worst screen couple/worst screen ensemble # 1 Event: 2011
   - worst screen ensemble # 1 Event: 2013
-  - worst screenplay # 45 Events: 1981-2025
-  - worst supporting actor # 45 Events: 1981-2025
-  - worst supporting actress # 45 Events: 1981-2025
+  - worst screenplay # 46 Events: 1981-2026
+  - worst supporting actor # 46 Events: 1981-2026
+  - worst supporting actress # 46 Events: 1981-2026
   - worst visual effects # 2 Events: 1987-1988
   - worst written film grossing over $100 million # 1 Event: 1997
 ev0000598: # Actors Awards (https://www.imdb.com/event/ev0000598)
@@ -4245,7 +4246,7 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - online film festival viewers award # 4 Events: 2001-2004
   - red crown producer's award # 1 Event: 2014
   - screenwriting award # 9 Events: 2008-2014, 2016-2017
-  - short film grand jury prize # 18 Events: 2003-2004, 2008-2009, 2012-2025
+  - short film grand jury prize # 19 Events: 2003-2004, 2008-2009, 2012-2026
   - short film jury award # 9 Events: 2016-2019, 2021-2025
   - short film jury prize # 6 Events: 2012-2016, 2020
   - short film special jury award # 7 Events: 2017, 2020-2025
@@ -4287,7 +4288,7 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - best performance # 1 Event: 2023
   - best screenplay # 1 Event: 2020
   - best short # 1 Event: 2016
-  - best short film # 6 Events: 2020-2025
+  - best short film # 7 Events: 2020-2026
   - breakthrough filmmaker # 1 Event: 2019
   - breakthrough performance # 1 Event: 2024
   - cinematic innovation # 1 Event: 2024
