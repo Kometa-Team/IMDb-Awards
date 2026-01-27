@@ -1,5 +1,81 @@
 # BAFTA Awards
-'2026': {}  # https://www.imdb.com/event/ev0000123/2026/1/
+'2026':  # https://www.imdb.com/event/ev0000123/2026/1/
+  bafta film award:
+    best achievement in special visual effects:
+      nominee: [tt1312221, tt16311594, tt1757678, tt21103218, tt26743210]
+      winner: []
+    best animated feature film:
+      nominee: [tt26443597, tt29313285, tt4900148]
+      winner: []
+    best british short animation:
+      nominee: [tt27449033, tt36152000, tt36214704]
+      winner: []
+    best british short film:
+      nominee: [tt29335806, tt31499504, tt34572866, tt35875811, tt38119159]
+      winner: []
+    best casting:
+      nominee: [tt27714581, tt30144839, tt31193180, tt31514146, tt32916440]
+      winner: []
+    best children's & family film:
+      nominee: [tt11655566, tt14883538, tt26443597, tt33035197]
+      winner: []
+    best cinematography:
+      nominee: [tt1312221, tt29768334, tt30144839, tt31193180, tt32916440]
+      winner: []
+    best costume design:
+      nominee: [tt1312221, tt14905854, tt19847976, tt31193180, tt32916440]
+      winner: []
+    best director:
+      nominee: [tt12300742, tt14905854, tt27714581, tt30144839, tt31193180, tt32916440]
+      winner: []
+    best documentary:
+      nominee: [tt30012657, tt34962891, tt34964205, tt34965515, tt37660887]
+      winner: []
+    best editing:
+      nominee: [tt16311594, tt30144839, tt31193180, tt32376165, tt32916440]
+      winner: []
+    best film:
+      nominee: [tt14905854, tt27714581, tt30144839, tt31193180, tt32916440]
+      winner: []
+    best film not in the english language:
+      nominee: [tt27714581, tt27847051, tt32298285, tt36491653, tt36943034]
+      winner: []
+    best leading actor:
+      nominee: [tt12300742, tt30144839, tt31193180, tt31514146, tt32536315, tt32916440]
+      winner: []
+    best leading actress:
+      nominee: [tt12300742, tt14905854, tt18382850, tt27714581, tt30144839, tt30343021]
+      winner: []
+    best make up & hair:
+      nominee: [tt1312221, tt14905854, tt19847976, tt31193180, tt32916440]
+      winner: []
+    best production design:
+      nominee: [tt1312221, tt14905854, tt30144839, tt31193180, tt32916440]
+      winner: []
+    best screenplay (adapted):
+      nominee: [tt12300742, tt14905854, tt27674982, tt30144839, tt32321317]
+      winner: []
+    best screenplay (original):
+      nominee: [tt27714581, tt27847051, tt31193180, tt31514146, tt32916440]
+      winner: []
+    best sound:
+      nominee: [tt1312221, tt16311594, tt30144839, tt31193180, tt31434639]
+      winner: []
+    best supporting actor:
+      nominee: [tt1312221, tt14905854, tt27714581, tt30144839, tt31514146]
+      winner: []
+    best supporting actress:
+      nominee: [tt14905854, tt27674982, tt27714581, tt30144839, tt31193180, tt32916440]
+      winner: []
+    original score:
+      nominee: [tt12300742, tt1312221, tt14905854, tt30144839, tt31193180]
+      winner: []
+    outstanding british film of the year:
+      nominee: [tt10329560, tt10548174, tt14905854, tt27674982, tt31514146, tt32063050, tt32321317, tt32985279, tt5171016, tt9362736]
+      winner: []
+    outstanding debut by a british writer, director, or producer:
+      nominee: [tt26691106, tt29028515, tt32321317, tt33567409, tt35695538]
+      winner: []
 '2025': # https://www.imdb.com/event/ev0000123/2025/1/
   bafta film award:
     best achievement in special visual effects:
