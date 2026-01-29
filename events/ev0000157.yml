@@ -1,5 +1,37 @@
 # César Awards, France
-'2025':  # https://www.imdb.com/event/ev0000157/2025/1/
+'2026':  # https://www.imdb.com/event/ev0000157/2026/1/
+  césar:
+    best actor (meilleur acteur):
+      nominee: [tt32398150, tt32759477, tt33030403, tt35453969, tt36243564]
+      winner: []
+    best adapted screenplay (meilleure adaptation):
+      nominee: [tt28326501, tt32398150, tt33030403]
+      winner: []
+    best director (meilleure réalisation):
+      nominee: [tt28326501, tt31688586, tt32398150, tt33030403, tt34794183]
+      winner: []
+    best documentary film (meilleur film documentaire):
+      nominee: [tt32134829, tt32368068, tt33298226, tt34726237, tt36598711]
+      winner: []
+    best editing (meilleur montage):
+      nominee: [tt28291010, tt28326501, tt31688586, tt33030403, tt34794183]
+      winner: []
+    best film (meilleur film):
+      nominee: [tt28326501, tt31688586, tt33030403, tt34794183, tt36491653]
+      winner: []
+    best original music (meilleure musique originale):
+      nominee: [tt14883538, tt28326501, tt32759477, tt34794183, tt36243564]
+      winner: []
+    best original screenplay (meilleur scénario original):
+      nominee: [tt31688586, tt33984333, tt34794183, tt35519445, tt36491653]
+      winner: []
+    best sound (meilleur son):
+      nominee: [tt14883538, tt31688586, tt32368068, tt34794183, tt35453969]
+      winner: []
+    best supporting actress (meilleure actrice dans un second rôle):
+      nominee: [tt28326501, tt32759477, tt33030403, tt35453969, tt35519445]
+      winner: []
+'2025': # https://www.imdb.com/event/ev0000157/2025/1/
   césar:
     best actor (meilleur acteur):
       nominee: [tt26446278, tt26743414, tt27490099, tt27811096, tt30327451]
