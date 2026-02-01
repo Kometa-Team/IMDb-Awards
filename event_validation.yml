@@ -3877,12 +3877,12 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - special mention (child actor) # 1 Event: 1996
   - third best feature film in bengali # 1 Event: 1958
 ev0000468: # National Film Preservation Board, USA (https://www.imdb.com/event/ev0000468)
-  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
-    '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989']
+  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
+    '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989']
   awards:  # Award Options: National Film Preservation Board, USA
-  - national film registry # 36 Events: 1989-2024
+  - national film registry # 37 Events: 1989-2025
   categories: # Category Options: National Film Preservation Board, USA
-  - national film preservation board # 17 Events: 1992, 2000, 2005, 2010, 2012-2024
+  - national film preservation board # 18 Events: 1992, 2000, 2005, 2010, 2012-2025
   - national film registry # 24 Events: 1989-2009, 2011-2013
 ev0000530: # People's Choice Awards, USA (https://www.imdb.com/event/ev0000530)
   years: ['2024', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000',
@@ -3977,7 +3977,7 @@ ev0000530: # People's Choice Awards, USA (https://www.imdb.com/event/ev0000530)
   - favorite new talk show host # 1 Event: 2013
   - favorite new television comedy # 2 Events: 2005-2006
   - favorite new television drama # 2 Events: 2005-2006
-  - favorite new tv comedy # 14 Events: 1987, 1998, 2007-2017, 2024
+  - favorite new tv comedy # 13 Events: 1987, 1998, 2007-2017
   - favorite new tv comedy program # 11 Events: 1978-1979, 1981-1989
   - favorite new tv comedy series # 6 Events: 1990-1992, 1994-1996
   - favorite new tv drama # 11 Events: 2007-2017
