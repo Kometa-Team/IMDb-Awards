@@ -1264,6 +1264,10 @@
     encounters award - special jury prize:
       nominee: [tt9220966]
       winner: [tt9220966]
+  berlinale - efm:
+    berlinale efm (screening):
+      nominee: [tt4789618]
+      winner: []
 '2019': # https://www.imdb.com/event/ev0000091/2019/1/
   golden berlin bear:
     best film:

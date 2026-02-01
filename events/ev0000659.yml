@@ -1571,6 +1571,10 @@
     international critics' award (fipresci):
       nominee: [tt0147192, tt0157183]
       winner: [tt0147192, tt0157183]
+  contemporary world cinema award:
+    best film:
+      nominee: [tt0165546]
+      winner: []
 '1997': # https://www.imdb.com/event/ev0000659/1997/1/
   people's choice award:
     best film:
@@ -1607,6 +1611,10 @@
     international critics' award (fipresci):
       nominee: [tt0124185]
       winner: [tt0124185]
+  international people’s choice award:
+    best film:
+      nominee: [tt0116860]
+      winner: []
 '1996': # https://www.imdb.com/event/ev0000659/1996/1/
   people's choice award:
     people's choice award:

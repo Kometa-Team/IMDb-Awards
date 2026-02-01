@@ -928,7 +928,7 @@
       winner: [tt0119925]
     worst actress:
       nominee: [tt0118691, tt0119086, tt0119173, tt0120151, tt0120179, tt0120390]
-      winner: [tt0119173]
+      winner: [tt0119173, tt0120179]
     worst director:
       nominee: [tt0118615, tt0118688, tt0119925, tt0120179, tt0120399]
       winner: [tt0119925]
@@ -959,8 +959,8 @@
     worst supporting actress:
       nominee: [tt0115495, tt0118688, tt0119109, tt0119116]
       winner: [tt0118688]
-  governor's award:
-    governor's award:
+  worst career achievement award:
+    worst career achievement award:
       nominee: [tt0120179]
       winner: [tt0120179]
 '1997': # https://www.imdb.com/event/ev0000558/1997/1/
@@ -1039,8 +1039,8 @@
       nominee: [tt0109456, tt0109891, tt0110687, tt0110725, tt0110763, tt0110989, tt0111255, tt0111756]
       winner: [tt0111756]
     worst actress:
-      nominee: [tt0106834, tt0109456, tt0109890, tt0110146, tt0110725, tt0111255]
-      winner: [tt0110146, tt0111255]
+      nominee: [tt0106834, tt0109456, tt0109890, tt0110146, tt0110725, tt0111255, tt0111257]
+      winner: [tt0110146, tt0111255, tt0111257]
     worst director:
       nominee: [tt0109254, tt0109456, tt0110687, tt0110725, tt0111756]
       winner: [tt0110725]
