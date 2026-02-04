@@ -147,10 +147,10 @@ ev0000003:  # Academy Awards, USA (https://www.imdb.com/event/ev0000003)
   - special achievement award # 16 Events: 1973, 1975-1982, 1984-1985, 1988-1989, 1991, 1996, 2018
   - technical achievement award # 2 Events: 1935, 1940
 ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev0000091)
-  years: ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
-    '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977',
-    '1976', '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953', '1952',
-    '1951']
+  years: ['2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003',
+    '2002', '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978',
+    '1977', '1976', '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953',
+    '1952', '1951']
   awards:  # Award Options: Berlin International Film Festival
   - ag kino gilde - cinema vision 14plus # 4 Events: 2022-2025
   - alfred bauer award # 26 Events: 1987, 1989-1990, 1992, 1994, 1996-2016
@@ -243,7 +243,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - generation prize # 5 Events: 2009, 2011, 2018-2020
   - giuseppe becce award # 1 Event: 2023
   - glasshütte original documentary award # 3 Events: 2017-2019
-  - golden berlin bear # 75 Events: 1951-2025
+  - golden berlin bear # 76 Events: 1951-2026
   - golden berlin bear for best short film # 4 Events: 1988, 2009, 2014, 2016
   - golden plaque # 1 Event: 1951
   - grand bronze plaque # 3 Events: 1954-1956
@@ -407,7 +407,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - best feature film suitable for young people # 11 Events: 1959-1969
   - best feature-length documentary # 6 Events: 1956, 1959-1961, 1963-1964
   - best feature-length documentary/cultural film # 2 Events: 1957-1958
-  - best film # 28 Events: 1955, 1963, 1977, 1981, 1984, 1989, 1994-1995, 1997-1998, 2003, 2006-2007, 2009-2012, 2014-2015, 2017-2025
+  - best film # 29 Events: 1955, 1963, 1977, 1981, 1984, 1989, 1994-1995, 1997-1998, 2003, 2006-2007, 2009-2012, 2014-2015, 2017-2026
   - best film - generation 14plus # 1 Event: 2025
   - best film - generation kplus # 1 Event: 2025
   - best film music # 6 Events: 2002-2007
@@ -1700,32 +1700,34 @@ ev0000157: # César Awards, France (https://www.imdb.com/event/ev0000157)
   - honorary césar # 1 Event: 1986
   categories: # Category Options: César Awards, France
   - best actor (meilleur acteur) # 51 Events: 1976-2026
-  - best actress (meilleure actrice) # 50 Events: 1976-2025
+  - best actress (meilleure actrice) # 51 Events: 1976-2026
   - best adapted screenplay (meilleure adaptation et dialogues) # 1 Event: 1983
   - best adapted screenplay (meilleure adaptation) # 23 Events: 1984-1985, 2006-2026
-  - best animated film (meilleur film d'animation) # 15 Events: 2011-2025
-  - best animated short film (meilleur court métrage d'animation) # 7 Events: 2014, 2016-2017, 2021, 2023-2025
+  - best animated film (meilleur film d'animation) # 16 Events: 2011-2026
+  - best animated short film (meilleur court métrage d'animation) # 8 Events: 2014, 2016-2017, 2021, 2023-2026
   - best animated short film (meilleur film de court métrage d'animation) # 1 Event: 2022
-  - best cinematography (meilleure photo) # 4 Events: 2014-2017
+  - best cinematography (meilleure photo) # 5 Events: 2014-2017, 2026
   - best cinematography (meilleure photographie) # 46 Events: 1976-2013, 2018-2025
-  - best costume design (meilleurs costumes) # 41 Events: 1985-2025
+  - best costume design (meilleurs costumes) # 42 Events: 1985-2026
   - best director (meilleur réalisateur) # 46 Events: 1976-2021
   - best director (meilleur réalisation) # 1 Event: 2023
   - best director (meilleure réalisation) # 4 Events: 2022, 2024-2026
   - best documentary film (meilleur film documentaire) # 20 Events: 2007-2026
   - best documentary film (meilleur film à caractère documentaire) # 1 Event: 1995
-  - best documentary short film (meilleur film de court métrage documentaire) # 4 Events: 2022-2025
+  - best documentary short film (meilleur film de court métrage documentaire) # 5 Events: 2022-2026
   - best editing (meilleur montage) # 51 Events: 1976-2026
   - best european union film (meilleur film de l'union européenne) # 3 Events: 2003-2005
+  - best female hope (meilleur espoir féminin) # 1 Event: 2026
   - best female revelation (meilleure révélation féminine) # 1 Event: 2025
   - best fiction short film (meilleur film de court métrage de fiction) # 1 Event: 2022
   - best film (meilleur film) # 51 Events: 1976-2026
   - best film of the european community (meilleur film de l'europe communautaire) # 1 Event: 1989
-  - best first film (meilleur premier film) # 21 Events: 2005-2025
+  - best first film (meilleur premier film) # 22 Events: 2005-2026
   - best first work (meilleure première oeuvre) # 20 Events: 1982-2001
   - best first work of fiction (meilleure première oeuvre de fiction) # 3 Events: 2002-2004
-  - best foreign film (meilleur film étranger) # 50 Events: 1976-2025
+  - best foreign film (meilleur film étranger) # 51 Events: 1976-2026
   - best french language film (meilleur film francophone) # 3 Events: 1984-1986
+  - best male hope (meilleur espoir masculin) # 1 Event: 2026
   - best male revelation (meilleure révélation masculine) # 1 Event: 2025
   - best music (meilleure musique) # 27 Events: 1976-2001, 2020
   - best music written for a film (meilleure musique écrite pour un film) # 10 Events: 2002-2011
@@ -1734,10 +1736,10 @@ ev0000157: # César Awards, France (https://www.imdb.com/event/ev0000157)
   - best original screenplay (meilleur scénario original) # 21 Events: 2006-2026
   - best poster (meilleure affiche) # 5 Events: 1986-1990
   - best producer (meilleur producteur) # 2 Events: 1996-1997
-  - best production design (meilleurs décors) # 50 Events: 1976-2025
+  - best production design (meilleurs décors) # 51 Events: 1976-2026
   - best screenplay, original or adaptation (meilleur scénario, dialogue ou adaptation) # 6 Events: 1976-1977, 1979-1982
   - best screenplay, original or adaptation (meilleur scénario, original ou adaptation) # 20 Events: 1986-2005
-  - best short fiction film (meilleur film de court métrage de fiction) # 1 Event: 2025
+  - best short fiction film (meilleur film de court métrage de fiction) # 2 Events: 2025-2026
   - best short film (meilleur court métrage) # 2 Events: 2010, 2017
   - best short film (meilleur court-métrage) # 23 Events: 1985, 1992-2009, 2017-2020
   - best short film (meilleur film de court métrage de fiction) # 2 Events: 2023-2024
@@ -1748,9 +1750,9 @@ ev0000157: # César Awards, France (https://www.imdb.com/event/ev0000157)
   - best short film - fiction (meilleur court-métrage de fiction) # 15 Events: 1977-1991
   - best sound (meilleur son) # 51 Events: 1976-2026
   - best sreenplay, original or adaptation (meilleur scénario, dialogue ou adaptation) # 1 Event: 1978
-  - best supporting actor (meilleur acteur dans un second rôle) # 50 Events: 1976-2025
+  - best supporting actor (meilleur acteur dans un second rôle) # 51 Events: 1976-2026
   - best supporting actress (meilleure actrice dans un second rôle) # 51 Events: 1976-2026
-  - best visual effects (meilleurs effets visuels) # 4 Events: 2022-2025
+  - best visual effects (meilleurs effets visuels) # 5 Events: 2022-2026
   - césar des césars # 1 Event: 1995
   - césar du public # 3 Events: 2018-2020
   - honorary césar # 1 Event: 1986

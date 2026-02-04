@@ -1,5 +1,9 @@
 # Berlin International Film Festival
-'2026': {}  # https://www.imdb.com/event/ev0000091/2026/1/
+'2026':  # https://www.imdb.com/event/ev0000091/2026/1/
+  golden berlin bear:
+    best film:
+      nominee: [tt13848364, tt25399154, tt27541205, tt27844906, tt29271639, tt32192760, tt32203967, tt32321285, tt32358921, tt32888226, tt33515714, tt34347792, tt34383465, tt35854741, tt36472181, tt36826227, tt39075020, tt39382755, tt39382771, tt39382808, tt8977670]
+      winner: []
 '2025': # https://www.imdb.com/event/ev0000091/2025/1/
   golden berlin bear:
     best film:

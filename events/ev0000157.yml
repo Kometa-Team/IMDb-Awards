@@ -4,8 +4,23 @@
     best actor (meilleur acteur):
       nominee: [tt32398150, tt32759477, tt33030403, tt35453969, tt36243564]
       winner: []
+    best actress (meilleure actrice):
+      nominee: [tt26656750, tt29927144, tt32759477, tt33030403, tt34794183]
+      winner: []
     best adapted screenplay (meilleure adaptation):
       nominee: [tt28326501, tt32398150, tt33030403]
+      winner: []
+    best animated film (meilleur film d'animation):
+      nominee: [tt14883538, tt29313285, tt37436610]
+      winner: []
+    best animated short film (meilleur court métrage d'animation):
+      nominee: [tt32205725, tt36724193, tt37675860]
+      winner: []
+    best cinematography (meilleure photo):
+      nominee: [tt31287262, tt31688586, tt33030403, tt34794183, tt36243564]
+      winner: []
+    best costume design (meilleurs costumes):
+      nominee: [tt31411349, tt31434030, tt31688586, tt32759477, tt35465655]
       winner: []
     best director (meilleure réalisation):
       nominee: [tt28326501, tt31688586, tt32398150, tt33030403, tt34794183]
@@ -13,11 +28,26 @@
     best documentary film (meilleur film documentaire):
       nominee: [tt32134829, tt32368068, tt33298226, tt34726237, tt36598711]
       winner: []
+    best documentary short film (meilleur film de court métrage documentaire):
+      nominee: [tt35720261, tt37749776, tt38715634]
+      winner: []
     best editing (meilleur montage):
       nominee: [tt28291010, tt28326501, tt31688586, tt33030403, tt34794183]
       winner: []
+    best female hope (meilleur espoir féminin):
+      nominee: [tt28326501, tt31112509, tt31411349, tt33400055, tt37051267]
+      winner: []
     best film (meilleur film):
       nominee: [tt28326501, tt31688586, tt33030403, tt34794183, tt36491653]
+      winner: []
+    best first film (meilleur premier film):
+      nominee: [tt14883538, tt32119317, tt35453969, tt35519445, tt37051267]
+      winner: []
+    best foreign film (meilleur film étranger):
+      nominee: [tt27714581, tt27847051, tt28131427, tt30144839, tt32298285]
+      winner: []
+    best male hope (meilleur espoir masculin):
+      nominee: [tt31688586, tt32119317, tt33772384, tt35519445, tt37051267]
       winner: []
     best original music (meilleure musique originale):
       nominee: [tt14883538, tt28326501, tt32759477, tt34794183, tt36243564]
@@ -25,11 +55,23 @@
     best original screenplay (meilleur scénario original):
       nominee: [tt31688586, tt33984333, tt34794183, tt35519445, tt36491653]
       winner: []
+    best production design (meilleurs décors):
+      nominee: [tt29927144, tt31411349, tt31688586, tt32398150, tt33255286]
+      winner: []
+    best short fiction film (meilleur film de court métrage de fiction):
+      nominee: [tt33365259, tt35329512, tt35397068, tt38057919]
+      winner: []
     best sound (meilleur son):
       nominee: [tt14883538, tt31688586, tt32368068, tt34794183, tt35453969]
       winner: []
+    best supporting actor (meilleur acteur dans un second rôle):
+      nominee: [tt32398150, tt32759477, tt36243564]
+      winner: []
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt28326501, tt32759477, tt33030403, tt35453969, tt35519445]
+      winner: []
+    best visual effects (meilleurs effets visuels):
+      nominee: [tt31688586, tt32398150, tt32642156, tt33255286]
       winner: []
 '2025': # https://www.imdb.com/event/ev0000157/2025/1/
   césar:
