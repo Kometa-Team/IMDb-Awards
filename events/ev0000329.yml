@@ -1,5 +1,10 @@
 # Hong Kong Film Awards
-'2025':  # https://www.imdb.com/event/ev0000329/2025/1/
+'2026':  # https://www.imdb.com/event/ev0000329/2026/1/
+  hong kong film award:
+    best new performer:
+      nominee: [tt32799446, tt34610311, tt35498436, tt35683790, tt36204735]
+      winner: []
+'2025': # https://www.imdb.com/event/ev0000329/2025/1/
   hong kong film award:
     best action choreography:
       nominee: [tt20316748, tt29495090, tt30024043, tt31648020, tt33420331]

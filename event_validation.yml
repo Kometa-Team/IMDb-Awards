@@ -3371,10 +3371,10 @@ ev0000292: # Golden Globes, USA (https://www.imdb.com/event/ev0000292)
   - special merit award # 2 Events: 1961-1962
   - television achievement # 5 Events: 1956-1959, 1961
 ev0000329: # Hong Kong Film Awards (https://www.imdb.com/event/ev0000329)
-  years: ['2025', '2024', '2023', '2022', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
-    '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982']
+  years: ['2026', '2025', '2024', '2023', '2022', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
+    '2001', '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982']
   awards:  # Award Options: Hong Kong Film Awards
-  - hong kong film award # 43 Events: 1982-2025
+  - hong kong film award # 44 Events: 1982-2026
   - people's choice award # 1 Event: 1986
   categories: # Category Options: Hong Kong Film Awards
   - best action choreography # 42 Events: 1983-2025
@@ -3396,7 +3396,7 @@ ev0000329: # Hong Kong Film Awards (https://www.imdb.com/event/ev0000329)
   - best music # 1 Event: 2003
   - best new artist # 3 Events: 2004-2005, 2008
   - best new director # 21 Events: 2004-2025
-  - best new performer # 40 Events: 1983-2003, 2005-2007, 2009-2025
+  - best new performer # 41 Events: 1983-2003, 2005-2007, 2009-2026
   - best original film score # 41 Events: 1983-2002, 2004-2025
   - best original film song # 42 Events: 1983-2025
   - best original score # 2 Events: 2005, 2010
@@ -3570,7 +3570,7 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - special effects # 1 Event: 2022
   - star plus hottest pair # 3 Events: 2011-2012, 2014
 ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
-  years: ['2025', '2024', '2023', '2020', '2019', '2018', '2017', '2016', '2014', '2013', '2012', '2011', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999', '1998']
+  years: ['2026', '2025', '2024', '2023', '2020', '2019', '2018', '2017', '2016', '2014', '2013', '2012', '2011', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999', '1998']
   awards:  # Award Options: Zee Cine Awards
   - critics choice award # 10 Events: 2005-2017
   - entertainer of the year # 1 Event: 2007
@@ -3578,17 +3578,17 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - popular award # 15 Events: 2000-2017
   - special award # 11 Events: 1998-2001, 2013-2014, 2018-2024
   - technical award # 19 Events: 2000, 2002-2016, 2018-2025
-  - viewers' choice award # 7 Events: 2017-2025
+  - viewers' choice award # 8 Events: 2017-2026
   - zee cine award # 13 Events: 1998-1999, 2001, 2003-2005, 2007, 2011-2012, 2016-2017, 2023-2024
   - zee premiere choice award # 2 Events: 2001, 2012
   categories: # Category Options: Zee Cine Awards
   - best action # 11 Events: 2003-2005, 2014-2016, 2018-2025
-  - best actor # 23 Events: 1998-2025
+  - best actor # 24 Events: 1998-2026
   - best actor - ott # 1 Event: 2024
   - best actor in a comic role # 2 Events: 2006, 2014
   - best actor in a negative role # 3 Events: 2003, 2014, 2020
   - best actor in a supporting role # 14 Events: 1998-1999, 2001, 2003-2006, 2011-2014, 2017-2019
-  - best actress # 23 Events: 1998-2025
+  - best actress # 24 Events: 1998-2026
   - best actress in a supporting role # 14 Events: 1998-1999, 2001, 2003-2006, 2011-2014, 2017-2019
   - best art direction # 4 Events: 2004-2006, 2016
   - best art director # 1 Event: 2003
@@ -3616,7 +3616,7 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best female debut # 3 Events: 2003, 2006, 2011
   - best female playback # 2 Events: 2003, 2013
   - best female playback singer # 2 Events: 2018-2019
-  - best film # 23 Events: 1998-2025
+  - best film # 24 Events: 1998-2026
   - best film - ott # 1 Event: 2024
   - best film processing # 1 Event: 2005
   - best film writing (story & screenplay) # 1 Event: 2019
@@ -3684,7 +3684,7 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - performer of the year # 2 Events: 2023-2024
   - power club - box office award # 2 Events: 2013-2014
   - pride of indian cinema # 1 Event: 2023
-  - song of the year # 1 Event: 2025
+  - song of the year # 2 Events: 2025-2026
   - sound mixing # 3 Events: 1999, 2005, 2011
   - special award for international cinema # 1 Event: 2002
   - zee anmol award # 1 Event: 2014

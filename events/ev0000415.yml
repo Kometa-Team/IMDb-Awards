@@ -1,5 +1,19 @@
 # Zee Cine Awards
-'2025':  # https://www.imdb.com/event/ev0000415/2025/1/
+'2026':  # https://www.imdb.com/event/ev0000415/2026/1/
+  viewers' choice award:
+    best actor:
+      nominee: [tt27996020, tt28142095, tt32223398, tt33014583, tt3562110]
+      winner: []
+    best actress:
+      nominee: [tt13451410, tt21279420, tt28037987, tt28142095, tt35727678, tt36642456]
+      winner: []
+    best film:
+      nominee: [tt27922706, tt27996020, tt28037987, tt29471573, tt32223398, tt33014583]
+      winner: []
+    song of the year:
+      nominee: [tt26439870, tt27425164, tt28037987, tt33014583, tt35727678, tt9104736]
+      winner: []
+'2025': # https://www.imdb.com/event/ev0000415/2025/1/
   technical award:
     best action:
       nominee: [tt28259207]
