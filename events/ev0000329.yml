@@ -1,8 +1,20 @@
 # Hong Kong Film Awards
 '2026':  # https://www.imdb.com/event/ev0000329/2026/1/
   hong kong film award:
+    best actor:
+      nominee: [tt33348127, tt33836212, tt34610311, tt35498436, tt36217308]
+      winner: []
+    best actress:
+      nominee: [tt29429728, tt32851910, tt35724928, tt36217308, tt5562068]
+      winner: []
     best new performer:
       nominee: [tt32799446, tt34610311, tt35498436, tt35683790, tt36204735]
+      winner: []
+    best supporting actor:
+      nominee: [tt14241008, tt29429728, tt31645726, tt38857175, tt4968738]
+      winner: []
+    best supporting actress:
+      nominee: [tt14241008, tt29429728, tt33348127, tt35683790, tt4968738]
       winner: []
 '2025': # https://www.imdb.com/event/ev0000329/2025/1/
   hong kong film award:
