@@ -1,20 +1,59 @@
 # Hong Kong Film Awards
 '2026':  # https://www.imdb.com/event/ev0000329/2026/1/
   hong kong film award:
+    best action choreography:
+      nominee: [tt33348127, tt34610311, tt35464708, tt35498436, tt4968738]
+      winner: []
     best actor:
       nominee: [tt33348127, tt33836212, tt34610311, tt35498436, tt36217308]
       winner: []
     best actress:
       nominee: [tt29429728, tt32851910, tt35724928, tt36217308, tt5562068]
       winner: []
+    best art direction:
+      nominee: [tt33348127, tt33830021, tt36639436, tt4968738, tt5562068]
+      winner: []
+    best cinematography:
+      nominee: [tt14241008, tt33348127, tt33396536, tt4968738, tt5562068]
+      winner: []
+    best costume & make up design:
+      nominee: [tt32851910, tt33348127, tt33830021, tt4968738, tt5562068]
+      winner: []
+    best director:
+      nominee: [tt14241008, tt33396536, tt33836212, tt36639436, tt5562068]
+      winner: []
+    best film:
+      nominee: [tt14241008, tt33348127, tt36639436, tt4968738, tt5562068]
+      winner: []
+    best film editing:
+      nominee: [tt14241008, tt33348127, tt34610311, tt4968738, tt5562068]
+      winner: []
+    best new director:
+      nominee: [tt33396536, tt33830021, tt36639436, tt38857175, tt4968738]
+      winner: []
     best new performer:
       nominee: [tt32799446, tt34610311, tt35498436, tt35683790, tt36204735]
+      winner: []
+    best original film score:
+      nominee: [tt14241008, tt33348127, tt33830021, tt36639436, tt4968738]
+      winner: []
+    best original film song:
+      nominee: [tt14241008, tt32851910, tt33830021, tt35683790, tt36639436]
+      winner: []
+    best screenplay:
+      nominee: [tt14241008, tt33396536, tt33836212, tt36639436, tt38857175]
+      winner: []
+    best sound design:
+      nominee: [tt32515812, tt33348127, tt34610311, tt36639436, tt4968738]
       winner: []
     best supporting actor:
       nominee: [tt14241008, tt29429728, tt31645726, tt38857175, tt4968738]
       winner: []
     best supporting actress:
       nominee: [tt14241008, tt29429728, tt33348127, tt35683790, tt4968738]
+      winner: []
+    best visual effects:
+      nominee: [tt14241008, tt32851910, tt33348127, tt35464708, tt4968738]
       winner: []
 '2025': # https://www.imdb.com/event/ev0000329/2025/1/
   hong kong film award:

@@ -167,7 +167,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - berlin today award # 9 Events: 2004-2012
   - berlin today award - honorable mention # 2 Events: 2009, 2012
   - berlinale - efm # 3 Events: 2020, 2024-2025
-  - berlinale documentary award # 6 Events: 2020-2025
+  - berlinale documentary award # 7 Events: 2020-2026
   - berlinale documentary award - special mention # 3 Events: 2020, 2024-2025
   - berlinale series award # 1 Event: 2023
   - berlinale talent campus # 2 Events: 2011, 2013
@@ -373,7 +373,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - berlin short film candidate for the european film awards # 3 Events: 2022-2023, 2025
   - berlin today award # 9 Events: 2004-2012
   - berlin today award - honorable mention # 2 Events: 2009, 2012
-  - berlinale documentary award # 6 Events: 2020-2025
+  - berlinale documentary award # 7 Events: 2020-2026
   - berlinale documentary award - special mention # 3 Events: 2020, 2024-2025
   - berlinale documentary award jury # 1 Event: 2023
   - berlinale efm (screening) # 3 Events: 2020, 2024-2025
@@ -425,7 +425,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - best script # 3 Events: 2014-2016
   - best short # 3 Events: 2005, 2009, 2015
   - best short documentary/cultural film # 3 Events: 1956-1958
-  - best short film # 56 Events: 1959-1964, 1971, 1977-2025
+  - best short film # 57 Events: 1959-1964, 1971, 1977-2026
   - best short film - generation kplus # 1 Event: 2025
   - best short film suitable for young people # 9 Events: 1959-1966, 2011
   - best supporting performance # 5 Events: 2021-2025
@@ -3377,37 +3377,37 @@ ev0000329: # Hong Kong Film Awards (https://www.imdb.com/event/ev0000329)
   - hong kong film award # 44 Events: 1982-2026
   - people's choice award # 1 Event: 1986
   categories: # Category Options: Hong Kong Film Awards
-  - best action choreography # 42 Events: 1983-2025
+  - best action choreography # 43 Events: 1983-2026
   - best actor # 44 Events: 1982-2026
   - best actress # 44 Events: 1982-2026
-  - best art direction # 42 Events: 1983-2025
+  - best art direction # 43 Events: 1983-2026
   - best asian chinese language film # 5 Events: 2020-2025
   - best asian film # 10 Events: 2002-2011
   - best chinese language film from the two coasts # 8 Events: 2012-2019
-  - best cinematography # 42 Events: 1983-2025
-  - best costume & make up design # 28 Events: 1993-2002, 2006-2007, 2009-2025
+  - best cinematography # 43 Events: 1983-2026
+  - best costume & make up design # 29 Events: 1993-2002, 2006-2007, 2009-2026
   - best costume design and make up # 2 Events: 2004-2005
   - best costume design and make up design # 1 Event: 2008
   - best costumes/make up # 1 Event: 2003
-  - best director # 43 Events: 1982-2025
+  - best director # 44 Events: 1982-2026
   - best editing # 1 Event: 2010
-  - best film # 4 Events: 2010, 2023-2025
-  - best film editing # 42 Events: 1983-2025
+  - best film # 5 Events: 2010, 2023-2026
+  - best film editing # 43 Events: 1983-2026
   - best music # 1 Event: 2003
   - best new artist # 3 Events: 2004-2005, 2008
-  - best new director # 21 Events: 2004-2025
+  - best new director # 22 Events: 2004-2026
   - best new performer # 41 Events: 1983-2003, 2005-2007, 2009-2026
-  - best original film score # 41 Events: 1983-2002, 2004-2025
-  - best original film song # 42 Events: 1983-2025
+  - best original film score # 42 Events: 1983-2002, 2004-2026
+  - best original film song # 43 Events: 1983-2026
   - best original score # 2 Events: 2005, 2010
   - best picture # 39 Events: 1982-2009, 2011-2022
-  - best screenplay # 43 Events: 1982-2025
+  - best screenplay # 44 Events: 1982-2026
   - best sound # 1 Event: 2003
-  - best sound design # 24 Events: 1998-2002, 2006-2025
+  - best sound design # 25 Events: 1998-2002, 2006-2026
   - best sound effects # 2 Events: 2004-2005
   - best supporting actor # 41 Events: 1985-2026
   - best supporting actress # 41 Events: 1985-2026
-  - best visual effects # 23 Events: 2002-2025
+  - best visual effects # 24 Events: 2002-2026
   - people's choice award # 1 Event: 1986
 ev0000349: # Film Independent Spirit Awards (https://www.imdb.com/event/ev0000349)
   years: ['2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003',
