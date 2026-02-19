@@ -7,12 +7,28 @@
     best short film:
       nominee: [tt36598697, tt38460295, tt39337056, tt39346139, tt39380467, tt39385903, tt39385928, tt39385969, tt39386047, tt39386067, tt39386189, tt39386274, tt39386285, tt39386438, tt39386463, tt39386490, tt39386522, tt39386536, tt39386561, tt39458148, tt39762180]
       winner: []
+  crystal bear:
+    generation 14plus - best film:
+      nominee: [tt30225817, tt32212403, tt33412851, tt36598374, tt38518448, tt38523576, tt39210294, tt39311354, tt39371363, tt39371428, tt39371437]
+      winner: []
+    generation 14plus - best short film:
+      nominee: [tt39211423, tt39211477, tt39215113, tt39371318, tt39371326, tt39371335, tt39371366, tt39371373, tt39371379]
+      winner: []
+    generation kplus - best film:
+      nominee: [tt28084471, tt37547768, tt38350704, tt38786100, tt39206678, tt39371353, tt39371375, tt39793963]
+      winner: []
+    generation kplus - best short film:
+      nominee: [tt29335822, tt39206685, tt39211468, tt39212334, tt39212734, tt39367478, tt39371314, tt39371349, tt39371369, tt39371410, tt39371423, tt39373335, tt6480214]
+      winner: []
   teddy:
     best documentary/essay film:
-      nominee: [tt39150008]
+      nominee: [tt38589440, tt39150008, tt39368129, tt39371437, tt39383485]
       winner: []
     best feature film:
-      nominee: [tt13652154]
+      nominee: [tt11826250, tt13652154, tt25399154, tt27219371, tt27811182, tt30225817, tt33515714, tt33522697, tt35050712, tt35253781, tt39210294, tt39213126, tt39383458, tt8977670]
+      winner: []
+    best short film:
+      nominee: [tt39384282, tt39385928, tt39386189, tt39386522, tt6480214]
       winner: []
   berlinale documentary award:
     berlinale documentary award:
