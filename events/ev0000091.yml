@@ -22,7 +22,7 @@
       winner: []
   teddy:
     best documentary/essay film:
-      nominee: [tt38589440, tt39150008, tt39368129, tt39371437, tt39383485]
+      nominee: [tt38589440, tt39150008, tt39215184, tt39368129, tt39371437, tt39383485]
       winner: []
     best feature film:
       nominee: [tt11826250, tt13652154, tt25399154, tt27219371, tt27811182, tt30225817, tt33515714, tt33522697, tt35050712, tt35253781, tt39210294, tt39213126, tt39383458, tt8977670]
@@ -32,7 +32,7 @@
       winner: []
   berlinale documentary award:
     berlinale documentary award:
-      nominee: [tt39382829, tt39382862, tt39382895]
+      nominee: [tt30744238, tt39206678, tt39210397, tt39215184, tt39215225, tt39368109, tt39368563, tt39368581, tt39370293, tt39382829, tt39382862, tt39382895, tt39383353, tt39383477, tt39383505, tt39383613]
       winner: []
 '2025': # https://www.imdb.com/event/ev0000091/2025/1/
   golden berlin bear:
