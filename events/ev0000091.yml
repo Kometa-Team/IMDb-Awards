@@ -3,10 +3,35 @@
   golden berlin bear:
     best film:
       nominee: [tt13848364, tt25399154, tt27541205, tt27844906, tt29271639, tt32192760, tt32203967, tt32321285, tt32358921, tt32888226, tt33515714, tt34347792, tt34383465, tt34934816, tt35854741, tt36472181, tt36826227, tt39075020, tt39382755, tt39382808, tt39382829, tt8977670]
-      winner: []
+      winner: [tt32888226]
     best short film:
       nominee: [tt36598697, tt38460295, tt39337056, tt39346139, tt39380467, tt39385903, tt39385928, tt39385969, tt39386047, tt39386067, tt39386189, tt39386274, tt39386285, tt39386438, tt39386463, tt39386490, tt39386522, tt39386536, tt39386561, tt39458148, tt39762180]
-      winner: []
+      winner: [tt39346139]
+  silver berlin bear:
+    best director:
+      nominee: [tt34347792]
+      winner: [tt34347792]
+    best leading performance:
+      nominee: [tt25399154]
+      winner: [tt25399154]
+    best screenplay:
+      nominee: [tt29271639]
+      winner: [tt29271639]
+    best supporting performance:
+      nominee: [tt27541205]
+      winner: [tt27541205]
+    grand jury prize:
+      nominee: [tt36472181]
+      winner: [tt36472181]
+    jury prize:
+      nominee: [tt27541205]
+      winner: [tt27541205]
+    jury prize - short film:
+      nominee: [tt39337056]
+      winner: [tt39337056]
+    outstanding artistic contribution:
+      nominee: [tt39382829]
+      winner: [tt39382829]
   crystal bear:
     generation 14plus - best film:
       nominee: [tt30225817, tt32212403, tt33412851, tt36598374, tt38518448, tt38523576, tt39210294, tt39311354, tt39371363, tt39371428, tt39371437]
