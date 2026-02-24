@@ -1318,7 +1318,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - best screenplay # 42 Events: 1949-1952, 1958, 1963, 1965, 1967, 1974, 1980-1982, 1984, 1994, 1996-2019, 2021-2025
   - best supporting actor # 4 Events: 1979-1981, 1991
   - best supporting actress # 3 Events: 1979-1981
-  - c.i.c.a.e. award # 18 Events: 1999-2000, 2002, 2004-2018
+  - c.i.c.a.e. award # 19 Events: 1999-2000, 2002, 2004-2018, 2025
   - c.i.c.a.e. award - special mention # 2 Events: 2007, 2009
   - canal+ award # 33 Events: 1992-2019, 2021-2025
   - cannes junior award # 3 Events: 2000, 2003, 2022
@@ -1521,7 +1521,7 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - best visual narration # 1 Event: 1953
   - best vr interactive experience # 2 Events: 2021-2022
   - best vr story # 1 Event: 2022
-  - c.i.c.a.e. award # 18 Events: 1999-2000, 2002, 2004-2018
+  - c.i.c.a.e. award # 19 Events: 1999-2000, 2002, 2004-2018, 2025
   - c.i.c.a.e. award - special mention # 2 Events: 2007, 2009
   - canal+ award # 26 Events: 1992-2016, 2024
   - cannes ecrans juniors # 1 Event: 2022
@@ -5930,92 +5930,115 @@ ev0036701: # Critics’ Choice Shorts and Series Awards, India (https://www.imdb
   - best writing # 5 Events: 2021-2025
   - best writing in a short film # 3 Events: 2021-2022, 2024
 ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
-  years: ['2025', '2024', '2023', '2022', '2021']
+  years: ['2026', '2025', '2024', '2023', '2022', '2021']
   awards:  # Award Options: Iconic Gold Awards
-  - iconic # 5 Events: 2021-2025
+  - iconic # 6 Events: 2021-2026
   categories: # Category Options: Iconic Gold Awards
   - best actor - critics # 1 Event: 2025
   - best actor - ott # 1 Event: 2025
-  - best actor - popular # 1 Event: 2025
+  - best actor - popular # 2 Events: 2025-2026
+  - best actor - web series # 1 Event: 2026
   - best actor critics - ott # 1 Event: 2025
   - best actor critics choice - web # 1 Event: 2025
   - best actor in a negative role # 1 Event: 2023
   - best actor of the year # 3 Events: 2022-2024
-  - best actor of the year - critics choice # 2 Events: 2022, 2024
-  - best actor of the year - jury's choice # 1 Event: 2024
+  - best actor of the year - critics choice # 3 Events: 2022, 2024, 2026
+  - best actor of the year - jury's choice # 2 Events: 2024, 2026
   - best actor of the year - ott # 1 Event: 2024
   - best actor of the year - popular choice # 1 Event: 2024
   - best actor of the year - web series # 1 Event: 2024
   - best actor popular - web # 1 Event: 2025
   - best actress # 1 Event: 2025
-  - best actress - critics # 1 Event: 2025
+  - best actress - critics # 2 Events: 2025-2026
   - best actress - ott # 1 Event: 2025
-  - best actress - web series # 1 Event: 2025
+  - best actress - web series # 2 Events: 2025-2026
   - best actress in a negative role # 3 Events: 2021, 2023, 2025
   - best actress in a web film # 1 Event: 2021
-  - best actress of the year # 3 Events: 2022-2024
+  - best actress of the year # 4 Events: 2022-2024, 2026
   - best actress of the year - critics choice # 2 Events: 2022, 2024
   - best actress of the year - ott # 1 Event: 2024
   - best actress of the year - popular choice # 1 Event: 2024
   - best actress of the year - web series # 1 Event: 2024
+  - best actress pan india movie # 1 Event: 2026
   - best actress popular - ott # 1 Event: 2025
   - best actress popular - web # 1 Event: 2025
-  - best choreographer # 1 Event: 2025
+  - best casting director # 1 Event: 2026
+  - best choreographer # 2 Events: 2025-2026
+  - best comeback in ott # 1 Event: 2026
   - best comedy web series # 1 Event: 2025
   - best debut actor # 2 Events: 2023, 2025
   - best debut actor - ott # 1 Event: 2025
   - best debut actor of the year - web series # 1 Event: 2024
   - best debut actress # 2 Events: 2023, 2025
   - best debut actress of the year # 1 Event: 2024
+  - best debut director # 1 Event: 2026
   - best debut director of the year # 1 Event: 2024
-  - best director # 1 Event: 2025
+  - best debut director web series # 1 Event: 2026
+  - best debut popular # 1 Event: 2026
+  - best director # 2 Events: 2025-2026
   - best director - comedy # 2 Events: 2024-2025
+  - best director - critic ott # 1 Event: 2026
   - best director - critics choice # 1 Event: 2024
+  - best director - ott # 1 Event: 2026
   - best director - popular # 1 Event: 2025
+  - best director - web series (popular) # 1 Event: 2026
   - best director comedy - web # 1 Event: 2025
   - best director of the year # 2 Events: 2022, 2024
   - best director of the year - ott # 1 Event: 2024
-  - best film # 1 Event: 2025
+  - best film # 2 Events: 2025-2026
   - best film - critics # 1 Event: 2025
+  - best film - ott # 1 Event: 2026
   - best film - people choice # 1 Event: 2023
+  - best film - popular # 1 Event: 2026
   - best film of the year # 3 Events: 2022-2024
   - best film of the year - ott # 2 Events: 2024-2025
   - best film of the year - people's choice # 1 Event: 2024
   - best lyricist # 1 Event: 2025
+  - best music # 1 Event: 2026
+  - best negative actress - web series # 1 Event: 2026
+  - best negative actress - web series (critics) # 1 Event: 2026
+  - best negative actress - web series (popular) # 1 Event: 2026
   - best performance by an actor in a negative role # 1 Event: 2025
   - best performance by an actress in a negative role - web # 1 Event: 2025
+  - best popular film # 1 Event: 2026
   - best singer - female # 1 Event: 2025
   - best singer - male # 1 Event: 2025
   - best song - non filmy # 1 Event: 2025
-  - best supporting actor # 1 Event: 2025
+  - best supporting actor # 2 Events: 2025-2026
   - best supporting actor - comedy # 1 Event: 2025
-  - best supporting actor - comedy web series # 1 Event: 2025
+  - best supporting actor - comedy web series # 2 Events: 2025-2026
   - best supporting actor - web # 1 Event: 2025
   - best supporting actor of the year # 3 Events: 2022-2024
   - best supporting actor of the year - web series # 1 Event: 2024
-  - best supporting actress # 1 Event: 2025
-  - best supporting actress - comedy web series # 2 Events: 2023, 2025
+  - best supporting actress # 2 Events: 2025-2026
+  - best supporting actress - comedy web series # 3 Events: 2023, 2025-2026
   - best supporting actress - web # 1 Event: 2025
+  - best supporting actress - web series # 1 Event: 2026
   - best supporting actress of the year # 3 Events: 2022-2024
   - best supporting actress of the year - web series # 1 Event: 2024
   - best tv actor of the year # 2 Events: 2023-2024
   - best tv actress of the year # 3 Events: 2021, 2023-2024
-  - best web series # 1 Event: 2025
+  - best web series # 2 Events: 2025-2026
+  - best web series - comedy # 1 Event: 2026
   - best web series - critics # 1 Event: 2025
+  - best web series - popular # 1 Event: 2026
   - best web series of the year # 1 Event: 2023
-  - best writer # 1 Event: 2025
+  - best writer # 2 Events: 2025-2026
   - blockbuster movie of the year # 1 Event: 2024
   - breakout star of the year - female # 1 Event: 2025
   - breakout star of the year - male # 1 Event: 2025
+  - breakthrough performance of the year # 1 Event: 2026
   - casting director of the year # 1 Event: 2022
   - comedy serial of the year # 1 Event: 2021
   - debut actor of the year # 1 Event: 2022
   - debut actress of the year # 1 Event: 2022
   - debut tv actor of the year # 1 Event: 2022
   - debut tv actress of the year # 1 Event: 2022
+  - emerging of of the year # 1 Event: 2026
   - fearless perfomance of the year # 1 Event: 2022
   - fresh face in bollywood # 1 Event: 2025
-  - game changer movie of the year # 1 Event: 2024
+  - game changer movie of the year # 2 Events: 2024, 2026
+  - game changer of the year # 1 Event: 2026
   - millennial star on rise # 1 Event: 2023
   - most impactful actress # 1 Event: 2023
   - most influential personality television - female # 1 Event: 2025
@@ -6026,20 +6049,25 @@ ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   - most popular contestant of the year # 1 Event: 2023
   - most popular tv actor of the year # 1 Event: 2025
   - most popular tv actress of the year # 1 Event: 2025
+  - most promising actress web series # 1 Event: 2026
   - most promising tv actor of the year # 1 Event: 2021
   - outstanding achievement in indian cinema # 1 Event: 2023
   - outstanding bollywood - south industry singer # 1 Event: 2025
+  - outstanding performer # 1 Event: 2026
   - powerpack perfomance of the year # 2 Events: 2022, 2025
   - powerpack perfomance of the year - critics choice # 1 Event: 2022
   - powerpack performance comedy # 1 Event: 2023
   - powerpack performance female - web # 1 Event: 2025
   - powerpack performance of the year - female # 3 Events: 2023-2025
-  - powerpack performance of the year - male # 1 Event: 2023
+  - powerpack performance of the year - male # 2 Events: 2023, 2026
   - powerpack performance of the year - ott # 1 Event: 2024
   - rising star - female # 1 Event: 2025
   - rising star - male # 1 Event: 2025
   - rising star of the year # 1 Event: 2022
+  - rising star popular # 1 Event: 2026
   - singer of the year # 1 Event: 2024
+  - special jury award for outstanding performance # 1 Event: 2026
+  - voice of the year # 1 Event: 2026
 ev0060658: # Bollywood Film Journalist Awards (https://www.imdb.com/event/ev0060658)
   years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017']
   awards:  # Award Options: Bollywood Film Journalist Awards
