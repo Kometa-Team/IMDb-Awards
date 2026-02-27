@@ -44,7 +44,7 @@
       winner: []
     generation kplus - best short film:
       nominee: [tt29335822, tt39206685, tt39211468, tt39212334, tt39212734, tt39367478, tt39371314, tt39371349, tt39371369, tt39371410, tt39371423, tt39373335, tt6480214]
-      winner: []
+      winner: [tt6480214]
   teddy:
     best documentary/essay film:
       nominee: [tt38589440, tt39150008, tt39215184, tt39368129, tt39371437, tt39383485]
