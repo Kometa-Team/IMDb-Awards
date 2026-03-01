@@ -6,7 +6,7 @@
       winner: [tt32888226]
     best short film:
       nominee: [tt36598697, tt38460295, tt39337056, tt39346139, tt39380467, tt39385903, tt39385928, tt39385969, tt39386047, tt39386067, tt39386189, tt39386274, tt39386285, tt39386438, tt39386463, tt39386490, tt39386522, tt39386536, tt39386561, tt39458148, tt39762180]
-      winner: [tt39346139]
+      winner: [tt39346139, tt39386522]
   silver berlin bear:
     best director:
       nominee: [tt34347792]
@@ -48,7 +48,7 @@
   teddy:
     best documentary/essay film:
       nominee: [tt38589440, tt39150008, tt39215184, tt39368129, tt39371437, tt39383485]
-      winner: []
+      winner: [tt39150008]
     best feature film:
       nominee: [tt11826250, tt13652154, tt25399154, tt27219371, tt27811182, tt30225817, tt33515714, tt33522697, tt35050712, tt35253781, tt39210294, tt39213126, tt39383458, tt8977670]
       winner: [tt27219371]
