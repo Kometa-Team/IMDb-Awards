@@ -98,7 +98,7 @@
       winner: [tt35887159]
   panorama audience award:
     documentary film:
-      nominee: [tt12402876, tt34965506, tt35050975]
+      nominee: [tt12402876, tt34965506, tt35050975, tt35451785]
       winner: [tt35050975]
     feature film:
       nominee: [tt26923797, tt29781139, tt32144178, tt33308903]
@@ -182,7 +182,7 @@
       winner: [tt35439830]
   amnesty international film prize:
     amnesty international film prize:
-      nominee: [tt35050975]
+      nominee: [tt35050975, tt35501192]
       winner: [tt35050975]
   heiner carow prize:
     heiner carow prize:
@@ -237,6 +237,9 @@
     berlinale documentary award:
       nominee: [tt33037725, tt35051084, tt35439895, tt35450659, tt35451785]
       winner: [tt35439895]
+    best film:
+      nominee: [tt35501192]
+      winner: []
   berlinale documentary award - special mention:
     berlinale documentary award - special mention:
       nominee: [tt35437332, tt35440114]
@@ -1088,6 +1091,10 @@
     best producer:
       nominee: [tt21360838]
       winner: [tt21360838]
+  forum:
+    forum section:
+      nominee: [tt0793508]
+      winner: []
   compass-perspektive award:
     best film:
       nominee: [tt14130986]
@@ -1880,7 +1887,7 @@
       nominee: [tt6533000]
       winner: [tt6533000]
     best short film:
-      nominee: [tt6444314]
+      nominee: [tt6444314, tt7135514]
       winner: [tt6444314]
   grand prix of the generation kplus international jury:
     best feature film:
@@ -4592,6 +4599,10 @@
   special mention of the generation 14plus international jury:
     best short film:
       nominee: [tt0441680]
+      winner: []
+  forum:
+    creative documentary:
+      nominee: [tt0473762]
       winner: []
 '2004': # https://www.imdb.com/event/ev0000091/2004/1/
   golden berlin bear:

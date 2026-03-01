@@ -34,8 +34,8 @@
       nominee: [tt11315808, tt14914430, tt1609486, tt1723808, tt2396431]
       winner: [tt14914430]
     worst actress:
-      nominee: [tt11057302, tt11315808, tt14856980, tt15009428, tt4978420]
-      winner: [tt11057302]
+      nominee: [tt11057302, tt11315808, tt14856980, tt15009428, tt21235248, tt4978420]
+      winner: [tt11057302, tt21235248]
     worst director:
       nominee: [tt10128846, tt11057302, tt11315808, tt14914430, tt4978420]
       winner: [tt10128846]
@@ -129,8 +129,8 @@
       nominee: [tt12885272, tt3554046, tt3876910, tt6654210, tt9357050]
       winner: [tt3554046]
     worst actress:
-      nominee: [tt11656220, tt12636872, tt12885272, tt5932368, tt6111574]
-      winner: [tt12885272]
+      nominee: [tt11656220, tt12636872, tt12885272, tt4513678, tt5932368, tt6111574]
+      winner: [tt12885272, tt4513678]
     worst director:
       nominee: [tt12636872, tt12885272, tt4876134, tt6111574, tt9357050]
       winner: [tt12885272]
@@ -230,14 +230,17 @@
       nominee: [tt1137450, tt1255919, tt1801552, tt2296777, tt8564902, tt8632862]
       winner: [tt8564902, tt8632862]
     worst actress:
-      nominee: [tt1072748, tt1273221, tt1308728, tt5461956, tt5619332, tt6850820]
-      winner: [tt1308728, tt5619332]
+      nominee: [tt1072748, tt1273221, tt1308728, tt1365519, tt5461956, tt5619332, tt6850820]
+      winner: [tt1308728, tt1365519, tt5619332]
     worst director:
-      nominee: [tt1072748, tt1255919, tt1308728, tt1801552, tt4477536]
-      winner: [tt1255919]
+      nominee: [tt1072748, tt1255919, tt1308728, tt1365519, tt1801552, tt4477536]
+      winner: [tt1255919, tt1365519]
     worst picture:
-      nominee: [tt1072748, tt1255919, tt1308728, tt1801552, tt4532826]
-      winner: [tt1255919]
+      nominee: [tt1072748, tt1255919, tt1308728, tt1365519, tt1801552, tt4532826]
+      winner: [tt1255919, tt1365519]
+    worst prequel, remake, rip-off or sequel:
+      nominee: [tt1365519]
+      winner: [tt1365519]
     worst remake, rip-off or sequel:
       nominee: [tt1137450, tt1255919, tt4532826, tt4779682, tt8564902]
       winner: [tt1255919]
@@ -270,8 +273,8 @@
       nominee: [tt1469304, tt1790809, tt2345759, tt3371366, tt4465564, tt5657846]
       winner: [tt2345759]
     worst actress:
-      nominee: [tt3462710, tt4287320, tt4465564, tt5109784, tt6217804]
-      winner: [tt6217804]
+      nominee: [tt2771200, tt3462710, tt4287320, tt4465564, tt5109784, tt6217804]
+      winner: [tt2771200, tt6217804]
     worst director:
       nominee: [tt2345759, tt3371366, tt4465564, tt4877122, tt5109784]
       winner: [tt4877122]
@@ -519,8 +522,8 @@
       nominee: [tt0817230, tt0938283, tt1273678, tt1325004, tt1375670, tt1392197]
       winner: [tt0938283, tt1325004]
     worst supporting actress:
-      nominee: [tt0817230, tt0938283, tt0954947, tt0970866, tt0985694, tt1126591, tt1261945]
-      winner: [tt0817230, tt0954947, tt0970866, tt0985694]
+      nominee: [tt0817230, tt0938283, tt0954947, tt0970866, tt0985694, tt1126591, tt1261945, tt1646926]
+      winner: [tt0817230, tt0954947, tt0970866, tt0985694, tt1646926]
 '2010': # https://www.imdb.com/event/ev0000558/2010/1/
   razzie award:
     worst actor:
@@ -586,8 +589,8 @@
       nominee: [tt0446676, tt0460780, tt0486640, tt0795421, tt0811138, tt0884224, tt1082886]
       winner: [tt0795421]
     worst supporting actress:
-      nominee: [tt0411061, tt0460780, tt0963194, tt1001562, tt1073498, tt1185834, tt1213644]
-      winner: [tt0963194, tt1185834]
+      nominee: [tt0411061, tt0460780, tt0963194, tt1001562, tt1073498, tt1107365, tt1213644]
+      winner: [tt0963194, tt1107365]
 '2008': # https://www.imdb.com/event/ev0000558/2008/1/
   razzie award:
     worst actor:
@@ -656,8 +659,8 @@
       nominee: [tt0383222, tt0430912, tt0452637, tt0452681, tt0466909, tt0790604]
       winner: [tt0452637]
     worst supporting actress:
-      nominee: [tt0348150, tt0362120, tt0383216, tt0383222, tt0449089, tt0455967, tt0466342, tt0790604]
-      winner: [tt0362120, tt0466342]
+      nominee: [tt0348150, tt0362120, tt0383216, tt0383222, tt0400717, tt0449089, tt0455967, tt0466342, tt0790604]
+      winner: [tt0362120, tt0400717, tt0466342]
 '2006': # https://www.imdb.com/event/ev0000558/2006/1/
   razzie award:
     worst actor:
@@ -860,8 +863,8 @@
       nominee: [tt0120716, tt0120891, tt0126916, tt0139462, tt0142342, tt0146675, tt0182789]
       winner: [tt0142342]
     worst actress:
-      nominee: [tt0120683, tt0137494, tt0142201, tt0151137, tt0171363, tt0185937]
-      winner: [tt0185937]
+      nominee: [tt0120683, tt0137494, tt0142201, tt0151137, tt0171363, tt0185937, tt0205461]
+      winner: [tt0185937, tt0205461]
     worst director:
       nominee: [tt0120891, tt0120915, tt0142342, tt0146675, tt0171363]
       winner: [tt0120891]
@@ -928,7 +931,7 @@
       winner: [tt0119925]
     worst actress:
       nominee: [tt0118691, tt0119086, tt0119173, tt0120151, tt0120179, tt0120390]
-      winner: [tt0119173, tt0120179]
+      winner: [tt0119173]
     worst director:
       nominee: [tt0118615, tt0118688, tt0119925, tt0120179, tt0120399]
       winner: [tt0119925]
@@ -959,10 +962,6 @@
     worst supporting actress:
       nominee: [tt0115495, tt0118688, tt0119109, tt0119116]
       winner: [tt0118688]
-  worst career achievement award:
-    worst career achievement award:
-      nominee: [tt0120179]
-      winner: [tt0120179]
 '1997': # https://www.imdb.com/event/ev0000558/1997/1/
   razzie award:
     worst actor:
@@ -1039,8 +1038,8 @@
       nominee: [tt0109456, tt0109891, tt0110687, tt0110725, tt0110763, tt0110989, tt0111255, tt0111756]
       winner: [tt0111756]
     worst actress:
-      nominee: [tt0106834, tt0109456, tt0109890, tt0110146, tt0110725, tt0111255, tt0111257]
-      winner: [tt0110146, tt0111255, tt0111257]
+      nominee: [tt0106834, tt0109456, tt0109890, tt0110146, tt0110725, tt0111255]
+      winner: [tt0110146, tt0111255]
     worst director:
       nominee: [tt0109254, tt0109456, tt0110687, tt0110725, tt0111756]
       winner: [tt0110725]

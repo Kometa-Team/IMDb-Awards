@@ -615,6 +615,10 @@
     premio speciale film impresa award:
       nominee: [tt21993128]
       winner: [tt21993128]
+  starlight international cinema award:
+    premio internazionale:
+      nominee: [tt18691614]
+      winner: [tt18691614]
 '2023': # https://www.imdb.com/event/ev0000681/2023/1/
   golden lion:
     best film:
@@ -855,6 +859,9 @@
     best short film:
       nominee: [tt28484619, tt28484638, tt28484672, tt28484684, tt28484717, tt28484750, tt28484760]
       winner: [tt28484760]
+    best technical contribution:
+      nominee: [tt28484619]
+      winner: [tt28484619]
   giornate degli autori award:
     giornate degli autori award:
       nominee: [tt16968976, tt21882016, tt24216998, tt26254622, tt27139897, tt27827704, tt28380004, tt28449053, tt28635355, tt28641753]

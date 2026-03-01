@@ -238,7 +238,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - fipresci prize - special mention # 3 Events: 1958, 1971, 1974
   - first movie award # 1 Event: 2002
   - first movie award - special mention # 1 Event: 2002
-  - forum # 10 Events: 1982-1984, 1992, 1996-1997, 2015, 2018-2019, 2025
+  - forum # 12 Events: 1982-1984, 1992, 1996-1997, 2005, 2015, 2018-2019, 2021, 2025
   - gen z audience award # 1 Event: 2025
   - generation prize # 5 Events: 2009, 2011, 2018-2020
   - giuseppe becce award # 1 Event: 2023
@@ -457,7 +457,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - compass-perspektive-award # 1 Event: 2023
   - competition # 55 Events: 1954, 1971-1996, 1998-2025
   - competition audience award # 1 Event: 2021
-  - creative documentary # 1 Event: 2019
+  - creative documentary # 2 Events: 2005, 2019
   - culinary cinema # 1 Event: 2019
   - cupra filmmaker award # 1 Event: 2025
   - daad short film award # 9 Events: 2006-2014
@@ -493,7 +493,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - forum of new cinema # 37 Events: 1969, 1971-1996, 1998-2006, 2011
   - forum of new film # 1 Event: 1972
   - forum of young cinema # 1 Event: 2008
-  - forum section # 5 Events: 1982-1983, 1992, 1996, 2025
+  - forum section # 6 Events: 1982-1983, 1992, 1996, 2021, 2025
   - gen z audience award # 1 Event: 2025
   - generation 14plus - best feature film # 9 Events: 2001, 2007-2011, 2016, 2019, 2021
   - generation 14plus - best film # 15 Events: 2007, 2010, 2012-2015, 2017-2020, 2022-2026
@@ -3790,7 +3790,7 @@ ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)
   - best feature film in konkani # 3 Events: 2009, 2014-2015
   - best feature film in ladakhi # 1 Event: 2018
   - best feature film in malayalam # 18 Events: 1954, 1991, 1995, 1997, 2003, 2005, 2010-2011, 2013, 2015-2024
-  - best feature film in marathi # 14 Events: 1975, 1996, 2003, 2006, 2011, 2014-2016, 2018-2024
+  - best feature film in marathi # 15 Events: 1975, 1996, 2003, 2006, 2011, 2014-2024
   - best feature film in mishing # 1 Event: 2013
   - best feature film in oriya # 4 Events: 1986, 1992, 1998, 2018
   - best feature film in punjabi # 4 Events: 1998, 2015-2016, 2020
@@ -4184,7 +4184,6 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   - governor's award # 1 Event: 2004
   - razzie award # 46 Events: 1981-2026
   - redeemer award # 6 Events: 2017, 2019-2020, 2022-2023, 2025
-  - worst career achievement award # 1 Event: 1998
   categories: # Category Options: Razzie Awards
   - barry l. bumstead award # 4 Events: 2016-2019
   - governor's award # 1 Event: 2004
@@ -4198,7 +4197,6 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   - worst actor of the decade # 1 Event: 2010
   - worst actress # 46 Events: 1981-2026
   - worst actress of the decade # 1 Event: 2010
-  - worst career achievement award # 1 Event: 1998
   - worst director # 46 Events: 1981-2026
   - worst ensemble # 1 Event: 2012
   - worst excuse for a horror movie # 1 Event: 2008
@@ -4212,7 +4210,7 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   - worst picture # 46 Events: 1981-2026
   - worst picture of the decade # 3 Events: 1990, 2000, 2010
   - worst prequel or sequel # 2 Events: 2007-2008
-  - worst prequel, remake, rip-off or sequel # 7 Events: 2009, 2011-2013, 2017, 2020, 2024
+  - worst prequel, remake, rip-off or sequel # 8 Events: 2009, 2011-2013, 2017, 2019-2020, 2024
   - worst reckless disregard for human life and public property # 2 Events: 1998, 2020
   - worst remake or rip-off # 2 Events: 2007-2008
   - worst remake or sequel # 10 Events: 1995-1996, 1998-1999, 2001-2006
@@ -4892,6 +4890,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - special prize on occasion of the festival's jubilee # 1 Event: 1992
   - special recommendation # 4 Events: 1934, 1936-1938
   - special volpi cup # 1 Event: 1993
+  - starlight international cinema award # 1 Event: 2024
   - technical prize # 2 Events: 1983-1984
   - telepiù award # 2 Events: 1994-1995
   - telepiù award - special mention # 1 Event: 1994
@@ -5073,7 +5072,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - best supporting actress # 2 Events: 1993-1994
   - best supporting performer # 2 Events: 1995-1996
   - best tailor # 1 Event: 2018
-  - best technical contribution # 3 Events: 2021-2022, 2024
+  - best technical contribution # 4 Events: 2021-2024
   - best technical perfection # 1 Event: 1932
   - best vr experience # 1 Event: 2021
   - best vr immersive experience for interactive content # 1 Event: 2019
@@ -5298,6 +5297,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - premio cinematografico "civitas vitae prossima" award # 4 Events: 2012-2015
   - premio fondazione fai persona lavoro ambiente award # 4 Events: 2020, 2023-2025
   - premio fondazione fai persona lavoro ambiente award - special mention # 3 Events: 2020-2021, 2024
+  - premio internazionale # 1 Event: 2024
   - premio laguna sud (venice days) # 1 Event: 2011
   - premio per l'inclusione edipo re (giornate degli autori) # 1 Event: 2021
   - premio per la migliore interpretazione # 1 Event: 1966
@@ -5820,7 +5820,7 @@ ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
   - best cinematographer (series) # 2 Events: 2023-2024
   - best cinematographer (web original film) # 3 Events: 2023-2025
   - best cinematographer, series # 1 Event: 2025
-  - best cinematography # 3 Events: 2020-2022
+  - best cinematography # 4 Events: 2020-2022, 2024
   - best comedy (series/specials) # 2 Events: 2024-2025
   - best costume design # 3 Events: 2020-2022
   - best costume design (series) # 2 Events: 2023-2024
