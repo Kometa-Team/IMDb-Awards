@@ -26,8 +26,8 @@
       nominee: [tt21317634, tt24850708, tt27424511, tt31456973, tt6208148]
       winner: []
     worst supporting actress:
-      nominee: [tt21317634, tt24850708, tt28671344, tt31456973, tt9603060]
-      winner: []
+      nominee: [tt21317634, tt24850708, tt28671344, tt30274401, tt31456973, tt9603060]
+      winner: [tt30274401]
 '2025': # https://www.imdb.com/event/ev0000558/2025/1/
   razzie award:
     worst actor:
