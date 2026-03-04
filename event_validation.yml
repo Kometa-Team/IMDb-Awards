@@ -319,7 +319,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - small silver plaque # 2 Events: 1955-1956
   - special mention # 19 Events: 1965-1966, 1977, 1991, 1993-1995, 1997-1998, 2003, 2008-2009, 2012-2013, 2015, 2017-2018, 2022-2023
   - special mention ag-kino gilde cinema vision 14plus # 2 Events: 2024-2025
-  - special mention of the generation 14plus international jury # 13 Events: 2005, 2013-2021, 2023-2025
+  - special mention of the generation 14plus international jury # 14 Events: 2005, 2013-2021, 2023-2026
   - special mention of the generation kplus international jury # 11 Events: 2006, 2013-2016, 2018, 2021-2025
   - special mention youth jury generation 14plus best short film # 1 Event: 2024
   - special prize of the city of berlin # 1 Event: 1951
@@ -585,7 +585,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - reader jury of the "tagesspiegel" # 10 Events: 2008-2016, 2019
   - reader jury of the "zitty" # 8 Events: 1983-1990
   - score competition # 1 Event: 2014
-  - short film # 19 Events: 1959-1960, 1965-1969, 1971-1977, 2001-2002, 2006, 2016, 2022
+  - short film # 20 Events: 1959-1960, 1965-1969, 1971-1977, 2001-2002, 2006, 2016, 2022, 2026
   - short film - generation 14plus # 1 Event: 2025
   - silver berlin bear # 18 Events: 1952-1955, 1961, 1969, 1973-1974, 1976-1977, 1984-1990, 1993
   - silver berlin bear - honorable mention # 2 Events: 1985-1986
@@ -3574,7 +3574,7 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   awards:  # Award Options: Zee Cine Awards
   - critics choice award # 10 Events: 2005-2017
   - entertainer of the year # 1 Event: 2007
-  - jury's choice award # 7 Events: 2006, 2018-2025
+  - jury's choice award # 8 Events: 2006, 2018-2026
   - popular award # 15 Events: 2000-2017
   - special award # 11 Events: 1998-2001, 2013-2014, 2018-2024
   - technical award # 19 Events: 2000, 2002-2016, 2018-2025
@@ -3606,12 +3606,12 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best costumes # 1 Event: 2000
   - best debut - female # 6 Events: 2000, 2002, 2007, 2012-2014
   - best debut - male # 6 Events: 2000, 2002, 2007, 2012-2014
-  - best debut actor # 13 Events: 1998-1999, 2001, 2004, 2006, 2008, 2016-2023, 2025
+  - best debut actor # 14 Events: 1998-1999, 2001, 2004, 2006, 2008, 2016-2023, 2025-2026
   - best debut actress # 14 Events: 1998-1999, 2001, 2003-2004, 2008, 2016-2025
   - best debut director # 8 Events: 2002, 2008, 2016, 2018-2023, 2025
   - best debuting director # 4 Events: 2004-2005, 2013-2014
   - best dialogue # 12 Events: 2003-2005, 2008, 2012-2016, 2019, 2023-2025
-  - best director # 22 Events: 1998-2005, 2007-2025
+  - best director # 23 Events: 1998-2005, 2007-2026
   - best editing # 13 Events: 2003-2005, 2007-2008, 2013-2017, 2019-2023, 2025
   - best female debut # 3 Events: 2003, 2006, 2011
   - best female playback # 2 Events: 2003, 2013
@@ -3622,13 +3622,13 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best film writing (story & screenplay) # 1 Event: 2019
   - best jodi # 1 Event: 2020
   - best lyricist # 9 Events: 2000, 2002-2003, 2007, 2013-2014, 2018-2019, 2025
-  - best lyrics # 5 Events: 2008, 2016-2017, 2020-2023
+  - best lyrics # 6 Events: 2008, 2016-2017, 2020-2023, 2026
   - best lyricst # 2 Events: 2004-2005
   - best male debut # 2 Events: 2003, 2011
   - best male playback # 2 Events: 2003, 2013
   - best male playback singer # 2 Events: 2018-2019
   - best marketed film of the year # 1 Event: 2014
-  - best music # 5 Events: 2018-2023, 2025
+  - best music # 6 Events: 2018-2023, 2025-2026
   - best music direction # 1 Event: 2024
   - best music director # 15 Events: 1998-2005, 2007-2016
   - best negative role # 1 Event: 2018
@@ -3643,8 +3643,8 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best performance in a villainous role # 1 Event: 2013
   - best playback singer (female) # 4 Events: 2004-2005, 2007, 2014
   - best playback singer (male) # 4 Events: 2004-2005, 2007, 2014
-  - best playback singer - female # 12 Events: 1998-2001, 2008, 2012, 2016-2017, 2020-2025
-  - best playback singer - male # 8 Events: 1998-1999, 2008, 2016, 2020-2025
+  - best playback singer - female # 13 Events: 1998-2001, 2008, 2012, 2016-2017, 2020-2026
+  - best playback singer - male # 9 Events: 1998-1999, 2008, 2016, 2020-2026
   - best playback singer female # 2 Events: 2000, 2002
   - best playback singer male # 2 Events: 2000, 2002
   - best post-production # 1 Event: 2018
@@ -3661,8 +3661,8 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best special effects # 3 Events: 2004-2005, 2020
   - best story # 12 Events: 2000, 2002-2005, 2008-2011, 2013-2016, 2023, 2025
   - best story & screenplay # 1 Event: 2020
-  - best supporting actor # 9 Events: 2000, 2002, 2007-2008, 2016, 2020-2025
-  - best supporting actress # 9 Events: 2000, 2002, 2007-2008, 2016, 2020-2025
+  - best supporting actor # 10 Events: 2000, 2002, 2007-2008, 2016, 2020-2026
+  - best supporting actress # 10 Events: 2000, 2002, 2007-2008, 2016, 2020-2026
   - best track of the year # 1 Event: 2007
   - best use of social media # 1 Event: 2013
   - best vfx # 1 Event: 2024
@@ -4224,7 +4224,7 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   - worst supporting actress # 46 Events: 1981-2026
   - worst visual effects # 2 Events: 1987-1988
   - worst written film grossing over $100 million # 1 Event: 1997
-ev0000598: # Actors Awards (https://www.imdb.com/event/ev0000598)
+ev0000598: # Actor Awards (https://www.imdb.com/event/ev0000598)
   years: ['2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003',
     '2002', '2001', '2000', '1999', '1998', '1997', '1996', '1995']
   awards:  # Award Options: Actors Awards

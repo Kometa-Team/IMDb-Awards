@@ -3,16 +3,50 @@
   viewers' choice award:
     best actor:
       nominee: [tt27922706, tt27996020, tt28142095, tt32223398, tt33014583, tt3562110]
-      winner: []
+      winner: [tt27922706]
     best actress:
       nominee: [tt13451410, tt21279420, tt28037987, tt28142095, tt35727678, tt36642456]
-      winner: []
+      winner: [tt28037987]
     best film:
       nominee: [tt27922706, tt27996020, tt28037987, tt29471573, tt32223398, tt33014583]
       winner: []
     song of the year:
       nominee: [tt26439870, tt27425164, tt28037987, tt33014583, tt35727678, tt9104736]
-      winner: []
+      winner: [tt28037987]
+  jury's choice award:
+    best actor:
+      nominee: [tt3562110]
+      winner: [tt3562110]
+    best actress:
+      nominee: [tt28037987, tt28142095]
+      winner: [tt28037987, tt28142095]
+    best debut actor:
+      nominee: [tt28037987]
+      winner: [tt28037987]
+    best director:
+      nominee: [tt28037987]
+      winner: [tt28037987]
+    best film:
+      nominee: [tt28037987]
+      winner: [tt28037987]
+    best lyrics:
+      nominee: [tt28037987]
+      winner: [tt28037987]
+    best music:
+      nominee: [tt28037987]
+      winner: [tt28037987]
+    best playback singer - female:
+      nominee: [tt28037987]
+      winner: [tt28037987]
+    best playback singer - male:
+      nominee: [tt28037987]
+      winner: [tt28037987]
+    best supporting actor:
+      nominee: [tt27922706]
+      winner: [tt27922706]
+    best supporting actress:
+      nominee: [tt3562110]
+      winner: [tt3562110]
 '2025': # https://www.imdb.com/event/ev0000415/2025/1/
   technical award:
     best action:

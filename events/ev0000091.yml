@@ -35,10 +35,10 @@
   crystal bear:
     generation 14plus - best film:
       nominee: [tt30225817, tt32212403, tt33412851, tt36598374, tt38518448, tt38523576, tt39210294, tt39311354, tt39371363, tt39371428, tt39371437]
-      winner: []
+      winner: [tt39311354]
     generation 14plus - best short film:
       nominee: [tt39211423, tt39211477, tt39215113, tt39371318, tt39371326, tt39371335, tt39371366, tt39371373, tt39371379]
-      winner: []
+      winner: [tt39211423]
     generation kplus - best film:
       nominee: [tt11826250, tt28084471, tt37547768, tt38350704, tt38786100, tt39206678, tt39371353, tt39371375]
       winner: []
@@ -55,6 +55,10 @@
     best short film:
       nominee: [tt39384282, tt39385928, tt39386189, tt39386522, tt6480214]
       winner: []
+  special mention of the generation 14plus international jury:
+    short film:
+      nominee: [tt39211423]
+      winner: [tt39211423]
   berlinale documentary award:
     berlinale documentary award:
       nominee: [tt30744238, tt39206678, tt39210397, tt39215184, tt39215225, tt39368109, tt39368563, tt39368581, tt39370293, tt39382829, tt39382862, tt39382895, tt39383353, tt39383477, tt39383505, tt39383613]
