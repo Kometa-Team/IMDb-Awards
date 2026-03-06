@@ -18,9 +18,12 @@
       nominee: [tt3562110]
       winner: [tt3562110]
     best actress:
-      nominee: [tt28037987, tt28142095]
-      winner: [tt28037987, tt28142095]
+      nominee: [tt28142095]
+      winner: [tt28142095]
     best debut actor:
+      nominee: [tt28037987]
+      winner: [tt28037987]
+    best debut actress:
       nominee: [tt28037987]
       winner: [tt28037987]
     best director:
