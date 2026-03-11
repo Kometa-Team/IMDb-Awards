@@ -1,5 +1,28 @@
 # Critics’ Choice Shorts and Series Awards, India
-'2025':  # https://www.imdb.com/event/ev0036701/2025/1/
+'2026':  # https://www.imdb.com/event/ev0036701/2026/1/
+  series award:
+    best actor:
+      nominee: [tt30820007, tt35064818, tt37365626, tt9544034, tt9680440]
+      winner: []
+    best actress:
+      nominee: [tt15340954, tt31702041, tt31898201, tt36813889, tt9544034]
+      winner: []
+    best director:
+      nominee: [tt31898201, tt34683290, tt35064818, tt35822727, tt9680440]
+      winner: []
+    best series:
+      nominee: [tt31702041, tt34683290, tt35064818, tt35822727, tt9680440]
+      winner: []
+    best supporting actor:
+      nominee: [tt31702041, tt34683290, tt35064818]
+      winner: []
+    best supporting actress:
+      nominee: [tt15340954, tt31702041, tt31898201, tt9680440]
+      winner: []
+    best writing:
+      nominee: [tt34683290, tt35064818, tt35822727, tt37365626, tt9680440]
+      winner: []
+'2025': # https://www.imdb.com/event/ev0036701/2025/1/
   series award:
     best actor:
       nominee: [tt14160712, tt27411674, tt30819853, tt30824640, tt31183656]

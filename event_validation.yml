@@ -152,10 +152,10 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
     '1977', '1976', '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953',
     '1952', '1951']
   awards:  # Award Options: Berlin International Film Festival
-  - ag kino gilde - cinema vision 14plus # 4 Events: 2022-2025
+  - ag kino gilde - cinema vision 14plus # 5 Events: 2022-2026
   - alfred bauer award # 26 Events: 1987, 1989-1990, 1992, 1994, 1996-2016
   - alfred bauer award - honorable mention # 1 Event: 1996
-  - amnesty international film prize # 20 Events: 2005-2020, 2022-2025
+  - amnesty international film prize # 21 Events: 2005-2020, 2022-2026
   - amnesty international film prize - special mention # 2 Events: 2008, 2018
   - arte international prize # 6 Events: 1984, 2015-2016, 2021-2023
   - artekino international award # 2 Events: 2024-2025
@@ -355,11 +355,11 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - activist award # 1 Event: 2020
   - actor # 1 Event: 2002
   - actress # 2 Events: 2001-2002
-  - ag kino gilde - cinema vision 14plus # 4 Events: 2022-2025
+  - ag kino gilde - cinema vision 14plus # 5 Events: 2022-2026
   - alfred bauer award # 26 Events: 1987, 1989-1990, 1992, 1994, 1996-2016
   - alfred bauer award - honorable mention # 1 Event: 1996
   - alfred bauer prize # 3 Events: 2017-2019
-  - amnesty international film prize # 20 Events: 2005-2020, 2022-2025
+  - amnesty international film prize # 21 Events: 2005-2020, 2022-2026
   - amnesty international film prize - special mention # 2 Events: 2008, 2018
   - amnesty international jury # 1 Event: 2022
   - animation film # 2 Events: 1971, 2016
@@ -5907,27 +5907,27 @@ ev0035513: # Filmfare OTT Awards (https://www.imdb.com/event/ev0035513)
   - breakthrough performance by a newcomer (male), web original film # 1 Event: 2025
   - special recognition # 1 Event: 2024
 ev0036701: # Critics’ Choice Shorts and Series Awards, India (https://www.imdb.com/event/ev0036701)
-  years: ['2025', '2024', '2023', '2022', '2021', '2019']
+  years: ['2026', '2025', '2024', '2023', '2022', '2021', '2019']
   awards:  # Award Options: Critics’ Choice Shorts and Series Awards, India
-  - series award # 5 Events: 2021-2025
+  - series award # 6 Events: 2021-2026
   - short film award # 6 Events: 2019-2025
   categories: # Category Options: Critics’ Choice Shorts and Series Awards, India
-  - best actor # 5 Events: 2021-2025
+  - best actor # 6 Events: 2021-2026
   - best actor in a short film # 5 Events: 2019-2022, 2024-2025
-  - best actress # 5 Events: 2021-2025
+  - best actress # 6 Events: 2021-2026
   - best actress in a short film # 5 Events: 2021-2025
   - best cinematographer # 1 Event: 2019
   - best cinematography in a short film # 3 Events: 2021, 2024-2025
-  - best director # 3 Events: 2019, 2024-2025
+  - best director # 4 Events: 2019, 2024-2026
   - best director in a short film # 3 Events: 2021-2022, 2024
   - best film fiction # 1 Event: 2019
   - best score # 1 Event: 2019
-  - best series # 4 Events: 2021-2023, 2025
+  - best series # 5 Events: 2021-2023, 2025-2026
   - best short film # 4 Events: 2021-2022, 2024-2025
-  - best supporting actor # 5 Events: 2021-2025
-  - best supporting actress # 5 Events: 2021-2025
+  - best supporting actor # 6 Events: 2021-2026
+  - best supporting actress # 6 Events: 2021-2026
   - best web series # 1 Event: 2024
-  - best writing # 5 Events: 2021-2025
+  - best writing # 6 Events: 2021-2026
   - best writing in a short film # 3 Events: 2021-2022, 2024
 ev0057191: # Iconic Gold Awards (https://www.imdb.com/event/ev0057191)
   years: ['2026', '2025', '2024', '2023', '2022', '2021']
