@@ -1,12 +1,6 @@
 # Filmfare OTT Awards
 '2025':  # https://www.imdb.com/event/ev0035513/2025/1/
   popular award:
-    best actor (female), short film:
-      nominee: [tt32889642]
-      winner: [tt32889642]
-    best actor (male), short film:
-      nominee: [tt32135874]
-      winner: [tt32135874]
     'best actor, series (female): comedy':
       nominee: [tt12004706, tt21908964, tt30819853, tt31925820]
       winner: [tt21908964]
@@ -25,6 +19,12 @@
     best actor, web original film (male):
       nominee: [tt13261550, tt15260176, tt21626774, tt22480126, tt27866781, tt27930683, tt28494851, tt33888131]
       winner: [tt28494851]
+    'best actor: short film':
+      nominee: [tt32135874]
+      winner: [tt32135874]
+    'best actress: short film':
+      nominee: [tt32889642]
+      winner: [tt32889642]
     best comedy (series/specials):
       nominee: [tt12004706, tt21908964, tt30819853, tt31925820, tt34773311, tt35528920]
       winner: [tt30819853]
@@ -34,15 +34,15 @@
     best debut director, web original film:
       nominee: [tt21626774, tt28494851]
       winner: [tt21626774, tt28494851]
-    best director (short film):
-      nominee: [tt36410206]
-      winner: [tt36410206]
     best director, series:
       nominee: [tt28102595, tt28106741, tt31898201, tt35064818, tt35822727, tt37365626, tt9680440]
       winner: [tt35064818]
     best director, web original film:
       nominee: [tt12736014, tt18277182, tt21626774, tt27930683, tt28494851, tt31897917]
       winner: [tt18277182]
+    'best director: short film':
+      nominee: [tt36410206]
+      winner: [tt36410206]
     best film, web original:
       nominee: [tt12736014, tt18277182, tt21626774, tt27930683, tt28494851, tt31897917]
       winner: [tt18277182]
