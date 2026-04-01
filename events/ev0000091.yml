@@ -41,7 +41,7 @@
       winner: [tt39211423]
     generation kplus - best film:
       nominee: [tt11826250, tt28084471, tt37547768, tt38350704, tt38786100, tt39206678, tt39371353, tt39371375]
-      winner: []
+      winner: [tt11826250]
     generation kplus - best short film:
       nominee: [tt29335822, tt39206685, tt39211468, tt39212334, tt39212734, tt39367478, tt39371314, tt39371349, tt39371369, tt39371410, tt39371423, tt39373335, tt6480214]
       winner: [tt6480214]
@@ -79,6 +79,18 @@
     short film:
       nominee: [tt39211423]
       winner: [tt39211423]
+  special mention of the generation kplus international jury:
+    best film:
+      nominee: [tt28084471]
+      winner: [tt28084471]
+  grand prix of the generation kplus international jury:
+    best film:
+      nominee: [tt11826250]
+      winner: [tt11826250]
+  best first feature award:
+    best first feature award:
+      nominee: [tt37263549]
+      winner: []
   berlinale documentary award:
     berlinale documentary award:
       nominee: [tt30744238, tt39206678, tt39210397, tt39215184, tt39215225, tt39368109, tt39368563, tt39368581, tt39370293, tt39382829, tt39382862, tt39382895, tt39383353, tt39383477, tt39383505, tt39383613]

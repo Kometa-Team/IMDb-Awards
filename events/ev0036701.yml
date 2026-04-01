@@ -3,25 +3,41 @@
   series award:
     best actor:
       nominee: [tt30820007, tt35064818, tt37365626, tt9544034, tt9680440]
-      winner: []
+      winner: [tt9680440]
     best actress:
       nominee: [tt15340954, tt31702041, tt31898201, tt36813889, tt9544034]
-      winner: []
+      winner: [tt31898201]
     best director:
       nominee: [tt31898201, tt34683290, tt35064818, tt35822727, tt9680440]
-      winner: []
+      winner: [tt35064818]
     best series:
       nominee: [tt31702041, tt34683290, tt35064818, tt35822727, tt9680440]
-      winner: []
+      winner: [tt35064818]
     best supporting actor:
       nominee: [tt31702041, tt34683290, tt35064818]
-      winner: []
+      winner: [tt35064818]
     best supporting actress:
       nominee: [tt15340954, tt31702041, tt31898201, tt9680440]
-      winner: []
+      winner: [tt9680440]
     best writing:
       nominee: [tt34683290, tt35064818, tt35822727, tt37365626, tt9680440]
-      winner: []
+      winner: [tt35064818]
+  short film award:
+    best actor in a short film:
+      nominee: [tt41069741]
+      winner: [tt41069741]
+    best actress in a short film:
+      nominee: [tt41069943]
+      winner: [tt41069943]
+    best director in a short film:
+      nominee: [tt37539633]
+      winner: [tt37539633]
+    best short film:
+      nominee: [tt37539633]
+      winner: [tt37539633]
+    best writing in a short film:
+      nominee: [tt37539633]
+      winner: [tt37539633]
 '2025': # https://www.imdb.com/event/ev0036701/2025/1/
   series award:
     best actor:
