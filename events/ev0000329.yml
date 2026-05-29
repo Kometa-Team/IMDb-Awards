@@ -3,58 +3,58 @@
   hong kong film award:
     best action choreography:
       nominee: [tt33348127, tt34610311, tt35464708, tt35498436, tt4968738]
-      winner: []
+      winner: [tt34610311]
     best actor:
       nominee: [tt33348127, tt33836212, tt34610311, tt35498436, tt36217308]
-      winner: []
+      winner: [tt34610311]
     best actress:
       nominee: [tt29429728, tt32851910, tt35724928, tt36217308, tt5562068]
-      winner: []
+      winner: [tt36217308]
     best art direction:
       nominee: [tt33348127, tt33830021, tt36639436, tt4968738, tt5562068]
-      winner: []
+      winner: [tt4968738]
     best cinematography:
       nominee: [tt14241008, tt33348127, tt33396536, tt4968738, tt5562068]
-      winner: []
+      winner: [tt4968738]
     best costume & make up design:
       nominee: [tt32851910, tt33348127, tt33830021, tt4968738, tt5562068]
-      winner: []
+      winner: [tt4968738]
     best director:
       nominee: [tt14241008, tt33396536, tt33836212, tt36639436, tt5562068]
-      winner: []
+      winner: [tt14241008]
     best film:
       nominee: [tt14241008, tt33348127, tt36639436, tt4968738, tt5562068]
-      winner: []
+      winner: [tt14241008]
     best film editing:
       nominee: [tt14241008, tt33348127, tt34610311, tt4968738, tt5562068]
-      winner: []
+      winner: [tt4968738]
     best new director:
       nominee: [tt33396536, tt33830021, tt36639436, tt38857175, tt4968738]
-      winner: []
+      winner: [tt33396536]
     best new performer:
       nominee: [tt32799446, tt34610311, tt35498436, tt35683790, tt36204735]
-      winner: []
+      winner: [tt35683790]
     best original film score:
       nominee: [tt14241008, tt33348127, tt33830021, tt36639436, tt4968738]
-      winner: []
+      winner: [tt4968738]
     best original film song:
       nominee: [tt14241008, tt32851910, tt33830021, tt35683790, tt36639436]
-      winner: []
+      winner: [tt14241008]
     best screenplay:
       nominee: [tt14241008, tt33396536, tt33836212, tt36639436, tt38857175]
-      winner: []
+      winner: [tt14241008]
     best sound design:
       nominee: [tt32515812, tt33348127, tt34610311, tt36639436, tt4968738]
-      winner: []
+      winner: [tt4968738]
     best supporting actor:
       nominee: [tt14241008, tt29429728, tt31645726, tt38857175, tt4968738]
-      winner: []
+      winner: [tt4968738]
     best supporting actress:
       nominee: [tt14241008, tt29429728, tt33348127, tt35683790, tt4968738]
-      winner: []
+      winner: [tt14241008]
     best visual effects:
       nominee: [tt14241008, tt32851910, tt33348127, tt35464708, tt4968738]
-      winner: []
+      winner: [tt4968738]
 '2025': # https://www.imdb.com/event/ev0000329/2025/1/
   hong kong film award:
     best action choreography:

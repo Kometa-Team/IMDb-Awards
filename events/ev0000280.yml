@@ -1,5 +1,62 @@
 # German Film Awards
-'2025':  # https://www.imdb.com/event/ev0000280/2025/1/
+'2026':  # https://www.imdb.com/event/ev0000280/2026/1/
+  film award in gold:
+    best cinematography (beste kamera/bildgestaltung):
+      nominee: [tt22507216, tt22852560, tt28690468, tt32888226]
+      winner: []
+    best costume design (bestes kostümbild):
+      nominee: [tt22507216, tt22852560, tt28690468]
+      winner: []
+    best direction (beste regie):
+      nominee: [tt28690468, tt32888226, tt33888334]
+      winner: []
+    best documentary (bester dokumentarfilm):
+      nominee: [tt34289412, tt36379428, tt39368552]
+      winner: []
+    best editing (bester schnitt):
+      nominee: [tt28690468, tt32888226, tt39368552]
+      winner: []
+    best film score (beste filmmusik):
+      nominee: [tt22507216, tt32433627, tt32888226, tt35010081]
+      winner: []
+    best makeup (bestes maskenbild):
+      nominee: [tt22507216, tt22852560, tt28690468]
+      winner: []
+    best performance by an actor in a leading role (beste darstellerische leistung - männliche hauptrolle):
+      nominee: [tt22852560, tt32888226, tt33888334]
+      winner: []
+    best performance by an actor in a supporting role (beste darstellerische leistung - männliche nebenrolle):
+      nominee: [tt3145514, tt32433627, tt33888334, tt35010081]
+      winner: []
+    best performance by an actress in a leading role (beste darstellerische leistung - weibliche hauptrolle):
+      nominee: [tt32433627, tt32888226, tt33888334]
+      winner: []
+    best performance by an actress in a supporting role (beste darstellerische leistung - weibliche nebenrolle):
+      nominee: [tt28690468, tt32433627]
+      winner: []
+    best production design (bestes szenenbild):
+      nominee: [tt22852560, tt28690468, tt32888226]
+      winner: []
+    best screenplay (bestes drehbuch):
+      nominee: [tt28690468, tt32888226, tt33888334]
+      winner: []
+    best sound (beste tongestaltung):
+      nominee: [tt22507216, tt22852560, tt28690468, tt33888334, tt34959040]
+      winner: []
+    best visual effects (beste visuelle effekte):
+      nominee: [tt26325131, tt35286242, tt35708159]
+      winner: []
+    outstanding children or youth film (bester kinder- und jugendfilm):
+      nominee: [tt27764052, tt35449402]
+      winner: []
+    outstanding feature film (bester spielfilm):
+      nominee: [tt22507216, tt22852560, tt28690468, tt32433627, tt32888226, tt33888334]
+      winner: []
+  audience award:
+    highest grossing film of the year:
+      nominee: [tt30972054]
+      winner: [tt30972054]
+'2025': # https://www.imdb.com/event/ev0000280/2025/1/
   film award in gold:
     best cinematography (beste kamera/bildgestaltung):
       nominee: [tt26252716, tt28082769, tt33294838]

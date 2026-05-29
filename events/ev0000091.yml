@@ -15,7 +15,7 @@
       nominee: [tt25399154]
       winner: [tt25399154]
     best screenplay:
-      nominee: [tt29271639, tt8977670]
+      nominee: [tt29271639]
       winner: [tt29271639]
     best supporting performance:
       nominee: [tt27541205]
@@ -32,6 +32,14 @@
     outstanding artistic contribution:
       nominee: [tt39382829]
       winner: [tt39382829]
+  special mention:
+    youth jury generation 14plus:
+      nominee: [tt33412851]
+      winner: [tt33412851]
+  panorama audience award:
+    best film:
+      nominee: [tt39367313]
+      winner: []
   crystal bear:
     generation 14plus - best film:
       nominee: [tt30225817, tt32212403, tt33412851, tt36598374, tt38518448, tt38523576, tt39210294, tt39311354, tt39371363, tt39371428, tt39371437]
@@ -55,6 +63,13 @@
     best short film:
       nominee: [tt39384282, tt39385928, tt39386189, tt39386522, tt6480214]
       winner: []
+  teddy jury award:
+    best short film:
+      nominee: [tt39386490]
+      winner: []
+    special jury award:
+      nominee: [tt33522697]
+      winner: [tt33522697]
   fipresci prize:
     forum:
       nominee: [tt15311492]
@@ -88,6 +103,9 @@
       nominee: [tt11826250]
       winner: [tt11826250]
   best first feature award:
+    best first feature:
+      nominee: [tt33522697]
+      winner: []
     best first feature award:
       nominee: [tt37263549]
       winner: []

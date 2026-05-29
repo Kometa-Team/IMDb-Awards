@@ -1,5 +1,9 @@
 # Zee Cine Awards
 '2026':  # https://www.imdb.com/event/ev0000415/2026/1/
+  special award:
+    hot & techy performer of the year:
+      nominee: [tt28802657]
+      winner: [tt28802657]
   viewers' choice award:
     best actor:
       nominee: [tt27922706, tt27996020, tt28142095, tt32223398, tt33014583, tt3562110]
@@ -8,17 +12,17 @@
       nominee: [tt13451410, tt21279420, tt28037987, tt28142095, tt35727678, tt36642456]
       winner: [tt28037987]
     best film:
-      nominee: [tt27922706, tt27996020, tt28037987, tt29471573, tt32223398, tt33014583]
+      nominee: [tt27235410, tt27922706, tt27996020, tt28037987, tt32223398, tt33014583]
       winner: []
     song of the year:
       nominee: [tt26439870, tt27425164, tt28037987, tt33014583, tt35727678, tt9104736]
       winner: [tt28037987]
   jury's choice award:
     best actor:
-      nominee: [tt3562110]
+      nominee: [tt27235410, tt27852049, tt27922706, tt27996020, tt28037987, tt33014583, tt3562110]
       winner: [tt3562110]
     best actress:
-      nominee: [tt28142095]
+      nominee: [tt13451410, tt26733325, tt27922706, tt28037987, tt28142095, tt28802657, tt36642456]
       winner: [tt28142095]
     best debut actor:
       nominee: [tt28037987]
@@ -45,10 +49,10 @@
       nominee: [tt28037987]
       winner: [tt28037987]
     best supporting actor:
-      nominee: [tt27922706]
+      nominee: [tt27922706, tt27996020, tt28089700, tt33014583]
       winner: [tt27922706]
     best supporting actress:
-      nominee: [tt3562110]
+      nominee: [tt21818782, tt22457506, tt24225606, tt26229612, tt32223398, tt3562110]
       winner: [tt3562110]
 '2025': # https://www.imdb.com/event/ev0000415/2025/1/
   technical award:

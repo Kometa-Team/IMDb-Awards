@@ -22,6 +22,12 @@
     best actress of the year:
       nominee: [tt28802657]
       winner: [tt28802657]
+    best actress of the year - ott:
+      nominee: [tt37443891]
+      winner: [tt37443891]
+    best actress of the year - ott critics:
+      nominee: [tt16436848]
+      winner: [tt16436848]
     best actress pan india movie:
       nominee: [tt26439764]
       winner: [tt26439764]
@@ -88,6 +94,9 @@
     best supporting actor - comedy web series:
       nominee: [tt12004706]
       winner: [tt12004706]
+    best supporting actor of the year:
+      nominee: [tt37443891]
+      winner: [tt37443891]
     best supporting actress:
       nominee: [tt29429860]
       winner: [tt29429860]
@@ -121,6 +130,9 @@
     game changer of the year:
       nominee: [tt33014583]
       winner: [tt33014583]
+    most impactful actress:
+      nominee: [tt35255273]
+      winner: [tt35255273]
     most promising actress web series:
       nominee: [tt34683290]
       winner: [tt34683290]
@@ -130,6 +142,9 @@
     powerpack performance of the year - male:
       nominee: [tt26733325]
       winner: [tt26733325]
+    rising star - female:
+      nominee: [tt26229612]
+      winner: [tt26229612]
     rising star popular:
       nominee: [tt34683290]
       winner: [tt34683290]

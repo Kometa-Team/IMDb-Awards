@@ -1,5 +1,150 @@
 # Cannes Film Festival
-'2026': {}  # https://www.imdb.com/event/ev0000147/2026/1/
+'2026':  # https://www.imdb.com/event/ev0000147/2026/1/
+  palme d'or:
+    palme d'or:
+      nominee: [tt21188986, tt27369017, tt28088049, tt28551050, tt30495381, tt32359586, tt33451014, tt34385689, tt35410859, tt35511966, tt36646880, tt36834996, tt36899180, tt37020296, tt37118301, tt37304295, tt37522972, tt38551209, tt38584405, tt39299437, tt39328391, tt41593304]
+      winner: [tt35410859]
+  grand prize of the festival:
+    grand prize of the festival:
+      nominee: [tt37118301]
+      winner: [tt37118301]
+  jury prize:
+    jury prize:
+      nominee: [tt21188986]
+      winner: [tt21188986]
+  best actor:
+    best actor:
+      nominee: [tt39328391]
+      winner: [tt39328391]
+  best actress:
+    best actress:
+      nominee: [tt36834996]
+      winner: [tt36834996]
+  best director:
+    best director:
+      nominee: [tt35511966, tt37304295]
+      winner: [tt35511966, tt37304295]
+  best screenplay:
+    best screenplay:
+      nominee: [tt41593304]
+      winner: [tt41593304]
+  golden camera:
+    golden camera:
+      nominee: [tt10569744, tt15437998, tt19516714, tt22183852, tt23143606, tt27672817, tt29279937, tt32459280, tt34427439, tt35495082, tt35603011, tt35914028, tt36107185, tt36590232, tt36789083, tt36822560, tt36955518, tt37740247, tt37775830, tt37799273, tt38058097, tt38820979, tt38841455, tt39462979, tt41742035, tt41830798, tt42007279, tt42191881, tt42385458]
+      winner: [tt38820979]
+  cinefondation award:
+    cinefondation award:
+      nominee: [tt37919356, tt39309620, tt40547006, tt40547136, tt41978414, tt42006686, tt42006708, tt42006736, tt42006756, tt42006763, tt42006872, tt42029134, tt42029704, tt42029714, tt42029734, tt42029737, tt42029745, tt42029749, tt42029753]
+      winner: [tt42006686]
+  un certain regard award:
+    un certain regard award:
+      nominee: [tt15437998, tt23143606, tt26751523, tt29279937, tt34374553, tt35298123, tt36629723, tt36639956, tt37775830, tt38058097, tt38820979, tt39088978, tt39571626, tt39969491, tt41592057, tt41592077, tt41592086, tt41592995, tt42007282]
+      winner: [tt41592057]
+  un certain regard - special jury prize:
+    un certain regard - special jury prize:
+      nominee: [tt36639956]
+      winner: [tt36639956]
+  un certain regard jury prize:
+    un certain regard jury prize:
+      nominee: [tt29279937]
+      winner: [tt29279937]
+  un certain regard - best actor:
+    best actor:
+      nominee: [tt41592086]
+      winner: [tt41592086]
+  un certain regard - best actress:
+    un certain regard - best actress:
+      nominee: [tt41592077]
+      winner: [tt41592077]
+  sacd award:
+    critics' week:
+      nominee: [tt38765198]
+      winner: [tt38765198]
+    directors' fortnight:
+      nominee: [tt39172310]
+      winner: [tt39172310]
+  canal+ award:
+    best short:
+      nominee: [tt42082777]
+      winner: [tt42082777]
+  label europa cinemas:
+    label europa cinemas:
+      nominee: [tt38841455]
+      winner: [tt38841455]
+  fipresci prize:
+    competition:
+      nominee: [tt35410859]
+      winner: [tt35410859]
+    directors' fortnight or critics' week:
+      nominee: [tt32459280]
+      winner: [tt32459280]
+    un certain regard:
+      nominee: [tt38820979]
+      winner: [tt38820979]
+  cannes junior award:
+    cannes ecrans juniors:
+      nominee: [tt28084471, tt29135677, tt29253299, tt31778123, tt32676647, tt34459901, tt35854741, tt39311354]
+      winner: [tt34459901]
+  palme d'or - best short film:
+    palme d'or - best short film:
+      nominee: [tt31156587, tt36313271, tt41977230, tt41990152, tt42004468, tt42004472, tt42004481, tt42004508, tt42004601, tt42006668]
+      winner: [tt42004508]
+  queer palm:
+    queer palm:
+      nominee: [tt28088049, tt28551050, tt29279937, tt32596720, tt33335610, tt35298123, tt35495082, tt35511966, tt35914028, tt36107185, tt36955518, tt37522972, tt38058097, tt38584405, tt39299437, tt39328391, tt41742035, tt41855444, tt42007280, tt42191881, tt42230625]
+      winner: [tt35298123]
+  gan foundation support for distribution:
+    gan foundation award for distribution:
+      nominee: [tt32459280]
+      winner: [tt32459280]
+  palm dog:
+    palm dog:
+      nominee: [tt38468551]
+      winner: [tt38468551]
+  palm dog - jury prize:
+    palm dog - jury prize:
+      nominee: [tt38991615]
+      winner: [tt38991615]
+  queer palm - short film:
+    queer palm - short film:
+      nominee: [tt42029134]
+      winner: [tt42029134]
+  golden eye:
+    documentary prize:
+      nominee: [tt1864268, tt31849590, tt35675151, tt39163316, tt39163347, tt41593328, tt41593483, tt41593493, tt41593500, tt41593519, tt41829787, tt41829928, tt41855444, tt42053546, tt42230625, tt42287706, tt42414520, tt42416280, tt42416291, tt42416981, tt42435292]
+      winner: [tt41593500]
+  golden eye - special mention:
+    golden eye - special mention:
+      nominee: [tt42053546]
+      winner: [tt42053546]
+  critics' week grand prize:
+    short film:
+      nominee: [tt41815531, tt41858081]
+      winner: []
+  louis roederer foundation rising star award:
+    louis roederer foundation rising star award:
+      nominee: [tt36822560]
+      winner: [tt36822560]
+  cst artist - technician prize:
+    cst artist - technician prize:
+      nominee: [tt41593304]
+      winner: [tt41593304]
+  cst young film technician award:
+    cst young film technician award:
+      nominee: [tt30495381]
+      winner: [tt30495381]
+  critics' week - next step award:
+    critics' week - next step award:
+      nominee: [tt39121543]
+      winner: [tt39121543]
+  queer palm revelation:
+    queer palm revelation:
+      nominee: [tt35495082]
+      winner: [tt35495082]
+  directors' fortnight audience award:
+    directors' fortnight audience award:
+      nominee: [tt15005870, tt33037660, tt33303400, tt33335610, tt35603011, tt36789083, tt37273709, tt37740247, tt38468551, tt38785098, tt38841455, tt38991615, tt39163347, tt39172310, tt40967536, tt41829787, tt41829928, tt41830798, tt41857868]
+      winner: [tt38991615]
 '2025': # https://www.imdb.com/event/ev0000147/2025/1/
   palme d'or:
     palme d'or:
