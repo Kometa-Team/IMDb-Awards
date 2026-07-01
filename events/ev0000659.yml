@@ -1,5 +1,14 @@
 # Toronto International Film Festival
-'2025':  # https://www.imdb.com/event/ev0000659/2025/1/
+'2026':  # https://www.imdb.com/event/ev0000659/2026/1/
+  visions award - special citation:
+    visionary filmmaker:
+      nominee: [tt40908052]
+      winner: [tt40908052]
+  best director:
+    visionary filmmaker:
+      nominee: [tt40908052]
+      winner: [tt40908052]
+'2025': # https://www.imdb.com/event/ev0000659/2025/1/
   people's choice award:
     best film:
       nominee: [tt1312221, tt14364480, tt14905854]

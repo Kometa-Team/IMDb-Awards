@@ -3,55 +3,63 @@
   film award in gold:
     best cinematography (beste kamera/bildgestaltung):
       nominee: [tt22507216, tt22852560, tt28690468, tt32888226]
-      winner: []
+      winner: [tt28690468]
     best costume design (bestes kostümbild):
       nominee: [tt22507216, tt22852560, tt28690468]
-      winner: []
+      winner: [tt28690468]
     best direction (beste regie):
       nominee: [tt28690468, tt32888226, tt33888334]
-      winner: []
+      winner: [tt28690468]
     best documentary (bester dokumentarfilm):
       nominee: [tt34289412, tt36379428, tt39368552]
-      winner: []
+      winner: [tt39368552]
     best editing (bester schnitt):
       nominee: [tt28690468, tt32888226, tt39368552]
-      winner: []
+      winner: [tt28690468]
     best film score (beste filmmusik):
       nominee: [tt22507216, tt32433627, tt32888226, tt35010081]
-      winner: []
+      winner: [tt32888226]
     best makeup (bestes maskenbild):
       nominee: [tt22507216, tt22852560, tt28690468]
-      winner: []
+      winner: [tt28690468]
     best performance by an actor in a leading role (beste darstellerische leistung - männliche hauptrolle):
       nominee: [tt22852560, tt32888226, tt33888334]
-      winner: []
+      winner: [tt22852560]
     best performance by an actor in a supporting role (beste darstellerische leistung - männliche nebenrolle):
       nominee: [tt3145514, tt32433627, tt33888334, tt35010081]
-      winner: []
+      winner: [tt33888334]
     best performance by an actress in a leading role (beste darstellerische leistung - weibliche hauptrolle):
       nominee: [tt32433627, tt32888226, tt33888334]
-      winner: []
+      winner: [tt33888334]
     best performance by an actress in a supporting role (beste darstellerische leistung - weibliche nebenrolle):
       nominee: [tt28690468, tt32433627]
-      winner: []
+      winner: [tt28690468]
     best production design (bestes szenenbild):
       nominee: [tt22852560, tt28690468, tt32888226]
-      winner: []
+      winner: [tt28690468]
     best screenplay (bestes drehbuch):
       nominee: [tt28690468, tt32888226, tt33888334]
-      winner: []
+      winner: [tt28690468]
     best sound (beste tongestaltung):
       nominee: [tt22507216, tt22852560, tt28690468, tt33888334, tt34959040]
-      winner: []
+      winner: [tt28690468]
     best visual effects (beste visuelle effekte):
       nominee: [tt26325131, tt35286242, tt35708159]
-      winner: []
+      winner: [tt26325131]
     outstanding children or youth film (bester kinder- und jugendfilm):
       nominee: [tt27764052, tt35449402]
-      winner: []
+      winner: [tt35449402]
     outstanding feature film (bester spielfilm):
-      nominee: [tt22507216, tt22852560, tt28690468, tt32433627, tt32888226, tt33888334]
-      winner: []
+      nominee: [tt22507216, tt22852560, tt28690468, tt32433627]
+      winner: [tt28690468]
+  film award in silver:
+    outstanding feature film (bester spielfilm):
+      nominee: [tt32888226]
+      winner: [tt32888226]
+  film award in bronze:
+    outstanding feature film (bester spielfilm):
+      nominee: [tt33888334]
+      winner: [tt33888334]
   audience award:
     highest grossing film of the year:
       nominee: [tt30972054]

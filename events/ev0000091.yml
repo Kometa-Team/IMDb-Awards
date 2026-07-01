@@ -121,6 +121,10 @@
     ag kino gilde - cinema vision 14plus:
       nominee: [tt39371437]
       winner: [tt39371437]
+  perspectives award:
+    best first feature:
+      nominee: [tt35253781]
+      winner: []
 '2025': # https://www.imdb.com/event/ev0000091/2025/1/
   golden berlin bear:
     best film:
