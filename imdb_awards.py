@@ -1,4 +1,4 @@
-import json, os, random, sys, time
+import json, os, random, sys, time, re
 from datetime import datetime, UTC
 
 if sys.version_info[0] != 3 or sys.version_info[1] < 11:
@@ -48,21 +48,265 @@ if args["clean"]:
     valid.data = YAML.inline({})
     valid.data.fa.set_block_style()
 
+
+def _fetch_with_playwright(url, user_agent):
+    """Try to fetch the URL with Playwright and return (html_content, next_data_str-or-None, cookies).
+    Returns (None, None, None) on failure or if Playwright not available.
+    """
+    try:
+        from playwright.sync_api import sync_playwright
+    except Exception as e:
+        logger.warning("Playwright Python package not available: %s" % e)
+        return None, None, None
+
+    try:
+        with sync_playwright() as pw:
+            try:
+                browser = pw.chromium.launch(headless=True, args=["--no-sandbox"])
+                logger.info("Playwright: browser launched")
+            except Exception as e:
+                logger.warning("Playwright launch failed: %s" % e)
+                logger.warning("If you recently installed Playwright, run: 'playwright install --with-deps' (or 'playwright install').")
+                return None, None, None
+
+            context = browser.new_context(user_agent=user_agent)
+            page = context.new_page()
+
+            # Basic console/network logging to help diagnostics (not too verbose)
+            page.on("console", lambda msg: logger.debug(f"[playwright console] {msg.type}: {msg.text}"))
+            page.on("requestfailed", lambda req: logger.debug(f"[playwright requestfailed] {req.url} -> {req.failure}"))
+            page.on("response", lambda resp: logger.debug(f"[playwright response] {resp.status} {resp.url}"))
+
+            try:
+                page.goto(url, timeout=60000)
+                try:
+                    page.wait_for_load_state("networkidle", timeout=45000)
+                except Exception:
+                    # networkidle may time out; proceed anyway
+                    logger.debug("Playwright: networkidle wait timed out (continuing)")
+            except Exception as e:
+                logger.warning(f"Playwright navigation failed for {url}: {e}")
+
+            data_str = None
+            # Try to read #__NEXT_DATA__ textContent
+            try:
+                data = page.eval_on_selector("#__NEXT_DATA__", "el => el.textContent")
+                if data:
+                    data_str = data
+            except Exception:
+                data_str = None
+
+            # Fallback: read window.__NEXT_DATA__ if present
+            if not data_str:
+                try:
+                    data = page.evaluate("() => (window.__NEXT_DATA__ !== undefined ? window.__NEXT_DATA__ : null)")
+                    if data:
+                        if isinstance(data, str):
+                            data_str = data
+                        else:
+                            data_str = json.dumps(data)
+                except Exception:
+                    data_str = None
+
+            # Grab rendered HTML and cookies before closing
+            try:
+                content = page.content()
+            except Exception:
+                content = None
+
+            try:
+                cookies = context.cookies()
+            except Exception:
+                cookies = []
+
+            try:
+                browser.close()
+            except Exception:
+                pass
+
+            logger.info(f"Playwright: fetched page, __NEXT_DATA__ present: {bool(data_str)}, cookies: {len(cookies)}")
+            return content, data_str, cookies
+    except Exception as e:
+        logger.warning(f"Unexpected Playwright error: {e}")
+        return None, None, None
+
+
+def _sync_cookies_into_scraper(cookies):
+    """Sync Playwright cookies (list of dicts) into global scraper session cookies."""
+    global scraper
+    if not cookies:
+        return 0
+    synced = 0
+    try:
+        for ck in cookies:
+            name = ck.get("name")
+            value = ck.get("value")
+            domain = ck.get("domain")
+            path = ck.get("path", "/")
+            # requests cookie jar set accepts domain/path kwargs
+            try:
+                scraper.cookies.set(name, value, domain=domain, path=path)
+                synced += 1
+            except Exception:
+                # fallback: set without domain/path
+                try:
+                    scraper.cookies.set(name, value)
+                    synced += 1
+                except Exception:
+                    logger.debug(f"Failed to set cookie {name} in scraper")
+    except Exception as e:
+        logger.warning(f"Failed syncing cookies into scraper: {e}")
+    return synced
+
+
 def _request(url, xpath=None, extra=None, page_props=False):
     global scraper
     sleep_time = 0 if args["no-sleep"] else random.randint(2, 6)
     logger.info(f"{f'{extra} ' if extra else ''}URL: {url}{f' [Sleep: {sleep_time}]' if sleep_time else ''}")
-    response = scraper.get(url, headers=header)
-    if response.status_code == 403:
-        time.sleep(3)
-        scraper = cloudscraper.create_scraper()
-        response = scraper.get(url, headers=header)
-    response = html.fromstring(response.content)
+
+    attempts = 3
+    response = None
+    for attempt in range(1, attempts + 1):
+        try:
+            response = scraper.get(url, headers=header, timeout=15)
+        except Exception as e:
+            logger.warning(f"Request attempt {attempt} failed for {url}: {e}")
+            if attempt < attempts:
+                time.sleep(2 * attempt)
+                continue
+            raise
+
+        # If blocked, try recreating the scraper once
+        if response.status_code == 403:
+            logger.warning(f"Received 403 for {url}, recreating scraper and retrying (attempt {attempt})")
+            time.sleep(3)
+            scraper = cloudscraper.create_scraper()
+            if attempt < attempts:
+                continue
+
+        # Detect AWS WAF JS challenge or 202 challenge page
+        text_snippet = response.content.decode("utf-8", errors="replace")[:4000].lower()
+        is_aws_waf = ("awswafintegration" in text_snippet) or ("challenge.js" in text_snippet) or ("window.awswafintegration" in text_snippet)
+        if response.status_code == 202 or is_aws_waf:
+            logger.info(f"Detected JS challenge/WAF (status={response.status_code}) for {url}; attempting browser fallback")
+            rendered_html, data_str, cookies = _fetch_with_playwright(url, header.get("User-Agent"))
+            if rendered_html is None:
+                # Playwright not available or failed (likely missing browser binaries)
+                msg = ("JS challenge detected for %s (status=%s). Playwright fallback unavailable or failed. "
+                       "Locally run: 'pip install playwright' and then 'playwright install --with-deps' (or 'playwright install'). "
+                       "In CI, add a step to install Playwright browsers before running this script.") % (url, response.status_code)
+                logger.error(msg)
+                if attempt < attempts:
+                    time.sleep(5 * attempt)
+                    continue
+                raise RuntimeError(msg)
+
+            # Sync cookies into scraper so further requests reuse validated session
+            synced = _sync_cookies_into_scraper(cookies)
+            logger.info(f"Playwright: synced {synced} cookies into scraper session")
+
+            # If Playwright returned window.__NEXT_DATA__ or #__NEXT_DATA__ text, parse it now
+            if page_props and data_str:
+                try:
+                    obj = json.loads(data_str)
+                    return obj["props"]["pageProps"]
+                except Exception as e:
+                    logger.error(f"Failed to parse __NEXT_DATA__ from Playwright-rendered page for {url}: {e}")
+                    raise RuntimeError(f"Failed to parse __NEXT_DATA__ from Playwright-rendered page for {url}: {e}")
+
+            # Parse the rendered HTML
+            try:
+                doc = html.fromstring(rendered_html.encode("utf-8"))
+            except Exception as e:
+                snippet = rendered_html[:1000]
+                logger.error(f"Failed to parse Playwright-rendered HTML for {url}: {e}\nSnippet: {snippet}")
+                raise
+
+            if sleep_time:
+                time.sleep(sleep_time)
+
+            if page_props:
+                try:
+                    script_nodes = doc.xpath("//script[@id='__NEXT_DATA__']/text()")
+                except Exception:
+                    script_nodes = []
+                data_str2 = script_nodes[0] if script_nodes else None
+                if not data_str2:
+                    m = re.search(r"window\.__NEXT_DATA__\s*=\s*({.*?});", rendered_html, re.S)
+                    if m:
+                        data_str2 = m.group(1)
+                if not data_str2:
+                    snippet = rendered_html[:2000]
+                    logger.error(f"__NEXT_DATA__ not found in Playwright-rendered response for {url}. Response snippet: {snippet}")
+                    raise RuntimeError(f"__NEXT_DATA__ not found in Playwright-rendered response for {url}")
+                try:
+                    obj = json.loads(data_str2)
+                    return obj["props"]["pageProps"]
+                except Exception as e:
+                    logger.error(f"Failed to parse __NEXT_DATA__ JSON from Playwright-rendered page for {url}: {e}")
+                    raise RuntimeError(f"Failed to parse __NEXT_DATA__ JSON for {url}: {e}")
+            else:
+                return doc.xpath(xpath) if xpath else doc
+
+        # Retry on server errors
+        if 500 <= response.status_code < 600 and attempt < attempts:
+            logger.warning(f"Server error {response.status_code} for {url}, retrying (attempt {attempt})")
+            time.sleep(2 * attempt)
+            continue
+
+        # Otherwise break and use the response
+        break
+
+    if response is None:
+        raise RuntimeError(f"No response obtained for {url}")
+
+    # Parse HTML (normal non-challenge path)
+    try:
+        doc = html.fromstring(response.content)
+    except Exception as e:
+        snippet = (response.content[:1000] if response.content else b"").decode("utf-8", errors="replace")
+        logger.error(f"Failed to parse HTML for {url}: {e}\nSnippet: {snippet}")
+        raise
+
     if sleep_time:
         time.sleep(sleep_time)
+
     if page_props:
-        return json.loads(response.xpath("//script[@id='__NEXT_DATA__']/text()")[0])["props"]["pageProps"]
-    return response.xpath(xpath) if xpath else response
+        try:
+            script_nodes = doc.xpath("//script[@id='__NEXT_DATA__']/text()")
+        except Exception:
+            script_nodes = []
+
+        data_str = script_nodes[0] if script_nodes else None
+
+        if not data_str:
+            try:
+                text = response.content.decode("utf-8", errors="replace")
+                m = re.search(r"window\.__NEXT_DATA__\s*=\s*({.*?});", text, re.S)
+                if m:
+                    data_str = m.group(1)
+            except Exception:
+                data_str = None
+
+        if not data_str:
+            snippet = (response.content[:2000] if response.content else b"").decode("utf-8", errors="replace")
+            logger.error(f"__NEXT_DATA__ not found for {url} (status={response.status_code}). Response snippet: {snippet}")
+            raise RuntimeError(f"__NEXT_DATA__ not found in response for {url} (status={response.status_code})")
+
+        try:
+            obj = json.loads(data_str)
+        except Exception as e:
+            logger.error(f"Failed to parse __NEXT_DATA__ JSON for {url}: {e}")
+            raise RuntimeError(f"Failed to parse __NEXT_DATA__ JSON for {url}: {e}")
+
+        if "props" not in obj or "pageProps" not in obj["props"]:
+            logger.error(f"__NEXT_DATA__ JSON missing expected keys for {url}. Keys: {list(obj.keys())}")
+            raise RuntimeError(f"__NEXT_DATA__ JSON missing expected keys for {url}")
+
+        return obj["props"]["pageProps"]
+
+    return doc.xpath(xpath) if xpath else doc
+
 
 titles = {}
 for i, event_id in enumerate(original_event_ids, 1):
@@ -71,11 +315,19 @@ for i, event_id in enumerate(original_event_ids, 1):
     event_yaml.data = YAML.inline({})
     event_yaml.data.fa.set_block_style()
     event_years = []
-    json_data = _request(f"{event_url}/{event_id}", extra=f"[Event {i}/{total_ids}]", page_props=True)
-    titles[event_id] = json_data["eventName"]
-    for year_data in json_data["historyEventEditions"]:
-        extra_params = '' if year_data["instanceWithinYear"] == 1 else f"-{year_data['instanceWithinYear']}"
-        event_years.append(f"{year_data['year']}{extra_params}")
+
+    # Robust: skip single event if fetch fails so other events can continue
+    try:
+        json_data = _request(f"{event_url}/{event_id}", extra=f"[Event {i}/{total_ids}]", page_props=True)
+    except RuntimeError as e:
+        logger.error(f"Skipping event {event_id} due to fetch error: {e}")
+        # preserve any existing event YAML and continue to next event
+        continue
+
+    titles[event_id] = json_data.get("eventName", f"{event_id}")
+    for year_data in json_data.get("historyEventEditions", []):
+        extra_params = '' if year_data.get("instanceWithinYear", 1) == 1 else f"-{year_data.get('instanceWithinYear')}"
+        event_years.append(f"{year_data.get('year')}{extra_params}")
     total_years = len(event_years)
     if event_id not in valid:
         valid[event_id] = YAML.inline({"years": YAML.inline([]), "awards": YAML.inline([]), "categories": YAML.inline([])})
@@ -91,26 +343,36 @@ for i, event_id in enumerate(original_event_ids, 1):
         event_year_url = f"{event_url}/{event_id}/{f'{event_year}/1' if '-' not in event_year else event_year.replace('-', '/')}/"
         if first or args["clean"] or event_year not in old_data:
             event_data = {}
-            for award in _request(event_year_url, extra=f"[Event {i}/{total_ids}] [Year {j}/{total_years}]", page_props=True)["edition"]["awards"]:
-                award_name = award["text"].lower()
+            # If a year-level fetch fails, log and skip the year (don't abort entire run)
+            try:
+                year_props = _request(event_year_url, extra=f"[Event {i}/{total_ids}] [Year {j}/{total_years}]", page_props=True)
+            except RuntimeError as e:
+                logger.error(f"Skipping year {event_year} for event {event_id} due to fetch error: {e}")
+                continue
+
+            for award in year_props.get("edition", {}).get("awards", []):
+                award_name = award.get("text", "").lower()
                 award_data = {}
-                for cat in award["nominationCategories"]["edges"]:
-                    cat_name = award_name if cat["node"]["category"] is None else cat["node"]["category"]["text"].lower()
+                for cat in award.get("nominationCategories", {}).get("edges", []):
+                    node = cat.get("node", {})
+                    cat_name = award_name if node.get("category") is None else node.get("category", {}).get("text", "").lower()
                     nominees = []
                     winners = []
-                    for nom in cat["node"]["nominations"]["edges"]:
-                        if "awardTitles" in nom["node"]["awardedEntities"]:
+                    for nom in node.get("nominations", {}).get("edges", []):
+                        nnode = nom.get("node", {})
+                        awarded = nnode.get("awardedEntities", {})
+                        if "awardTitles" in awarded:
                             prop = "awardTitles"
-                        elif "secondaryAwardTitles" in nom["node"]["awardedEntities"] and nom["node"]["awardedEntities"]["secondaryAwardTitles"]:
+                        elif "secondaryAwardTitles" in awarded and awarded.get("secondaryAwardTitles"):
                             prop = "secondaryAwardTitles"
                         else:
                             prop = None
                         if prop:
-                            for award_title in nom["node"]["awardedEntities"][prop]:
-                                imdb_id = award_title["title"]["id"]
+                            for award_title in awarded.get(prop, []):
+                                imdb_id = award_title.get("title", {}).get("id")
                                 if imdb_id:
                                     nominees.append(imdb_id)
-                                    if nom["node"]["isWinner"]:
+                                    if nnode.get("isWinner"):
                                         winners.append(imdb_id)
                     nominees.sort()
                     winners.sort()
@@ -216,7 +478,3 @@ if [item.a_path for item in Repo(path=".").index.diff(None) if item.a_path.endsw
         f.writelines(readme_data)
 
 logger.separator(f"{script_name} Finished\nTotal Runtime: {logger.runtime()}")
-
-
-
-
