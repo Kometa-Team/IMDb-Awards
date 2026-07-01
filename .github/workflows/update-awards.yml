@@ -1,61 +1,39 @@
 name: Update IMDb Awards
 
 on:
-  schedule:
-    - cron: '0 17 * * *'
   workflow_dispatch:
-  push:
-  pull_request:
+  schedule:
+    - cron: '0 6 * * *'
 
 jobs:
-  update:
+  update-awards:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
 
-      - name: Get current date
-        id: date
-        run: echo "date=$(date +'%B %d, %Y %I:%M %p')" >> $GITHUB_OUTPUT
-
-      - name: Check Out Repo
-        uses: actions/checkout@v6
-
-      - name: Setup Python
-        uses: actions/setup-python@v6
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.x"
+          python-version: '3.11'
 
-      - name: Install Requirements
+      - name: Cache pip and Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.cache/ms-playwright
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}-v1
+
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          python -m pip install -r requirements.txt
 
-      - name: Run Update IMDb Awards
-        run: python imdb_awards.py
-
-      - name: Check Diff
-        id: verify_diff
+      - name: Install Playwright browsers + system dependencies
         run: |
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+          # --with-deps downloads additional system packages on Linux if supported
+          python -m playwright install --with-deps
 
-      - name: Commit & Push Changes
-        if: steps.verify_diff.outputs.changed == 'true'
+      - name: Run imdb_awards.py
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "Update at ${{ steps.date.outputs.date }} UTC" -a
-          git push origin master
-
-      - name: Discord Failure Notification
-        uses: Kometa-Team/discord-notifications@master
-        if: failure()
-        with:
-          webhook_id_token: ${{ secrets.BUILD_WEBHOOK }}
-          message: ${{ vars.BUILD_FAILURE_ROLE }}
-          title: "${{ vars.NAME }}: ${{ vars.TEXT_COPYRIGHT }}"
-          url: https://github.com/Kometa-Team/${{ vars.NAME }}/actions/runs/${{ github.run_id }}
-          color: ${{ vars.COLOR_FAILURE }}
-          username: ${{ vars.BOT_NAME }}
-          avatar_url: ${{ vars.BOT_IMAGE }}
-          author: ${{ vars.GIT_NAME }}
-          author_icon_url: ${{ vars.GIT_IMAGE }}
+          python imdb_awards.py --trace
