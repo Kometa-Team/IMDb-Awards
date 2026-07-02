@@ -17,7 +17,7 @@ jobs:
           python-version: '3.11'
 
       - name: Cache pip and Playwright browsers
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: |
             ~/.cache/pip
