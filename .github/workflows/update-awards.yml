@@ -16,23 +16,16 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Cache pip and Playwright browsers
+      - name: Cache pip
         uses: actions/cache@v6
         with:
-          path: |
-            ~/.cache/pip
-            ~/.cache/ms-playwright
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}-v1
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}-v2
 
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
-
-      - name: Install Playwright browsers + system dependencies
-        run: |
-          # --with-deps downloads additional system packages on Linux if supported
-          python -m playwright install --with-deps
 
       - name: Run imdb_awards.py
         run: |

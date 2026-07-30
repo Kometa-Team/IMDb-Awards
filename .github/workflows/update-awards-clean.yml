@@ -22,13 +22,11 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Cache pip & Playwright browsers
+      - name: Cache pip
         uses: actions/cache@v6
         with:
-          path: |
-            ~/.cache/pip
-            ~/.cache/ms-playwright
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}-v1
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}-v2
           restore-keys: |
             ${{ runner.os }}-pip-
 
@@ -36,26 +34,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
-          # Ensure Playwright package is present even if not in requirements.txt
-          python -m pip install playwright
-
-      - name: Install Playwright browsers + system dependencies
-        run: |
-          # Use --with-deps on Ubuntu to fetch needed system libraries where supported
-          python -m playwright install --with-deps
-
-      - name: Validate Playwright (smoke test)
-        run: |
-          python - <<'PY'
-          import sys
-          try:
-              from playwright.sync_api import sync_playwright
-              with sync_playwright() as pw:
-                  print("Playwright available, browsers ready")
-          except Exception as e:
-              print("Playwright validation failed:", e)
-              sys.exit(2)
-          PY
 
       - name: Run Update IMDb Awards
         run: python imdb_awards.py --clean --no-sleep --trace

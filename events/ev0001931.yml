@@ -103,10 +103,10 @@
       winner: [tt0158417, tt0278212, tt0294230, tt0389680, tt0389681, tt0390769, tt0401914, tt0401916, tt0401949, tt1450737, tt1708446, tt1943898, tt19712740, tt2445744]
   ott award:
     best actor - drama (ott):
-      nominee: [tt35064818, tt35665851, tt36813889, tt9680440, tt9814458]
+      nominee: [tt35064818, tt35665851, tt9095260, tt9680440, tt9814458]
       winner: [tt35064818]
     best actor - popular (ott):
-      nominee: [tt12004706, tt12805346, tt34773311, tt36813889, tt9680440]
+      nominee: [tt12004706, tt12805346, tt34773311, tt9095260, tt9680440]
       winner: [tt12004706]
     best actor in an original film:
       nominee: [tt16288804, tt21194868, tt22480126, tt31897917, tt33888131]
@@ -115,10 +115,10 @@
       nominee: [tt12004706, tt30003786, tt36372377, tt37594662]
       winner: [tt12004706]
     best actress - drama (ott):
-      nominee: [tt15340954, tt17494264, tt31898201, tt36813889, tt37048418]
-      winner: [tt36813889]
+      nominee: [tt15340954, tt17494264, tt31898201, tt37048418, tt9095260]
+      winner: [tt9095260]
     best actress - popular (ott):
-      nominee: [tt12004706, tt15340954, tt26626214, tt34773311, tt36813889]
+      nominee: [tt12004706, tt15340954, tt26626214, tt34773311, tt9095260]
       winner: [tt12004706]
     best actress in an original film:
       nominee: [tt21194868, tt27032419, tt28075881, tt33888131]
@@ -175,8 +175,8 @@
       nominee: [tt35064818, tt35665851, tt37365626, tt37594662, tt9680440]
       winner: [tt35064818]
     best web series - popular:
-      nominee: [tt12004706, tt12805346, tt26626214, tt34773311, tt36813889]
-      winner: [tt36813889]
+      nominee: [tt12004706, tt12805346, tt26626214, tt34773311, tt9095260]
+      winner: [tt9095260]
   technical award (tv):
     best art direction:
       nominee: [tt35294424]

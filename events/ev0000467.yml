@@ -1,5 +1,183 @@
 # National Film Awards, India
-'2025':  # https://www.imdb.com/event/ev0000467/2025/1/
+'2026':  # https://www.imdb.com/event/ev0000467/2026/1/
+  golden lotus award:
+    best children's film:
+      nominee: [tt32750432]
+      winner: [tt32750432]
+    best debut film of a director:
+      nominee: [tt14753612]
+      winner: [tt14753612]
+    best director:
+      nominee: [tt27118357]
+      winner: [tt27118357]
+    best feature film:
+      nominee: [tt30970235]
+      winner: [tt30970235]
+    best feature film providing wholesome entertainment:
+      nominee: [tt12735488]
+      winner: [tt12735488]
+  silver lotus award:
+    best actor:
+      nominee: [tt27431598, tt27470893]
+      winner: [tt27431598, tt27470893]
+    best actress:
+      nominee: [tt30970235]
+      winner: [tt30970235]
+    best choreography:
+      nominee: [tt27510174]
+      winner: [tt27510174]
+    best cinematography:
+      nominee: [tt27431598]
+      winner: [tt27431598]
+    best costume designer:
+      nominee: [tt16539454]
+      winner: [tt16539454]
+    best editing:
+      nominee: [tt27118357]
+      winner: [tt27118357]
+    best feature film promoting national, social and environment values:
+      nominee: [tt22170036]
+      winner: [tt22170036]
+    best female playback singer:
+      nominee: [tt11531182]
+      winner: [tt11531182]
+    best lyrics:
+      nominee: [tt10869778]
+      winner: [tt10869778]
+    best makeup artist:
+      nominee: [tt29959142]
+      winner: [tt29959142]
+    best male playback singer:
+      nominee: [tt23554698]
+      winner: [tt23554698]
+    best music direction, feature films:
+      nominee: [tt30970235]
+      winner: [tt30970235]
+    best production design:
+      nominee: [tt12735488]
+      winner: [tt12735488]
+    best screenplay (original):
+      nominee: [tt16539454]
+      winner: [tt16539454]
+    best sound design:
+      nominee: [tt26932223]
+      winner: [tt26932223]
+    best supporting actor:
+      nominee: [tt27936770]
+      winner: [tt27936770]
+    best supporting actress:
+      nominee: [tt26548265, tt29451496]
+      winner: [tt26548265, tt29451496]
+  regional award:
+    best assamese film:
+      nominee: [tt34365250]
+      winner: [tt34365250]
+    best bengali film:
+      nominee: [tt32199478]
+      winner: [tt32199478]
+    best gujarati film:
+      nominee: [tt43688916]
+      winner: [tt43688916]
+    best hindi film:
+      nominee: [tt23790740]
+      winner: [tt23790740]
+    best kannada film:
+      nominee: [tt29451496]
+      winner: [tt29451496]
+    best konakani film:
+      nominee: [tt35615358]
+      winner: []
+    best malayalam film:
+      nominee: [tt36733421]
+      winner: [tt36733421]
+    best manipuri film:
+      nominee: [tt33050647]
+      winner: [tt33050647]
+    best marathi film:
+      nominee: [tt34145254]
+      winner: [tt34145254]
+    best odia film:
+      nominee: [tt37899969]
+      winner: [tt37899969]
+    best tamil film:
+      nominee: [tt26233598]
+      winner: [tt26233598]
+    best telugu film:
+      nominee: [tt29959142]
+      winner: [tt29959142]
+    best tulu film:
+      nominee: [tt43692031]
+      winner: [tt43692031]
+    special mention:
+      nominee: [tt22170036, tt26758372]
+      winner: [tt22170036, tt26758372]
+  national film award:
+    best child artist:
+      nominee: [tt29451496, tt32750432, tt34365614]
+      winner: [tt29451496, tt32750432, tt34365614]
+    best dialogue writer:
+      nominee: [tt27540542]
+      winner: [tt27540542]
+  non-feature films award:
+    best animation film:
+      nominee: [tt29467995]
+      winner: [tt29467995]
+    best arts/culture film:
+      nominee: [tt34366043]
+      winner: [tt34366043]
+    best biographical/historical reconstruction/compilation film:
+      nominee: [tt38984204]
+      winner: [tt38984204]
+    best cinematography:
+      nominee: [tt29712745]
+      winner: [tt29712745]
+    best debut film of a director:
+      nominee: [tt34608299]
+      winner: [tt34608299]
+    best direction:
+      nominee: [tt31592782]
+      winner: [tt31592782]
+    best documentary:
+      nominee: [tt43695584]
+      winner: [tt43695584]
+    best editing:
+      nominee: [tt30876215]
+      winner: [tt30876215]
+    best music direction:
+      nominee: [tt39304118]
+      winner: [tt39304118]
+    best narration/voice over:
+      nominee: [tt37718299]
+      winner: [tt37718299]
+    best non feature film promoting social and environmental values:
+      nominee: [tt43694971]
+      winner: [tt43694971]
+    best non-feature film:
+      nominee: [tt28552918]
+      winner: [tt28552918]
+    best short film:
+      nominee: [tt43695027]
+      winner: [tt43695027]
+    best sound design:
+      nominee: [tt43691316]
+      winner: [tt43691316]
+    special mention:
+      nominee: [tt43688673, tt43688688]
+      winner: [tt43688673, tt43688688]
+  all india certificate of merit:
+    best action direction:
+      nominee: [tt26548265]
+      winner: [tt26548265]
+    best background music:
+      nominee: [tt27118357]
+      winner: [tt27118357]
+    best garhwali film:
+      nominee: [tt43691325]
+      winner: [tt43691325]
+    best screenplay (adapted):
+      nominee: [tt30138224]
+      winner: [tt30138224]
+'2025': # https://www.imdb.com/event/ev0000467/2025/1/
   golden lotus award:
     best children's film:
       nominee: [tt29437878]

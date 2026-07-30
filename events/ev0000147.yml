@@ -6645,6 +6645,11 @@
     palme d'or - best short film:
       nominee: [tt0140506, tt0140545, tt0158289, tt0163892, tt0263096, tt0263448, tt0263754, tt0263791, tt0263866, tt0263925, tt0264049, tt0264098, tt0264184]
       winner: [tt0140506]
+'1968': # https://www.imdb.com/event/ev0000147/1968/1/
+  palme d'or:
+    palme d'or:
+      nominee: [tt0061359, tt0061537, tt0061781, tt0062113, tt0062529, tt0062707, tt0062792, tt0062899, tt0062963, tt0063002, tt0063013, tt0063033, tt0063063, tt0063152, tt0063157, tt0063237, tt0063371, tt0063426, tt0063466, tt0063527, tt0063563, tt0063576, tt0063725, tt0063779, tt0066046, tt0122136, tt0165996]
+      winner: []
 '1967': # https://www.imdb.com/event/ev0000147/1967/1/
   palme d'or:
     palme d'or:

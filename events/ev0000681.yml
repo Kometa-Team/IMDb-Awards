@@ -1,5 +1,29 @@
 # Venice Film Festival
-'2025':  # https://www.imdb.com/event/ev0000681/2025/1/
+'2026':  # https://www.imdb.com/event/ev0000681/2026/1/
+  golden lion:
+    best film:
+      nominee: [tt0772163, tt15799564, tt23411728, tt34206385, tt34621251, tt34888026, tt35670577, tt36770512, tt37341481, tt37803364, tt37967547, tt38807757, tt39094466, tt39239726, tt41240964, tt41802342, tt42826707, tt43702526, tt43704846, tt9395802]
+      winner: []
+  venice horizons award:
+    best film:
+      nominee: [tt20244858, tt29495221, tt37301443, tt37537532, tt37919722, tt38024578, tt38693221, tt39307632, tt39390583, tt40071725, tt42824418, tt42827406, tt43635409, tt43704165, tt43704167, tt43704169, tt43704171, tt43704174, tt43704178]
+      winner: []
+    best short film:
+      nominee: [tt38875394, tt43622452, tt43660465, tt43662603, tt43663610, tt43700720, tt43707481, tt43707494, tt43707501, tt43707510, tt43707513]
+      winner: []
+  critics' week award:
+    best film:
+      nominee: [tt33382263]
+      winner: []
+  giornate degli autori award:
+    giornate degli autori award:
+      nominee: [tt33295642, tt37970935, tt37982005, tt43086591, tt43645716, tt43686481, tt43701760, tt43702349]
+      winner: []
+  venice immersive grand prize:
+    venice immersive grand prize:
+      nominee: [tt43678656]
+      winner: []
+'2025': # https://www.imdb.com/event/ev0000681/2025/1/
   golden lion:
     best film:
       nominee: [tt11214558, tt12300742, tt1312221, tt1527793, tt27811632, tt30446847, tt30874362, tt31065630, tt31189315, tt31415482, tt32376165, tt32386654, tt32907482, tt33396536, tt34819091, tt34886821, tt36243564, tt36874833, tt36943034, tt37660578, tt37660587]

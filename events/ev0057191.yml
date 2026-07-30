@@ -154,6 +154,67 @@
     voice of the year:
       nominee: [tt33014583]
       winner: [tt33014583]
+  iconic gold streaming award:
+    best actor critic's:
+      nominee: [tt35076553]
+      winner: [tt35076553]
+    best actor in a negative popular:
+      nominee: [tt33538438]
+      winner: [tt33538438]
+    best actor jury's choice:
+      nominee: [tt13261550]
+      winner: [tt13261550]
+    best actress:
+      nominee: [tt36201830]
+      winner: [tt36201830]
+    best actress critic's:
+      nominee: [tt31852278]
+      winner: [tt31852278]
+    best actress in a negative:
+      nominee: [tt31852278]
+      winner: [tt31852278]
+    best actress popular:
+      nominee: [tt36201830]
+      winner: [tt36201830]
+    best casting:
+      nominee: [tt33538438]
+      winner: [tt33538438]
+    best cinematography:
+      nominee: [tt36201830]
+      winner: [tt36201830]
+    best debut female:
+      nominee: [tt33538438]
+      winner: [tt33538438]
+    best dialogues:
+      nominee: [tt33538438]
+      winner: [tt33538438]
+    best director:
+      nominee: [tt33538438]
+      winner: [tt33538438]
+    best director critics:
+      nominee: [tt36201830]
+      winner: [tt36201830]
+    best movie popular:
+      nominee: [tt36201830]
+      winner: [tt36201830]
+    best screenplay & story:
+      nominee: [tt36201830]
+      winner: [tt36201830]
+    best story and screenplay:
+      nominee: [tt36201830]
+      winner: [tt36201830]
+    best supporting actor:
+      nominee: [tt31852278]
+      winner: [tt31852278]
+    best supporting actress:
+      nominee: [tt13261550]
+      winner: [tt13261550]
+    iconic gold streaming award:
+      nominee: [tt33538438]
+      winner: [tt33538438]
+    outstanding performer male:
+      nominee: [tt36201830]
+      winner: [tt36201830]
 '2025': # https://www.imdb.com/event/ev0057191/2025/1/
   iconic:
     best actor - critics:
