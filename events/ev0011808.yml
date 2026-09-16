@@ -1,5 +1,41 @@
 # Indian Film Festival Of Melbourne
-'2025':  # https://www.imdb.com/event/ev0011808/2025/1/
+'2026':  # https://www.imdb.com/event/ev0011808/2026/1/
+  best short film:
+    best short film:
+      nominee: [tt32350757]
+      winner: []
+  iff award:
+    best actor:
+      nominee: [tt28508934]
+      winner: [tt28508934]
+    best actor (series):
+      nominee: [tt16997004]
+      winner: [tt16997004]
+    best actress:
+      nominee: [tt32454557]
+      winner: [tt32454557]
+    best actress (series):
+      nominee: [tt9398466]
+      winner: [tt9398466]
+    best director:
+      nominee: [tt26439764]
+      winner: [tt26439764]
+    best film:
+      nominee: [tt33372494]
+      winner: [tt33372494]
+    best indie film:
+      nominee: [tt39371375]
+      winner: [tt39371375]
+    best series:
+      nominee: [tt28102595]
+      winner: [tt28102595]
+    equality in cinema award:
+      nominee: [tt27235410]
+      winner: [tt27235410]
+    people's choice award:
+      nominee: [tt28037987]
+      winner: [tt28037987]
+'2025': # https://www.imdb.com/event/ev0011808/2025/1/
   iff award:
     best actress:
       nominee: [tt15245240, tt27510174, tt33575372, tt33581310, tt33746407, tt35144943, tt35503482, tt36733421]
