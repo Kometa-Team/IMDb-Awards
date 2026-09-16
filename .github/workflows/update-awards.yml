@@ -8,6 +8,8 @@ on:
 jobs:
   update-awards:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v7
 
@@ -30,3 +32,15 @@ jobs:
       - name: Run imdb_awards.py
         run: |
           python imdb_awards.py --trace
+
+      - name: Commit & Push Changes
+        run: |
+          git add -- README.md event_ids.yml event_validation.yml events/
+          if git diff --cached --quiet; then
+            echo "No award updates to commit."
+            exit 0
+          fi
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Update at $(date -u +'%B %d, %Y %H:%M') UTC"
+          git push origin HEAD:"$GITHUB_REF_NAME"
