@@ -1,0 +1,405 @@
+# Festival Européen du Film Fantastique de Strasbourg (FEFFS)
+'2026':  # https://www.imdb.com/event/ev0002467/2026/1/
+  octopus d'or:
+    best international feature film:
+      nominee: [tt14119302, tt34663597, tt35298123, tt35669487, tt36590232, tt37243036, tt37340919, tt37799273, tt37941000, tt38117143, tt38589433, tt38632412, tt39143902]
+      winner: []
+  melies d'argent:
+    best european fantastic feature film:
+      nominee: [tt14119302, tt35669487, tt36590232, tt37243036, tt37799273, tt37941000, tt38632412]
+      winner: []
+  crossovers prize:
+    crossovers competition:
+      nominee: [tt14264402, tt31183803, tt32596720, tt33303400, tt34381258, tt37457723, tt38221401, tt40868707, tt9213874]
+      winner: []
+  stork d'or:
+    best animated feature:
+      nominee: [tt35684792, tt36733027, tt37038996, tt40424260, tt41830798, tt43596754, tt43596998]
+      winner: []
+'2025': # https://www.imdb.com/event/ev0002467/2025/1/
+  jury prize:
+    animated feature:
+      nominee: [tt8430196]
+      winner: [tt8430196]
+    crossovers competition:
+      nominee: [tt27766538]
+      winner: [tt27766538]
+    feature film:
+      nominee: [tt37694048]
+      winner: [tt37694048]
+  octopus d'or:
+    best international feature film:
+      nominee: [tt15284556, tt29011016, tt29567402, tt29845247, tt32601650, tt33270103, tt33270263, tt33382323, tt34113961, tt35521922, tt36553782, tt37694048, tt38348232]
+      winner: [tt35521922]
+    best international short film:
+      nominee: [tt26937588, tt30789650, tt30997162, tt33164478, tt34900759, tt36434250, tt36621427]
+      winner: [tt36434250]
+  melies d'argent:
+    best european fantastic feature film:
+      nominee: [tt14883538, tt29011016, tt29567402, tt32583148, tt32601650, tt33382323, tt36553782]
+      winner: [tt33382323]
+    short film:
+      nominee: [tt33164478]
+      winner: [tt33164478]
+  audience award:
+    best feature film:
+      nominee: [tt33382323]
+      winner: [tt33382323]
+    best short film:
+      nominee: [tt1283466, tt34900759]
+      winner: [tt1283466, tt34900759]
+  crossovers prize:
+    crossovers competition:
+      nominee: [tt13598080, tt21302642, tt27766538, tt29214162, tt31227740, tt32424400, tt34509472, tt35851026, tt36375652, tt36873832]
+      winner: [tt32424400]
+  stork d'or:
+    best animated feature:
+      nominee: [tt14883538, tt29781139, tt32284798, tt32583148, tt33738802, tt36592916, tt37679220, tt8430196]
+      winner: [tt14883538]
+  best animated short:
+    best animated short:
+      nominee: [tt32205725, tt33355176, tt35533373, tt35678652, tt36244102, tt36582058, tt37675860]
+      winner: [tt37675860]
+  best short film made in france:
+    best short film:
+      nominee: [tt21058132, tt32205812, tt35048160, tt35329512, tt35494375, tt36724196, tt36831970, tt38355023]
+      winner: [tt35048160]
+'2024': # https://www.imdb.com/event/ev0002467/2024/1/
+  jury prize:
+    crossovers competition:
+      nominee: [tt30490625]
+      winner: [tt30490625]
+    feature film:
+      nominee: [tt26932649]
+      winner: [tt26932649]
+  octopus d'or:
+    best international feature film:
+      nominee: [tt12349832, tt15010692, tt15574270, tt17079606, tt19783734, tt2118648, tt26470109, tt26749648, tt26932649, tt27503400, tt27802490, tt32973202, tt7340766]
+      winner: [tt19783734]
+    best international short film:
+      nominee: [tt27131512]
+      winner: [tt27131512]
+  melies d'argent:
+    best european fantastic feature film:
+      nominee: [tt12349832, tt15010692, tt19783734, tt26470109, tt26749648, tt26932649, tt27503400, tt32973202, tt7340766]
+      winner: [tt19783734]
+    short film:
+      nominee: [tt33131401]
+      winner: []
+  audience award:
+    best feature film:
+      nominee: [tt17079606]
+      winner: [tt17079606]
+    best short film:
+      nominee: [tt29224331]
+      winner: [tt29224331]
+    midnight shorts:
+      nominee: [tt33034842]
+      winner: []
+  crossovers prize:
+    crossovers competition:
+      nominee: [tt11674730, tt15459206, tt15844940, tt21097228, tt23157384, tt26474783, tt29299997, tt30490625, tt32139458, tt4726640]
+      winner: [tt15459206]
+  stork d'or:
+    best animated feature:
+      nominee: [tt11247622, tt14828040, tt23448260, tt23770030, tt28288396, tt32341853, tt34852363, tt4772188]
+      winner: [tt23770030]
+'2023': # https://www.imdb.com/event/ev0002467/2023/1/
+  octopus d'or:
+    best international feature film:
+      nominee: [tt10042482, tt14729020, tt14994296, tt16090596, tt16300962, tt18298588, tt18453866, tt20413870, tt20452218, tt20599230, tt23790924, tt24082454, tt26744289, tt9362492]
+      winner: [tt23790924]
+  melies d'argent:
+    best european fantastic feature film:
+      nominee: [tt11736638, tt12015692, tt13429870, tt14729020, tt14994296, tt16090596, tt18453866, tt20452218, tt20599230, tt26744289, tt26915336, tt8096846, tt9362492]
+      winner: [tt8096846]
+    short film:
+      nominee: [tt23161990]
+      winner: []
+  audience award:
+    best feature film:
+      nominee: [tt26744289]
+      winner: [tt26744289]
+    best short film:
+      nominee: [tt23161990]
+      winner: [tt23161990]
+  crossovers prize:
+    crossovers competition:
+      nominee: [tt13638858, tt14781036, tt19856688, tt21113810, tt21874760, tt24670176, tt27470830, tt27502523]
+      winner: [tt21874760]
+  stork d'or:
+    best animated feature:
+      nominee: [tt10378420, tt11736638, tt12015692, tt13429870, tt15737898, tt26915336, tt28337488, tt8096846]
+      winner: [tt15737898]
+'2022': # https://www.imdb.com/event/ev0002467/2022/1/
+  jury prize:
+    feature film:
+      nominee: [tt11018264, tt11540726]
+      winner: [tt11018264, tt11540726]
+  octopus d'or:
+    best international feature film:
+      nominee: [tt10399608, tt11018264, tt11540726, tt11718516, tt11999966, tt13270424, tt14544678, tt14895716, tt15502356, tt19768694, tt8296030, tt9005184, tt9602472]
+      winner: [tt14544678]
+    best international short film:
+      nominee: [tt14946394, tt15239576]
+      winner: [tt14946394]
+  melies d'argent:
+    best european fantastic feature film:
+      nominee: [tt10399608]
+      winner: [tt10399608]
+  audience award:
+    best feature film:
+      nominee: [tt11018264]
+      winner: [tt11018264]
+  crossovers prize:
+    crossovers competition:
+      nominee: [tt11423420, tt13617580, tt13925988, tt14994254, tt15010292, tt19713090, tt7922238, tt9455468]
+      winner: [tt7922238]
+  stork d'or:
+    best animated feature:
+      nominee: [tt10483152, tt10540510, tt12254200, tt15467046, tt16077426, tt3726682, tt6435164, tt9320184]
+      winner: [tt15467046]
+'2021': # https://www.imdb.com/event/ev0002467/2021/1/
+  octopus d'or:
+    best international feature film:
+      nominee: [tt10243676, tt10329614, tt11009596, tt11084432, tt11454278, tt12274228, tt12715472, tt4028464, tt5624466, tt6874762, tt7759362, tt9000302, tt9812474]
+      winner: [tt4028464]
+    best international short film:
+      nominee: [tt10638898, tt10697230, tt14875862]
+      winner: [tt10638898]
+  melies d'argent:
+    best european fantastic feature film:
+      nominee: [tt11263640, tt7759362]
+      winner: [tt11263640]
+  audience award:
+    best feature film:
+      nominee: [tt4028464]
+      winner: [tt4028464]
+    best short film:
+      nominee: [tt10638898]
+      winner: [tt10638898]
+  young jury prize:
+    best short film:
+      nominee: [tt11591088]
+      winner: [tt11591088]
+  crossovers prize:
+    crossovers prize:
+      nominee: [tt10732462, tt10743534, tt11307724, tt11738830, tt12801814, tt13274576, tt7358576, tt8159018]
+      winner: [tt11307724]
+  special jury mention:
+    animated feature:
+      nominee: [tt15090124]
+      winner: [tt15090124]
+    feature film:
+      nominee: [tt9812474]
+      winner: [tt9812474]
+  stork d'or:
+    best animated feature:
+      nominee: [tt11102242, tt14749948, tt14893186, tt15090124, tt3885422, tt6848928, tt7014378, tt8428550]
+      winner: [tt6848928]
+  best animated short:
+    best animated short:
+      nominee: [tt13212440, tt13796360, tt14045160]
+      winner: [tt13212440]
+  best short film made in france:
+    best short film:
+      nominee: [tt11591088, tt11750372]
+      winner: [tt11591088]
+  international animation film competition:
+    best international animated feature film:
+      nominee: [tt8428550]
+      winner: []
+'2019': # https://www.imdb.com/event/ev0002467/2019/1/
+  octopus d'or:
+    best international feature film:
+      nominee: [tt10843306, tt6198946, tt7422822, tt7464188, tt8234892, tt8246392, tt8485364, tt8816194, tt9161168, tt9204204, tt9355200]
+      winner: [tt7464188]
+    best international short film:
+      nominee: [tt10217818, tt7467476, tt8192236, tt8735380, tt8836644, tt8908824]
+      winner: [tt7467476]
+  melies d'argent:
+    best european fantastic feature film:
+      nominee: [tt6198946, tt7464188, tt8246392, tt8288450, tt8485364, tt9204204, tt9355200, tt9806192]
+      winner: [tt7464188]
+  audience award:
+    best short film:
+      nominee: [tt10217818]
+      winner: [tt10217818]
+    feature film:
+      nominee: [tt8485364]
+      winner: [tt8485364]
+  young jury prize:
+    best short film:
+      nominee: [tt10217818]
+      winner: [tt10217818]
+  crossovers prize:
+    crossovers prize:
+      nominee: [tt10228168, tt10892530, tt5614174, tt7339248, tt7703070, tt7857374, tt8009314, tt8473642, tt9074574, tt9514970]
+      winner: [tt9074574]
+  special jury mention:
+    animated feature:
+      nominee: [tt6785292]
+      winner: [tt6785292]
+    feature film:
+      nominee: [tt9204204]
+      winner: [tt9204204]
+  stork d'or:
+    best animated feature:
+      nominee: [tt6284064, tt6785292, tt8288450, tt9144838, tt9193612, tt9648078, tt9806192]
+      winner: [tt8288450, tt9806192]
+'2018': # https://www.imdb.com/event/ev0002467/2018/1/
+  jury prize:
+    animated short film:
+      nominee: [tt8976756]
+      winner: [tt8976756]
+    crossovers competition:
+      nominee: [tt7429708]
+      winner: [tt7429708]
+    feature film:
+      nominee: [tt7946422]
+      winner: [tt7946422]
+  octopus d'or:
+    best international feature film:
+      nominee: [tt4003440, tt5347122, tt6280810, tt6516314, tt6522668, tt6562628, tt6927316, tt7073710, tt7144200, tt7858616, tt7946422, tt8311792, tt8359848]
+      winner: [tt6562628]
+    best international short film:
+      nominee: [tt5363486, tt6283384, tt7047616, tt7281172, tt7380386, tt7431570]
+      winner: [tt7380386]
+  melies d'argent:
+    feature film:
+      nominee: [tt4003440]
+      winner: [tt4003440]
+    short film:
+      nominee: [tt7876020]
+      winner: [tt7876020]
+  audience award:
+    feature film:
+      nominee: [tt6562628]
+      winner: [tt6562628]
+    short film:
+      nominee: [tt7047616]
+      winner: [tt7047616]
+  young jury prize:
+    short film:
+      nominee: [tt5363486]
+      winner: [tt5363486]
+  crossovers prize:
+    crossovers prize:
+      nominee: [tt6746304, tt7042862, tt7095654, tt7117352, tt7263664, tt7328154, tt7429708, tt7890408, tt7996560]
+      winner: [tt7996560]
+  best animated short:
+    best animated short:
+      nominee: [tt7846672, tt8362894, tt8976756]
+      winner: []
+'2017': # https://www.imdb.com/event/ev0002467/2017/1/
+  jury prize:
+    feature film:
+      nominee: [tt6499628]
+      winner: [tt6499628]
+    prix du jury jeune:
+      nominee: [tt5846680]
+      winner: [tt5846680]
+  octopus d'or:
+    best international feature film:
+      nominee: [tt3986820, tt4457344, tt4805316, tt5634088, tt5715874, tt5827212, tt5842890, tt6044156, tt6136778, tt6304046, tt6499628, tt6510634, tt6890376]
+      winner: [tt6136778]
+    best international short film:
+      nominee: [tt6395008]
+      winner: [tt6395008]
+  melies d'argent:
+    feature film:
+      nominee: [tt5827212]
+      winner: [tt5827212]
+  audience award:
+    best feature film:
+      nominee: [tt4457344]
+      winner: [tt4457344]
+'2016': # https://www.imdb.com/event/ev0002467/2016/1/
+  jury prize:
+    prix du jury jeune:
+      nominee: [tt4321306]
+      winner: [tt4321306]
+  octopus d'or:
+    best international feature film:
+      nominee: [tt1183374, tt3221544, tt3775086, tt3779844, tt3845670, tt3908142, tt4185566, tt4273292, tt4303340, tt4954522, tt5013688, tt5039088]
+      winner: [tt4954522]
+    best international short film:
+      nominee: [tt4321306]
+      winner: [tt4321306]
+  melies d'argent:
+    feature film:
+      nominee: [tt4303340]
+      winner: [tt4303340]
+    short film:
+      nominee: [tt4583446]
+      winner: [tt4583446]
+  audience award:
+    short film:
+      nominee: [tt4494966]
+      winner: [tt4494966]
+'2015': # https://www.imdb.com/event/ev0002467/2015/1/
+  jury prize:
+    best animated short:
+      nominee: [tt4171032]
+      winner: [tt4171032]
+  octopus d'or:
+    best international short film:
+      nominee: [tt3897708, tt3956872]
+      winner: [tt3897708]
+  melies d'argent:
+    melies d'argent:
+      nominee: [tt2474976]
+      winner: [tt2474976]
+'2014': # https://www.imdb.com/event/ev0002467/2014/1/
+  jury prize:
+    prix du jury jeune:
+      nominee: [tt3667744]
+      winner: [tt3667744]
+  octopus d'or:
+    best international feature film:
+      nominee: [tt2844798]
+      winner: [tt2844798]
+'2012': # https://www.imdb.com/event/ev0002467/2012/1/
+  melies d'argent:
+    melies d'argent:
+      nominee: [tt2267542]
+      winner: []
+'2009': # https://www.imdb.com/event/ev0002467/2009/1/
+  melies d'argent:
+    melies d'argent:
+      nominee: [tt1283466]
+      winner: [tt1283466]
+'2008': # https://www.imdb.com/event/ev0002467/2008/1/
+  jury prize:
+    feature film:
+      nominee: [tt0896927]
+      winner: [tt0896927]
+    short film:
+      nominee: [tt1482900]
+      winner: [tt1482900]
+  octopus d'or:
+    best international feature film:
+      nominee: [tt0478394, tt0896927, tt1020530, tt1029241, tt1054115, tt1124394]
+      winner: [tt1029241]
+    best international short film:
+      nominee: [tt1092062, tt1223897, tt1245913, tt1262886, tt1418804, tt1482900, tt2089628]
+      winner: []
+    short films:
+      nominee: [tt1108861]
+      winner: [tt1108861]
+  audience award:
+    feature film:
+      nominee: [tt0478394]
+      winner: [tt0478394]
+    short films:
+      nominee: [tt1108861]
+      winner: [tt1108861]
+  best short film made in france:
+    best short film:
+      nominee: [tt1339621]
+      winner: []
+'2004': # https://www.imdb.com/event/ev0002467/2004/1/
+  audience award:
+    best feature film:
+      nominee: [tt0350128]
+      winner: []
