@@ -1,17 +1,79 @@
 # Toronto International Film Festival
 '2026':  # https://www.imdb.com/event/ev0000659/2026/1/
+  people's choice award:
+    best film:
+      nominee: [tt11995650, tt15095848, tt35511966]
+      winner: [tt35511966]
+    documentary:
+      nominee: [tt42387153, tt43746601, tt43748488]
+      winner: [tt42387153]
+    midnight madness:
+      nominee: [tt23411728, tt38893248, tt42443155]
+      winner: [tt42443155]
   visions award - special citation:
     visionary filmmaker:
       nominee: [tt40908052]
       winner: [tt40908052]
+  best canadian feature film:
+    best canadian feature film:
+      nominee: [tt37898876]
+      winner: [tt37898876]
+  netpac award:
+    netpac award:
+      nominee: [tt43743832]
+      winner: [tt43743832]
   short cuts award:
     best short film:
       nominee: [tt39109310]
       winner: []
+  short cuts award - honorable mention:
+    best international short film:
+      nominee: [tt43748763]
+      winner: [tt43748763]
+  imdbpro short cuts:
+    best international short film:
+      nominee: [tt43638597]
+      winner: [tt43638597]
+    imdbpro short cuts award best canadian film - honorable mention:
+      nominee: [tt43748750]
+      winner: [tt43748750]
+    imdbpro short cuts award for best animated film:
+      nominee: [tt41014993]
+      winner: [tt41014993]
+    imdbpro short cuts award for best animated film - honorable mention:
+      nominee: [tt43723667]
+      winner: [tt43723667]
+    imdbpro short cuts award for best canadian film:
+      nominee: [tt43677120]
+      winner: [tt43677120]
+  fipresci prize:
+    fipresci prize:
+      nominee: [tt38776984]
+      winner: [tt38776984]
+  best canadian feature film - honourable mention:
+    best canadian feature film - honourable mention:
+      nominee: [tt43696890]
+      winner: [tt43696890]
+  international people’s choice award:
+    best film:
+      nominee: [tt37363222, tt37803364, tt38708063]
+      winner: [tt37363222]
+  best canadian discovery award:
+    best canadian discovery award:
+      nominee: [tt34424722]
+      winner: [tt34424722]
   platform award:
     platform award:
       nominee: [tt29010951, tt29303855, tt33402927, tt36460247, tt36594684, tt37578559, tt37674760, tt37677746, tt42669159, tt42761198, tt43699618, tt43699620]
-      winner: []
+      winner: [tt36460247]
+  platform award - honourable mention:
+    platform award - honourable mention:
+      nominee: [tt29010951]
+      winner: [tt29010951]
+  best canadian discovery award - honourable mention:
+    best canadian discovery award - honourable mention:
+      nominee: [tt43744621]
+      winner: [tt43744621]
   best director:
     visionary filmmaker:
       nominee: [tt40908052]
