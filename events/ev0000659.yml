@@ -24,7 +24,7 @@
       winner: [tt43743832]
   short cuts award:
     best international short film:
-      nominee: [tt35735239]
+      nominee: [tt31156587, tt35735239]
       winner: []
     best short film:
       nominee: [tt39109310]
@@ -57,6 +57,13 @@
     best canadian feature film - honourable mention:
       nominee: [tt43696890]
       winner: [tt43696890]
+  contemporary world cinema award:
+    best american screenwriter of the year:
+      nominee: [tt27434692]
+      winner: [tt27434692]
+    best international indie feature script:
+      nominee: [tt27434692]
+      winner: [tt27434692]
   international people’s choice award:
     best film:
       nominee: [tt37363222, tt37803364, tt38708063]
