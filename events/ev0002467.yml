@@ -1,9 +1,5 @@
 # Festival Européen du Film Fantastique de Strasbourg (FEFFS)
 '2026':  # https://www.imdb.com/event/ev0002467/2026/1/
-  jury prize:
-    feature film:
-      nominee: [tt37340919]
-      winner: [tt37340919]
   octopus d'or:
     best international feature film:
       nominee: [tt14119302, tt34663597, tt35298123, tt35669487, tt36590232, tt37243036, tt37340919, tt37799273, tt37941000, tt38117143, tt38589433, tt38632412, tt39143902]
@@ -27,6 +23,9 @@
     crossovers competition:
       nominee: [tt32596720]
       winner: [tt32596720]
+    feature film:
+      nominee: [tt37340919]
+      winner: [tt37340919]
   stork d'or:
     best animated feature:
       nominee: [tt35684792, tt36733027, tt37038996, tt40424260, tt41830798, tt43596754, tt43596998]
