@@ -35,6 +35,10 @@
     people's choice award:
       nominee: [tt28037987]
       winner: [tt28037987]
+  best actress:
+    best actress:
+      nominee: [tt40667368]
+      winner: []
 '2025': # https://www.imdb.com/event/ev0011808/2025/1/
   iff award:
     best actress:
