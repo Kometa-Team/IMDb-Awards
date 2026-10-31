@@ -3469,33 +3469,36 @@ ev0000349: # Film Independent Spirit Awards (https://www.imdb.com/event/ev000034
   - special distinction award # 8 Events: 1986-1987, 1991, 1995, 2004-2005, 2007, 2015
   - truer than fiction award # 29 Events: 1997-2025
 ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www.imdb.com/event/ev0000361)
-  years: ['2025', '2024', '2023', '2022', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
-    '2000']
+  years: ['2026', '2025', '2024', '2023', '2022', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002',
+    '2001', '2000']
   awards:  # Award Options: Awards of the International Indian Film Academy (IIFA)
   - award for technical excellence # 13 Events: 2000-2008, 2010-2012, 2014
-  - iifa award # 4 Events: 2022-2025
-  - iifa digital award # 1 Event: 2025
+  - iifa award # 5 Events: 2022-2026
+  - iifa digital award # 2 Events: 2025-2026
   - iifa golden decade honour # 1 Event: 2009
   - international indian film academy award # 4 Events: 2017-2018, 2024-2025
   - popular award # 20 Events: 2000-2017, 2019-2020
   - producer guild award # 1 Event: 2008
   - special award # 10 Events: 2000, 2006-2008, 2011-2012, 2014-2015, 2019, 2023
-  - technical award # 12 Events: 2009, 2013, 2015-2025
+  - technical award # 13 Events: 2009, 2013, 2015-2026
   categories: # Category Options: Awards of the International Indian Film Academy (IIFA)
   - best action # 14 Events: 2003, 2005-2017
-  - best actor in a leading role # 23 Events: 2000-2020, 2024-2025
+  - best actor - supporting role # 1 Event: 2026
+  - best actor in a leading role # 24 Events: 2000-2020, 2024-2026
   - best actor in a leading role - female # 2 Events: 2022-2023
   - best actor in a leading role - male # 2 Events: 2022-2023
+  - best actor in a negative role # 1 Event: 2026
   - best actor in a supporting role # 18 Events: 2001-2002, 2004-2019
   - best actor in a supporting role - female # 2 Events: 2022-2023
   - best actor in a supporting role - male # 2 Events: 2022-2023
-  - best actress in a leading role # 23 Events: 2000-2020, 2024-2025
+  - best actress - supporting role # 1 Event: 2026
+  - best actress in a leading role # 24 Events: 2000-2020, 2024-2026
   - best actress in a supporting role # 18 Events: 2001-2002, 2004-2019
   - best adaptation # 1 Event: 2007
   - best art direction # 11 Events: 2000-2003, 2005-2011
-  - best background score # 17 Events: 2000-2007, 2010-2012, 2014, 2019-2024
-  - best choreography # 25 Events: 2000-2025
-  - best cinematography # 24 Events: 2000-2016, 2018-2025
+  - best background score # 18 Events: 2000-2007, 2010-2012, 2014, 2019-2024, 2026
+  - best choreography # 26 Events: 2000-2026
+  - best cinematography # 25 Events: 2000-2016, 2018-2026
   - best comic actor # 11 Events: 2000-2002, 2004-2005, 2007, 2010-2013, 2017
   - best costume design # 13 Events: 2001, 2004-2005, 2007-2010, 2012-2017
   - best costume designer # 5 Events: 2000, 2002-2003, 2006, 2011
@@ -3506,58 +3509,60 @@ ev0000361: # Awards of the International Indian Film Academy (IIFA) (https://www
   - best debut actress # 17 Events: 2002-2004, 2007-2013, 2015-2017, 2019, 2022-2023, 2025
   - best debut director # 3 Events: 2005, 2013, 2025
   - best dialogue # 22 Events: 2000-2012, 2014-2017, 2019-2022, 2024-2025
-  - best dialogues # 4 Events: 2013, 2018, 2023, 2025
-  - best director # 25 Events: 2000-2025
-  - best director, series # 1 Event: 2025
-  - best docu series/docu film # 1 Event: 2025
-  - best editing # 25 Events: 2000-2025
-  - best female debut # 3 Events: 2001, 2006, 2014
-  - best film # 10 Events: 2000, 2009-2011, 2015-2019, 2025
+  - best dialogues # 5 Events: 2013, 2018, 2023, 2025-2026
+  - best director # 26 Events: 2000-2026
+  - best director, series # 2 Events: 2025-2026
+  - best docu series/docu film # 2 Events: 2025-2026
+  - best editing # 26 Events: 2000-2026
+  - best female debut # 4 Events: 2001, 2006, 2014, 2026
+  - best film # 11 Events: 2000, 2009-2011, 2015-2019, 2025-2026
+  - best international film # 1 Event: 2026
   - best lyricist # 12 Events: 2000-2001, 2004-2005, 2007-2012, 2014, 2019
-  - best lyrics # 9 Events: 2002-2003, 2006, 2018, 2020-2025
+  - best lyrics # 10 Events: 2002-2003, 2006, 2018, 2020-2026
   - best make up # 2 Events: 2000, 2003
   - best make-up # 2 Events: 2002, 2014
   - best makeup # 13 Events: 2004-2013, 2015-2017
-  - best male debut # 3 Events: 2001, 2006, 2014
+  - best male debut # 4 Events: 2001, 2006, 2014, 2026
   - best music design # 1 Event: 2025
-  - best music direction # 6 Events: 2002, 2020-2025
+  - best music direction # 7 Events: 2002, 2020-2026
   - best music director # 19 Events: 2000-2001, 2003-2019
   - best performance by an actor in a negative role # 12 Events: 2000-2002, 2004-2005, 2007-2008, 2010-2013, 2017
   - best performance in a comic role # 5 Events: 2006, 2008-2009, 2014, 2016
-  - best performance in a leading role - female # 1 Event: 2025
-  - best performance in a leading role - male # 1 Event: 2025
-  - best performance in a leading role series - female # 1 Event: 2025
-  - best performance in a leading role series - male # 1 Event: 2025
+  - best performance in a leading role - female # 2 Events: 2025-2026
+  - best performance in a leading role - male # 2 Events: 2025-2026
+  - best performance in a leading role series - female # 2 Events: 2025-2026
+  - best performance in a leading role series - male # 2 Events: 2025-2026
   - best performance in a negative role # 8 Events: 2005-2006, 2008-2009, 2014, 2016, 2024-2025
-  - best performance in a supporting role - female # 1 Event: 2025
-  - best performance in a supporting role - male # 1 Event: 2025
-  - best performance in a supporting role series - female # 1 Event: 2025
-  - best performance in a supporting role series - male # 1 Event: 2025
-  - best picture # 16 Events: 2001-2008, 2012-2014, 2020-2025
-  - best playback singer - female # 25 Events: 2000-2025
-  - best playback singer - male # 25 Events: 2000-2025
+  - best performance in a supporting role - female # 2 Events: 2025-2026
+  - best performance in a supporting role - male # 2 Events: 2025-2026
+  - best performance in a supporting role series - female # 2 Events: 2025-2026
+  - best performance in a supporting role series - male # 2 Events: 2025-2026
+  - best picture # 17 Events: 2001-2008, 2012-2014, 2020-2026
+  - best playback singer - female # 26 Events: 2000-2026
+  - best playback singer - male # 26 Events: 2000-2026
   - best production design # 5 Events: 2012-2015, 2017
-  - best reality or non scripted series # 1 Event: 2025
+  - best reality or non scripted series # 2 Events: 2025-2026
   - best regional film # 1 Event: 2015
-  - best screenplay # 23 Events: 2000, 2002-2012, 2014-2025
-  - best series # 1 Event: 2025
+  - best screenplay # 24 Events: 2000, 2002-2012, 2014-2026
+  - best series # 2 Events: 2025-2026
   - best song recording # 10 Events: 2000-2005, 2007, 2011-2012, 2014
-  - best sound design # 9 Events: 2013-2014, 2017, 2019-2025
-  - best sound mixing # 9 Events: 2012-2014, 2017, 2019-2024
+  - best sound design # 10 Events: 2013-2014, 2017, 2019-2026
+  - best sound mixing # 10 Events: 2012-2014, 2017, 2019-2024, 2026
   - best sound re-recording # 11 Events: 2000-2008, 2010-2011
   - best sound recording # 14 Events: 2000-2013
   - best special effects # 17 Events: 2001, 2004-2011, 2013, 2015-2020, 2025
   - best special effects (visual) # 5 Events: 2000, 2002-2003, 2012, 2014
   - best special effects (visuals) # 2 Events: 2023-2024
   - best story # 19 Events: 2000-2002, 2004-2014, 2016-2020
-  - best story (original) # 1 Event: 2025
-  - best story (original), series # 1 Event: 2025
-  - best story - adapted # 4 Events: 2022-2025
-  - best story - original # 4 Events: 2022-2025
+  - best story (original) # 2 Events: 2025-2026
+  - best story (original), series # 2 Events: 2025-2026
+  - best story - adapted # 5 Events: 2022-2026
+  - best story - original # 5 Events: 2022-2026
   - best story in popular category (original) # 1 Event: 2025
   - best supporting actor # 5 Events: 2000, 2003, 2020, 2024-2025
   - best supporting actress # 5 Events: 2000, 2003, 2020, 2024-2025
-  - best title track # 1 Event: 2025
+  - best title track # 2 Events: 2025-2026
+  - best visual effects # 1 Event: 2026
   - creative person of the year # 1 Event: 2007
   - debut director of the year # 2 Events: 2024-2025
   - debutant of the year # 1 Event: 2024

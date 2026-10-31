@@ -1,5 +1,135 @@
 # Awards of the International Indian Film Academy (IIFA)
-'2025':  # https://www.imdb.com/event/ev0000361/2025/1/
+'2026':  # https://www.imdb.com/event/ev0000361/2026/1/
+  iifa award:
+    best actor - supporting role:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best actor in a leading role:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best actor in a negative role:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best actress - supporting role:
+      nominee: [tt27996020]
+      winner: [tt27996020]
+    best actress in a leading role:
+      nominee: [tt28037987]
+      winner: [tt28037987]
+    best director:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best female debut:
+      nominee: [tt26439870]
+      winner: [tt26439870]
+    best film:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best international film:
+      nominee: [tt1757678]
+      winner: [tt1757678]
+    best lyrics:
+      nominee: [tt28037987]
+      winner: [tt28037987]
+    best male debut:
+      nominee: [tt28037987]
+      winner: [tt28037987]
+    best music direction:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best playback singer - female:
+      nominee: [tt28037987]
+      winner: [tt28037987]
+    best playback singer - male:
+      nominee: [tt28037987]
+      winner: [tt28037987]
+    best story - adapted:
+      nominee: [tt26733325]
+      winner: [tt26733325]
+    best story - original:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+  technical award:
+    best background score:
+      nominee: [tt27922706]
+      winner: [tt27922706]
+    best choreography:
+      nominee: [tt27425164]
+      winner: [tt27425164]
+    best cinematography:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best dialogues:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best editing:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best screenplay:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best sound design:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best sound mixing:
+      nominee: [tt27922706]
+      winner: [tt27922706]
+    best visual effects:
+      nominee: [tt27922706]
+      winner: [tt27922706]
+  iifa digital award:
+    best director:
+      nominee: [tt28494851]
+      winner: [tt28494851]
+    best director, series:
+      nominee: [tt34683290]
+      winner: [tt34683290]
+    best docu series/docu film:
+      nominee: [tt31189484]
+      winner: [tt31189484]
+    best performance in a leading role - female:
+      nominee: [tt27032419]
+      winner: [tt27032419]
+    best performance in a leading role - male:
+      nominee: [tt28494851]
+      winner: [tt28494851]
+    best performance in a leading role series - female:
+      nominee: [tt9680440]
+      winner: [tt9680440]
+    best performance in a leading role series - male:
+      nominee: [tt9680440]
+      winner: [tt9680440]
+    best performance in a supporting role - female:
+      nominee: [tt38948631]
+      winner: [tt38948631]
+    best performance in a supporting role - male:
+      nominee: [tt31897917]
+      winner: [tt31897917]
+    best performance in a supporting role series - female:
+      nominee: [tt34683290]
+      winner: [tt34683290]
+    best performance in a supporting role series - male:
+      nominee: [tt34683290]
+      winner: [tt34683290]
+    best picture:
+      nominee: [tt29247040]
+      winner: [tt29247040]
+    best reality or non scripted series:
+      nominee: [tt33347879]
+      winner: [tt33347879]
+    best series:
+      nominee: [tt34683290]
+      winner: [tt34683290]
+    best story (original):
+      nominee: [tt29247040]
+      winner: [tt29247040]
+    best story (original), series:
+      nominee: [tt9680440]
+      winner: [tt9680440]
+    best title track:
+      nominee: [tt34683290]
+      winner: [tt34683290]
+'2025': # https://www.imdb.com/event/ev0000361/2025/1/
   international indian film academy award:
     best sound design:
       nominee: [tt28259207]
