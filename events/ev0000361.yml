@@ -16,6 +16,12 @@
     best actress in a leading role:
       nominee: [tt28037987]
       winner: [tt28037987]
+    best debut (female):
+      nominee: [tt26439870]
+      winner: [tt26439870]
+    best debut (male):
+      nominee: [tt28037987]
+      winner: [tt28037987]
     best director:
       nominee: [tt33014583]
       winner: [tt33014583]
@@ -37,6 +43,12 @@
     best music direction:
       nominee: [tt33014583]
       winner: [tt33014583]
+    best performance in a negative role:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best picture:
+      nominee: [tt33014583]
+      winner: [tt33014583]
     best playback singer - female:
       nominee: [tt28037987]
       winner: [tt28037987]
@@ -49,6 +61,12 @@
     best story - original:
       nominee: [tt33014583]
       winner: [tt33014583]
+    best supporting actor:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best supporting actress:
+      nominee: [tt27996020]
+      winner: [tt27996020]
   technical award:
     best background score:
       nominee: [tt27922706]
@@ -57,6 +75,9 @@
       nominee: [tt27425164]
       winner: [tt27425164]
     best cinematography:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best dialogue:
       nominee: [tt33014583]
       winner: [tt33014583]
     best dialogues:
@@ -72,6 +93,9 @@
       nominee: [tt33014583]
       winner: [tt33014583]
     best sound mixing:
+      nominee: [tt27922706]
+      winner: [tt27922706]
+    best special effects:
       nominee: [tt27922706]
       winner: [tt27922706]
     best visual effects:
