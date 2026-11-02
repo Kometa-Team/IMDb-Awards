@@ -1,18 +1,9 @@
 # Awards of the International Indian Film Academy (IIFA)
 '2026':  # https://www.imdb.com/event/ev0000361/2026/1/
   iifa award:
-    best actor - supporting role:
-      nominee: [tt33014583]
-      winner: [tt33014583]
     best actor in a leading role:
       nominee: [tt33014583]
       winner: [tt33014583]
-    best actor in a negative role:
-      nominee: [tt33014583]
-      winner: [tt33014583]
-    best actress - supporting role:
-      nominee: [tt27996020]
-      winner: [tt27996020]
     best actress in a leading role:
       nominee: [tt28037987]
       winner: [tt28037987]
@@ -25,19 +16,10 @@
     best director:
       nominee: [tt33014583]
       winner: [tt33014583]
-    best female debut:
-      nominee: [tt26439870]
-      winner: [tt26439870]
-    best film:
-      nominee: [tt33014583]
-      winner: [tt33014583]
     best international film:
       nominee: [tt1757678]
       winner: [tt1757678]
     best lyrics:
-      nominee: [tt28037987]
-      winner: [tt28037987]
-    best male debut:
       nominee: [tt28037987]
       winner: [tt28037987]
     best music direction:
@@ -80,9 +62,6 @@
     best dialogue:
       nominee: [tt33014583]
       winner: [tt33014583]
-    best dialogues:
-      nominee: [tt33014583]
-      winner: [tt33014583]
     best editing:
       nominee: [tt33014583]
       winner: [tt33014583]
@@ -96,9 +75,6 @@
       nominee: [tt27922706]
       winner: [tt27922706]
     best special effects:
-      nominee: [tt27922706]
-      winner: [tt27922706]
-    best visual effects:
       nominee: [tt27922706]
       winner: [tt27922706]
   iifa digital award:
