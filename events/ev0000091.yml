@@ -37,12 +37,12 @@
       nominee: [tt33412851]
       winner: [tt33412851]
   panorama audience award:
-    documentary film:
-      nominee: [tt39368581]
-      winner: [tt39368581]
     fiction film:
       nominee: [tt39213126]
       winner: [tt39213126]
+    panorama dokumente:
+      nominee: [tt39368581]
+      winner: [tt39368581]
   crystal bear:
     generation 14plus - best film:
       nominee: [tt30225817, tt32212403, tt33412851, tt36598374, tt38518448, tt38523576, tt39210294, tt39311354, tt39371363, tt39371428, tt39371437]
@@ -144,11 +144,14 @@
       winner: [tt39382808]
   berlinale documentary award:
     berlinale documentary award:
-      nominee: [tt30744238, tt39206678, tt39210397, tt39215184, tt39215225, tt39368109, tt39368563, tt39368581, tt39370293, tt39382829, tt39382862, tt39382895, tt39383353, tt39383505, tt39383613]
+      nominee: [tt30744238, tt39206678, tt39210397, tt39215184, tt39215225, tt39368109, tt39368563, tt39370293, tt39382829, tt39382862, tt39382895, tt39383353, tt39383505, tt39383613]
       winner: []
     best film:
       nominee: [tt39383477]
       winner: [tt39383477]
+    panorama dokumente:
+      nominee: [tt39368581]
+      winner: []
   berlinale documentary award - special mention:
     berlinale documentary award - special mention:
       nominee: [tt39382862, tt39383613]
