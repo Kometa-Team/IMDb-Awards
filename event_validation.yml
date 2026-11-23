@@ -3591,9 +3591,9 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - jury's choice award # 8 Events: 2006, 2018-2026
   - popular award # 15 Events: 2000-2017
   - special award # 12 Events: 1998-2001, 2013-2014, 2018-2024, 2026
-  - technical award # 19 Events: 2000, 2002-2016, 2018-2025
+  - technical award # 20 Events: 2000, 2002-2016, 2018-2026
   - viewers' choice award # 8 Events: 2017-2026
-  - zee cine award # 14 Events: 1998-1999, 2001, 2003-2005, 2007, 2011-2012, 2016-2017, 2023-2024, 2026
+  - zee cine award # 13 Events: 1998-1999, 2001, 2003-2005, 2007, 2011-2012, 2016-2017, 2023-2024
   - zee premiere choice award # 2 Events: 2001, 2012
   categories: # Category Options: Zee Cine Awards
   - best action # 11 Events: 2003-2005, 2014-2016, 2018-2025
@@ -3607,9 +3607,9 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best art direction # 4 Events: 2004-2006, 2016
   - best art director # 1 Event: 2003
   - best audiography # 2 Events: 2004-2005
-  - best background score # 14 Events: 2003-2005, 2007-2008, 2012-2016, 2019-2025
+  - best background score # 15 Events: 2003-2005, 2007-2008, 2012-2016, 2019-2026
   - best choreographer # 1 Event: 2003
-  - best choreography # 12 Events: 2004-2005, 2008, 2013-2016, 2018-2025
+  - best choreography # 13 Events: 2004-2005, 2008, 2013-2016, 2018-2026
   - best cinematographer # 1 Event: 2003
   - best cinematography # 15 Events: 2002, 2004-2007, 2013-2025
   - best comedian # 1 Event: 2002
@@ -3624,9 +3624,9 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best debut actress # 15 Events: 1998-1999, 2001, 2003-2004, 2008, 2016-2026
   - best debut director # 8 Events: 2002, 2008, 2016, 2018-2023, 2025
   - best debuting director # 4 Events: 2004-2005, 2013-2014
-  - best dialogue # 12 Events: 2003-2005, 2008, 2012-2016, 2019, 2023-2025
+  - best dialogue # 13 Events: 2003-2005, 2008, 2012-2016, 2019, 2023-2026
   - best director # 23 Events: 1998-2005, 2007-2026
-  - best editing # 13 Events: 2003-2005, 2007-2008, 2013-2017, 2019-2023, 2025
+  - best editing # 14 Events: 2003-2005, 2007-2008, 2013-2017, 2019-2023, 2025-2026
   - best female debut # 3 Events: 2003, 2006, 2011
   - best female playback # 2 Events: 2003, 2013
   - best female playback singer # 2 Events: 2018-2019
@@ -3662,18 +3662,18 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - best playback singer female # 2 Events: 2000, 2002
   - best playback singer male # 2 Events: 2000, 2002
   - best post-production # 1 Event: 2018
-  - best production design # 9 Events: 2014-2025
+  - best production design # 10 Events: 2014-2026
   - best production designer # 1 Event: 2013
   - best publicity design # 1 Event: 2005
-  - best screenplay # 9 Events: 2003-2005, 2007, 2014, 2017, 2023-2025
+  - best screenplay # 10 Events: 2003-2005, 2007, 2014, 2017, 2023-2026
   - best scriptwriting # 1 Event: 2018
   - best song of the year # 9 Events: 2004-2005, 2013-2016, 2018-2023
   - best song recording # 2 Events: 2005, 2007
   - best sound # 3 Events: 2003, 2007-2008
-  - best sound design # 8 Events: 2014-2024
+  - best sound design # 9 Events: 2014-2024, 2026
   - best sound re-recording # 2 Events: 2004-2005
   - best special effects # 3 Events: 2004-2005, 2020
-  - best story # 12 Events: 2000, 2002-2005, 2008-2011, 2013-2016, 2023, 2025
+  - best story # 13 Events: 2000, 2002-2005, 2008-2011, 2013-2016, 2023, 2025-2026
   - best story & screenplay # 1 Event: 2020
   - best supporting actor # 10 Events: 2000, 2002, 2007-2008, 2016, 2020-2026
   - best supporting actress # 10 Events: 2000, 2002, 2007-2008, 2016, 2020-2026
@@ -3690,7 +3690,7 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - extraordinary impact film # 1 Event: 2018
   - extraordinary performer of the year # 1 Event: 2019
   - female # 1 Event: 2001
-  - hot & techy performer of the year # 2 Events: 2024, 2026
+  - hot & techy performer of the year # 1 Event: 2024
   - lux face of the year # 4 Events: 1998-2001
   - male # 1 Event: 2001
   - outstanding performance - female # 1 Event: 2002
@@ -3701,6 +3701,8 @@ ev0000415: # Zee Cine Awards (https://www.imdb.com/event/ev0000415)
   - song of the year # 2 Events: 2025-2026
   - sound mixing # 3 Events: 1999, 2005, 2011
   - special award for international cinema # 1 Event: 2002
+  - spotlight performer of the year - female # 1 Event: 2026
+  - spotlight performer of the year - male # 1 Event: 2026
   - zee anmol award # 1 Event: 2014
   - zee5 best actress # 1 Event: 2024
 ev0000467: # National Film Awards, India (https://www.imdb.com/event/ev0000467)

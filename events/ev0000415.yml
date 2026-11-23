@@ -1,13 +1,40 @@
 # Zee Cine Awards
 '2026':  # https://www.imdb.com/event/ev0000415/2026/1/
+  technical award:
+    best background score:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best choreography:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best costume design:
+      nominee: [tt27922706]
+      winner: [tt27922706]
+    best dialogue:
+      nominee: [tt27922706]
+      winner: [tt27922706]
+    best editing:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best production design:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best screenplay:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best sound design:
+      nominee: [tt33014583]
+      winner: [tt33014583]
+    best story:
+      nominee: [tt33014583]
+      winner: [tt33014583]
   special award:
-    hot & techy performer of the year:
+    spotlight performer of the year - female:
       nominee: [tt28802657]
       winner: [tt28802657]
-  zee cine award:
-    best costume design:
-      nominee: [tt32117939]
-      winner: [tt32117939]
+    spotlight performer of the year - male:
+      nominee: [tt13451410]
+      winner: [tt13451410]
   viewers' choice award:
     best actor:
       nominee: [tt27922706, tt27996020, tt28142095, tt32223398, tt33014583, tt3562110]
@@ -17,7 +44,7 @@
       winner: [tt28037987]
     best film:
       nominee: [tt27235410, tt27922706, tt27996020, tt28037987, tt32223398, tt33014583]
-      winner: []
+      winner: [tt27922706]
     song of the year:
       nominee: [tt26439870, tt27425164, tt28037987, tt33014583, tt35727678, tt9104736]
       winner: [tt28037987]
@@ -38,8 +65,8 @@
       nominee: [tt28037987]
       winner: [tt28037987]
     best film:
-      nominee: [tt28037987]
-      winner: [tt28037987]
+      nominee: [tt33014583]
+      winner: [tt33014583]
     best lyrics:
       nominee: [tt28037987]
       winner: [tt28037987]
