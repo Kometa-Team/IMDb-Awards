@@ -1,8 +1,14 @@
 # Indian Television Academy Awards, India
 '2026':  # https://www.imdb.com/event/ev0001931/2026/1/
   indian television academy award:
+    best actor - drama:
+      nominee: [tt11867666, tt31548582, tt38195069, tt39905383, tt43708665]
+      winner: []
+    best actor - popular:
+      nominee: [tt39090300, tt39900945, tt5323298]
+      winner: []
     best actress - drama:
-      nominee: [tt11867666]
+      nominee: [tt0278212, tt11867666, tt20872936, tt38195069, tt43706744]
       winner: []
     best actress - popular:
       nominee: [tt37547395, tt3911870, tt39900945, tt5323298, tt7112704]
