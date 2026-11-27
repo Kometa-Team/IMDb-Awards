@@ -6185,18 +6185,18 @@ ev0073358: # International Iconic Awards (https://www.imdb.com/event/ev0073358)
   awards:  # Award Options: International Iconic Awards
   - iconic award # 7 Events: 2020-2026
   - iconic award -telugu # 1 Event: 2025
-  - television award # 1 Event: 2024
+  - television award # 2 Events: 2024, 2026
   categories: # Category Options: International Iconic Awards
   - actor of the year # 1 Event: 2024
-  - best actor # 4 Events: 2022-2025
+  - best actor # 5 Events: 2022-2026
   - best actor - comedy series # 1 Event: 2020
   - best actor - critics # 1 Event: 2024
   - best actor in a leading role (web series) # 1 Event: 2020
   - best actor in a negative role # 2 Events: 2024-2025
-  - best actor in a web film # 2 Events: 2024-2025
+  - best actor in a web film # 3 Events: 2024-2026
   - best actor in a web film - critics # 1 Event: 2024
-  - best actor in a web series # 4 Events: 2021, 2023-2025
-  - best actress # 5 Events: 2020, 2022-2025
+  - best actor in a web series # 5 Events: 2021, 2023-2026
+  - best actress # 6 Events: 2020, 2022-2026
   - best actress - comedy series # 1 Event: 2020
   - best actress - critics # 5 Events: 2021-2025
   - best actress - television # 1 Event: 2020
@@ -6207,16 +6207,16 @@ ev0073358: # International Iconic Awards (https://www.imdb.com/event/ev0073358)
   - best actress in a web series # 6 Events: 2020-2021, 2023-2026
   - best beta of indian television # 1 Event: 2021
   - best child artist # 1 Event: 2020
-  - best debut actor # 1 Event: 2025
-  - best debut actress # 1 Event: 2025
+  - best debut actor # 2 Events: 2025-2026
+  - best debut actress # 2 Events: 2025-2026
   - best director # 3 Events: 2023-2025
   - best film # 3 Events: 2024-2026
   - best jodi # 1 Event: 2020
-  - best supporting actor # 2 Events: 2024-2025
+  - best supporting actor # 3 Events: 2024-2026
   - best supporting actor in a web film # 2 Events: 2024-2025
   - best supporting actor in a web series # 2 Events: 2024-2025
   - best supporting actor in a web series - critics # 1 Event: 2024
-  - best supporting actress # 2 Events: 2024-2025
+  - best supporting actress # 3 Events: 2024-2026
   - best supporting actress in a web film # 2 Events: 2024-2025
   - best supporting actress in a web series # 2 Events: 2024-2025
   - best supporting actress in a web series - critics # 1 Event: 2024
@@ -6233,7 +6233,7 @@ ev0073358: # International Iconic Awards (https://www.imdb.com/event/ev0073358)
   - most popular film # 1 Event: 2025
   - most promising actress # 2 Events: 2022, 2024
   - popular face of india # 1 Event: 2020
-  - reality tv star of the year - female # 1 Event: 2024
+  - reality tv star of the year - female # 2 Events: 2024, 2026
   - superstar of the year # 1 Event: 2024
   - versatile actor in a web series # 1 Event: 2024
   - versatile actress in a web series # 1 Event: 2024

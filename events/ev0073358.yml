@@ -1,18 +1,46 @@
 # International Iconic Awards
 '2026':  # https://www.imdb.com/event/ev0073358/2026/1/
   iconic award:
+    best actor:
+      nominee: [tt27922706, tt28089700, tt28102562, tt29540862, tt31390893, tt31969779, tt33014583, tt39139925, tt40966144]
+      winner: [tt29540862]
+    best actor in a web film:
+      nominee: [tt13261550, tt21194868, tt21818782, tt27866781, tt29247040, tt29458284, tt33888131, tt34498610, tt35076553, tt6540996]
+      winner: [tt21818782]
+    best actor in a web series:
+      nominee: [tt15340954, tt31898201, tt34683290, tt35064818, tt35335046, tt37365626, tt39334709, tt40828245, tt9095260, tt9544034]
+      winner: [tt35335046]
+    best actress:
+      nominee: [tt27425164, tt27673536, tt27922706, tt28089700, tt29540862, tt31390893, tt35727678, tt40966144]
+      winner: [tt31390893]
     best actress in a web film:
-      nominee: [tt6540996]
-      winner: []
+      nominee: [tt13261550, tt21194868, tt21818782, tt23865942, tt27866781, tt29458284, tt33888131, tt35076553, tt37443891, tt6540996]
+      winner: [tt13261550]
     best actress in a web series:
       nominee: [tt26626214, tt34569030, tt35064818, tt35335046, tt37365626, tt39299519, tt40828245, tt9095260, tt9544034]
       winner: []
+    best debut actor:
+      nominee: [tt15464188, tt23865942, tt26439870, tt28037987]
+      winner: [tt28037987]
+    best debut actress:
+      nominee: [tt15464188, tt26439870, tt28037987, tt28812582, tt30387012, tt33014583, tt39139925, tt6203702]
+      winner: [tt28037987, tt33014583]
     best film:
-      nominee: [tt6540996]
-      winner: []
+      nominee: [tt28037987, tt28089700, tt28102562, tt29540862, tt30387012, tt31390893, tt33014583, tt34365591, tt39139925, tt40966144, tt6540996]
+      winner: [tt29540862]
+    best supporting actor:
+      nominee: [tt28037987, tt28802657, tt29540862, tt30387012, tt30742355, tt33014583, tt35146696]
+      winner: [tt28037987]
+    best supporting actress:
+      nominee: [tt26733325, tt27996020, tt29540862, tt30387012, tt30742355, tt31969779, tt33014583, tt36642456]
+      winner: [tt33014583]
     best web series:
       nominee: [tt31898201, tt34683290, tt35064818, tt35335046, tt37365626, tt39227709, tt39334709, tt40828245, tt9095260, tt9544034]
       winner: []
+  television award:
+    reality tv star of the year - female:
+      nominee: [tt40914930]
+      winner: [tt40914930]
 '2025': # https://www.imdb.com/event/ev0073358/2025/1/
   iconic award:
     best actor:
